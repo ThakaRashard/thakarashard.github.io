@@ -2,6 +2,47 @@
 layout: default
 ---
 
+### WorkingRemote 6/24/2024
+Im at the [East Los Angeles LA COUNTY LiBrary](https://lacountylibrary.org/location/east-los-angeles-library/) and [My girlfriends](https://www.youtube.com/watch?v=WyLPnn7yHlk) from [Dance411](https://www.youtube.com/watch?v=Csgo0oU5a_Y) gave me a new schedule. I dont know what Jose is up to but Normani, has been logging all that i do bc she wants to be my IT_Contractor and get a commission from whatever salary i am given once the crime is cleared up. Erika hated me working. 
+
+Im spending more time with [La County](https://lacountylibrary.org/) and [La Public](https://www.lapl.org/) since Longbeach put me out for a month, the guy that put me out might be stalking me for [BET](https://www.bet.com/tag/3cc0pn/latto) but the lady said 30 days, its annoying to readjust [Mayor Karen](https://mayor.lacity.gov/about-mayor-karen-bass) but i dont want crazy charges tossed on him bc the girls from [MagicCity](https://en.wikipedia.org/wiki/Magic_City_(club) are like still in the community as normal ppl and if he went to a tittie show its a dark as life after that. I studied anatomy to heal the relationships i have with a couple dancers after crushing breakups where they are with NBA players and i have already put my hands in places they are supposed to go again. When the Biology kicks in there is a magnetic field that forms, i dont think [Muna is Dead](https://www.wagesfuneralhome.com/obituaries/muna-ahmed) and while she never performed hiphop vocals in front of me, i think she might be [NickiMinaj](https://www.nickiminajofficial.com/) and hiding from me in a hollywood prostetic mask. Thats why i got mad at [Hollywood Food Coalition](https://hofoco.org/)! about mask soks
+
+# Useful
+
+[Relative links in markup files](https://github.blog/2013-01-31-relative-links-in-markup-files/) [Relative links for GitHub pages](https://github.blog/2016-12-05-relative-links-for-github-pages/)
+
+
+[Markdownify includes #1303](https://github.com/jekyll/jekyll/issues/1303)
+- What we usually do is a capture block - [ParkeR Moore](https://github.com/parkr) [@parkr]
+
+----
+### WorkingRemote 
+Im not stable in LongBeach right now so im working out of every library on the Subway and LightRail Metrolosangeles lines, Im working on my personal web infrastructure. I lost me Momentum on my M_R_O and Cassini work i was compiling. I keep my favorites in Google Chrome but if i cannot get to a place that will let me use my ChromeProfile im super disabled. Please bear with me! I have Typography work thats not life or death but it got me a logical chance to send a tweet to vogue. I know magazines get taken over so im not a threat to talk to them. But there was friction between me and the girls bodygaurds. They were stalking me. I can swear I saw muna in an issue when i Arrived. I cant talk to Cardi_B! She know everything! I am learning how to turn content into like Magnatiles with [Flexbox](https://www.w3schools.com/css/css3_flexbox_items.asp). I feel so much anger from the public! Im miserable! PPL were poisoning me at the base,m well everyone, a lady talked to me in the supermarket by Mori(Jose pi Place) and said she had Abestos poison from working in #MissionControl Covid all that shits a scam! She had the same symptoms I wake up with at After dealing with Childrens Hospital and Cancer only to find my late wife is with an athlete that has a bigger dick than me...
+
+
+
+### Basic concepts of flexbox
+The flexible box layout module (usually referred to as flexbox) is a one-dimensional layout model for distributing space between items and includes numerous alignment capabilities. This article gives an outline of the main features of flexbox, which we will explore in more detail in the rest of these guides. [readmore](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
+[CSS Flex Items](https://www.w3schools.com/css/css3_flexbox_items.asp)
+
+### LATEFORWORK
+![CodeFiltering](https://pbs.twimg.com/media/GQTdwj7bkAAdTD9?format=jpg&name=large)
+```
+@TheView
+ @NASAJPL
+ @ananavarro
+ the things I'm finding censored at the library r a direct effort to control #TheWorldOfBlogging https://codepen.io/thakarashard/pen/QWRaeWo does not work on 
+@CodePen but it works @w3_schools ! so that's @USDOL violation! @Normani u have to learn some laws to protect us
+```
+`https://x.com/RicoThaka/status/1802810142649614358`
+---
+
+![xmMuva](https://pbs.twimg.com/media/GQS-2zJaIAAqqp0?format=jpg&name=large)
+ok she is dead in Atlanta #fraud #wirefraud 
+@essence @nasajpl I'm innocent 
+[AlliedUniversdal](@al_15176468018) threatened me on @metrolosangeles with the #PlasticKnuckleGloves and guns I'm sick of them stalking me those women are sex slaves and keep bugging me to tweet to them I'm not a fucking retard
+![Husla](https://pbs.twimg.com/media/GQTB6Ksb0AAgqJ7?format=jpg&name=large) when #Erika was n #Atlanta she did the #AtlantaHousewife thing so @MalaikaJabali !! YEAH I said it these profiles r illegal is @kashdoll !! an she said she wanted to have my baby an @LinkedIn banned me she started calling her self #Mrs_Kelly [DVshowgirlsHV](https://dejavu.com/showgirls-hollywood/)
+
 
 [![Horizon of Mars](https://ia601307.us.archive.org/17/items/AILS_AC89-0437-6/AC89-0437-6.jpg)](https://ia601307.us.archive.org/17/items/AILS_AC89-0437-6/AC89-0437-6.jpg "Redirect to homepage")
 [![Horizon of Mars](https://pbs.twimg.com/media/GPgeOx9aAAADgZP?format=jpg&name=large)](https://pbs.twimg.com/media/GPgeOx9aAAADgZP?format=jpg&name=large "Redirect to homepage")
@@ -356,7 +397,7 @@ An Atlanta-based company specializing in subprime credit cards and auto loans ha
 
 
 ![a+](https://raw.githubusercontent.com/ThakaSartu/thaka/master/assets/images/a-certification-logo-comptia-a-1636574.png)
-[Street Fighter II' Turbo - Hyper Fighting (street fighter 2' T 921209 Japan)](retrogames.cc/arcade-games/street-fighter-ii-turbo-hyper-fighting-street-fighter-2-t-921209-japan.html) [SaveState](ricothaka.github.io/sf2hfj.save)
+[Street Fighter II' Turbo - Hyper Fighting (street fighter 2' T 921209 Japan)](retrogames.cc/arcade-games/street-fighter-ii-turbo-hyper-fighting-street-fighter-2-t-921209-japan.html) [SaveState](https://github.com/ricoThaka/ricoThaka.github.io/raw/master/sf2hfj.save)
 [ Source Code Viewer](https://iplocation.io/view-html-source-code)
 # Good Afternoon Cafeteria 
 im working on a little something cool. Its like that wrist watch flavor on any screen! I think i can make the tweets tile like tumblrs often do with [CSS3 Multi-Column Layout](https://dev.opera.com/articles/css3-multi-column-layout/) ! If thats not the case its still really usable for newspaper style layout for that type of reading ! [csstricksarticle](https://css-tricks.com/techniques-for-a-newspaper-layout-with-css-grid-and-border-lines-between-elements/) 
@@ -415,8 +456,7 @@ This image was taken by Mars Descent Imager (MARDI) onboard NASA's Mars rover Cu
 Climate is controlled by the amount of sunlight absorbed by Earth and the amount of infrared energy emitted to space. These quantities–together with their difference–define Earth’s radiation budget (ERB). [Get_Environment_Data](https://ceres.larc.nasa.gov/data/)
 ![ceres data set](https://pbs.twimg.com/media/GP03qjvacAA0nTo?format=jpg&name=large)
 
-
-
+![NasaJPL](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jet_Propulsion_Laboratory_logo.svg/2560px-Jet_Propulsion_Laboratory_logo.svg.png)
 
 
 ---
