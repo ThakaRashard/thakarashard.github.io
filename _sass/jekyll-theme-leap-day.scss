@@ -342,26 +342,10 @@ nav {
       }
     }
 
-    a:hover,
-    a:visited a:hover {
-      color: #c9ff23;
-      padding: 10px;
-      font-size:150%;
-    }
-    
-    
-    a {
-      color: #c9ff23;
-      text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-      transition: 0.3s;
-    }
-    
-
-/*
     a {
       color: #666;
 
-      &:hover { color: #999; }
+      &:hover { color: #999; font-size:150%;}
     }
 
     // .active {
@@ -370,10 +354,6 @@ nav {
     // }
   }
 }
-*/
-
-
-
 
 footer {
   width:180px;
@@ -688,3 +668,4 @@ embed {
   padding: 20px;
   font-size: 150%;
 }
+
