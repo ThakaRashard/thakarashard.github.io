@@ -528,3 +528,29 @@ footer {
     width:auto;
   }
 }
+
+
+video {
+  height: 300px;
+  width: 100%;
+  border-radius:0px;
+  display: block;
+  margin-block: 10px 10px;
+   background: rgb(217,4,121);
+    background: linear-gradient(0deg, 
+              #595959 25%, #262626 0, #262626 50%,
+              #595959 0, #595959 75%, #262626 0);
+background-size: 280.4px 280.4px;
+transition: 3s cubic-bezier(0.1, 0.2, 0.3, 0.4);
+/*  transition: 4s cubic-bezier(.25,.1,.2,3); */
+}
+
+
+embed {
+
+  height: 300px;
+    width: 100%;
+    scrollbar-color: #595959 #262626;
+    scrollbar-width: thin;
+
+  }

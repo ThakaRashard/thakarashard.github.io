@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+📷 [My Gallery at VSCO Normani is Sartu but i took all the pictures except the ones of her](https://vsco.co/rashardsartu/gallery) 📷
+[TOKiMONSTA - "Early To Dawn" (feat. Selah Sue) [Plastic Plates Remix]](https://youtu.be/foTgYYQniJ0?si=9ItIcbzzox9oGZBk)
 
 ### WorkingRemote 6/24/2024
 Im at the [East Los Angeles LA COUNTY LiBrary](https://lacountylibrary.org/location/east-los-angeles-library/) and [My girlfriends](https://www.youtube.com/watch?v=WyLPnn7yHlk) from [Dance411](https://www.youtube.com/watch?v=Csgo0oU5a_Y) gave me a new schedule. I dont know what Jose is up to but Normani, has been logging all that i do bc she wants to be my IT_Contractor and get a commission from whatever salary i am given once the crime is cleared up. Erika hated me working. 
@@ -89,6 +91,14 @@ In 1975, a communist regime known as the Khmer Rouge conquered the Cambodian cap
   <a href="https://upload.wikimedia.org/wikipedia/commons/5/5d/Why_We_Fight-_Divide_and_Conquer.webm">download it</a>
   and watch it with your favorite video player!
 </video>
+
+[**X-Men Vs. Street Fighter (Euro 961004)**](https://archive.org/details/arcade_xmvsf)
+### Ladies Cypher
+![Monaleo](https://pbs.twimg.com/media/GQnsZcOaMAAARiD?format=jpg&name=large)
+[Ladies Cypher: Kali, Big Boss Vette, Erica Banks, Mello Buckzz, K Carbon, Enchanting, Skylar Blatt](https://www.youtube.com/watch?v=BqTBtiPXrXc)
+[Ladies Cypher](https://youtu.be/O_6qg8Ky6hs?si=EZmH8RmNQiwEhM-y) [All-Women Cypher Featuring Latto, Flo Milli, Monaleo, Maiya The Don and Mello Buckzz](https://youtu.be/fIs7Cv1JQdM?si=5fqy4jcsVFwL7T8w) 
+[Born in Slavery: Slave Narratives from the Federal Writers' Project, 1936 to 1938](https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/articles-and-essays/)
+[Born in Slavery: Slave Narratives from the Federal Writers' Project, 1936 to 1938](https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/articles-and-essays/)
 
 
 ### [Divide and Conquer](https://commons.wikimedia.org/wiki/File:U.S._War_Department_-_Divide_and_Conquer_(1943).webm)
