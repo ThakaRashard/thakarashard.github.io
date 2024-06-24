@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+![Atlanta](https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147806/atlanta_oli_2020127.jpg)
+[Changing Atlanta](https://earthobservatory.nasa.gov/images/147806/changing-atlanta)
 📷 [My Gallery at VSCO Normani is Sartu but i took all the pictures except the ones of her](https://vsco.co/rashardsartu/gallery) 📷
 [TOKiMONSTA - "Early To Dawn" (feat. Selah Sue) [Plastic Plates Remix]](https://youtu.be/foTgYYQniJ0?si=9ItIcbzzox9oGZBk)
 
@@ -46,6 +49,29 @@ ok she is dead in Atlanta #fraud #wirefraud
 ![Husla](https://pbs.twimg.com/media/GQTB6Ksb0AAgqJ7?format=jpg&name=large) when #Erika was n #Atlanta she did the #AtlantaHousewife thing so @MalaikaJabali !! YEAH I said it these profiles r illegal is @kashdoll !! an she said she wanted to have my baby an @LinkedIn banned me she started calling her self #Mrs_Kelly [DVshowgirlsHV](https://dejavu.com/showgirls-hollywood/)
 
 
+[SVG Editor](https://yqnn.github.io/svg-path-editor/)
+![TWitterLogo](https://upload.wikimedia.org/wikipedia/fr/0/08/Twitter_logo_2010.svg)
+[ManiackErs Design](https://www.flickr.com/photos/mksd/)
+
+"Twitter" Logo Type by Maniackers Design Font "Pico" 2006-2010.09
+Maniackers Design Font Seires No.100
+
+### [Pico Black - ALPHABET](https://mksd.jp/pico.html)
+
+Font Designer : Masayuki Sato (Maniackers Design)
+Design Year : 2001
+Version UP : 2007, 2008
+
+www2.wind.ne.jp/maniackers/pico.html
+### Masayuki Sato
+Twitter : `twitter.com/mksdsato`
+A font family of "Pico -Alphabet Black & White" is Pop and Cute!! There are some different letters between small letters and big letters .Its version was upgraded 2007,on July 2008. Version 3.0 now. I add a postscript. I have received numerous inquiries,which about "Pico-Black" is similar to the logo of "Twitter". Without any doubt, this logo is designed using "Pico-Black". not merely "Similar". this font is used directly for "t,w,i,r". ("t" is the design of old version) "e"is other fonts.
+![Twitter](https://live.staticflickr.com/3320/3654981510_8928d2d554_b.jpg)
+![Pico](https://mksd.jp/poco.gif)
+![pico](https://mksd.jp/pico2.gif)
+[Twitter Logo: A Brief Look Into the History of Iconic Emblem](https://logopoppin.com/blog/twitter-logo/) [ManiaCkeRs[fonts]](https://mksd.jp/designfont.html)
+
+[The Chemical Brothers - Dig Your Own Hole (Full Album)](https://www.youtube.com/watch?v=2UafeQIkj5c)
 [![Horizon of Mars](https://ia601307.us.archive.org/17/items/AILS_AC89-0437-6/AC89-0437-6.jpg)](https://ia601307.us.archive.org/17/items/AILS_AC89-0437-6/AC89-0437-6.jpg "Redirect to homepage")
 [![Horizon of Mars](https://pbs.twimg.com/media/GPgeOx9aAAADgZP?format=jpg&name=large)](https://pbs.twimg.com/media/GPgeOx9aAAADgZP?format=jpg&name=large "Redirect to homepage")
 
