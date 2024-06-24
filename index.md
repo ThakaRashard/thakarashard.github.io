@@ -6,11 +6,82 @@ layout: default
 [Changing Atlanta](https://earthobservatory.nasa.gov/images/147806/changing-atlanta)
 📷 [My Gallery at VSCO Normani is Sartu but i took all the pictures except the ones of her](https://vsco.co/rashardsartu/gallery) 📷
 [TOKiMONSTA - "Early To Dawn" (feat. Selah Sue) [Plastic Plates Remix]](https://youtu.be/foTgYYQniJ0?si=9ItIcbzzox9oGZBk)
+[Street Fighter: The Movie (V1.12)](https://www.retrogames.cc/arcade-games/street-fighter-the-movie-v1-12.html) 
+
 
 ### WorkingRemote 6/24/2024
 Im at the [East Los Angeles LA COUNTY LiBrary](https://lacountylibrary.org/location/east-los-angeles-library/) and [My girlfriends](https://www.youtube.com/watch?v=WyLPnn7yHlk) from [Dance411](https://www.youtube.com/watch?v=Csgo0oU5a_Y) gave me a new schedule. I dont know what Jose is up to but Normani, has been logging all that i do bc she wants to be my IT_Contractor and get a commission from whatever salary i am given once the crime is cleared up. Erika hated me working. 
 
 Im spending more time with [La County](https://lacountylibrary.org/) and [La Public](https://www.lapl.org/) since Longbeach put me out for a month, the guy that put me out might be stalking me for [BET](https://www.bet.com/tag/3cc0pn/latto) but the lady said 30 days, its annoying to readjust [Mayor Karen](https://mayor.lacity.gov/about-mayor-karen-bass) but i dont want crazy charges tossed on him bc the girls from [MagicCity](https://en.wikipedia.org/wiki/Magic_City_(club) are like still in the community as normal ppl and if he went to a tittie show its a dark as life after that. I studied anatomy to heal the relationships i have with a couple dancers after crushing breakups where they are with NBA players and i have already put my hands in places they are supposed to go again. When the Biology kicks in there is a magnetic field that forms, i dont think [Muna is Dead](https://www.wagesfuneralhome.com/obituaries/muna-ahmed) and while she never performed hiphop vocals in front of me, i think she might be [NickiMinaj](https://www.nickiminajofficial.com/) and hiding from me in a hollywood prostetic mask. Thats why i got mad at [Hollywood Food Coalition](https://hofoco.org/)! about mask soks
+
+[Mrs_Jeffery_Bass?](https://www.youtube.com/watch?v=QCALAnECS80) im not going to bother you irl at all unless spoken to! Im letting you know that [Art_Mania](https://boominginla.com/la-arts-district-graffiti-mural-tour-la-art-tours/) done struck and im getting suppressed bc i can code some things that ppl will pay money for and i start sketching and then boom my phone is gone or im kicked out of the library! here are some [TypographySelections](https://codepen.io/thakarashard/pen/gOJeZEj)I hand coded altho i did get 
+`font: normal 10px/18px` from [Jeffery Zeldman(https://zeldman.com/)'s [Listamatic](https://css.maxdesign.com.au/listamatic/horizontal09.htm) content entry, like ppl that work in InfoTech often code and have playgrounds that the public that go to [H&R_BLOCK](https://www.hrblock.com/) will pilfer code for things like porn and diet pills... I just need u to know i am a Designer and [JPL](https://www.jpl.nasa.gov/missions/mariner-9-mariner-i) has used my work on [the virtual tour so im contributing](https://www.jpl.nasa.gov/virtual-tour/)...
+ 
+<div class="office">
+  <h1 class="logo trebuchet">Font Sampler </h1>
+  <div class="trebuchet font">
+    <h1>Trebuchet MS Bold</h1>
+    <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
+    <p>
+  </div>
+  <div class="Tahoma font">
+    <h1>Tahoma</h1>
+    <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
+    <p>
+  </div>
+  <div class="verdana font">
+    <h1>Verdana</h1>
+    <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
+    <p>
+  </div>
+  <div class="arialblack font">
+    <h1>Arial Black</h1>
+    <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
+    <p>
+  </div>
+  <div class="arialnarrow font">
+    <h1>Arial Narrow</h1>
+    <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
+    <p>
+  </div>
+  <div class="arial font">
+    <h1>Arial</h1>
+    <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
+    <p>
+  </div>
+  <div class="arialbold font">
+    <h1>Arial Bold</h1>
+    <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
+    <p>
+  </div>
+  <div class="bigcaslon font">
+    <h1>Big Calson</h1>
+    <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
+    <p>
+  </div>
+  <div class="Baskerville font">
+    <h1>Baskerville</h1>
+    <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
+    <p>
+  </div>
+  <div class="georgia font">
+    <h1>Georgia</h1>
+    <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
+    <p>
+  </div>
+  <div class="lucidaconsole font">
+    <h1>Lucinda Console</h1>
+    <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
+    <p>
+  </div>
+  <div class="Courier font ">
+    <h1>Courier</h1>
+    <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
+    <p>
+  </div>
+
+</div>
+
 
 # Useful
 
@@ -170,6 +241,12 @@ We emphasize transparency both in how the mosaic was generated and for users to 
 
 [15 Second Clip of Parachute Deployment(MP4) (18.86 MB)](https://science.nasa.gov/wp-content/uploads/2024/03/45732_nasa_perseverance_parachute_deployment.mp4)
 
+Sartu, Vanessa, Normani whatever you go by,The mayor might be bullied by that group participating in The [Coup of LosAngeles](https://www.google.com/search?sca_esv=6ff7ee4f5c0b1e29&rlz=1CASLJZ_enUS1113&sxsrf=ADLYWILNPFUnj-3wzC-9tpZb7tcOV3MmWQ:1718052799915&q=los+angeles+riots&tbm=nws&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J5MIFhvnvU242yFxzEEp3BfblMs7eBu5zPnhtGsrETMyhOqzWtfgc_pCzrf4BYocXLJaX0gJBEKL77s1Ay-4tHfnMqP5vC_ZT8lpSywyzIaNxlK3h27DKyjP4cAIPUhzalTbEILgzj9kP6BqoP0xWu6yYBTYByfUljVA60k5fyr5AlSneg&sa=X&sqi=2&ved=2ahUKEwikruC29dGGAxUbL0QIHVtnA3AQ0pQJegQIDRAB&biw=960&bih=945&dpr=1) [LA 92 (natGeo)](https://www.nationalgeographic.com/tv/movies-and-specials/dab898d3-4259-4f15-bdc8-1ed62c7cfc5e) hollywood must be on some strange [vpn](https://www.nsa.gov/cybersecurity/)! 
+
+### coup d'é·tat
+## /ˌko͞o dāˈtä/
+A coup d'état (/ˌkuːdeɪˈtɑː/ ⓘ; French: [ku deta]; lit. 'stroke of state'),[1] or simply a coup, is typically an illegal and overt attempt by a military organization or other government elites to unseat an incumbent leadership.[2][3] A self-coup is when a leader, having come to power through legal means, tries to stay in power through illegal means.[3] [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Coup_d%27%C3%A9tat)
+![Mayor Karen Bass](https://www.discoverlosangeles.com/sites/default/files/images/2024-06/Upright%20Citizens%20Brigade%20Juneteenth%202024.jpg?width=1600&height=686&fit=crop&quality=78&auto=webp)
 [Scientific Visualisation Studio](https://svs.gsfc.nasa.gov/31250#section_credits)
 [Mars 2020: Perseverance Rover](https://science.nasa.gov/mission/mars-2020-perseverance/)
 [![Horizon of Mars](https://science.nasa.gov/wp-content/uploads/2024/03/mars-dust-storms-global-pia03170.jpg)](https://science.nasa.gov/wp-content/uploads/2024/03/mars-dust-storms-global-pia03170.jpg "Redirect to homepage")
@@ -432,6 +509,30 @@ An Atlanta-based company specializing in subprime credit cards and auto loans ha
 [ManiackErs Design](https://www.flickr.com/photos/mksd/)
 
 
+
+<a href="https://upload.wikimedia.org/wikipedia/en/9/90/X-Men_COTA_arcade_flyer.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/9/90/X-Men_COTA_arcade_flyer.jpg" style="width:213px;height:316px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" />
+
+## X-Men - Children Of The Atom (950105 USA)
+X-Men: Children of the Atom (Japanese: エックス・メン　チルドレン　オブ　ジ　アトム, Hepburn: Ekkusu Men Chirudoren obu ji Atomu) is an arcade game that was produced by Capcom and released on the CP System II arcade hardware in 1994 in Japan and in 1995 in North America and Europe.
+
+Based on the X-Men comic book, it is the first fighting game produced by Capcom using characters under license from Marvel Comics. Released around the time of the mid-1990s X-Men animated series, the game features voice actors from the series reprising their roles. The game's plot is based on the "Fatal Attractions" story from the comics – players control one of the X-Men or their enemies in their fight against the villain Magneto. They face each of the other characters in the game in best of three one-on-one fighting matches, before battling Juggernaut and Magneto.
+
+The gameplay has much in common with Capcom's previous fighting games, Super Street Fighter II Turbo and Darkstalkers. Children of the Atom adds a combo system that features long combos that can even be performed in mid-air. Also featured in the game are various tactical maneuvers, including the ability for characters to roll. Children of the Atom introduced multi-tiered fighting environments in which the ground would crumble and characters would fall into lower parts of the level. These concepts and the fast pace of the game would provide the basis for Capcom's Marvel vs. Capcom series, which started with the game's successor X-Men vs. Street Fighter.
+
+Ports of the game were released for Sega Saturn, PlayStation and personal computer. Of these, the PlayStation version was not as well received as the other versions, suffering from slowdown and missing frames of animation. [ReadMoreOnWikiPedia](https://en.wikipedia.org/wiki/X-Men:_Children_of_the_Atom_%28video_game%29)
+[SaveState](ricothaka.github.io/xmcotau.save)
+[PlayHere](https://www.retrogames.cc/arcade-games/x-men-children-of-the-atom-950105-usa.html#)
+![omega red](https://pbs.twimg.com/media/GPlqaWGaQAA9f2X?format=jpg&name=large)
+ ![xmcota](https://pbs.twimg.com/media/GPlqXMWaUAABpid?format=jpg&name=large)
+![SS2_NEOGEO](https://pbs.twimg.com/media/GPgQv_vaIAEupzP?format=jpg&name=large)
+[Designing For Print With CSS](https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/)
+[Index of /~duncjo01/archive/patterns/windows/ancestry](http://cs.gettysburg.edu/~duncjo01/archive/patterns/windows/ancestry/)
+![PrarieWind](http://cs.gettysburg.edu/~duncjo01/archive/patterns/windows/ancestry/My%20Pictures/Sample.jpg)
+[parie wind](http://cs.gettysburg.edu/~duncjo01/archive/patterns/windows/ancestry/Prairie%20Wind.bmp) <~ tile>
+
+[Copy.sh/windows5nt](https://copy.sh/v86/)
+
+
 ![a+](https://raw.githubusercontent.com/ThakaSartu/thaka/master/assets/images/a-certification-logo-comptia-a-1636574.png)
 [Street Fighter II' Turbo - Hyper Fighting (street fighter 2' T 921209 Japan)](retrogames.cc/arcade-games/street-fighter-ii-turbo-hyper-fighting-street-fighter-2-t-921209-japan.html) [SaveState](https://github.com/ricoThaka/ricoThaka.github.io/raw/master/sf2hfj.save)
 [ Source Code Viewer](https://iplocation.io/view-html-source-code)
@@ -478,6 +579,10 @@ You told me to study the weather on mars ... [The Last Report](https://www.msss.
 </video>
 
 
+# AndroidArchive
+
+<embed src="https://archive.org/embed/tumblr-rtxuqx-fij-q-1zhx-4f-1-1" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen />
+
 ## The scientific eyes of NASA’s Perseverance rover
 [Perssevere](https://mastcamz.asu.edu/wp-content/uploads/2020/07/2.1_Graphic5_PIA23314-768x480.jpg)
 Mastcam-Z is a multi-color, stereo imaging system on NASA’s Perseverance rover. Mastcam-Z can zoom from wide angle to telephoto, take 3-D images and videos, and take photos in up to 11 unique colors, including “human-like” red/green/blue. For those who want more technical details and background about the Mastcam-Z cameras and science investigation, these pages provide lots more information about the goals, design, testing, and performance of the cameras. [TechnicalDetails](https://mastcamz.asu.edu/cameras/tech-specs/)
@@ -495,6 +600,48 @@ Climate is controlled by the amount of sunlight absorbed by Earth and the amount
 ![NasaJPL](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jet_Propulsion_Laboratory_logo.svg/2560px-Jet_Propulsion_Laboratory_logo.svg.png)
 
 
+### The Red Planet Mars
+An American scientist is able to contact and communicate with Mars with shattering political, economic, and spiritual repercussions. [imdb](https://www.imdb.com/title/tt0045073/)
+<video controls 
+  src="https://archive.org/download/the-red-planet-mars/the%20red%20planet%20mars.mp4"
+  poster="https://i.ebayimg.com/images/g/31cAAOSwu1VW6VuC/s-l1600.webp">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/the-red-planet-mars/the%20red%20planet%20mars.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+
+[My Favorite Martian Season 1 Episode 1 (1963) My Favorite Martin](https://www.youtube.com/watch?v=9bg9AGmYv84)
+[My Favorite Martian Full Episodes Season 1 E20 - My Nephew The Artist](https://www.dailymotion.com/video/x822j08)
+[My Favorite Martian Full Episodes Season 3 E23 - When A Martian Makes His Violin Cry](https://www.dailymotion.com/video/x81hpd9)
+[Full text of "The book of Mars"](https://archive.org/stream/bookofmars00glas/bookofmars00glas_djvu.txt)
+
+[![Horizon of Mars](https://ia601307.us.archive.org/17/items/AILS_AC89-0437-6/AC89-0437-6.jpg)](https://ia601307.us.archive.org/17/items/AILS_AC89-0437-6/AC89-0437-6.jpg "Redirect to homepage")
+[![Horizon of Mars](https://pbs.twimg.com/media/GPgeOx9aAAADgZP?format=jpg&name=large)](https://pbs.twimg.com/media/GPgeOx9aAAADgZP?format=jpg&name=large "Redirect to homepage")
+[![MurrayLabs](https://pbs.twimg.com/media/GL-EXkdaEAAUeYT?format=jpg&name=large)](https://pbs.twimg.com/media/GL-EXkdaEAAUeYT?format=jpg&name=large "Redirect to homepage")
+[![Horizon of Mars](https://science.nasa.gov/wp-content/uploads/2024/03/mars-dust-storms-global-pia03170.jpg)](https://science.nasa.gov/wp-content/uploads/2024/03/mars-dust-storms-global-pia03170.jpg "Redirect to homepage")
+<object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
+    </object>
+
+[Electronic Gaming Monthly 58](https://archive.org/details/Electronic_Gaming_Monthly_58)
+[GamePro Issue 049 August 1993](https://archive.org/details/GamePro_Issue_049_August_1993)
+[GamePro Issue 056 March 1994 NBAJAM(s)](https://archive.org/details/GamePro_Issue_056_March_1994)
+### [The Global CTX Mosaic of Mars](https://murray-lab.caltech.edu/CTX/index.html)
+
+The Bruce Murray Laboratory for Planetary Visualization has completed a 5.7 terapixel mosaic of the surface of Mars rendered at 5.0 m/px. Each pixel in the mosaic is about the size of a typical parking space, providing unprecedented resolution of the martian surface at the global scale.
+
+We emphasize transparency both in how the mosaic was generated and for users to understand where data in the mosaic come from. We have developed a Python-based pipeline that incorporates non-destructive image processing techniques that preserve all information about the original data that comprise the mosaic and map all seams.. [LearnMore](https://murray-lab.caltech.edu/CTX/index.html)
+![MarsSpaceFlight](https://mars.asu.edu/img/msff-logo.png)
+[Mars:SpaceFlightFacility](https://mars.asu.edu/) [Themis Mars Imageviewer](https://viewer.mars.asu.edu/viewer/themis#T=0) [Themis MArs Odyssey](https://global-data.mars.asu.edu/bin/themis.pl?res=32&clat=-51.956467&clon=34.130493&ids=I18584006&day_night=2&rel=0)
+
+### [Thermal Emission Imaging System](https://en.wikipedia.org/wiki/Thermal_Emission_Imaging_System)
+![THEMiS](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Tesvsthemis-med.jpg/1024px-Tesvsthemis-med.jpg)
+[The Global CTX Mosaic of Mars](https://murray-lab.caltech.edu/CTX/index.html)
+
+# [Fine Ho, Stay](https://www.rcarecords.com/news/flo-milli-announces-new-album-fine-ho-stay/)
+[![FloMilli](https://cdn-p.smehost.net/sites/8e1f40b762984a27a20f577d99b7ac97/wp-content/uploads/2023/07/Unknown-1.png)](https://cdn-p.smehost.net/sites/8e1f40b762984a27a20f577d99b7ac97/wp-content/uploads/2023/07/Unknown-1.png "Redirect to homepage")
+<embed  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1772831295&color=%2300ffc8&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
