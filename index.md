@@ -6,7 +6,7 @@ layout: default
 [Changing Atlanta](https://earthobservatory.nasa.gov/images/147806/changing-atlanta)
 📷 [My Gallery at VSCO Normani is Sartu but i took all the pictures except the ones of her](https://vsco.co/rashardsartu/gallery) 📷
 [TOKiMONSTA - "Early To Dawn" (feat. Selah Sue) [Plastic Plates Remix]](https://youtu.be/foTgYYQniJ0?si=9ItIcbzzox9oGZBk)
-[Street Fighter: The Movie (V1.12)](https://www.retrogames.cc/arcade-games/street-fighter-the-movie-v1-12.html) 
+[Street Fighter: The Movie (V1.12)](https://www.retrogames.cc/arcade-games/street-fighter-the-movie-v1-12.html) [OJ DA JUICEMAN - TONKA](https://www.youtube.com/watch?v=vFUYBiufBFc) Oj song gonna get my blog shut down... 
 
 ### RemoteWorking
 I went to [Durant_Library_on_Sunset](https://locator.lacounty.gov/lac/Location/3176714/los-angeles-public-library---will-and-ariel-durant-branch) and that white boy from 
