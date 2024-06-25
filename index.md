@@ -418,12 +418,7 @@ By default, flex items will all try to fit onto one line. You can change that an
   flex-wrap: nowrap | wrap | wrap-reverse;
 }
 ```
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="OJYxwWw" data-pen-title="flex-wrap demp @css-tricks im following from your article" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/OJYxwWw">
-  flex-wrap demp @css-tricks im following from your article</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
 
 # IT_CERTS
 [![Microsoft Certification](https://pbs.twimg.com/media/GPk4fn_bAAAl1hw?format=jpg&name=4096x4096)](https://pbs.twimg.com/media/GPk4fn_bAAAl1hw?format=jpg&name=4096x4096 "Redirect to homepage")
@@ -538,12 +533,8 @@ Ports of the game were released for Sega Saturn, PlayStation and personal comput
 [ Source Code Viewer](https://iplocation.io/view-html-source-code)
 # Good Afternoon Cafeteria 
 im working on a little something cool. Its like that wrist watch flavor on any screen! I think i can make the tweets tile like tumblrs often do with [CSS3 Multi-Column Layout](https://dev.opera.com/articles/css3-multi-column-layout/) ! If thats not the case its still really usable for newspaper style layout for that type of reading ! [csstricksarticle](https://css-tricks.com/techniques-for-a-newspaper-layout-with-css-grid-and-border-lines-between-elements/) 
- <p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="bGyYMYN" data-pen-title="Untitled" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-   <a href="https://codepen.io/ricoThaka/pen/bGyYMYN">
-  Untitled</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
-  on <a href="https://codepen.io">CodePen</a>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
 
 [https://www.svgviewer.dev/](https://www.svgviewer.dev/) [How to add border/outline/stroke to SVG elements in CSS?](https://stackoverflow.com/questions/18330344/how-to-add-border-outline-stroke-to-svg-elements-in-css)
 ## W3C's Editor
