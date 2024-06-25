@@ -18,7 +18,12 @@ Im spending more time with [La County](https://lacountylibrary.org/) and [La Pub
 `font: normal 10px/18px` from [Jeffery Zeldman(https://zeldman.com/)'s [Listamatic](https://css.maxdesign.com.au/listamatic/horizontal09.htm) content entry, like ppl that work in InfoTech often code and have playgrounds that the public that go to [H&R_BLOCK](https://www.hrblock.com/) will pilfer code for things like porn and diet pills... I just need u to know i am a Designer and [JPL](https://www.jpl.nasa.gov/missions/mariner-9-mariner-i) has used my work on [the virtual tour so im contributing](https://www.jpl.nasa.gov/virtual-tour/)...
  
 <div class="office">
-  <h1 class="logo trebuchet">Font Sampler </h1>
+
+  <div class="Courier font">
+    <h1>Courier</h1>
+    <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
+    </p>
+  </div>
   <div class="trebuchet font">
     <h1>Trebuchet MS Bold</h1>
     <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
@@ -74,14 +79,8 @@ Im spending more time with [La County](https://lacountylibrary.org/) and [La Pub
     <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
     <p>
   </div>
-  <div class="Courier font ">
-    <h1>Courier</h1>
-    <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
-    </p>
-  </div>
 
 </div>
-
 
 # Useful
 
