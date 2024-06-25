@@ -72,12 +72,12 @@ Im spending more time with [La County](https://lacountylibrary.org/) and [La Pub
   <div class="georgia font">
     <h1>Georgia</h1>
     <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
-    <p>
+    </p>
   </div>
   <div class="lucidaconsole font">
     <h1>Lucinda Console</h1>
     <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
-    <p>
+    </p>
   </div>
 
 </div>
