@@ -8,7 +8,12 @@ layout: default
 [TOKiMONSTA - "Early To Dawn" (feat. Selah Sue) [Plastic Plates Remix]](https://youtu.be/foTgYYQniJ0?si=9ItIcbzzox9oGZBk)
 [Street Fighter: The Movie (V1.12)](https://www.retrogames.cc/arcade-games/street-fighter-the-movie-v1-12.html) 
 
-
+### RemoteWorking
+I went to [Durant_Library_on_Sunset](https://locator.lacounty.gov/lac/Location/3176714/los-angeles-public-library---will-and-ariel-durant-branch) and that white boy from 
+[Yo Gotti - Law ft. E-40](https://www.youtube.com/watch?v=i6wkPVjciD4&t=5s) run the place and refuses to give extensions in this time... is he helping the #[HollywoodPornProtest and movingme around](https://www.independent.co.uk/news/world/asia/south-korea-spycam-porn-women-protest-voyeurism-invasion-of-privacy-a8477611.html)?[Chinese internet users flock to Pornhub to slam Hong Kong protesters](https://nypost.com/2019/11/14/chinese-internet-users-flock-to-pornhub-to-slam-hong-kong-protesters/)
+![KoreanPorno](https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/08/04/16/demonstration-seoul.jpg?quality=75&width=1000&crop=3%3A2%2Csmart&auto=webp)
+[How LA's 'Porn Valley' became the adult entertainment capital of the world](https://uk.news.yahoo.com/finance/news/las-porn-valley-became-adult-174600309.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAACAn4e5W_AUdnu3U-1SqwjDlmeZxLsoq5PbY8jo4j8v0Lu0PtZ_WO3g_s2SB5WhQYgbR8g4P9Pby_i2WYMA0dCfODY8FPFXIerrE26V1l3Wek63LgF4VDuecA3_OAgiTY-pxTNL87p2LcoVNeB3DyUYnXKkWESmR4DMvV6xZN8rd)
+[Tens of thousands of South Korean women protest over secretly-filmed spycam porn](https://www.reddit.com/r/HistoryPorn/comments/3wh4oi/in_1938_12000_new_york_city_chinese_took_to_the/?rdt=61394)
 ### WorkingRemote 6/24/2024
 Im at the [East Los Angeles LA COUNTY LiBrary](https://lacountylibrary.org/location/east-los-angeles-library/) and [My girlfriends](https://www.youtube.com/watch?v=WyLPnn7yHlk) from [Dance411](https://www.youtube.com/watch?v=Csgo0oU5a_Y) gave me a new schedule. I dont know what Jose is up to but Normani, has been logging all that i do bc she wants to be my IT_Contractor and get a commission from whatever salary i am given once the crime is cleared up. Erika hated me working. 
 
