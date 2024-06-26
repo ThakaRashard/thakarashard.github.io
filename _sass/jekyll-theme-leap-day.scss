@@ -305,12 +305,16 @@ header {
 }
 
 section {
+
+  float: right; 
+
+
   width: 590px;
   padding: 30px 30px 50px 30px;
   margin: 20px 0;
   margin-top: 190px;
   position: relative;
-  float:right;
+  
   background: #fbfbfb;
   border-radius: 3px;
   border: 1px solid #cbcbcb;
@@ -323,16 +327,24 @@ small {
   font-size: 12px;
 }
 
+
+
+
 nav {
   width: 230px;
-  position: relative;
+  position: absolute;
   top: 220px;
-  left: 50%;
   float:left;
   margin-left: -0px;
   text-align: right;
   overflow: auto;
+	float: left;
+	padding: 10px 2% 10px 2%;
+	margin: 0px;
+	border: 0px;
+	background: #666;
 
+	width: 46%;
   ul {
     list-style: none;
     list-style-image: none;
