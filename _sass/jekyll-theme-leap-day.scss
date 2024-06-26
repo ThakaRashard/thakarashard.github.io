@@ -323,16 +323,16 @@ small {
   font-size: 12px;
 }
 
+
+
 nav {
   width: 230px;
-  position: absolute;
+  position: fixed;
   top: 220px;
-  left: 50%;
-  float:left;
-  margin-left: -0px;
+  left:50%;
+  margin-left:-580px;
   text-align: right;
-  overflow: auto;
-
+  overflow: scroll;
   ul {
     list-style: none;
     list-style-image: none;
