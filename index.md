@@ -2,6 +2,31 @@
 layout: default
 ---
 
+<div class="viking">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+</div>
+<div class="vikingbright">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    </div>
+<img src="https://pbs.twimg.com/media/GRGc0mpaoAAsmpC?format=jpg&name=4096x4096" alt="Normani, is an American singer and dancer" border="0" />
+
+
+ <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/MOSHED-2024-4-16-16-8-41.jpg" alt="Normani, is an American singer and dancer" border="0" />
+
+<div class="normani">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    </div>
 
 <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/normaniswatch.PNG" alt="Normani, is an American singer and dancer" border="0" />
 <div class="normani">
@@ -175,7 +200,8 @@ Set­ting up Java. Please wait…<br>
 Extract­ing win­dow­ing sys­tem. Please wait…<br>
 Begin­ning sys­tem identification…</p>
 <p>I got some of the core info&nbsp;from</p>
-<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><h3 class="sd-title">————————————</h3>
+<h3 class="sd-title">————————————</h3>
+
 ![TwitterViking](https://pbs.twimg.com/media/GRGc0mpaoAAsmpC?format=jpg&name=4096x4096)
 [Viking](https://ia800200.us.archive.org/15/items/C-1971-3432/1971_03432.jpg) [Viking program](https://en.wikipedia.org/wiki/Viking_program) [Viking Project](https://science.nasa.gov/mission/viking/)
 ![Atlanta](https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147806/atlanta_oli_2020127.jpg)
