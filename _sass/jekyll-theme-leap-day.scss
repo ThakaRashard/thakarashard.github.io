@@ -356,6 +356,7 @@ nav {
     list-style-image: none;
     font-size: 14px;
     line-height: 24px;
+    transition: 0.9s;
 
     li {
       padding: 5px 0px;
@@ -370,7 +371,7 @@ nav {
         a {
           font-weight: bold;
           color: whitesmoke;
-          transition: 0.9s;
+          
         }
 
         + .tag-h2 {
