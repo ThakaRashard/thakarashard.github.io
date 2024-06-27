@@ -9,7 +9,7 @@ layout: default
 [Street Fighter: The Movie (V1.12)](https://www.retrogames.cc/arcade-games/street-fighter-the-movie-v1-12.html) [OJ DA JUICEMAN - TONKA](https://www.youtube.com/watch?v=vFUYBiufBFc) Oj song gonna get my blog shut down... [National Fuel Gas "Cookin' With Gas"](https://youtu.be/FJRQo5aawho?si=rSkzQi5G-mF47IC_) [Nintendo Retail Training 1991](https://youtu.be/WYjgHLFZMa0?si=7OzZmijodlhJYSid) [McDonald's Employee Training Video - Doing Whatever It Takes! (1992)](https://youtu.be/grCw1DcayuE?si=rtu9fz8qjolhGVC5) [Wendy's Grill Skills](https://www.youtube.com/watch?v=MbVDQKcxg00) [Grill Products - McDonald's Australia Training Video](https://www.youtube.com/watch?v=DFPD_P4wgT4) [Blockbuster Training Video [1990] - Buster Sales Pt 1](https://www.youtube.com/watch?v=Pc_yHON1oiQ)
 
 [About html](https://dev.w3.org/html5/spec-LC/) ~> 
-[Janet Jackson - The Pleasure Principle](https://www.youtube.com/watch?v=Q-gu1KETjVY) thats all thats going on [Tanya](https://www.consumerreports.org/about-us/our-people/our-experts/tanya-christian/) re OnlineAddiction
+[Janet Jackson - The Pleasure Principle](https://www.youtube.com/watch?v=Q-gu1KETjVY) thats all thats going on [Tanya](https://www.consumerreports.org/about-us/our-people/our-experts/tanya-christian/) re [OnlineAddiction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3480687/)
 
 # Jun26/24 ~working_amuck
 Normani/Sartu/Vanessa,
