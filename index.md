@@ -47,8 +47,8 @@ layout: default
 </div>
 
 -->
-<div class="entry-content">
-						<p>This is a doc­u­ment I cre­ated to share with my cowork­ers how I have been cre­at­ing and man­ag­ing my duties to build <span class="caps">LDOMS</span>. If you have not heard, LDoms or as they are now know as <strong>Ora­cle <span class="caps">VM</span> Server for <span class="caps">SPARC</span></strong> is a fan­tas­tic hyper­vi­sor tech­nol­ogy that allows the user to par­ti­tion a mul­ti­core sparc based server into a bunch of lit­tle servers <img src="https://web.archive.org/web/20140223073051im_/http://www.rashardkelly.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley colorbox-1272"> . One thing to be cau­tious of is assign­ing an uneven num­ber of cores to an LDom this can cause an LDom to per­form very badly in some&nbsp;cases.</p>
+```
+<p>This is a doc­u­ment I cre­ated to share with my cowork­ers how I have been cre­at­ing and man­ag­ing my duties to build <span class="caps">LDOMS</span>. If you have not heard, LDoms or as they are now know as <strong>Ora­cle <span class="caps">VM</span> Server for <span class="caps">SPARC</span></strong> is a fan­tas­tic hyper­vi­sor tech­nol­ogy that allows the user to par­ti­tion a mul­ti­core sparc based server into a bunch of lit­tle servers <img src="https://web.archive.org/web/20140223073051im_/http://www.rashardkelly.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley colorbox-1272"> . One thing to be cau­tious of is assign­ing an uneven num­ber of cores to an LDom this can cause an LDom to per­form very badly in some&nbsp;cases.</p>
 <p>—–</p>
 <p><strong>Build­ing <span class="caps">LDOMS</span> and pro­vi­sion­ing storage</strong></p>
 <p>A pre­req­ui­site of build­ing out <span class="caps">LDOMS</span> is to make sure the server is at the lat­est ver­sion of its firmware, Ldom soft­ware is installed and a cur­rent match­ing ver­sion of Ora­cle Solaris is being used on guest and&nbsp;host.</p>
@@ -201,6 +201,7 @@ Extract­ing win­dow­ing sys­tem. Please wait…<br>
 Begin­ning sys­tem identification…</p>
 <p>I got some of the core info&nbsp;from</p>
 <h3 class="sd-title">————————————</h3>
+```
 
 ![TwitterViking](https://pbs.twimg.com/media/GRGc0mpaoAAsmpC?format=jpg&name=4096x4096)
 [Viking](https://ia800200.us.archive.org/15/items/C-1971-3432/1971_03432.jpg) [Viking program](https://en.wikipedia.org/wiki/Viking_program) [Viking Project](https://science.nasa.gov/mission/viking/)
