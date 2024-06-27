@@ -4,7 +4,8 @@ layout: default
 
 
 ### Sounds of Perseverance Mars Rover Driving – Sol 16 (90-second highlights)
-<embed width="100%" height="300"  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1215546463&color=%23d9aa71&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"  /><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/sets/sounds-from-mars" title="Perseverance Rover Sounds from Mars" target="_blank" style="color: #cccccc; text-decoration: none;">Perseverance Rover Sounds from Mars</a></div>
+<embed width="100%" height="300"  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1215546463&color=%23d9aa71&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"  />
+
 [NASA VIKING PROGRAM PIONEERING MARS LANDER HISTORIC FILM 48584](https://archive.org/download/48584NASAViking/48584%20NASA%20Viking.mp4)
 ![AntiqueCalifornia](https://maps.worldtradepress.com/modern/jpg_med/S-CALI-UMCA1888-ANT.jpg)
 <div class="viking">
