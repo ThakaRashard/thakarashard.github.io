@@ -2,6 +2,180 @@
 layout: default
 ---
 
+
+<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/normaniswatch.PNG" alt="Normani, is an American singer and dancer" border="0" />
+<div class="normani">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    </div>
+
+<!-- the div section demonstrates that inline stylng from html to color objects nthChildSelectorsWorkBetter here for historical purposes
+<div class="swatch">
+  <div style="background -color: #8C2034;"></div>
+    <div style="background -color: #D9486E;"></div>
+    <div style="background -color: #261018;"></div>
+    <div style="background -color: #BF7892;"></div>
+    <div style="background -color: #D98FB1;">
+      </div>
+</div>
+
+-->
+<div class="entry-content">
+						<p>This is a doc­u­ment I cre­ated to share with my cowork­ers how I have been cre­at­ing and man­ag­ing my duties to build <span class="caps">LDOMS</span>. If you have not heard, LDoms or as they are now know as <strong>Ora­cle <span class="caps">VM</span> Server for <span class="caps">SPARC</span></strong> is a fan­tas­tic hyper­vi­sor tech­nol­ogy that allows the user to par­ti­tion a mul­ti­core sparc based server into a bunch of lit­tle servers <img src="https://web.archive.org/web/20140223073051im_/http://www.rashardkelly.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley colorbox-1272"> . One thing to be cau­tious of is assign­ing an uneven num­ber of cores to an LDom this can cause an LDom to per­form very badly in some&nbsp;cases.</p>
+<p>—–</p>
+<p><strong>Build­ing <span class="caps">LDOMS</span> and pro­vi­sion­ing storage</strong></p>
+<p>A pre­req­ui­site of build­ing out <span class="caps">LDOMS</span> is to make sure the server is at the lat­est ver­sion of its firmware, Ldom soft­ware is installed and a cur­rent match­ing ver­sion of Ora­cle Solaris is being used on guest and&nbsp;host.</p>
+<p>Below is a list­ing of a sta­ble ldom platform</p>
+<p><strong>Firmware</strong></p>
+<p><span class="caps">T<span class="numbers">5140</span></span> <span class="caps">OBP</span> <span class="numbers">4</span>.<span class="numbers">32</span>.<span class="numbers">2</span>&nbsp;<span class="numbers">2010</span>/​<span class="numbers">10</span>/​<span class="numbers">29</span>&nbsp;<span class="numbers">15</span>:<span class="numbers">36</span></p>
+<p><span class="caps">T<span class="numbers">5120</span></span> <span class="caps">OBP</span> <span class="numbers">4</span>.<span class="numbers">32</span>.<span class="numbers">2</span>.b <span class="numbers">2010</span>/​<span class="numbers">12</span>/​<span class="numbers">21</span>&nbsp;<span class="numbers">20</span>:<span class="numbers">20</span></p>
+<p><strong><span class="caps">OS</span> ver­sion </strong></p>
+<p>Ora­cle Solaris <span class="numbers">10</span>&nbsp;<span class="numbers">9</span>/​<span class="numbers">10</span> s<span class="numbers">10</span>s_​u<span class="numbers">9</span>wos_​<span class="numbers">14</span>a&nbsp;<span class="caps">SPARC</span></p>
+<p><strong>Vir­tu­al­iza­tion Platform</strong></p>
+<p><strong>Ora­cle <span class="caps">VM</span> Server for <span class="caps">SPARC</span> (<span class="numbers">2</span>.<span class="numbers">0</span> release) </strong></p>
+<p><strong>Ver­sion <span class="numbers">2</span>.<span class="numbers">1</span> is avail­able and should go into test­ing as soon as all ldom host are updated to the base­line I have set. You can down­load it&nbsp;here</strong></p>
+<p><strong><a onclick="javascript:pageTracker._trackPageview('/outgoing/www.oracle.com/technetwork/server-storage/vm/downloads/index.html?ssSourceSiteId=ocomen');" href="https://web.archive.org/web/20140223073051/http://www.oracle.com/technetwork/server-storage/vm/downloads/index.html?ssSourceSiteId=ocomen" target="_blank">http://​www​.ora​cle​.com/​t​e​c​h​n​e​t​w​o​r​k​/​s​e​r​v​e​r​-​s​t​o​r​a​g​e​/​v​m​/​d​o​w​n​l​o​a​d​s​/​i​n​d​e​x​.​h​t​m​l​?​s​s​S​o​u​r​c​e​S​i​t​e​I​d​=​o​c​o​men</a></strong></p>
+<p><strong>after installing make sure ser­vice </strong><strong><em><strong>svc:/ldoms/ldmd:default </strong></em></strong><strong>is run­ning. </strong></p>
+<p><strong><strong>Lat­est patch bundle</strong></strong></p>
+<p><strong>/​manna/​Solaris<span class="numbers">10</span>-​​Supplies/​MAR<span class="numbers">112011</span></strong></p>
+<p>Now that the envi­ron­ment is in place. Net­work­ing must be setup for the phys­i­cal por­tion of the instal­la­tion. The <span class="caps">T<span class="numbers">5120</span></span>/​<span class="numbers">40</span>s both con­tain <span class="numbers">4</span> net­work ports. These can be used for <span class="caps">NIC</span> team­ing to improve through­put and per­for­mance, they can also be assigned to indi­vid­ual domains, and lastly you can route all traf­fic through a sin­gle&nbsp;<span class="caps">NIC</span>.</p>
+<p>Now that we have net­work­ing the next area of con­cern is stor­age. Cur­rently (<span class="numbers">6</span>/​<span class="numbers">27</span>/​<span class="numbers">2011</span>) all fiber con­nected nodes are con­nected to the fab­ric via Qlogic <span class="numbers">23</span>xx series HBAs. The dri­vers are built into recent ver­sions of Solaris. To pro­vi­sion stor­age for <span class="caps">LDOMS</span> sim­ply apply the cor­rect zon­ing within the cisco fab­ric man­ager. An instance can be found at fiber​man​.core​.gtri​.org. This is a win­dows <span class="numbers">2008</span> server. Use the pass­word for Cassini-​​a to start it up which can be found in&nbsp;Nova.</p>
+<p>After stor­age has been pro­vi­sioned. We have to approach the choice of how to han­dle the stor­age<strong>.</strong></p>
+<p><strong>A)</strong>&nbsp;Allow the host to man­age the zvols for the&nbsp;guest.</p>
+<p><strong>B) </strong>Directly attach luns to guest for guest to management.</p>
+<p>The method I have found effec­tive to man­age these things and make them easy to move is to allow the host to man­age all stor­age for the guest as in this example</p>
+<p>&nbsp;</p>
+<p><strong> <span class="caps">NAME</span> <span class="caps">VOLUME</span> <span class="caps">OPTIONS</span> <span class="caps">MPGROUP</span> <span class="caps">DEVICE</span> </strong></p>
+<p><strong> primary-​​vds<span class="numbers">1</span>&nbsp;</strong></p>
+<p><strong> regor-​​boot /​dev/​zvol/​dsk/​LDOM-​​regor/​boot_​vol </strong></p>
+<p><strong> regor-​​<span class="numbers">3</span> /​dev/​zvol/​dsk/​Regor-​​DB-​​Pool/​regor<span class="numbers">3</span>&nbsp;</strong></p>
+<p><strong> regor-​​<span class="numbers">2</span> /​dev/​zvol/​dsk/​Regor-​​DB-​​Pool/​regor<span class="numbers">2</span>&nbsp;</strong></p>
+<p><strong> regor-​​<span class="numbers">1</span> /​dev/​zvol/​dsk/​Regor-​​DB-​​Pool/​regor<span class="numbers">1</span>&nbsp;</strong></p>
+<p><strong> regor-​​<span class="numbers">0</span> /​dev/​zvol/​dsk/​Regor-​​DB-​​Pool/​regor<span class="numbers">0</span>&nbsp;</strong></p>
+<p><strong> regor-​​exports /​dev/​zvol/​dsk/​Regor-​​EX-​​Pool/​regor-​​exports </strong></p>
+<p><strong> regor-​​live /​dev/​zvol/​dsk/​Regor-​​Live-​​Pool/​regor-​​live </strong></p>
+<p><strong> regor-​​redo<span class="numbers">1</span> /​dev/​zvol/​dsk/​Regor-​​Redo<span class="numbers">1</span>-​​Pool/​regor-​​redo<span class="numbers">1</span>&nbsp;</strong></p>
+<p><strong> regor-​​redo<span class="numbers">2</span> /​dev/​zvol/​dsk/​Regor-​​Redo<span class="numbers">2</span>-​​Pool/​regor-​​redo<span class="numbers">2</span>&nbsp;</strong></p>
+<p>The vol­umes are all <span class="caps">ZFS</span> filesys­tems man­aged by the host. The way to pro­vi­sion space on the host to be exported to the guest is to first cre­ate a&nbsp;pool</p>
+<p><strong>zpool cre­ate LDOM-​​ixion c<span class="numbers">2</span>t<span class="numbers">207000</span>C<span class="numbers">0</span>FFD<span class="numbers">82697</span>d<span class="numbers">233</span>&nbsp;</strong></p>
+<p><strong>Then cre­ate a dataset within the&nbsp;pool</strong></p>
+<p><strong>zfs cre­ate –V <span class="caps"><span class="numbers">57</span>G</span> LDOM-​​ixion/​ixion_​boot </strong></p>
+<p>The –V option spec­i­fies the size. You need to do this to be able to use the allo­cated stor­age on the&nbsp;guest.</p>
+<p>Note the pools on this&nbsp;host</p>
+<p><strong>root@ariel:/manna/Solaris<span class="numbers">10</span>-Supplies# zpool&nbsp;list</strong></p>
+<p><strong><span class="caps">NAME</span> <span class="caps">SIZE</span> <span class="caps">ALLOC</span> <span class="caps">FREE</span> <span class="caps">CAP</span> <span class="caps">HEALTH</span> <span class="caps">ALTROOT</span></strong></p>
+<p><strong>LDOM-​​ixion <span class="caps"><span class="numbers">65</span>G</span> <span class="numbers">4</span>.<span class="caps"><span class="numbers">72</span>G</span> <span class="numbers">60</span>.<span class="caps"><span class="numbers">3</span>G</span> <span class="numbers">7</span>% <span class="caps">ONLINE</span> -</strong></p>
+<p><strong>LDOM-​​lamb <span class="caps"><span class="numbers">67</span>G</span> <span class="numbers">5</span>.<span class="caps"><span class="numbers">07</span>G</span> <span class="numbers">61</span>.<span class="caps"><span class="numbers">9</span>G</span> <span class="numbers">7</span>% <span class="caps">ONLINE</span> -</strong></p>
+<p><strong>LDOM-​​regor <span class="numbers">69</span>.<span class="caps"><span class="numbers">5</span>G</span> <span class="numbers">27</span>.<span class="caps"><span class="numbers">9</span>G</span> <span class="numbers">41</span>.<span class="caps"><span class="numbers">6</span>G</span> <span class="numbers">40</span>% <span class="caps">ONLINE</span> -</strong></p>
+<p><strong>LDOM-​​swan <span class="numbers">69</span>.<span class="caps"><span class="numbers">5</span>G</span> <span class="numbers">6</span>.<span class="caps"><span class="numbers">15</span>G</span> <span class="numbers">63</span>.<span class="caps"><span class="numbers">4</span>G</span> <span class="numbers">8</span>% <span class="caps">ONLINE</span> -</strong></p>
+<p><strong>LDOM-​​swift <span class="numbers">60</span>.<span class="caps"><span class="numbers">5</span>G</span> <span class="numbers">4</span>.<span class="caps"><span class="numbers">96</span>G</span> <span class="numbers">55</span>.<span class="caps"><span class="numbers">5</span>G</span> <span class="numbers">8</span>% <span class="caps">ONLINE</span> -</strong></p>
+<p><strong>Lamb-​​EX-​​Pool <span class="caps"><span class="numbers">280</span>G</span> <span class="numbers">1</span>.<span class="caps"><span class="numbers">76</span>M</span> <span class="caps"><span class="numbers">280</span>G</span> <span class="numbers">0</span>% <span class="caps">ONLINE</span> -</strong></p>
+<p><strong>Lamb-​​Redo<span class="numbers">1</span>-​​Pool <span class="caps"><span class="numbers">111</span>G</span> <span class="numbers">2</span>.<span class="caps"><span class="numbers">30</span>M</span> <span class="caps"><span class="numbers">111</span>G</span> <span class="numbers">0</span>% <span class="caps">ONLINE</span> -</strong></p>
+<p><strong>Regor-​​DB-​​Pool <span class="caps"><span class="numbers">928</span>G</span> <span class="caps"><span class="numbers">644</span>G</span> <span class="caps"><span class="numbers">284</span>G</span> <span class="numbers">69</span>% <span class="caps">ONLINE</span> -</strong></p>
+<p><strong>Regor-​​EX-​​Pool <span class="caps"><span class="numbers">168</span>G</span> <span class="caps"><span class="numbers">152</span>G</span> <span class="numbers">16</span>.<span class="caps"><span class="numbers">0</span>G</span> <span class="numbers">90</span>% <span class="caps">ONLINE</span> -</strong></p>
+<p><strong>Regor-​​Live-​​Pool <span class="caps"><span class="numbers">278</span>G</span> <span class="caps"><span class="numbers">168</span>G</span> <span class="caps"><span class="numbers">110</span>G</span> <span class="numbers">60</span>% <span class="caps">ONLINE</span> -</strong></p>
+<p><strong>Regor-​​Redo<span class="numbers">1</span>-​​Pool <span class="caps"><span class="numbers">74</span>G</span> <span class="numbers">10</span>.<span class="caps"><span class="numbers">0</span>G</span> <span class="numbers">64</span>.<span class="caps"><span class="numbers">0</span>G</span> <span class="numbers">13</span>% <span class="caps">ONLINE</span> -</strong></p>
+<p><strong>Regor-​​Redo<span class="numbers">2</span>-​​Pool <span class="caps"><span class="numbers">65</span>G</span> <span class="numbers">10</span>.<span class="caps"><span class="numbers">0</span>G</span> <span class="numbers">55</span>.<span class="caps"><span class="numbers">0</span>G</span> <span class="numbers">15</span>% <span class="caps">ONLINE</span> -</strong></p>
+<p><strong>ariel_​zpool <span class="caps"><span class="numbers">68</span>G</span> <span class="numbers">9</span>.<span class="caps"><span class="numbers">68</span>G</span> <span class="numbers">58</span>.<span class="caps"><span class="numbers">3</span>G</span> <span class="numbers">14</span>% <span class="caps">ONLINE</span> -</strong></p>
+<p>Pools with the <span class="caps">LDOM</span> pre­fix indi­cate that the boot disk is con­tained here. When on any host {hostname}_zpool is always the root par­ti­tion this makes it easy to iden­tify when writ­ing scripts The other pools are for the guest resid­ing within the host. Some instal­la­tions such as that of ora­cle require mul­ti­ple pools. It is also easy enough to allo­cate stor­age and attach it directly to the guest as men­tioned before.</p>
+<p>To attach a zvol to a&nbsp;guest</p>
+<p>ldm add-​​vdsdev /​dev/​zvol/​dsk/​LDOM-​​ixion/​ixion_​boot host­name<a onclick="javascript:pageTracker._trackPageview('/mailto/ixion-boot@vds-ixion');" href="https://web.archive.org/web/20140223073051/mailto:ixion-boot@vds-ixion" target="_blank">–boot@vds–</a>host­name</p>
+<p>To add a raw&nbsp;lun</p>
+<p>ldm add-​​vdsdev /​dev/​dsk/​c<span class="numbers">3</span>t<span class="numbers">5000402101</span>F<span class="numbers">45935</span>d<span class="numbers">86</span>s<span class="numbers">2</span>&nbsp;<a onclick="javascript:pageTracker._trackPageview('/mailto/hostname-redo1@vds-hostname');" href="https://web.archive.org/web/20140223073051/mailto:hostname-redo1@vds-hostname" target="_blank">hostname-redo<span class="numbers">1</span>@vds-hostname</a></p>
+<p>here are the basic com­mands to build an&nbsp;<span class="caps">LDOM</span></p>
+<p>P<strong>rimary </strong>is typ­i­cally your con­trol domain and will take care of all other&nbsp;<span class="caps">LDOMS</span>.</p>
+<p>Now it’s time to install Vir­tual I/​O to pri­mary con­trol domain.</p>
+<ul>
+<li>Vir­tual ser­vice for disk server — <em>ldm add-​​vds vds-​​ldomname primary </em></li>
+<li>Vir­tual net­work ter­mi­nal server — <em>ldm add-​​vcc port-range=<span class="numbers">5000</span>–<span class="numbers">5006</span>&nbsp; vcc-​​console pri­mary </em>The amount is really depen­dant on how many LDoms you plan to pro­vi­sion<em><br>
+</em></li>
+<li>Vir­tual ser­vice for net­work switch — <em>ldm add-​​vsw net-dev=nxge<span class="numbers">0</span> sub-​​<span class="numbers">20</span> primary </em></li>
+<li>Ver­ify what you did — <em>ldm list-​​services </em></li>
+</ul>
+<p>Pri­mary by default has all of the server’s resources, to allo­cate some to it and free oth­ers for guest Ldoms use the com­mands&nbsp;below.</p>
+<ul>
+<li>Cryp­to­graphic engine — <em>ldm set-​​mau N primary </em></li>
+<li>Vir­tual <span class="caps">CPU</span> — <em>ldm set-​​vcpu N pri­mary </em>(Note two vcpus should be given to the pri­mary domain and the remain­ing vcpus should be divided among the amount of LDoms you want the sys­tem to host. In best prac­tice LDom amount should be lim­ited to the amount of MAUs avail­able) <em><br>
+</em></li>
+<li>Mem­ory — <em>ldm set-​​memory N(G,M) pri­mary</em><em> mem­ory can be issued in Gigs or megs if you need to get really specific</em></li>
+</ul>
+<p><em></em>All this make pri­mary to be in delayed con­fig­u­ra­tion, so save con­fig­u­ra­tion first and poweroff/​poweron.</p>
+<ul>
+<li>Check con­fig­u­ra­tion — <em>ldm list-​​spconfig </em></li>
+<li>Add con­fig­u­ra­tion — <em>ldm add-​​spconfig name</em> —— <span class="caps">IF</span> <span class="caps">YOU</span> <span class="caps">DO</span> <span class="caps">NOT</span> <span class="caps">DO</span> <span class="caps">THIS</span> <span class="caps">YOU</span> <span class="caps">WILL</span> <span class="caps">REGRET</span> <span class="caps">IT</span>! When the sys­tem is pow­ered off it will lose all of the con­fig that you have worked so hard to plan and implement.</li>
+<li>ver­ify resources are allo­cated to pri­mary — <em>ldm list </em></li>
+<li>Power off — <em>init <span class="numbers">0</span>&nbsp;</em></li>
+<li>One note here — “init <span class="numbers">5</span>” behaives as “init <span class="numbers">6</span>”, strange. So I “init <span class="numbers">0</span>” and from <span class="caps">ALOM</span> do <em>poweroff </em></li>
+</ul>
+<p>To cre­ate a Guest domain</p>
+<p>Cre­ate guest LDom — <em>ldm add-​​domain ${<span class="caps">LDOM</span>} </em></p>
+<ul>
+<li>Add vcpu — <em>ldm add-​​vcpu <span class="numbers">16</span> ${<span class="caps">LDOM</span>} </em></li>
+<li>Add <span class="caps">RAM</span> — <em>ldm add-​​memory <span class="numbers">8</span>g ${<span class="caps">LDOM</span>} </em></li>
+<li>Add <span class="caps">MAU</span> — <em>ldm add-​​mau <span class="numbers">2</span> ${<span class="caps">LDOM</span>} </em></li>
+<li>Add vir­tual net­work device on net switch — <em>ldm add-​​vnet vnet<span class="numbers">0</span> ${<span class="caps">NET</span>} ${<span class="caps">LDOM</span>} </em></li>
+<li>Add vir­tual disk <span class="caps">DEVICE</span> to be sys­tem disk for LDom– <em>ldm add-​​vdsdev /dev/zvol/dsk/${<span class="caps">SPACE</span>}/${<span class="caps">LDOM</span>} zdisk@vds-${<span class="caps">LDOM</span>} </em></li>
+<li>Add vir­tual <span class="caps">DISK</span> — <em>ldm add-​​vdisk zdisk<span class="numbers">0</span> zdisk@vds-${<span class="caps">LDOM</span>} ${<span class="caps">LDOM</span>} </em></li>
+<li>Set auto­boot to false — <em>ldm set-​​variable auto-boot\?=false ${<span class="caps">LDOM</span>} </em></li>
+<li>Point to vir­tual disk device as boot device — <em>ldm set-​​variable boot-device=/virtual-devices@<span class="numbers">100</span>/channel-devices@<span class="numbers">200</span>/disk@<span class="numbers">0</span> ${<span class="caps">LDOM</span>} </em></li>
+<li>Bind LDom — <em>ldm bind-​​domain ${<span class="caps">LDOM</span>} </em></li>
+<li>Start LDom — <em>ldm start-​​domain ${<span class="caps">LDOM</span>} </em></li>
+</ul>
+<p>Now that the <span class="caps">LDOM</span> is cre­ated you still need an <span class="caps">OS</span>. Jump­start­ing is an option but there is no work­ing jump­start server currently.</p>
+<p>Stop and unbind the domain</p>
+<p>Add the vir­tual disk service</p>
+<p>ldm add-​​vdiskserverdevice /export/home/rkelly<span class="numbers">3</span>/sol-<span class="numbers">10</span>-u<span class="numbers">9</span>-ga-sparc-dvd.iso <a onclick="javascript:pageTracker._trackPageview('/mailto/iso@vds-hostname');" href="https://web.archive.org/web/20140223073051/mailto:iso@vds-hostname" target="_blank">iso@vds-hostname</a></p>
+<p><strong>ldm add-​​vdisk iso iso@vds-hostname LDOMname</strong></p>
+<p><strong>Now bind and start the new domain:</strong></p>
+<p># ldm bind-​​domain LDOM­name<br>
+# ldm start-​​domain LDOM­name<br>
+LDom LDOM­name started</p>
+<p># tel­net local­host <span class="numbers">5001</span><br>
+Try­ing <span class="numbers">127</span>.<span class="numbers">0</span>.<span class="numbers">0</span>.<span class="numbers">1</span>…<br>
+Con­nected to local­host.<br>
+Escape char­ac­ter&nbsp;is ‘^]’.</p>
+<p>Con­nect­ing to con­sole “LDOM­name″ in group “LDOM­name″ ….<br>
+Press ~? for con­trol options ..</p>
+<p>{<span class="numbers">0</span>} ok show-​​disks<br>
+a) /virtual-devices@<span class="numbers">100</span>/channel-devices@<span class="numbers">200</span>/disk@<span class="numbers">1</span><br>
+b) /virtual-devices@<span class="numbers">100</span>/channel-devices@<span class="numbers">200</span>/disk@<span class="numbers">0</span><br>
+q) <span class="caps">NO</span> <span class="caps">SELECTION</span><br>
+Enter Selec­tion, q to quit: a<br>
+/virtual-devices@<span class="numbers">100</span>/channel-devices@<span class="numbers">200</span>/disk@<span class="numbers">1</span> has been selected.<br>
+Type ^Y ( Control-​​Y ) to insert it in the com­mand line.<br>
+e.g. ok nvalias mydev ^Y<br>
+for cre­at­ing devalias mydev for<br>
+/virtual-devices@<span class="numbers">100</span>/channel-devices@<span class="numbers">200</span>/disk@<span class="numbers">1</span><br>
+{<span class="numbers">0</span>} ok devalias<br>
+iso /virtual-devices@<span class="numbers">100</span>/channel-devices@<span class="numbers">200</span>/disk@<span class="numbers">1</span><br>
+vdisk<span class="numbers">3</span> /virtual-devices@<span class="numbers">100</span>/channel-devices@<span class="numbers">200</span>/disk@<span class="numbers">5</span></p>
+<p><strong>vdisk<span class="numbers">2</span> /virtual-devices@<span class="numbers">100</span>/channel-devices@<span class="numbers">200</span>/disk@<span class="numbers">4</span>&nbsp;</strong></p>
+<p><strong>vdisk<span class="numbers">1</span> /virtual-devices@<span class="numbers">100</span>/channel-devices@<span class="numbers">200</span>/disk@<span class="numbers">3</span>&nbsp;</strong></p>
+<p><strong>vdisk<span class="numbers">5</span> /virtual-devices@<span class="numbers">100</span>/channel-devices@<span class="numbers">200</span>/disk@<span class="numbers">2</span>&nbsp;</strong></p>
+<p><strong>vdisk­boot /virtual-devices@<span class="numbers">100</span>/channel-devices@<span class="numbers">200</span>/disk@<span class="numbers">1</span>&nbsp;</strong></p>
+<p><strong>vnet<span class="numbers">0</span> /virtual-devices@<span class="numbers">100</span>/channel-devices@<span class="numbers">200</span>/network@<span class="numbers">0</span>&nbsp;</strong></p>
+<p><strong>net /virtual-devices@<span class="numbers">100</span>/channel-devices@<span class="numbers">200</span>/network@<span class="numbers">0</span>&nbsp;</strong></p>
+<p><strong>disk /virtual-devices@<span class="numbers">100</span>/channel-devices@<span class="numbers">200</span>/disk@<span class="numbers">1</span>&nbsp;</strong></p>
+<p><strong>virtual-​​console /virtual-devices/console@<span class="numbers">1</span>&nbsp;</strong></p>
+<p><strong>name aliases </strong></p>
+<p>Boot from the vir­tu­al­ized iso image append­ing the :f (this is to spec­ify the slice <span class="numbers">6</span> of the <span class="caps">DVD</span>/​ISO image). This can also be done using boot&nbsp;iso:f</p>
+<p>{<span class="numbers">0</span>} ok <strong>boot /virtual-devices@<span class="numbers">100</span>/channel-devices@<span class="numbers">200</span>/disk@<span class="numbers">1</span>:f</strong><br>
+Boot device: /virtual-devices@<span class="numbers">100</span>/channel-devices@<span class="numbers">200</span>/disk@<span class="numbers">1</span>:f File<br>
+and args:<br>
+SunOS Release <span class="numbers">5</span>.<span class="numbers">10</span> Ver­sion Generic_​<span class="numbers">127127</span>-​​<span class="numbers">11</span>&nbsp;<span class="numbers">64</span>-​​bit<br>
+Copy­right <span class="numbers">1983</span>–<span class="numbers">2008</span> Sun Microsys­tems, Inc. All rights reserved.<br>
+Use is sub­ject to license terms.<br>
+Con­fig­ur­ing devices.<br>
+Using <span class="caps">RPC</span> Boot­params for net­work con­fig­u­ra­tion infor­ma­tion.<br>
+Attempt­ing to con­fig­ure inter­face vnet<span class="numbers">0</span>…<br>
+Skipped inter­face vnet<span class="numbers">0</span><br>
+Set­ting up Java. Please wait…<br>
+Extract­ing win­dow­ing sys­tem. Please wait…<br>
+Begin­ning sys­tem identification…</p>
+<p>I got some of the core info&nbsp;from</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><h3 class="sd-title">————————————</h3>
 ![TwitterViking](https://pbs.twimg.com/media/GRGc0mpaoAAsmpC?format=jpg&name=4096x4096)
 [Viking](https://ia800200.us.archive.org/15/items/C-1971-3432/1971_03432.jpg) [Viking program](https://en.wikipedia.org/wiki/Viking_program) [Viking Project](https://science.nasa.gov/mission/viking/)
 ![Atlanta](https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147806/atlanta_oli_2020127.jpg)

@@ -721,3 +721,105 @@ embed {
   padding: 20px;
   font-size: 150%;
 }
+
+
+.normani {
+  /*display: grid;
+  grid-gap: 5px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+  display: flex;
+  flex-wrap: nowrap;
+  width: 100%;
+  height: 80px;
+  
+}
+.normani div:nth-child(1) { background: #F2E205;}
+.normani div:nth-child(2) { background: #D9CB04;}
+.normani div:nth-child(3) { background: #A69B03;}
+.normani div:nth-child(4) { background: #595302;}
+.normani div:nth-child(5) { background: #262401;}
+
+.normani div {
+
+  flex: 0 1 200px;
+  flex: 1 1 200px;
+  padding: 0px;
+  
+}
+
+
+.megan {
+  /*display: grid;
+  grid-gap: 5px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 3em;
+
+}
+
+.megan div:nth-child(1) { background: #F2059F;}
+.megan div:nth-child(2) { background: #F279D2;}
+.megan div:nth-child(3) { background: #F2E205;}
+.megan div:nth-child(4) { background: #F2CB05;}
+.megan div:nth-child(5) { background: #594302;}
+
+.megan div {
+
+  flex: 0 1 200px;
+  flex: 1 1 200px;
+  padding: 0px;
+
+}
+
+
+
+.viking {
+  /*display: grid;
+  grid-gap: 5px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+  display: flex;
+  flex-wrap: nowrap;
+  width: 100%;
+  height: 80px;
+  
+}
+.viking div:nth-child(1) { background: #F2F2F2;}
+.viking div:nth-child(2) { background: #73463C;}
+.viking div:nth-child(3) { background: #8C564A;}
+.viking div:nth-child(4) { background: #260101;}
+.viking div:nth-child(5) { background: #0D0000;}
+
+.viking div {
+
+  flex: 0 1 200px;
+  flex: 1 1 200px;
+  padding: 0px;
+  
+}
+
+
+.vikingbright {
+  /*display: grid;
+  grid-gap: 5px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+  display: flex;
+  flex-wrap: nowrap;
+  width: 100%;
+  height: 80px;
+  
+}
+.vikingbright div:nth-child(1) { background: #F2F2F2;}
+.vikingbright div:nth-child(2) { background: #D9AA71;}
+.vikingbright div:nth-child(3) { background: #A65F46;}
+.vikingbright div:nth-child(4) { background: #73463C;}
+.vikingbright div:nth-child(5) { background: #0D0000;}
+
+.vikingbright div {
+
+  flex: 0 1 200px;
+  flex: 1 1 200px;
+  padding: 0px;
+  
+}
