@@ -6,7 +6,7 @@ layout: default
 [Changing Atlanta](https://earthobservatory.nasa.gov/images/147806/changing-atlanta) [CITY BOYS---CITY BOY STYLE BREAK IT DOWN.](https://youtu.be/JK-dQ-Ry8qk?si=YdUK3bwwhPlSo_nu)
 📷 [My Gallery at VSCO Normani is Sartu but i took all the pictures except the ones of her](https://vsco.co/rashardsartu/gallery) 📷
 [TOKiMONSTA - "Early To Dawn" (feat. Selah Sue) [Plastic Plates Remix]](https://youtu.be/foTgYYQniJ0?si=9ItIcbzzox9oGZBk)
-[Street Fighter: The Movie (V1.12)](https://www.retrogames.cc/arcade-games/street-fighter-the-movie-v1-12.html) [OJ DA JUICEMAN - TONKA](https://www.youtube.com/watch?v=vFUYBiufBFc) Oj song gonna get my blog shut down... [National Fuel Gas "Cookin' With Gas"](https://youtu.be/FJRQo5aawho?si=rSkzQi5G-mF47IC_) [Nintendo Retail Training 1991](https://youtu.be/WYjgHLFZMa0?si=7OzZmijodlhJYSid)
+[Street Fighter: The Movie (V1.12)](https://www.retrogames.cc/arcade-games/street-fighter-the-movie-v1-12.html) [OJ DA JUICEMAN - TONKA](https://www.youtube.com/watch?v=vFUYBiufBFc) Oj song gonna get my blog shut down... [National Fuel Gas "Cookin' With Gas"](https://youtu.be/FJRQo5aawho?si=rSkzQi5G-mF47IC_) [Nintendo Retail Training 1991](https://youtu.be/WYjgHLFZMa0?si=7OzZmijodlhJYSid) [McDonald's Employee Training Video - Doing Whatever It Takes! (1992)](https://youtu.be/grCw1DcayuE?si=rtu9fz8qjolhGVC5)
 
 # Jun26/24 ~working_amuck
 Normani/Sartu/Vanessa,
