@@ -7,16 +7,33 @@ by Matt Graham
 @import "fonts";
 @import "rouge-base16-dark";
 
+
+
+
+html {
+
+
+    font: 14px/22px Arial,"Quattrocento Sans", "Helvetica Neue", Helvetica, Arial,
+      sans-serif;
+    font-weight: 300;
+    margin: 0px;
+    padding: 0px 0 20px 0px;
+    /*  background: url(../images/body-background.png) #eae6d1; */
+    background-image: url("https://fgbg.art/static/motw_hokutomaru-162019510b57d8c7d782751c7bf18cf4.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-attachment: fixed;
+
+
+
+}
 body {
-  font: 14px/22px "Quattrocento Sans", "Helvetica Neue", Helvetica, Arial,
-    sans-serif;
-  color: #2b2b2b;
-  font-weight: 300;
+
   margin: 0px;
   padding: 0px 0 20px 0px;
-  /*  background: url(../images/body-background.png) #eae6d1; */
-  background-image: url("https://fgbg.art/static/MarvelSuperHeroesVsStreetFighter-Manhattan-d3d302a414af0318227f1e8fc2659ea8.png");
-  background-attachment: fixed;
+
 }
 
 h1,
