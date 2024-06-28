@@ -3,6 +3,34 @@ layout: default
 ---
 
 
+
+![normani](https://pbs.twimg.com/profile_banners/209003577/1718338162/1500x500)
+![NormaniAreospaceAwaits](https://pbs.twimg.com/media/GQAcpSaWgAAhbcU?format=jpg&name=large)
+
+# Friday Remote Report
+Hi Sartu([Normani](https://thatgrapejuice.net/2024/06/normani-confesses-previous-management-was-part-of-the-reason-for-patchy-album-delay/))
+
+The more i look at the makeup the more i see your face
+
+
+# No More Parties in LA
+"No More Parties in LA" (often stylized as "No More Parties in L.A.") is a song by American rapper Kanye West from his seventh studio album, The Life of Pablo (2016), featuring vocals from fellow rapper Kendrick Lamar. It was produced by West and Madlib, who began the recording in 2010. The beat was originally offered to Freddie Gibbs before being given to West and Lamar by Madlib. The song was released as the third promotional single from the album as part of West's GOOD Fridays series on January 18, 2016. [Lyrics](https://genius.com/Kanye-west-no-more-parties-in-la-lyrics) [Kanye West - No More Parties in LA (2010 Version)](https://www.youtube.com/watch?v=uyUVEvu1s_4) [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/No_More_Parties_in_LA) [Spotify](https://open.spotify.com/track/0zLClc0emc6qUeV1p5nc99) [PitchFork](https://pitchfork.com/reviews/tracks/17921-kanye-west-no-more-parties-in-la-ft-kendrick-lamar/)
+>OPiNiON~> [Kanye Bodied Kendrick in No More Parties in LA](https://www.reddit.com/r/KendrickLamar/comments/90ihsm/kanye_bodied_kendrick_in_no_more_parties_in_la/?rdt=33774)
+>LosAngelesMusic [is no more parties in la kendrick and kanyes only collab?](https://www.reddit.com/r/KendrickLamar/comments/rkzywg/is_no_more_parties_in_la_kendrick_and_kanyes_only/)
+
+<embed  allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/242539038&color=%23ffdc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
+
+[Kash Doll Reacts to Kendrick Lamar Name Dropping Her on "6:16 In LA"](https://www.complex.com/music/a/cmplxtara-mahadevan/kash-doll-kendrick-lamar-name-drop-616-in-la)
+[Baby On Board: Kash Doll Welcomes Baby No.2!](https://www.hot97.com/news/baby-on-board-kash-doll-welcomes-baby-no-2/) [Cardi B gets a surprise ear piercing while splurging at upscale jewelry shop in LA: 'I came here for one thing!'](https://www.dailymail.co.uk/tvshowbiz/article-13568629/Cardi-B-ear-piercing-Maria-Tash-jewelry.html) [Lakeyah & Kash Doll "Get Ratchet" On Their Latest Collaboration](https://www.hotnewhiphop.com/819968-lakeyah-kash-doll-get-ratchet-stream) [Kash Doll Is Pregnant! Rapper Expecting Baby No. 2 with Boyfriend Tracy T: 'Extending My Family' (Exclusive)](https://people.com/kash-doll-is-pregnant-rapper-expecting-baby-no-2-with-boyfriend-tracy-t-exclusive-8608002) [Cardi B Teases Song That’s “Very Mean,” Fans Think It’s About BIA](https://www.vibe.com/music/music-news/cardi-b-teases-very-mean-song-bia-response-video-1234886642/)
+[Cardi B Affiliate Star Brim Delays Prison Surrender Due To Family Matters](https://www.hotnewhiphop.com/820165-star-brim-cardi-b-prison-delay-surrender-hip-hop-news)
+[Cardi B Channels Princess Diana in One of the Royal's Iconic Athleisure Outfits — 'Shy Di' Hairstyle and All](https://people.com/cardi-b-recreates-princess-diana-s-athleisure-outfit-8669056) [Cardi B Earns A Fast Top 10 Hit With One Of Latin Music’s Biggest Superstars](https://www.forbes.com/sites/hughmcintyre/2024/06/26/cardi-b-earns-a-fast-top-10-hit-with-one-of-latin-musics-biggest-superstars/)
+[Normani Finally Hits Her Sweet Spot on ‘Dopamine’](https://www.rollingstone.com/music/music-album-reviews/normani-dopamine-review-1235040120/)
+[Aaliyah’s Uncle Weighs In On Alleged Sample On Normani & Cardi B’s “Wild Side”](https://genius.com/a/does-normani-cardi-b-s-wild-side-sample-aaliyah-s-one-in-a-million) [Normani Addresses Debut Album ‘Dopamine’ Rollout Issues & What She Would Have Done Differently](https://thejasminebrand.com/2024/06/27/normani-addresses-debut-album-dopamine-rollout-issues-what-she-would-have-done-differently/)
+[Aaliyah’s Uncle Says Normani Didn’t Clear ‘One in a Million’ Sample for Her New Song ‘Wild Side’](https://www.thewrap.com/aaliyah-uncle-normani-one-in-a-million-sample-wild-side/) [Twitter Can't Get Over Normani's "Wild Side" Comeback With Cardi B](https://www.buzzfeed.com/andriamoore/normani-wild-side-reactions-twitter)
+[Bonobo Live At Royal Albert Hall](https://www.youtube.com/watch?v=fn-4RbxXThE)
+[D̲J̲ S̲h̲a̲d̲o̲w̲ | E̲n̲d̲t̲r̲o̲d̲u̲c̲i̲n̲g̲.̲.̲.̲.̲.̲](https://youtu.be/EEV2EqVe9vU?si=qmkH8YM8Krt0fB3W)
+![NormaniComfy](https://pbs.twimg.com/media/EhwUISaUwAEidgV?format=jpg&name=large)
+
 ![TwitterViking](https://pbs.twimg.com/media/GRGc0mpaoAAsmpC?format=jpg&name=4096x4096)
 [SnowOnMars!](https://news.asu.edu/20210819-martian-snow-dusty-could-potentially-melt-new-study-shows) [Mars Game](https://burodestruct.net/gravity-lander/)
 [NASA VIKING PROGRAM PIONEERING MARS LANDER HISTORIC FILM 48584](https://archive.org/download/48584NASAViking/48584%20NASA%20Viking.mp4) 
