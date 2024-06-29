@@ -5093,6 +5093,22 @@ embed {
   text-decoration: none;
 }
 
+
+.clusterdiv {
+  font-size: 150%;
+  color: white;
+  font-family: Cluster;
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f85032+0,f16f5c+50,f6290c+51,f02f17+71,e73827+100;Red+Gloss+%231 */
+  background: linear-gradient(
+    to bottom,
+    #f85032 0%,
+    #f16f5c 50%,
+    #f6290c 51%,
+    #f02f17 71%,
+    #e73827 100%
+  ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
 /* screenshots portriats works well for up to 5 on standard monitors*/
 .border {
   border-bottom: 1px solid #c9ff23;
