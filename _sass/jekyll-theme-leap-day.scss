@@ -148,21 +148,9 @@ blockquote { font-style: italic }
   width: 650px;
   margin: 0 auto;
   position: relative;
-  background: hsla(0,0%,100%,.9) border-box;
-  border-radius: .3em;
-	box-shadow: 0 0 0 1px hsla(0,0%,100%,.3) inset,
-	            0 .5em 1em rgba(0, 0, 0, 0.1);
-	text-shadow: 0 1px 1px hsla(0,0%,100%,.3);
 }
 
-.wrapper::before
-{
 
-  z-index: -1;
-	-webkit-filter: blur(10px);
-	filter: blur(2px);
-
-}
 
 section img {
   max-width: 100%;
@@ -384,14 +372,28 @@ section {
   margin-top: 190px;
   position: relative;
   float:right;
-  background: #fbfbfb;
-  border-radius: 3px;
+  background: hsla(0,0%,100%,.4) border-box;
+	overflow: hidden;
+	border-radius: .3em;
+	box-shadow: 0 0 0 1px hsla(0,0%,100%,.3) inset,
+	            0 .5em 1em rgba(0, 0, 0, 0.1);
+	text-shadow: 0 1px 1px hsla(0,0%,100%,.3);
+  
   border: 1px solid #cbcbcb;
   box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.09),
     inset 0px 0px 2px 2px rgba(255, 255, 255, 0.5),
     inset 0 0 5px 5px rgba(255, 255, 255, 0.4);
 }
 
+section::before {
+	content: 'holetoanotheruniverse';
+	position: absolute;
+	top: 0; right: 0; bottom: 0; left: 0;
+	margin: -30px;
+	z-index: -1;
+	-webkit-filter: blur(30px);
+	filter: blur(20px);
+}
 small {
   font-size: 12px;
 }
