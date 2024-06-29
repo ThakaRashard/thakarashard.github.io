@@ -6,7 +6,10 @@ layout: default
 
 {% include gaming.md %}
 {% include albums.md %}
+{% include urlpairs.md %}
+{% include sitemap.md %}
 {% include worknotes.md %}
+{% include htau.md %}
 <div class="clusterdiv">
 
 
