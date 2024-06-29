@@ -2,7 +2,7 @@
 layout: default
 ---
 
-
+[Future - Feds Did a Sweep](https://youtu.be/c8rzM_3wepE?si=4DmvyZ_bBtmpoHvY)
 
 ![normani](https://pbs.twimg.com/profile_banners/209003577/1718338162/1500x500)
 ![NormaniAreospaceAwaits](https://pbs.twimg.com/media/GQAcpSaWgAAhbcU?format=jpg&name=large)
@@ -12,7 +12,7 @@ Hi Sartu([Normani](https://thatgrapejuice.net/2024/06/normani-confesses-previous
 
 The more i look at the makeup the more i see your face i am understanding who you are. The mask you guys use for digital camoflauge makes it hard for me. [I Saw Joe biden in one](https://youtu.be/2wf1eA3QUC4?si=9jzjh3mQxAXZG9PE). Its the tightness around his face. 
 
-As for whats happened in the last 72hrs, i went to [Felipe De Neve Branch](https://locator.lacounty.gov/lac/Location/3176721/los-angeles-public-library---felipe-de-neve-branch) behind [Lafayette](https://blog.skateboard.com.au/skateparks/united-states-of-america/lafayette-skate-plaza/). Not that I can skate that well off the ground, but i think that park is over rated. I like the one by [BillieJean](https://www.longbeach.gov/park/park-and-facilities/directory/lincoln-park/), But the HalfPipe at the one by [Samaritan House](https://www.westcoastskateparks.com/skateparks/michael-green-skatepark-long-beach-california) I thought of something since im a [Government Employee](https://www.longbeach.gov/park/recreation-programs/sports-and-athletics/skate-parks/) NASAJPL its gross that i get bullied away at times via poison bc rabbithead gotta run a cycle. 
+As for whats happened in the last 72hrs, i went to [Felipe De Neve Branch](https://locator.lacounty.gov/lac/Location/3176721/los-angeles-public-library---felipe-de-neve-branch) by [Lafayette](https://www.laparks.org/skatepark/lafayette-skate).Not that I can skate that well off the ground, but i think that park is over rated. I like the one by [BillieJean](https://www.longbeach.gov/park/park-and-facilities/directory/lincoln-park/), But the HalfPipe at the one by [Samaritan House](https://www.asklongbeach.org/skateparks-1/michael-green-skate-park) I thought of something since im a [Government Employee](https://www.longbeach.gov/park/recreation-programs/sports-and-athletics/skate-parks/) NASAJPL its gross that i get bullied away at times via poison bc rabbithead gotta run a cycle. 
 
 Anyway at [Felipe](https://www.stirarchitecture.com/about/our-work/felipe-de-neve-branch-library/) Two days ago i got there and there were no availiable machines an the lady did not tell me they had more workstations. But someone with an accent like they work with you told me about a bonus room in the back. There was abroken computer someone stole the ac adaptor so i snatched one off another broken computer and it booted up. At [Durant](https://www.youtube.com/watch?v=i6wkPVjciD4) The machines are obviously spiked for some sort of [TruTv](https://www.trutv.com/shows/impractical-jokers/season-10/episode-16/michael-ian-black)
 
