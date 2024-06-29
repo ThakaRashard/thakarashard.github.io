@@ -57,7 +57,9 @@
 @font-face {
     font-family: Cluster;
     src: url(https://raw.githubusercontent.com/ThakaRashard/thakarashardOLD/master/assets/fonts/clusrg__.ttf);
-    url('../fonts/clusrg__.ttf') format('truetype');
-    url('../fonts/clusrg__.svg') format('svg');
+    url('../fonts/clusrg__.ttf') format('truetype'),
+     url('../fonts/clusrg__.svg') format('svg'),
+    font-weight: normal;
+    font-style: normal;
   }      
          
