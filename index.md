@@ -4,9 +4,13 @@ layout: default
 
 
 
-
-
+{% include gaming.md %}
+{% include albums.md %}
+{% include worknotes.md %}
 <div class="clusterdiv">
+
+
+
 <h1>Hole To Another Universe = bubbleGumpop</h1>
   <embed src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1305556006&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
   
@@ -36,22 +40,6 @@ Anyway at [Felipe](https://www.stirarchitecture.com/about/our-work/felipe-de-nev
 More later performance fixes on ricothaka.github.io
 
 
-
-# No More Parties in LA
-
-[Coi](https://www.coileray.com/#/), [@coilerayAccount suspended](https://x.com/coileray?lang=en) [Coi Leray 🦋@c0ileray](https://x.com/c0ileray?lang=en)
-
-Hey pretty lady, I heard No Parties in LA a while back while we were still at Dance411. Explain to those ppl I really work in MilitaryAerospace so we is we bc somehow, im always around you people. Anyway i saw you made a response. I am so curious about this period. Me and Coral while stressed with Erikas Behavior were having a lot of fun! So i missed alot of important information. Do you think Kendrick iMeeshak from American TopTeam?. Imma do more research b4 i post on [reddit](https://www.reddit.com/r/coilerayy/)
-
-[Coi Leray ft. Lil Durk - No More Parties [Remix] (Official Music Video)](https://www.youtube.com/watch?v=my2ZvqmPaco) [Coi Leray "No More Parties" (Live Performance) | Open Mic](https://www.dailymotion.com/video/x801ggu) [Coi Leray - No More Parties (Prod. Maaly Raw) [Official Audio]](https://www.youtube.com/watch?v=1GsmiUluqcI)
-
-"No More Parties in LA" (often stylized as "No More Parties in L.A.") is a song by American rapper Kanye West from his seventh studio album, The Life of Pablo (2016), featuring vocals from fellow rapper Kendrick Lamar. It was produced by West and Madlib, who began the recording in 2010. The beat was originally offered to Freddie Gibbs before being given to West and Lamar by Madlib. The song was released as the third promotional single from the album as part of West's GOOD Fridays series on January 18, 2016. [Lyrics](https://genius.com/Kanye-west-no-more-parties-in-la-lyrics) [Kanye West - No More Parties in LA (2010 Version)](https://www.youtube.com/watch?v=uyUVEvu1s_4) [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/No_More_Parties_in_LA) [Spotify](https://open.spotify.com/track/0zLClc0emc6qUeV1p5nc99) [PitchFork](https://pitchfork.com/reviews/tracks/17921-kanye-west-no-more-parties-in-la-ft-kendrick-lamar/)
->OPiNiON~> [Kanye Bodied Kendrick in No More Parties in LA](https://www.reddit.com/r/KendrickLamar/comments/90ihsm/kanye_bodied_kendrick_in_no_more_parties_in_la/?rdt=33774)
->LosAngelesMusic [is no more parties in la kendrick and kanyes only collab?](https://www.reddit.com/r/KendrickLamar/comments/rkzywg/is_no_more_parties_in_la_kendrick_and_kanyes_only/)
-
-<embed  allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/242539038&color=%23ffdc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
-
-[Kash Doll Reacts to Kendrick Lamar Name Dropping Her on "6:16 In LA"](https://www.complex.com/music/a/cmplxtara-mahadevan/kash-doll-kendrick-lamar-name-drop-616-in-la)
 [Baby On Board: Kash Doll Welcomes Baby No.2!](https://www.hot97.com/news/baby-on-board-kash-doll-welcomes-baby-no-2/) [Cardi B gets a surprise ear piercing while splurging at upscale jewelry shop in LA: 'I came here for one thing!'](https://www.dailymail.co.uk/tvshowbiz/article-13568629/Cardi-B-ear-piercing-Maria-Tash-jewelry.html) [Lakeyah & Kash Doll "Get Ratchet" On Their Latest Collaboration](https://www.hotnewhiphop.com/819968-lakeyah-kash-doll-get-ratchet-stream) [Kash Doll Is Pregnant! Rapper Expecting Baby No. 2 with Boyfriend Tracy T: 'Extending My Family' (Exclusive)](https://people.com/kash-doll-is-pregnant-rapper-expecting-baby-no-2-with-boyfriend-tracy-t-exclusive-8608002) [Cardi B Teases Song That’s “Very Mean,” Fans Think It’s About BIA](https://www.vibe.com/music/music-news/cardi-b-teases-very-mean-song-bia-response-video-1234886642/)
 [Cardi B Affiliate Star Brim Delays Prison Surrender Due To Family Matters](https://www.hotnewhiphop.com/820165-star-brim-cardi-b-prison-delay-surrender-hip-hop-news)
 [Cardi B Channels Princess Diana in One of the Royal's Iconic Athleisure Outfits — 'Shy Di' Hairstyle and All](https://people.com/cardi-b-recreates-princess-diana-s-athleisure-outfit-8669056) [Cardi B Earns A Fast Top 10 Hit With One Of Latin Music’s Biggest Superstars](https://www.forbes.com/sites/hughmcintyre/2024/06/26/cardi-b-earns-a-fast-top-10-hit-with-one-of-latin-musics-biggest-superstars/)
@@ -452,21 +440,6 @@ An Atlanta-based company specializing in subprime credit cards and auto loans ha
 
 
 
-<a href="https://upload.wikimedia.org/wikipedia/en/9/90/X-Men_COTA_arcade_flyer.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/9/90/X-Men_COTA_arcade_flyer.jpg" style="width:213px;height:316px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" />
-
-## X-Men - Children Of The Atom (950105 USA)
-X-Men: Children of the Atom (Japanese: エックス・メン　チルドレン　オブ　ジ　アトム, Hepburn: Ekkusu Men Chirudoren obu ji Atomu) is an arcade game that was produced by Capcom and released on the CP System II arcade hardware in 1994 in Japan and in 1995 in North America and Europe.
-
-Based on the X-Men comic book, it is the first fighting game produced by Capcom using characters under license from Marvel Comics. Released around the time of the mid-1990s X-Men animated series, the game features voice actors from the series reprising their roles. The game's plot is based on the "Fatal Attractions" story from the comics – players control one of the X-Men or their enemies in their fight against the villain Magneto. They face each of the other characters in the game in best of three one-on-one fighting matches, before battling Juggernaut and Magneto.
-
-The gameplay has much in common with Capcom's previous fighting games, Super Street Fighter II Turbo and Darkstalkers. Children of the Atom adds a combo system that features long combos that can even be performed in mid-air. Also featured in the game are various tactical maneuvers, including the ability for characters to roll. Children of the Atom introduced multi-tiered fighting environments in which the ground would crumble and characters would fall into lower parts of the level. These concepts and the fast pace of the game would provide the basis for Capcom's Marvel vs. Capcom series, which started with the game's successor X-Men vs. Street Fighter.
-
-Ports of the game were released for Sega Saturn, PlayStation and personal computer. Of these, the PlayStation version was not as well received as the other versions, suffering from slowdown and missing frames of animation. [ReadMoreOnWikiPedia](https://en.wikipedia.org/wiki/X-Men:_Children_of_the_Atom_%28video_game%29)
-[SaveState](ricothaka.github.io/xmcotau.save)
-[PlayHere](https://www.retrogames.cc/arcade-games/x-men-children-of-the-atom-950105-usa.html#)
-![omega red](https://pbs.twimg.com/media/GPlqaWGaQAA9f2X?format=jpg&name=large)
- ![xmcota](https://pbs.twimg.com/media/GPlqXMWaUAABpid?format=jpg&name=large)
-![SS2_NEOGEO](https://pbs.twimg.com/media/GPgQv_vaIAEupzP?format=jpg&name=large)
 [Designing For Print With CSS](https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/)
 [Index of /~duncjo01/archive/patterns/windows/ancestry](http://cs.gettysburg.edu/~duncjo01/archive/patterns/windows/ancestry/)
 ![PrarieWind](http://cs.gettysburg.edu/~duncjo01/archive/patterns/windows/ancestry/My%20Pictures/Sample.jpg)
