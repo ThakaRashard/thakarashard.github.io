@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-
+{% include current.md %}
 {% include gaming.md %}
 {% include albums.md %}
 {% include urlpairs.md %}
