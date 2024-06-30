@@ -1,4 +1,9 @@
 # Current
+
+[Gunsmith Cats Episode 1 1080p Subbed](https://youtu.be/rELcbhPheRM?si=mZ4NL3hLQiIRrSdL)
+By <a href="//en.wikipedia.org/wiki/Kenichi_Sonoda" title="Kenichi Sonoda">Kenichi Sonoda</a> - <a rel="nofollow" class="external free" href="https://www.amazon.co.jp/dp/B00A2MCLJY">https://www.amazon.co.jp/dp/B00A2MCLJY</a>, <a href="//en.wikipedia.org/wiki/File:Gunsmith_Cats_volume_1_cover.jpg" title="Fair use of copyrighted material in the context of Gunsmith Cats">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=69585498">Link</a>
+
+
 ![FireIce](https://upload.wikimedia.org/wikipedia/en/f/f2/Fire_and_Ice_1983_poster.png)
 [Fire and Ice (1983 film)](https://youtu.be/iqGl01na3a4?si=PYxA8SzkXaMKxhJc)
 [imdb](https://www.imdb.com/title/tt0085542/)
