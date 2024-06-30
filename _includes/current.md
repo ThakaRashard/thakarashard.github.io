@@ -4,7 +4,7 @@
 # WorkNotes 6/30/2024
 Hi Normani, were in hollywood with a Minecraft sword? WHoever it was knocked my socks off, wow. Hollywood Beauty finally impressed me. Normani are you Dyneesha? Here is a bit of code i put together. Its based off my old [MarsBlog](https://thakarashard.github.io/ricothaka/marsblog.html) Ill add more later my session is about to terminate 
 
-{% include windowbucket.html %}
+ includes ~> windowbucket.html
 
 ![RocketKnightAdventures](https://pbs.twimg.com/media/GRMQiohbQAAM-s9?format=jpg&name=large)
 
