@@ -1,5 +1,15 @@
 # Current
 
+
+# WorkNotes 6/30/2024
+Hi Normani, were in hollywood with a Minecraft sword? WHoever it was knocked my socks off, wow. Hollywood Beauty finally impressed me. Normani are you Dyneesha? Here is a bit of code i put together. Its based off my old [MarsBlog](https://thakarashard.github.io/ricothaka/marsblog.html) Ill add more later my session is about to terminate 
+
+{% include windowbucket.html %}
+
+![RocketKnightAdventures](https://pbs.twimg.com/media/GRMQiohbQAAM-s9?format=jpg&name=large)
+
+retrogames.cc/genesis-games/rocket-knight-adventures-usa.html… https://github.com/ThakaRashard/thakarashard.github.io/blob/master/28400_rocket-knight-adventures-usa.save…
+
 [Gunsmith Cats Episode 1 1080p Subbed](https://youtu.be/rELcbhPheRM?si=mZ4NL3hLQiIRrSdL)
 By <a href="//en.wikipedia.org/wiki/Kenichi_Sonoda" title="Kenichi Sonoda">Kenichi Sonoda</a> - <a rel="nofollow" class="external free" href="https://www.amazon.co.jp/dp/B00A2MCLJY">https://www.amazon.co.jp/dp/B00A2MCLJY</a>, <a href="//en.wikipedia.org/wiki/File:Gunsmith_Cats_volume_1_cover.jpg" title="Fair use of copyrighted material in the context of Gunsmith Cats">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=69585498">Link</a>
 
