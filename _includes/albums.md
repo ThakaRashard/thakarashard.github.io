@@ -1,4 +1,4 @@
-
+[21 Savage, Latto, Rick Ross - Stacks ft. Moneybagg Yo (Music Video) 2024](https://youtu.be/_Y6zDqirIxM?si=rFGnIvpYnpiixgVy)
 [Victoria Monét - Alright (Official Video)](https://youtu.be/q0oGhx2JT1A?si=iz8GzaLk3FvNJDsq)
 [BIA, JID - LIGHTS OUT (Official Music Video)]( https://www.youtube.com/watch?v=8bylnHS1czs) [Latto - Sunday Service (feat. Megan Thee Stallion & Flo Milli) [Remix] (Official Video)](https://youtu.be/9gL0F1xIt2I?si=LKgFKqi5fFW3ufW2) `https://x.com/MooNLOVER404/status/1807920410895569026`
  [Jeezy - Bag Talk ft. Rick Ross, Yo Gotti (Music Video) 2024](https://youtu.be/rP1bfU5R2WE?si=AVCn7gRICgnIx2Eq)
