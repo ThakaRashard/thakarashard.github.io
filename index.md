@@ -3,13 +3,17 @@ layout: default
 ---
 
 
+{% include windowbucket.html %}
 {% include current.md %}
-{% include gaming.md %}
+{% include worknotes.md %}
 {% include albums.md %}
+{% include htau.md %}
+{% include gaming.md %}
+
 {% include urlpairs.md %}
 {% include sitemap.md %}
-{% include worknotes.md %}
-{% include htau.md %}
+
+
 
 <div class="clusterdiv">
 
