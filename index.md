@@ -9,7 +9,6 @@ layout: default
 {% include albums.md %}
 {% include htau.md %}
 {% include gaming.md %}
-
 {% include urlpairs.md %}
 {% include sitemap.md %}
 

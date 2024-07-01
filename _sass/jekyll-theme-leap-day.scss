@@ -8,18 +8,7 @@ by Matt Graham
 @import "rouge-base16-dark";
 
 
-a:hover,
-a:visited a:hover {
-  color: #F2274C;
-  padding: 10px;
-  font-size: 150%;
-}
 
-a {
-  color: #c9ff23;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-  transition: 0.2s;
-}
 
 html {
 
@@ -107,6 +96,21 @@ a {
   color: #4276b6;
   font-weight: 400;
   text-decoration: none;
+  transition: 0.2s;
+}
+
+a:hover,
+a:visited a:hover {
+  color: #F2274C;
+  font-size: 150%;
+  margin:3%;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+}
+
+a {
+  color: #c9ff23;
+  
+ 
 }
 
 a small {
