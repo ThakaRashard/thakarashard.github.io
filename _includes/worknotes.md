@@ -1,5 +1,6 @@
 # WorkNotes
 
+
 ### NAto 
 [NATO Going Commercial to Develop New Tech](https://www.nationaldefensemagazine.org/articles/2024/6/28/nato-going-commercial-to-develop-new-tech)
 

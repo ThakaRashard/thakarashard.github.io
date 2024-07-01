@@ -1,5 +1,10 @@
 # Current
 
+![Astronomy Picture of the Day](https://apod.nasa.gov/apod/image/2108/Luna_Fedez_1600.jpg)
+[https://apod.nasa.gov/apod/image/2108/Luna_Fedez_1600.jpg](https://apod.nasa.gov/apod/astropix.html) [Jupiter_and_Moons](https://apod.nasa.gov/apod/ap200902.html) [RandomApod](https://apod.nasa.gov/apod/random_apod.html)
+
+[Washington DC Mayor requests National Guard assistance amid migrant crisis](https://youtu.be/tVOaE8qByNI)
+
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="color">
     <path fill="#fff" d="M67 17H5.31909V54.8044H67V17Z"/>
@@ -16,6 +21,7 @@
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M67 17H5V55H67V17Z"/>
   </g>
 </svg>
+
 [Homeless in Los Angeles](https://www.youtube.com/watch?v=0U4MfxZoIls) [🛹 Skating Venice Beach | 1st Friday Of Summer 6/21/24 🛹](https://www.youtube.com/watch?v=wstgMIpsSqQ) [🛹 Skating Santa Monica Beach | 1st Friday Of Summer 6/21/24 🛹](https://youtu.be/pv3-uhdgkGg?si=XwCB4a1N1GH70801)
 [Cracking Down On Prostitution | FULL EPISODE | Season 17 - Episode 12 | Cops TV Show](https://youtu.be/Ne55LkDyAMk?si=NNlbPXNKHf9SH1Ad) [Cops Everywhere 🚁🚓 • Ep 31 | Los Angeles, California 🇺🇸 [4K]](https://youtu.be/iKYdCWaePmU?si=5nEO5P0PzLfDCQY-)
 [Woman shot by Long Beach school safety officer](https://youtu.be/Gtz4jcYTgTs?si=sEXkapqVfEGBHrrN) [Gardener arrested for sexual assaults in Long Beach](https://youtu.be/BuDFGegacVs?si=Izb6BCKRdNNQR0ed) [Private security guard attacked while on job in Oakland](https://youtu.be/pcufuLYaDBI?si=YRy8YONs8WKUX-FB)
