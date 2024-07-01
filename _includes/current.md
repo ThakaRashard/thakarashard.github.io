@@ -1,6 +1,24 @@
 # Current
 
 
+### NAto 
+[NATO Going Commercial to Develop New Tech](https://www.nationaldefensemagazine.org/articles/2024/6/28/nato-going-commercial-to-develop-new-tech)
+
+Good Afternoon Mayor Karen,
+I was angry at the MetroSecurityTeam and sent a tweet to [NaTo](https://www.nato.int/) idk if aNYONE pays that much attention to me crying but i want clear direction on structural hierchy here bc im getting positive attention from a few girls i knew back home and i dont want any disrutions Some of these security teams are using Electronic Weapons when they get mad at me over Girl competition. They dont live here and no one will help me with a cellphone, its like a open set up for murder to say good boys dont do well
+
+[Derrick Smith Identified As Security Guard Killed In Long Beach Hit And Run](https://www.youtube.com/watch?v=TgsK8eGMTE4) [Long Beach gets new private security guards](https://youtu.be/NOjm6HBSyJs?si=2IrE9YcDRT7eeO35) [Port Academy Job Profile -- Harbor Patrol](https://youtu.be/ictyWBg7RQA?si=EgW7yzl0rdUMijNF) [Security guard killed in hit-and-run crash in Long Beach](https://www.youtube.com/watch?v=qHEHgUlNesA)
+
+# UltraSonicWeapons 
+[A Dangerous New Class of Weapons Emerges](https://www.nationaldefensemagazine.org/articles/2018/10/19/a-dangerous-new-class-of-weapons-emerges)
+![Sonic and ultrasonic weapons (USW)](https://pbs.twimg.com/media/GRbeMBZaYAEyZSx?format=jpg&name=large)
+Sonic and ultrasonic weapons (USW) are weapons of various types that use sound to injure or incapacitate an opponent. Some sonic weapons make a focused beam of sound or of ultrasound; others produce an area field of sound. As of 2023 military and police forces make some limited use of sonic weapons.[DisCuss](https://en.wikipedia.org/wiki/Talk:Sonic_weapon)
+
+[Long-range acoustic device](https://en.wikipedia.org/wiki/Long-range_acoustic_device)
+![LRAD_POLiCE](https://upload.wikimedia.org/wikipedia/commons/3/32/Soundweapon1.jpg)
+
+A long-range acoustic device (LRAD), acoustic hailing device (AHD) or sound cannon is a specialized loudspeaker that produces sound at high power for communicating at a distance. It has been used as a method of crowd control, which has caused permanent hearing damage, having an extremely high decibel capacity (up to 160 dB measured at one meter from the device).[1] Other uses have included for negotiations in siege situations to deal with piracy at sea; for mass notification during natural disasters or other emergencies; and by defense forces, including several navies.
+
 # WorkNotes 6/30/2024
 Hi Normani, were in hollywood with a Minecraft sword? WHoever it was knocked my socks off, wow. Hollywood Beauty finally impressed me. Normani are you Dyneesha? Here is a bit of code i put together. Its based off my old [MarsBlog](https://thakarashard.github.io/ricothaka/marsblog.html) Ill add more later my session is about to terminate 
 
