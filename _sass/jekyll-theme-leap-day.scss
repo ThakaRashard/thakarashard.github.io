@@ -53,8 +53,15 @@ h3,
 h4,
 h5,
 h6 {
-  color: #333;
-  margin: 0 0 10px;
+  color: white;
+  background: transparent
+    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+    center repeat;
+  font-weight: 900;
+  margin: 5px;
+  padding: 5px;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
+    0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
 }
 
 p,
@@ -65,6 +72,11 @@ pre,
 dl {
   margin: 0 0 20px;
 }
+
+p:first-of-type {
+color:brown;
+}
+
 
 h1,
 h2,
