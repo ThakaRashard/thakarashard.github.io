@@ -1,7 +1,7 @@
 
 [Victoria Monét - Alright (Official Video)](https://youtu.be/q0oGhx2JT1A?si=iz8GzaLk3FvNJDsq)
 [BIA, JID - LIGHTS OUT (Official Music Video)]( https://www.youtube.com/watch?v=8bylnHS1czs) [Latto - Sunday Service (feat. Megan Thee Stallion & Flo Milli) [Remix] (Official Video)](https://youtu.be/9gL0F1xIt2I?si=LKgFKqi5fFW3ufW2) `https://x.com/MooNLOVER404/status/1807920410895569026`
- 
+ [Jeezy - Bag Talk ft. Rick Ross, Yo Gotti (Music Video) 2024](https://youtu.be/rP1bfU5R2WE?si=AVCn7gRICgnIx2Eq)
 [GloRilla - TGIF (Official Music Video)](https://youtu.be/zP6eqCOM7tk?si=X4MRYqL8WtP3DEa-) [Blu Cantrell - Breathe (Official HD Video)](https://youtu.be/KFi-B124AEo?si=dAcvCI1zZ504_kHM) `https://x.com/MooNLOVER404/status/1807917171798135192` [Luther Vandross - Live at Wembley - 1987 - Full Show](https://www.youtube.com/watch?v=NR2v9xll2o0) [DJ Relle Presents - Omeretta The Great Vs Big Latto-2022](https://archive.org/details/DJ_Relle_Presents_-_Omeretta_The_Great_Vs_Big_Latto-2022)
 
 <div class="playlist">
