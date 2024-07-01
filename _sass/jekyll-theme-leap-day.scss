@@ -24,7 +24,7 @@ a {
 html {
 
 
-    font: 14px/22px Arial,"Quattrocento Sans", "Helvetica Neue", Helvetica, Arial,
+    font: 14px/22px "Quattrocento Sans", "Helvetica Neue", Helvetica, Arial,
       sans-serif;
     font-weight: 300;
     margin: 0px;
@@ -475,12 +475,6 @@ nav {
   }
 }
 
-#nav ul
-{
-
-}
-
-
 
 #nav a
 {
@@ -804,6 +798,11 @@ embed {
   scrollbar-width: thin;
 }
 
+iframe {
+  height: 300px;
+  width: 100%;
+}
+
 .office {
   justify-content: space-evenly;
 
@@ -817,6 +816,7 @@ embed {
   background: transparent
     url(https://photojournal.jpl.nasa.gov/archive/PIA02831.gif);
 }
+
 .font {
   padding: 10px;
   flex-basis: 200px;
