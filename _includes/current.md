@@ -1,6 +1,26 @@
 # Current
 
 
+
+![vALLEYtv](https://archive.org/download/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am.thumbs/Valley.Of.The.Dolls.1967.1080p.BluRay.x264-%5BYTS.AM%5D_001136.jpg)
+
+<video controls width="100%" height="auto" poster="https://archive.org/download/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am.thumbs/Valley.Of.The.Dolls.1967.1080p.BluRay.x264-%5BYTS.AM%5D_007142.jpg">
+
+<source src="https://archive.org/download/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am/Valley.Of.The.Dolls.1967.1080p.BluRay.x264-%5BYTS.AM%5D.mp4" type="video/mp4" />    
+<source src="https://archive.org/download/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am/Valley.Of.The.Dolls.1967.1080p.BluRay.x264-%5BYTS.AM%5D.mp4" type="video/mp4" />
+      
+        Download the
+        or
+        <a href="">MP4</a>
+        video.
+</video>
+## Beyond the Valley of the Dolls
+Beyond the Valley of the Dolls is a 1970 American satirical[6][7] musical melodrama film starring Dolly Read, Cynthia Myers, Marcia McBroom, Phyllis Davis, John LaZar, Michael Blodgett, and David Gurian. The film was directed by Russ Meyer and screenwritten by Roger Ebert from a story by Ebert and Meyer.[8]
+
+<iframe src="https://archive.org/embed/beyond.-the.-valley.-of.-the.-dolls.-1970.1080p.-blu-ray.x-264-yts.-ag" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![VALLEY](https://archive.org/download/beyond.-the.-valley.-of.-the.-dolls.-1970.1080p.-blu-ray.x-264-yts.-ag/beyond.-the.-valley.-of.-the.-dolls.-1970.1080p.-blu-ray.x-264-yts.-ag.thumbs/Beyond.The.Valley.Of.The.Dolls.1970.1080p.BluRay.x264-%5BYTS.AG%5D_002340.jpg)
+
 ### NAto 
 [NATO Going Commercial to Develop New Tech](https://www.nationaldefensemagazine.org/articles/2024/6/28/nato-going-commercial-to-develop-new-tech)
 
