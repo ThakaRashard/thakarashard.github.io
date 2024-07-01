@@ -68,3 +68,6 @@ Red Earth, released in Japan as Warzard (ウォーザード, Wōzādo),[1] is a 
 [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Red_Earth_(video_game)) 
 Play WarZard
 <iframe src="https://www.retrogames.cc/embed/9655-red-earth-war-zard-euro-961121.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
+
+[back](./)
