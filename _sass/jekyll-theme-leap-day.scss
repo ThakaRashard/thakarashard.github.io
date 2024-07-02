@@ -292,8 +292,16 @@ header {
   min-height: 76px;
 
   h1 {
-    font-family: "Gill Sans Extrabold", sans-serif;
-    font: 40px/48px "Copse", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: bold 52px Helvetica, Arial, Sans-Serif;
+    text-shadow: 1px 1px #fe4902, 
+                 2px 2px #fe4902, 
+                 3px 3px #fe4902;
+    -webkit-transition: all 0.12s ease-out;
+    -moz-transition:    all 0.12s ease-out;
+    -ms-transition:     all 0.12s ease-out;
+    -o-transition:      all 0.12s ease-out;
+ 
+    /* font: 3em "Gill Sans Extrabold", sans-serif; */
     color: #f3f3f3;
     text-shadow: 2px 2px 3px rgba(255,255,255,0.5);
     /*text-shadow: 0px 2px 0px rgb(242, 211, 56 / 100%);*/
@@ -304,6 +312,22 @@ header {
     -o-text-overflow: ellipsis;
     -ms-text-overflow: ellipsis;
   }
+h1:hover {
+
+  position: relative; 
+  top: -3px; 
+  left: -3px; 
+  text-shadow: 1px 1px #fe4902, 
+               2px 2px #fe4902, 
+               3px 3px #fe4902, 
+               4px 4px #fe4902, 
+               5px 5px #fe4902, 
+               6px 6px #fe4902;
+
+
+
+}
+
 
   p {
     color: #d8d8d8;
