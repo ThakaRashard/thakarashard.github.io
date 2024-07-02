@@ -2,12 +2,14 @@
 layout: default
 ---
 
+
+{% include htau.md %}
 {% include linkroll.md %}
 {% include worknotes.md %}
 {% include current.md %}
 
 {% include albums.md %}
-{% include htau.md %}
+
 {% include gaming.md %}
 {% include urlpairs.md %}
 {% include sitemap.md %}

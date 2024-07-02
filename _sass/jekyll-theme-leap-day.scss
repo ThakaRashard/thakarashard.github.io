@@ -285,28 +285,25 @@ header {
   width: 100%;
   text-align: center;
   background:  linear-gradient(89.2deg, rgb(0, 0, 0) 10.4%, rgb(255, 0, 0) 37.1%, rgb(255, 216, 51) 64.3%, rgb(255, 255, 255) 90.5%);
- 
-  box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
+   box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
   z-index: 99;
   -webkit-font-smoothing: antialiased;
   min-height: 76px;
 
   h1 {
-    font: bold 52px Helvetica, Arial, Sans-Serif;
+    font-weight:900;
     text-shadow: 1px 1px #fe4902, 
                  2px 2px #fe4902, 
                  3px 3px #fe4902;
-    -webkit-transition: all 0.12s ease-out;
-    -moz-transition:    all 0.12s ease-out;
-    -ms-transition:     all 0.12s ease-out;
-    -o-transition:      all 0.12s ease-out;
+
+    transition: all 0.2s ease-out;
  
     /* font: 3em "Gill Sans Extrabold", sans-serif; */
     color: #f3f3f3;
     text-shadow: 2px 2px 3px rgba(255,255,255,0.5);
     /*text-shadow: 0px 2px 0px rgb(242, 211, 56 / 100%);*/
     margin: 0px;
-    white-space: nowrap;
+    white-space: wrap;
     overflow: hidden;
     text-overflow: ellipsis;
     -o-text-overflow: ellipsis;
@@ -489,7 +486,11 @@ nav {
       // right:-12px;
 
       &.tag-h1 {
-        font-size: 1.2em;
+        font-size: 1em;
+        font-size:11px;
+        text-decoration:none;
+        font-weight:600;
+        font-family:verdana, arial, helvetica, sans-serif;
 
         a {
           font-weight: bold;
