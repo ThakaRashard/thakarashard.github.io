@@ -2,6 +2,19 @@
 layout: default
 ---
 
+
+### [FlexBox Demo](https://codepen.io/thakarashard/pen/WNBVzWr)
+<video controls width="100%" height="auto" poster="https://pbs.twimg.com/media/GRg4rl4b0AMgXF2?format=jpg&name=large">
+
+<source src="https://archive.org/download/screen-recording-2024-07-02-3.14.48-pm/Screen%20recording%202024-07-02%203.14.48%20PM.webm" type="video/webm" />    
+<source src="https://archive.org/download/screen-recording-2024-07-02-3.14.48-pm/Screen%20recording%202024-07-02%203.14.48%20PM.webm" type="video/webm" />
+      
+        Download the
+        or
+        <a href="">MP4</a>
+        video.
+</video>
+
 ### [bubblegumpop01](https://bubblegumpop01.tumblr.com/)
 <video controls width="100%" height="auto" poster="https://media1.giphy.com/media/v1.https://pbs.twimg.com/media/GRhDJHPa0AAUJax?format=jpg&name=large">
 
