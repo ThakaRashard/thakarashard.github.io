@@ -2,6 +2,25 @@
 layout: default
 ---
 
+### [bubblegumpop01](https://bubblegumpop01.tumblr.com/)
+<video controls width="100%" height="auto" poster="https://media1.giphy.com/media/v1.https://pbs.twimg.com/media/GRhDJHPa0AAUJax?format=jpg&name=large">
+
+<source src="https://archive.org/download/screen-recording-2024-07-02-3.14.48-pm/Screen%20recording%202024-07-02%203.14.48%20PM.webm" type="video/webm" />    
+<source src="https://archive.org/download/screen-recording-2024-07-02-3.14.48-pm/Screen%20recording%202024-07-02%203.14.48%20PM.webm" type="video/webm" />
+      
+        Download the
+        or
+        <a href="">MP4</a>
+        video.
+</video>
+
+
+![Dopamine](https://pbs.twimg.com/media/GRbVtsyb0AAf-cG?format=jpg&name=large)
+![Me Clean Burning Man](https://pbs.twimg.com/media/GO8FOmxbEAMWU9e?format=jpg&name=large)
+![RedEarth](https://pbs.twimg.com/media/GRWUNVZbgAAVdEa?format=jpg&name=large)
+![Coi](https://pbs.twimg.com/media/GRhDJFxb0AE4OpA?format=jpg&name=large)
+
+
 
 {% include htau.md %}
 {% include linkroll.md %}
@@ -14,8 +33,8 @@ layout: default
 {% include urlpairs.md %}
 {% include sitemap.md %}
 
-
-
+`https://x.com/MooNLOVER404/status/1799143139263066343` makeup
+`https://x.com/MooNLOVER404/status/1799142733220606258`
 <div class="clusterdiv">
 
 
