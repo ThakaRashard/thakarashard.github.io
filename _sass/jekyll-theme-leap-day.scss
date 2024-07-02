@@ -92,9 +92,34 @@ h3 {
 
 }
 
+
+
+a {
+  color: #c9ff23;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  transition: 0.3s;
+}
 a {
   color: #4276b6;
-  font-weight: 400;
+  font-weight: 700;
+  text-decoration: none;
+  transition: 0.2s;
+}
+a:hover,
+a:visited a:hover {
+  color: #F2274C;
+  padding: 10px;
+  font-size: 150%;
+}
+
+a {
+  color: #c9ff23;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  transition: 0.3s;
+}
+a {
+  color: #4276b6;
+  font-weight: 700;
   text-decoration: none;
   transition: 0.2s;
 }
@@ -107,11 +132,6 @@ a:visited a:hover {
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
-a {
-  color: #262626;
-  
- 
-}
 
 a small {
   font-size: 11px;
