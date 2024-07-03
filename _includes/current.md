@@ -21,6 +21,14 @@
 <div class="playlist">
  <div class=" track">
        
+   <IMG src="https://ia903201.us.archive.org/31/items/gfk-ironman/Album/cover.jpg">
+        <audio controls  loop >
+                   <source src="https://archive.org/download/gfk-ironman/Album/03-The%20Faster%20Blade%20%28Ft.%20Raekwon%29.mp3" type="audio/mp4">
+                   Your browser dose not Support the audio Tag
+               </audio>
+    </div>
+ <div class=" track">
+       
    <IMG src="https://ia801304.us.archive.org/13/items/wu-tang-clan-wu-tang-forever_202401/cover.jpg">
         <audio controls  loop >
                    <source src="https://archive.org/download/wu-tang-clan-wu-tang-forever_202401/1-08%20Older%20Gods.m4a" type="audio/mp4">
