@@ -1,5 +1,21 @@
 # Currently Compiling
+![normani](https://pbs.twimg.com/profile_banners/209003577/1718338162/1500x500)
 
+
+
+![NormaniAreospaceAwaits](https://pbs.twimg.com/media/GQAcpSaWgAAhbcU?format=jpg&name=large)
+<iframe src="https://archive.org/embed/screen-recording-2024-07-03-11.17.38-am" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+Hi sHooGz~ Im working from Cahenga at the moment. I recived communication from a friend at work that it would really help me to talk about america in some way, I checked out a book from [EastLosLibrary](https://locator.lacounty.gov/lac/Location/3179490/la-county-library---east-los-angeles-library) , [*Our America*](https://kenburns.com/our-america/) 
+
+>From one of our most treasured filmmakers, a pictorial history of America—a stunning and moving collection of some of Ken Burns’s favorite photographs, with an introduction by Burns, and an essay by longtime MoMA photography curator Sarah Hermanson Meister.
+
+Burns has been making documentaries about American history for more than four decades, using images to vividly re-create our struggles and successes as a nation and a people. As much as anyone alive today, he understands the soul of our country.
+ 
+In Our America, Burns has assembled the images that, for him, best embody nearly two hundred years of the American experiment, taken by some of our most reknowned photographers and by others who worked in obscurity. We see America’s vast natural beauty as well as its dynamic cities and communities. There are striking images of war and civil conflict, and of communities drawing together across lines of race and class. Our greatest leaders appear alongside regular folks living their everyday lives. The photos talk to one another across boundaries and decades and, taken together, they capture the impossibly rich and diverse perspectives and places that comprise the American experience. [Source](https://kenburns.com/our-america/)
+
+
+![Dopamine](https://pbs.twimg.com/media/GRbVtsyb0AAf-cG?format=jpg&name=large)
+![Me Clean Burning Man](https://pbs.twimg.com/media/GO8FOmxbEAMWU9e?format=jpg&name=large)
 ![HiNormani!#ourhouse?](https://www.thebattery.org/wp-content/uploads/2018/02/2.-hand.jpg)
 ![Free Feet?](https://obamawhitehouse.archives.gov/sites/default/files/image/image_file/jb_gilded_liberty_1_e.jpg)
 
@@ -16,10 +32,7 @@ Send these, the homeless, tempest-tost to me."
 [*This Day in History: The Statue of Liberty Came to America*](https://obamawhitehouse.archives.gov/blog/2015/06/17/day-history-statue-liberty-came-america)
 ![UnBoxinG Justice?](https://2.bp.blogspot.com/-qDyZbAJRna4/WAhUQLSnpUI/AAAAAAAALjs/pGKC2Kh4BuEwDn75lZPWN-tA1sDLKZfBgCLcB/s1600/unboxing_the_statue_of_liberty.jpg)
 [Unboxing the Statue of Liberty through rare photographs, 1885](https://rarehistoricalphotos.com/unboxing-statue-liberty-1885/)
-![normani](https://pbs.twimg.com/profile_banners/209003577/1718338162/1500x500)
-![NormaniAreospaceAwaits](https://pbs.twimg.com/media/GQAcpSaWgAAhbcU?format=jpg&name=large)
-![Dopamine](https://pbs.twimg.com/media/GRbVtsyb0AAf-cG?format=jpg&name=large)
-![Me Clean Burning Man](https://pbs.twimg.com/media/GO8FOmxbEAMWU9e?format=jpg&name=large)
+
 ![RedEarth](https://pbs.twimg.com/media/GRWUNVZbgAAVdEa?format=jpg&name=large)
 ![Coi](https://pbs.twimg.com/media/GRhDJFxb0AE4OpA?format=jpg&name=large)
 ### [FlexBox Demo](https://codepen.io/thakarashard/pen/WNBVzWr)
@@ -173,6 +186,7 @@ Send these, the homeless, tempest-tost to me."
 
 retrogames.cc/genesis-games/rocket-knight-adventures-usa.html… https://github.com/ThakaRashard/thakarashard.github.io/blob/master/28400_rocket-knight-adventures-usa.save…
 
-
+![https://edu.google.com/chromebooks/overview/](https://www.lapl.org/sites/default/files/Digital%20Inclusion-2022-header.png)
+Digital Inclusion Week is an annual campaign to bring attention to the need for digital equity in our communities. The library is committed to helping bridge the digital divide by providing resources and access to technology year-round. We provide internet access and computers for public use at all 73 library locations, lend a variety of technology items through our Tech2go program, and offer digital literacy classes for all age groups and skill levels.
 
 [back](./)
