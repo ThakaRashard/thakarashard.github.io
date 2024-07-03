@@ -5543,3 +5543,44 @@ audio:hover, audio:focus, audio:active
 transform: scale(1.05);
 }
 
+
+
+.photoGcontainer {
+  margin: 0 auto;
+    -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+background: url("https://www.transparenttextures.com/patterns/3px-tile.png") ,linear-gradient(90deg, #0700b8 0%, #00ff88 100%);
+  
+ 
+}
+.photoGcontainer h2 
+{
+  font-weight: 900;
+font-family: 'Fredoka One', cursive;
+  font-size:400%;
+padding: 0px;
+margin: 0px;
+text-align: left;
+
+  
+}
+
+
+.photoGcontainer h2::first-line {
+  color: whitesmoke;
+  font-weight: bold;
+  text-shadow:
+    0 0 5px #fff,
+    0 0 10px #fff,
+    0 0 20px #fff,
+    0 0 40px #00FF83,
+    0 0 80px #00FF83,
+    0 0 90px #00FF83,
+    0 0 100px #00FF83,
+    0 0 150px #00FF83;
+  /* WARNING: DO NOT USE THESE */
+  /* Many properties are invalid in ::first-line pseudo-elements */
+  margin-left: 20px;
+  text-indent: 20px;
+}
