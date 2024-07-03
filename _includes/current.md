@@ -1,5 +1,7 @@
 # Currently Compiling
 
+
+<embed src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/895314484&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
 ## Perseverance Rover’s Descent and Touchdown on Mars
 ### Official NASA Video
 
@@ -164,7 +166,7 @@ Send these, the homeless, tempest-tost to me."
 
 
 
-
+[Auto Reverse: a Mixtape Show](https://www.youtube.com/playlist?app=desktop&list=PLwbGwabaYpLefHFZUIvfIbslAJSmrSx-6)
 ### [bubblegumpop01](https://bubblegumpop01.tumblr.com/)
 <video controls width="100%" height="auto" poster="https://media1.giphy.com/media/v1.https://pbs.twimg.com/media/GRhDJHPa0AAUJax?format=jpg&name=large">
 
