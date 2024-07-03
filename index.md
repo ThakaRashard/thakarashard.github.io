@@ -7,9 +7,9 @@ layout: default
 
 
 
-
-
 {% include current.md %}
+{% include monica.md %}
+{% include playlist.md %}
 {% include gaming.md %}
 {% include urlpairs.md %}
 {% include htau.md %}
@@ -19,7 +19,6 @@ layout: default
 {% include linkroll.md %}
 {% include worknotes.md %}
 {% include albums.md %}
-
 {% include sitemap.md %}
 
 `https://x.com/MooNLOVER404/status/1799143139263066343` makeup
@@ -167,21 +166,7 @@ Im spending more time with [La County](https://lacountylibrary.org/) and [La Pub
 `font: normal 10px/18px` from [Jeffery Zeldman(https://zeldman.com/)'s [Listamatic](https://css.maxdesign.com.au/listamatic/horizontal09.htm) content entry, like ppl that work in InfoTech often code and have playgrounds that the public that go to [H&R_BLOCK](https://www.hrblock.com/) will pilfer code for things like porn and diet pills... I just need u to know i am a Designer and [JPL](https://www.jpl.nasa.gov/missions/mariner-9-mariner-i) has used my work on [the virtual tour so im contributing](https://www.jpl.nasa.gov/virtual-tour/)...
 
 
-## [Perseverance Rover's Descent and Touchdown on Mars](https://svs.gsfc.nasa.gov/31250) 
-### [Perseverance Rover’s Descent and Touchdown on Mars: Onboard Camera Views](https://science.nasa.gov/wp-content/uploads/2024/03/45703_JPL-20210222-M2020f-0001-Perseverance_Rovers_Descent_and_Touchdown_on_Mars-1.mp4)
 
->NASA's Mars 2020 Perseverance mission captured thrilling footage of its rover landing in Mars' Jezero Crater on Feb. 18, 2021. The real footage in this video was captured by several cameras that are part of the rover's entry, descent, and landing suite. The views include a camera looking down from the spacecraft's descent stage (a kind of rocket-powered jet pack that helps fly the rover to its landing site), a camera on the rover looking up at the descent stage, a camera on the top of the aeroshell (a capsule protecting the rover) looking up at that parachute, and a camera on the bottom of the rover looking down at the Martian surface.
-
-<video controls width="100%" height="auto" poster="https://www.nasa.gov/wp-content/uploads/2021/06/pia24542-perseverances-selfie-with-ingenuity-1041.jpg">
-    
-<source src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/Perseverance-landing-1080p.mp4" type="video/mp4" />
-         Download the
-        or
-<a href="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/Perseverance-landing-1080p.mp4">MP4</a>
-        video.
-</video>    
-
-[15 Second Clip of Parachute Deployment(MP4) (18.86 MB)](https://science.nasa.gov/wp-content/uploads/2024/03/45732_nasa_perseverance_parachute_deployment.mp4)
 
 Sartu, Vanessa, Normani whatever you go by,The mayor might be bullied by that group participating in The [Coup of LosAngeles](https://www.google.com/search?sca_esv=6ff7ee4f5c0b1e29&rlz=1CASLJZ_enUS1113&sxsrf=ADLYWILNPFUnj-3wzC-9tpZb7tcOV3MmWQ:1718052799915&q=los+angeles+riots&tbm=nws&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J5MIFhvnvU242yFxzEEp3BfblMs7eBu5zPnhtGsrETMyhOqzWtfgc_pCzrf4BYocXLJaX0gJBEKL77s1Ay-4tHfnMqP5vC_ZT8lpSywyzIaNxlK3h27DKyjP4cAIPUhzalTbEILgzj9kP6BqoP0xWu6yYBTYByfUljVA60k5fyr5AlSneg&sa=X&sqi=2&ved=2ahUKEwikruC29dGGAxUbL0QIHVtnA3AQ0pQJegQIDRAB&biw=960&bih=945&dpr=1) [LA 92 (natGeo)](https://www.nationalgeographic.com/tv/movies-and-specials/dab898d3-4259-4f15-bdc8-1ed62c7cfc5e) hollywood must be on some strange [vpn](https://www.nsa.gov/cybersecurity/)! 
 
