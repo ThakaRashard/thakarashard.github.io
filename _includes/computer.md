@@ -1,6 +1,6 @@
 # Computing
 
-
+[Literate programming](https://en.wikipedia.org/wiki/Literate_programming) is a programming paradigm introduced in 1984 by Donald Knuth in which a computer program is given as an explanation of how it works in a natural language, such as English, interspersed (embedded) with snippets of macros and traditional source code, from which compilable source code can be generated.[1] The approach is used in scientific computing and in data science routinely for reproducible research and open access purposes.[2] Literate programming tools are used by millions of programmers today.[3]]
 [Front Matter](https://johtela.github.io/LiterateCS/FrontMatter.html) All of the input files may contain a special block called front matter at the very beginning of them. The front matter is a YAML...[ReadMore](https://johtela.github.io/LiterateCS/)
 
 [Global attributes HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes) 
