@@ -5,7 +5,7 @@
 
 ![NormaniAreospaceAwaits](https://pbs.twimg.com/media/GQAcpSaWgAAhbcU?format=jpg&name=large)
 <iframe src="https://archive.org/embed/screen-recording-2024-07-03-11.17.38-am" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-Hi sHooGz~ Im working from Cahenga at the moment. I recived communication from a friend at work that it would really help me to talk about america in some way, I checked out a book from [EastLosLibrary](https://locator.lacounty.gov/lac/Location/3179490/la-county-library---east-los-angeles-library) , [*Our America*](https://kenburns.com/our-america/) 
+Hi sHooGz~ Im working from Cahenga at the moment. I recived communication from a friend at work that it would really help me to talk about america in some way, I checked out a book from [EastLosLibrary](https://locator.lacounty.gov/lac/Location/3179490/la-county-library---east-los-angeles-library) , [*Our America*](https://kenburns.com/our-america/) Read the quote below if ui qurious! Im having performance issues at the library. I worked on the [Graphite Translucent container background](https://codepen.io/thakarashard/pen/LYowraW) [you wanted](https://archive.org/details/datpiff-mixtape-mf46b1cd)
 
 >From one of our most treasured filmmakers, a pictorial history of America—a stunning and moving collection of some of Ken Burns’s favorite photographs, with an introduction by Burns, and an essay by longtime MoMA photography curator Sarah Hermanson Meister.
 
@@ -13,7 +13,7 @@ Burns has been making documentaries about American history for more than four de
  
 In Our America, Burns has assembled the images that, for him, best embody nearly two hundred years of the American experiment, taken by some of our most reknowned photographers and by others who worked in obscurity. We see America’s vast natural beauty as well as its dynamic cities and communities. There are striking images of war and civil conflict, and of communities drawing together across lines of race and class. Our greatest leaders appear alongside regular folks living their everyday lives. The photos talk to one another across boundaries and decades and, taken together, they capture the impossibly rich and diverse perspectives and places that comprise the American experience. [Source](https://kenburns.com/our-america/)
 
-
+![Our America](https://citysupplyfayetteville.com/cdn/shop/products/image_d376e710-f33a-4bcb-8ed2-26b556cf5d52.jpg)
 ![Dopamine](https://pbs.twimg.com/media/GRbVtsyb0AAf-cG?format=jpg&name=large)
 ![Me Clean Burning Man](https://pbs.twimg.com/media/GO8FOmxbEAMWU9e?format=jpg&name=large)
 ![HiNormani!#ourhouse?](https://www.thebattery.org/wp-content/uploads/2018/02/2.-hand.jpg)
