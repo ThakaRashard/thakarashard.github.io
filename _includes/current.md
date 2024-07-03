@@ -7,6 +7,7 @@ Your huddled masses yearning to breathe free, 
 The wretched refuse of your teeming shore.
 Send these, the homeless, tempest-tost to me."
 — Emma Lazarus
+
 [*This Day in History: The Statue of Liberty Came to America*](https://obamawhitehouse.archives.gov/blog/2015/06/17/day-history-statue-liberty-came-america)
 ![UnBoxinG Justice?](https://2.bp.blogspot.com/-qDyZbAJRna4/WAhUQLSnpUI/AAAAAAAALjs/pGKC2Kh4BuEwDn75lZPWN-tA1sDLKZfBgCLcB/s1600/unboxing_the_statue_of_liberty.jpg)
 [Unboxing the Statue of Liberty through rare photographs, 1885](https://rarehistoricalphotos.com/unboxing-statue-liberty-1885/)
