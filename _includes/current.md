@@ -19,7 +19,17 @@
 
 
 <div class="playlist">
-    <div class=" track">
+
+ <div class=" track">
+       
+   <IMG src="https://i.discogs.com/cMf-QmjL4Ehi1vXOYRkJhRbGj2SBc20GqqJEM5dkKw4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzY0/Mi0xNDQzMzU4NDAx/LTk1MzcuanBlZw.jpeg">
+        <audio controls  loop >
+                   <source src="https://ia601808.us.archive.org/12/items/01-live-from-planet-x/MF%20DOOM/MF%20DOOM%20-%20Operation%20Doomsday/Disc%201/16%20-%20Dead%20Bent.mp3" type="audio/mp4">
+                   Your browser dose not Support the audio Tag
+               </audio>
+    </div>
+
+<div class=" track">
         <IMG src="https://upload.wikimedia.org/wikipedia/commons/7/76/Christopher_Macsurak_Nicki_Minaj_cropped.jpg">
                 <audio controls  loop >
                    <source src="https://archive.org/download/datpiff-mixtape-m8c966ae/04%20-%20BEEFSTEW.mp3" type="audio/mp3">
