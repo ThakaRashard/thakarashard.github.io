@@ -34,3 +34,41 @@ Hey pretty lady, I heard No Parties in LA a while back while we were still at Da
 <embed  allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/242539038&color=%23ffdc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
 
 [Kash Doll Reacts to Kendrick Lamar Name Dropping Her on "6:16 In LA"](https://www.complex.com/music/a/cmplxtara-mahadevan/kash-doll-kendrick-lamar-name-drop-616-in-la)
+
+### [Succa Proof - Nipsey Hussle, Victory Lap [Official Audio]](https://youtu.be/rQEuF5QI0Q8?si=po6HyAj41Pa_iIjM)
+
+# Pussy Talk (feat. Doja Cat)
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/843506032&color=%23e53774&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/thecitygirls" title="City Girls" target="_blank" style="color: #cccccc; text-decoration: none;">City Girls</a> · <a href="https://soundcloud.com/thecitygirls/pussy-talk-feat-doja-cat" title="Pussy Talk (feat. Doja Cat)" target="_blank" style="color: #cccccc; text-decoration: none;">Pussy Talk (feat. Doja Cat)</a></div>
+
+## Yung Miami & [Skilla Baby](https://www.youtube.com/channel/UC4OWd0CnbvaiaozgLZO-L4Q) - CFWM | From The Block Performance 🎙 (Miami)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O5gZWdgSbhM?si=Ogv-taRNh7xaLmJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JgCoHhsW2Is?si=QjEYQOd-tGnxsrZ-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Gucci Mane Freestyle ft. OJ Da Juiceman, Kourtney Money & Dg Yola |Shot By @HoodffairsTv](https://www.youtube.com/watch?v=Tthu77cAOdE)
+[OJ Da Juiceman on Being Around Gucci Mane During Jeezy Beef ](https://youtu.be/jk_tuAnQdm0?si=Vlir14-eTBtNVFM6)
+[T.I. Goes Sneaker Shopping With Complex](https://youtu.be/oeC2NsKrg2A?si=fWiLQB5Go5LJndxW)
+[Ice Spice Goes Sneaker Shopping With Complex](https://www.youtube.com/watch?v=LaQu_ZmlTlc)
+[Sexyy Red Goes Sneaker Shopping With Complex](https://youtu.be/0dRy38lcWBw?si=fciQgNFH_GdZG7cE)
+[Katt Williams Expose How Diddy Force Out Kriss Kross From Hollywood](https://youtu.be/2mpvx9q_cL4?si=PpTWEdd2dYsTMaEg)
+[Gucci Mane - Glockumentry (Trap-A-Thon DVD)](https://youtu.be/iS68nVIGJl8?si=WYzqdRxaBZTsH6t9)
+[Ex-makeup artist for Diddy and Cassie: I have kept this secret for 14 years](https://youtu.be/dioyfeZPxjM?si=kNIUdpdJjMcKjg9l)
+[Birdman, Lil Wayne - Stuntin' Like My Daddy (Official Music Video)](https://youtu.be/_hDPUoUi6_s?si=2-KOuhMx_GrST83X) 
+[Rich Boy - Throw Some D's (Official Music Video)](https://youtu.be/pudIZbCRq_c?si=JUBxiDd_d84wdLXJ)
+[Rich Homie Quan - Type of Way (Official Video)](https://youtu.be/-KKbdErJkiY?si=we7yzqTlRZNDRlWC)
+
+
+
+# Yung Miami
+![YunG MaiMi](https://i.ytimg.com/vi/RiyASZgnwb0/maxresdefault.jpg)
+Yung Miami was born on 11 February 1994 in Miami, Florida, USA. She is a music artist and actress, known for You People (2023), Bad Boys for Life (2020) and Diddy Feat. Bryson Tiller, Ashanti, Yung Miami: Gotta Move On (2022) - [imdb](https://www.imdb.com/name/nm10128953/)
+### [Trina Talks The Rap Game, Her Love Life, Being From Miami, The City Girls & More | Caresha Please](https://youtu.be/n0eL2CzEnhc?si=JOXfZy6YmLVh-vbg)
+## [Yung Miami On Diddy, JT, Caresha Please, Acting in BMF, Marriage & More | The Jason Lee Show](https://youtu.be/RiyASZgnwb0?si=1CMX0NLZ0_JctRX7)
+
+![Birdman ResPecK](https://s3.us-east-2.amazonaws.com/dsr-website/posts/respeck.gif)
+[Birdman Goes Off On The Breakfast Club Power 105.1 (04/22/2016)](https://youtu.be/4jLT7GQYNhI?si=GfwhmLck3_1pZZwY)
+[Common & Pete Rock On Nas vs Biggie, Ye's Genius, Drake & Kendrick, New Album & More | Drink Champs](https://youtu.be/yqH9Vb72M_E?si=0dsX53DpZyOoeuvu)
+[CooleyHigh](https://youtu.be/ANrXC2HArXA?si=xyhyIT8c0Kt0aacV)
+
+## Convo with a killer
+<div style="padding:216.7% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/396000267?h=9c3699c7fc&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Untitled"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
