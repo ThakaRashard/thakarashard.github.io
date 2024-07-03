@@ -1,5 +1,6 @@
 # Currently Compiling
 
+![HiNormani!#ourhouse?](https://www.thebattery.org/wp-content/uploads/2018/02/2.-hand.jpg)
 ![Free Feet?](https://obamawhitehouse.archives.gov/sites/default/files/image/image_file/jb_gilded_liberty_1_e.jpg)
 
 >"Give me your tired, your poor, 
@@ -10,6 +11,7 @@ Send these, the homeless, tempest-tost to me."
 
 
 
+[Lady Liberty: 10 Fascinating Facts](https://www.thebattery.org/lady-liberty-10-fascinating-facts/) 
 [A Responsibility I Take Seriously: By Barack Obama](https://www.scotusblog.com/2016/02/a-responsibility-i-take-seriously/)
 [*This Day in History: The Statue of Liberty Came to America*](https://obamawhitehouse.archives.gov/blog/2015/06/17/day-history-statue-liberty-came-america)
 ![UnBoxinG Justice?](https://2.bp.blogspot.com/-qDyZbAJRna4/WAhUQLSnpUI/AAAAAAAALjs/pGKC2Kh4BuEwDn75lZPWN-tA1sDLKZfBgCLcB/s1600/unboxing_the_statue_of_liberty.jpg)
