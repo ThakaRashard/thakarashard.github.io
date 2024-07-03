@@ -1,61 +1,11 @@
+
+
 [Beastie Boys - Glasgow 1999 (FULL)](https://youtu.be/xJYfOGb3sKw?si=I5QbOauB0Tf3Kji8) [21 Savage, Latto, Rick Ross - Stacks ft. Moneybagg Yo (Music Video) 2024](https://youtu.be/_Y6zDqirIxM?si=rFGnIvpYnpiixgVy)
 [Victoria Monét - Alright (Official Video)](https://youtu.be/q0oGhx2JT1A?si=iz8GzaLk3FvNJDsq)
 [BIA, JID - LIGHTS OUT (Official Music Video)]( https://www.youtube.com/watch?v=8bylnHS1czs) [Latto - Sunday Service (feat. Megan Thee Stallion & Flo Milli) [Remix] (Official Video)](https://youtu.be/9gL0F1xIt2I?si=LKgFKqi5fFW3ufW2) `https://x.com/MooNLOVER404/status/1807920410895569026`
  [Jeezy - Bag Talk ft. Rick Ross, Yo Gotti (Music Video) 2024](https://youtu.be/rP1bfU5R2WE?si=AVCn7gRICgnIx2Eq)
 [GloRilla - TGIF (Official Music Video)](https://youtu.be/zP6eqCOM7tk?si=X4MRYqL8WtP3DEa-) [Blu Cantrell - Breathe (Official HD Video)](https://youtu.be/KFi-B124AEo?si=dAcvCI1zZ504_kHM) `https://x.com/MooNLOVER404/status/1807917171798135192` [Luther Vandross - Live at Wembley - 1987 - Full Show](https://www.youtube.com/watch?v=NR2v9xll2o0) [DJ Relle Presents - Omeretta The Great Vs Big Latto-2022](https://archive.org/details/DJ_Relle_Presents_-_Omeretta_The_Great_Vs_Big_Latto-2022)
 
-<div class="playlist">
-    <div class=" track">
-        <IMG src="https://upload.wikimedia.org/wikipedia/commons/7/76/Christopher_Macsurak_Nicki_Minaj_cropped.jpg">
-                <audio controls  loop >
-                   <source src="https://archive.org/download/datpiff-mixtape-m8c966ae/04%20-%20BEEFSTEW.mp3" type="audio/mp3">
-                   Your browser dose not Support the audio Tag
-               </audio>
-</div>
-
-<div class="  track">
-        <IMG src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Cardi_B_Photo_by_Chris_Allmeid_%28cropped%29.jpg/800px-Cardi_B_Photo_by_Chris_Allmeid_%28cropped%29.jpg">
-                <audio controls  loop >
-                   <source src="https://archive.org/download/cardi-b-invasion-of-privacy/Invasion%20Of%20Privacy/09-Money%20Bag.mp3" type="audio/mp3">
-                   Your browser dose not Support the audio Tag
-               </audio>
-</div>
-    
-<div class=" track">
-        
-  <IMG src="https://ia802304.us.archive.org/21/items/cover_20210924_2327/cover.jpg?cnt=0">
-        <audio controls  loop >
-                   <source src="https://archive.org/download/cover_20210924_2327/01.%20Ain%27t%20Equal.mp3" type="audio/mp4">
-                   Your browser dose not Support the audio Tag
-               </audio>
-    </div>
-         <div class=" track">
-       
-   <IMG src="https://upload.wikimedia.org/wikipedia/commons/4/40/Glorilla_2023.png">
-        <audio controls  loop >
-                   <source src="https://archive.org/download/glorilla-anyways-lifes-great.../GloRilla/Anyways%2C%20Life%27s%20Great%E2%80%A6/06-Get%20That%20Money%20%28Ft.%20Niki%20Pooh%29.mp3" type="audio/mp4">
-                   Your browser dose not Support the audio Tag
-               </audio>
-    </div>
-      <div class=" track">
-        
-   <IMG src="https://archive.org/download/nicki-minaj-barbie-drip/barbie%20drip.jpg">
-        <audio controls  loop >
-                   <source src="https://archive.org/download/nicki-minaj-barbie-drip/Nicki%20Minaj-Barbie%20Drip.mp3" type="audio/mp4">
-                   Your browser dose not Support the audio Tag
-               </audio>
-    </div>
-        <div class="  track">
-        
-   <IMG src="https://upload.wikimedia.org/wikipedia/en/9/93/Megan_Thee_Stallion_-_B.I.T.C.H.jpeg">
-        <audio controls  loop >
-                   <source src="https://archive.org/download/cover_20210924_2327/05.%20B.I.T.C.H.mp3" type="audio/mp4">
-                   Your browser dose not Support the audio Tag
-               </audio>
-    </div>
-  
-  
-  </div>
 
 [Coi Leray - Bops ](https://youtu.be/ttDtl94JNx0?si=YkeVOxDyN_Zz-0Ch)
 [Cardi B ~ Invasion of Privacy - FULL ALBUM](https://youtu.be/K45CbzJcxMQ?si=2YQt6q8U8y7D6rhG&t=139) 

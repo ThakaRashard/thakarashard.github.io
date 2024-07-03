@@ -1,4 +1,97 @@
-# Current
+# Currently Compiling
+![Dopamine](https://pbs.twimg.com/media/GRbVtsyb0AAf-cG?format=jpg&name=large)
+![Me Clean Burning Man](https://pbs.twimg.com/media/GO8FOmxbEAMWU9e?format=jpg&name=large)
+![RedEarth](https://pbs.twimg.com/media/GRWUNVZbgAAVdEa?format=jpg&name=large)
+![Coi](https://pbs.twimg.com/media/GRhDJFxb0AE4OpA?format=jpg&name=large)
+### [FlexBox Demo](https://codepen.io/thakarashard/pen/WNBVzWr)
+<video controls width="100%" height="auto" poster="https://pbs.twimg.com/media/GRg4rl4b0AMgXF2?format=jpg&name=large">
+
+<source src="https://archive.org/download/screen-recording-2024-07-02-2.48.05-pm/Screen%20recording%202024-07-02%202.48.05%20PM.webm" type="video/webm" />    
+<source src="https://archive.org/download/screen-recording-2024-07-02-2.48.05-pm/Screen%20recording%202024-07-02%202.48.05%20PM.webm" type="video/webm" />
+      
+        Download the
+        or
+        <a href="">MP4</a>
+        video.
+</video>
+
+### in action 
+
+
+<div class="playlist">
+    <div class=" track">
+        <IMG src="https://upload.wikimedia.org/wikipedia/commons/7/76/Christopher_Macsurak_Nicki_Minaj_cropped.jpg">
+                <audio controls  loop >
+                   <source src="https://archive.org/download/datpiff-mixtape-m8c966ae/04%20-%20BEEFSTEW.mp3" type="audio/mp3">
+                   Your browser dose not Support the audio Tag
+               </audio>
+</div>
+<div class="  track">
+        <IMG src="https://ia601808.us.archive.org/12/items/01-live-from-planet-x/MF%20DOOM/King%20Geedorah%20-%20Take%20Me%20To%20Your%20Leader/cover.jpg">
+                <audio controls  loop >
+                   <source src="https://archive.org/download/01-live-from-planet-x/MF%20DOOM/King%20Geedorah%20-%20Take%20Me%20To%20Your%20Leader/01%20Fazers.mp3" type="audio/mp3">
+                   Your browser dose not Support the audio Tag
+               </audio>
+</div>
+
+<div class="  track">
+        <IMG src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Cardi_B_Photo_by_Chris_Allmeid_%28cropped%29.jpg/800px-Cardi_B_Photo_by_Chris_Allmeid_%28cropped%29.jpg">
+                <audio controls  loop >
+                   <source src="https://archive.org/download/cardi-b-invasion-of-privacy/Invasion%20Of%20Privacy/09-Money%20Bag.mp3" type="audio/mp3">
+                   Your browser dose not Support the audio Tag
+               </audio>
+</div>
+    
+<div class=" track">
+        
+  <IMG src="https://ia802304.us.archive.org/21/items/cover_20210924_2327/cover.jpg?cnt=0">
+        <audio controls  loop >
+                   <source src="https://archive.org/download/cover_20210924_2327/01.%20Ain%27t%20Equal.mp3" type="audio/mp4">
+                   Your browser dose not Support the audio Tag
+               </audio>
+    </div>
+         <div class=" track">
+       
+   <IMG src="https://upload.wikimedia.org/wikipedia/commons/4/40/Glorilla_2023.png">
+        <audio controls  loop >
+                   <source src="https://archive.org/download/glorilla-anyways-lifes-great.../GloRilla/Anyways%2C%20Life%27s%20Great%E2%80%A6/06-Get%20That%20Money%20%28Ft.%20Niki%20Pooh%29.mp3" type="audio/mp4">
+                   Your browser dose not Support the audio Tag
+               </audio>
+    </div>
+      <div class=" track">
+        
+   <IMG src="https://archive.org/download/nicki-minaj-barbie-drip/barbie%20drip.jpg">
+        <audio controls  loop >
+                   <source src="https://archive.org/download/nicki-minaj-barbie-drip/Nicki%20Minaj-Barbie%20Drip.mp3" type="audio/mp4">
+                   Your browser dose not Support the audio Tag
+               </audio>
+    </div>
+        <div class="  track">
+        
+   <IMG src="https://upload.wikimedia.org/wikipedia/en/9/93/Megan_Thee_Stallion_-_B.I.T.C.H.jpeg">
+        <audio controls  loop >
+                   <source src="https://archive.org/download/cover_20210924_2327/05.%20B.I.T.C.H.mp3" type="audio/mp4">
+                   Your browser dose not Support the audio Tag
+               </audio>
+    </div>
+  
+  
+  </div>
+
+
+
+
+### [bubblegumpop01](https://bubblegumpop01.tumblr.com/)
+<video controls width="100%" height="auto" poster="https://media1.giphy.com/media/v1.https://pbs.twimg.com/media/GRhDJHPa0AAUJax?format=jpg&name=large">
+
+<source src="https://archive.org/download/screen-recording-2024-07-02-3.14.48-pm/Screen%20recording%202024-07-02%203.14.48%20PM.webm" type="video/webm" />    
+<source src="https://archive.org/download/screen-recording-2024-07-02-3.14.48-pm/Screen%20recording%202024-07-02%203.14.48%20PM.webm" type="video/webm" />
+      
+        Download the
+        or
+        <a href="">MP4</a>
+        video.
+</video>
 
 ![Astronomy Picture of the Day](https://apod.nasa.gov/apod/image/2108/Luna_Fedez_1600.jpg)
 [https://apod.nasa.gov/apod/image/2108/Luna_Fedez_1600.jpg](https://apod.nasa.gov/apod/astropix.html) [Jupiter_and_Moons](https://apod.nasa.gov/apod/ap200902.html) [RandomApod](https://apod.nasa.gov/apod/random_apod.html)
@@ -28,21 +121,6 @@
 
 retrogames.cc/genesis-games/rocket-knight-adventures-usa.html… https://github.com/ThakaRashard/thakarashard.github.io/blob/master/28400_rocket-knight-adventures-usa.save…
 
-[Gunsmith Cats Episode 1 1080p Subbed](https://youtu.be/rELcbhPheRM?si=mZ4NL3hLQiIRrSdL)
-By <a href="//en.wikipedia.org/wiki/Kenichi_Sonoda" title="Kenichi Sonoda">Kenichi Sonoda</a> - <a rel="nofollow" class="external free" href="https://www.amazon.co.jp/dp/B00A2MCLJY">https://www.amazon.co.jp/dp/B00A2MCLJY</a>, <a href="//en.wikipedia.org/wiki/File:Gunsmith_Cats_volume_1_cover.jpg" title="Fair use of copyrighted material in the context of Gunsmith Cats">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=69585498">Link</a>
-
-
-![FireIce](https://upload.wikimedia.org/wikipedia/en/f/f2/Fire_and_Ice_1983_poster.png)
-[Fire and Ice (1983 film)](https://youtu.be/iqGl01na3a4?si=PYxA8SzkXaMKxhJc)
-[imdb](https://www.imdb.com/title/tt0085542/)
-<iframe src="https://archive.org/embed/a137ee3e2a37701695abd791d95bfeaf-1080p" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-Red Earth / War-Zard (Euro 961121)
-Red Earth, released in Japan as Warzard (ウォーザード, Wōzādo),[1] is a fantasy-themed 2D fighting game released by Capcom as an arcade game in 1996. It was the first game for Capcom's CP System III hardware,[2] the same hardware which Street Fighter III and its derivatives ran on.[3] After not being released on a home platform for 26 years, it was announced on February 20, 2022 that Red Earth would receive its first port as a part of the Capcom Fighting Collection on June 24, 2022 for PlayStation 4, Xbox One, Nintendo Switch, and PC.[4] 
-
-![WarZard](https://upload.wikimedia.org/wikipedia/en/1/12/Red_Earth_game_poster.jpg)
-[ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Red_Earth_(video_game)) 
-Play WarZard
-<iframe src="https://www.retrogames.cc/embed/9655-red-earth-war-zard-euro-961121.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
 
 
 [back](./)

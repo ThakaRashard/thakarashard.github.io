@@ -1,5 +1,23 @@
 # Computing
+[Is there any crossbrowser solution for playing flac? (or is it possible in theory to make one)](https://stackoverflow.com/questions/20557049/is-there-any-crossbrowser-solution-for-playing-flac-or-is-it-possible-in-theor)
+![FLAC](https://upload.wikimedia.org/wikipedia/commons/a/a2/FLAC_logo_vector.svg)
+FLAC (/flæk/; Free Lossless Audio Codec) is an audio coding format for lossless compression of digital audio, developed by the [Xiph.Org Foundation](https://xiph.org/),FLAC is specifically designed for efficient packing of audio data, unlike general-purpose lossless algorithms such as DEFLATE, which are used in ZIP and gzip. While ZIP may reduce the size of a CD-quality audio file by 10–20%, FLAC is able to reduce the size of audio data by 40–50% by taking advantage of the characteristics of audio.
 
+[File formats for the <audio> tag](https://www.heamusic.com/Documents/Sound/HTML5_Audio_Formats.html)
+Format	Chrome	Firefox	Safari	IE9	iOS	Comment
+Opus Audio
+no	yes**	no	no	no	Free (seems to be very promising)
+WebM Audio
+yes	yes	no*	no	no	Free codec "made for the web"
+Ogg Vorbis
+yes	yes	no*	no	no	Free codec (all Android)
+MP3	yes	yes***	yes	yes	yes	Not free and potentially expensive licensing fees.
+MP4
+yes	yes***	yes	yes	yes	Not free (iOS has only support MP3 and AAC).
+FLAC
+no	no	no	no	no	Free Lossless Audio Codec (little support)
+
+[TableGenerator](https://tableconvert.com/mediawiki-to-markdown)
 ` CSS Tool Generators`
 [CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds)
 [CSS3 Patterns Gallery](https://projects.verou.me/css3patterns/)

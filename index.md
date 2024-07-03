@@ -3,62 +3,25 @@ layout: default
 ---
 
 
-### [FlexBox Demo](https://codepen.io/thakarashard/pen/WNBVzWr)
-<video controls width="100%" height="auto" poster="https://pbs.twimg.com/media/GRg4rl4b0AMgXF2?format=jpg&name=large">
-
-<source src="https://archive.org/download/screen-recording-2024-07-02-2.48.05-pm/Screen%20recording%202024-07-02%202.48.05%20PM.webm" type="video/webm" />    
-<source src="https://archive.org/download/screen-recording-2024-07-02-2.48.05-pm/Screen%20recording%202024-07-02%202.48.05%20PM.webm" type="video/webm" />
-      
-        Download the
-        or
-        <a href="">MP4</a>
-        video.
-</video>
-
-### [bubblegumpop01](https://bubblegumpop01.tumblr.com/)
-<video controls width="100%" height="auto" poster="https://media1.giphy.com/media/v1.https://pbs.twimg.com/media/GRhDJHPa0AAUJax?format=jpg&name=large">
-
-<source src="https://archive.org/download/screen-recording-2024-07-02-3.14.48-pm/Screen%20recording%202024-07-02%203.14.48%20PM.webm" type="video/webm" />    
-<source src="https://archive.org/download/screen-recording-2024-07-02-3.14.48-pm/Screen%20recording%202024-07-02%203.14.48%20PM.webm" type="video/webm" />
-      
-        Download the
-        or
-        <a href="">MP4</a>
-        video.
-</video>
-
-
-![Dopamine](https://pbs.twimg.com/media/GRbVtsyb0AAf-cG?format=jpg&name=large)
-![Me Clean Burning Man](https://pbs.twimg.com/media/GO8FOmxbEAMWU9e?format=jpg&name=large)
-![RedEarth](https://pbs.twimg.com/media/GRWUNVZbgAAVdEa?format=jpg&name=large)
-![Coi](https://pbs.twimg.com/media/GRhDJFxb0AE4OpA?format=jpg&name=large)
 
 
 
+
+
+
+{% include current.md %}
+{% include urlpairs.md %}
 {% include htau.md %}
+{% include design.md %}
 {% include linkroll.md %}
 {% include worknotes.md %}
-{% include current.md %}
-
 {% include albums.md %}
-
 {% include gaming.md %}
-{% include urlpairs.md %}
 {% include sitemap.md %}
 
 `https://x.com/MooNLOVER404/status/1799143139263066343` makeup
 `https://x.com/MooNLOVER404/status/1799142733220606258`
-<div class="clusterdiv">
 
-
-
-<h1>Hole To Another Universe = bubbleGumpop</h1>
-  <embed src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1305556006&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
-  
-  With Css, websites can finally use fonts other than the pre selected "web-safe" fonts.
-  copyright
-  en cluster designed and encoded by Lopetz96:büro destruct. ©copyright büro destruct 1996.
-</div>
 
 [Jiah](https://soundcloud.com/jiahofficial)
 <embed src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1175144206&color=%23f2274c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
@@ -313,8 +276,6 @@ The National Science Foundation (U.S.) sponsors meteorite-collecting expeditions
 
 [REDDiT Linux users, what's your favourite bash prompt?](https://www.reddit.com/r/linux/comments/1z33lj/linux_users_whats_your_favourite_bash_prompt/)
 
-![Atlanta](https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147806/atlanta_oli_2020127.jpg)
-[Changing Atlanta](https://earthobservatory.nasa.gov/images/147806/changing-atlanta)
 <div class="mro_banner">
   <img src="https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png" alt="Nature" style="width:100%;">
   <div class="innertext-block">
