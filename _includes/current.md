@@ -134,14 +134,9 @@ About this job, its not that normal to pretend im not on like a lot of missions,
     <img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00001/ids/edr/browse/edl/EBF_0001_0667022756_679ECV_N0010052EDLC00001_0010LUJ01_1200.jpg">
      
 
-<h1><span id="Main_heading">Main heading</span></h1>
-    <h2><span id="Subheading">Subheading</span></h2>
-    <h3><span id="Sub-subheading">Sub-subheading</span></h3>
-    <h4><span id="sub-sub-subheading">sub-sub-subheading</span></h4>
-    <h5><span id="sub-sub-sub-subheading">sub-sub-sub-subheading</span></h5>
-    <h6><span id="sub-sub-sub-sub-subheading">sub-sub-sub-sub-subheading</span></h6>
+
     
- <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/BoardingPass_MyNameOnFutureMission.png" />
+<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/BoardingPass_MyNameOnFutureMission.png" />
 <embed src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1009995931&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
 
 <embed src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/895314484&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />

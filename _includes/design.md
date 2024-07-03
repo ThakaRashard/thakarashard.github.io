@@ -1,5 +1,13 @@
 # Design~
 
+
+<h1><span id="Main_heading">Main heading</span></h1>
+<h2><span id="Subheading">Subheading</span></h2>
+<h3><span id="Sub-subheading">Sub-subheading</span></h3>
+<h4><span id="sub-sub-subheading">sub-sub-subheading</span></h4>
+<h5><span id="sub-sub-sub-subheading">sub-sub-sub-subheading</span></h5>
+<h6><span id="sub-sub-sub-sub-subheading">sub-sub-sub-sub-subheading</span></h6>
+
 <div class="photoGcontainer">
   <h2 style="color:white;" class="neon">
 
