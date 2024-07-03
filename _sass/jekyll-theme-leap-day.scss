@@ -19,14 +19,17 @@ html {
     margin: 0px;
     padding: 0px 0 20px 0px;
     /*  background: url(../images/body-background.png) #eae6d1; */
+    /*
+    
     background-image: url("https://fgbg.art/static/motw_hokutomaru-162019510b57d8c7d782751c7bf18cf4.gif");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     height: 100vh;
     background-attachment: fixed;
-
-
+*/
+    background: url("https://fgbg.art/static/motw_hokutomaru-162019510b57d8c7d782751c7bf18cf4.gif") 0 / cover fixed; /* centered full background code */
+  }
 
 }
 body {

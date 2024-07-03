@@ -1,4 +1,9 @@
 # Computing
+
+
+[Global attributes HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes) 
+>Global attributes are attributes common to all HTML elements; they can be used on all elements, though they may have no effect on some elements.
+
 [Is there any crossbrowser solution for playing flac? (or is it possible in theory to make one)](https://stackoverflow.com/questions/20557049/is-there-any-crossbrowser-solution-for-playing-flac-or-is-it-possible-in-theor)
 ![FLAC](https://upload.wikimedia.org/wikipedia/commons/a/a2/FLAC_logo_vector.svg)
 FLAC (/flæk/; Free Lossless Audio Codec) is an audio coding format for lossless compression of digital audio, developed by the [Xiph.Org Foundation](https://xiph.org/),FLAC is specifically designed for efficient packing of audio data, unlike general-purpose lossless algorithms such as DEFLATE, which are used in ZIP and gzip. While ZIP may reduce the size of a CD-quality audio file by 10–20%, FLAC is able to reduce the size of audio data by 40–50% by taking advantage of the characteristics of audio.
