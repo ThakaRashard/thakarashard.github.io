@@ -1,6 +1,8 @@
 # Currently Compiling
 ![normani](https://pbs.twimg.com/profile_banners/209003577/1718338162/1500x500)
-
+### your headlines
+![Normani compared to Beyonce](https://hips.hearstapps.com/hmg-prod/images/beymani-1x1-1552579818.jpg)
+[Normani | Dopamine, Album Delays, James Blake](https://www.youtube.com/watch?v=RyCLVKC9WBo) [Gunna?](https://www.youtube.com/shorts/Qbognbfn8RQ) [Rising Star Normani Is Being Compared to Beyoncé After This Jimmy Fallon Performance](https://www.oprahdaily.com/entertainment/tv-movies/a26823068/normani-beyonce-jimmy-fallon-performance/?utm_source=google&utm_medium=cpc&utm_campaign=mgu_ga_opr_md_pmx_us_urlx_18700515769&gad_source=2&gclid=EAIaIQobChMIhdbMm86LhwMVMozCCB3eKgUiEAAYASAAEgKkGfD_BwE) 
 
 
 ![NormaniAreospaceAwaits](https://pbs.twimg.com/media/GQAcpSaWgAAhbcU?format=jpg&name=large)
@@ -9,9 +11,9 @@ Hi sHooGz~ Im working from Cahenga at the moment. I recived communication from a
 
 >From one of our most treasured filmmakers, a pictorial history of America—a stunning and moving collection of some of Ken Burns’s favorite photographs, with an introduction by Burns, and an essay by longtime MoMA photography curator Sarah Hermanson Meister.
 
-Burns has been making documentaries about American history for more than four decades, using images to vividly re-create our struggles and successes as a nation and a people. As much as anyone alive today, he understands the soul of our country.
+>Burns has been making documentaries about American history for more than four decades, using images to vividly re-create our struggles and successes as a nation and a people. As much as anyone alive today, he understands the soul of our country.
  
-In Our America, Burns has assembled the images that, for him, best embody nearly two hundred years of the American experiment, taken by some of our most reknowned photographers and by others who worked in obscurity. We see America’s vast natural beauty as well as its dynamic cities and communities. There are striking images of war and civil conflict, and of communities drawing together across lines of race and class. Our greatest leaders appear alongside regular folks living their everyday lives. The photos talk to one another across boundaries and decades and, taken together, they capture the impossibly rich and diverse perspectives and places that comprise the American experience. [Source](https://kenburns.com/our-america/)
+>In Our America, Burns has assembled the images that, for him, best embody nearly two hundred years of the American experiment, taken by some of our most reknowned photographers and by others who worked in obscurity. We see America’s vast natural beauty as well as its dynamic cities and communities. There are striking images of war and civil conflict, and of communities drawing together across lines of race and class. Our greatest leaders appear alongside regular folks living their everyday lives. The photos talk to one another across boundaries and decades and, taken together, they capture the impossibly rich and diverse perspectives and places that comprise the American experience. [Source](https://kenburns.com/our-america/)
 
 ![Our America](https://citysupplyfayetteville.com/cdn/shop/products/image_d376e710-f33a-4bcb-8ed2-26b556cf5d52.jpg)
 ![Dopamine](https://pbs.twimg.com/media/GRbVtsyb0AAf-cG?format=jpg&name=large)
@@ -19,8 +21,8 @@ In Our America, Burns has assembled the images that, for him, best embody nearly
 ![HiNormani!#ourhouse?](https://www.thebattery.org/wp-content/uploads/2018/02/2.-hand.jpg)
 ![Free Feet?](https://obamawhitehouse.archives.gov/sites/default/files/image/image_file/jb_gilded_liberty_1_e.jpg)
 
->"Give me your tired, your poor, 
-Your huddled masses yearning to breathe free, 
+>"Give me your tired, your poor,
+Your huddled masses yearning to breathe free,
 The wretched refuse of your teeming shore.
 Send these, the homeless, tempest-tost to me."
 — Emma Lazarus
