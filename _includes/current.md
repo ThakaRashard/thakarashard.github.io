@@ -1,4 +1,21 @@
 # Currently Compiling
+
+## Perseverance Rover’s Descent and Touchdown on Mars
+### Official NASA Video
+
+
+<video width="500" autoplay="" loop="" muted="">
+      <source src="https://science.nasa.gov/wp-content/uploads/2024/03/30414_msl20120808_malinheatshield-640.mp4" type="video/mp4" />
+
+      Your browser does not support the video tag.
+  </video>
+
+<br>
+<embed  src="https://www.youtube.com/embed/4czjS9h4Fpg?si=Dhkd5gau1VRbYA_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen />
+[Take A Tour](https://www.jpl.nasa.gov/virtual-tour/)
+
+
+
 ![normani](https://pbs.twimg.com/profile_banners/209003577/1718338162/1500x500)
 ### your headlines
 ![Normani compared to Beyonce](https://hips.hearstapps.com/hmg-prod/images/beymani-1x1-1552579818.jpg) [Normani: Dopamine, Growth & Tour | Apple Music](https://www.youtube.com/watch?v=IH5qyYd0-4I)

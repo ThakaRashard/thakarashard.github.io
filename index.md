@@ -13,7 +13,7 @@ layout: default
 {% include gaming.md %}
 {% include urlpairs.md %}
 {% include htau.md %}
-{% include design.md %}
+{% include watchlist.md %}
 {% include civic.md %}
 {% include design.md %}
 {% include linkroll.md %}

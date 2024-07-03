@@ -1,3 +1,44 @@
+
+<div class="section_hr">
+  <a href="https://www.b98.tv/videos_categories/studios/">./HoleToAnotherUniverse/TheFlintStones.sh</a>
+</div> 
+
+![PebblesCoral](https://media1.tenor.com/m/JObiYxQ1epcAAAAC/sleep-good-night.gif)
+
+## [Pebbles’ Birthday Party](https://www.b98.tv/video/pebbles-birthday-party/)
+13629 views
+Fred makes arrangements for Pebbles’ first birthday and the Water Buffalo Lodge parties. Trouble ensues when the only caterer in town muddles the parties, including sending a children’s clown to the Water Buffalo Lodge and dancing girls to the babies’ party, and Fred gets blamed for it. Teaser is again a scene from the middle of the episode. [B98tv CArtoons](https://www.b98.tv/video/pebbles-birthday-party)
+
+<div class="section_hr">
+  <a href="https://archive.org/download/garfield-s-01-e-09-the-binky-show-keeping-cool-dont-move">./HoleToAnotherUniverse/TheFlintStones.sh</a>
+</div> 
+<video controls 
+  src="https://ia600506.us.archive.org/24/items/youtube-UFrWljsz9eo/UFrWljsz9eo.mp4"
+  poster="https://i.ytimg.com/vi/82lOD6znIic/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLCAnPUsERsRLGZl5bj3qCpecKRrRA"
+  >
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/youtube-UFrWljsz9eo/UFrWljsz9eo.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+## [ABC Network](https://abc.com/) - The Flintstones - "Fred's Flying Lesson" (Promo, 1965)
+Here (from an original 2" Quad tape) is a promo for The Flintstones episode "Fred's Flying Lesson," to air at 7:30pm (6:30pm Central time).
+
+This promo starts with a "swinging" RCA TK-60 black-and-white camera with an 'abc' sticker on the side (this was their ID between 1964 and 1966). Also, although this promo was in black-and-white, The Flintstones itself aired in color by this point on the network (one of the very few prior to their increasing color programming in the 1965-66 season).
+
+Ending voiceover by ??
+
+This promo aired on local Chicago TV on Friday, January 1st 1965 at about 6:29pm.
+
+About The Museum of Classic Chicago Television: - [imdb](https://www.imdb.com/title/tt0166203/)  
+[Pebbles' Birthday Party (1964)](https://www.imdb.com/title/tt0580218/fullcredits)
+[theFlinTstones Pebbles Birthday](https://tubitv.com/tv-shows/596255/s05-e04-pebbles-birthday-party)
+[Top_Cartoons_Tv:Pebbles’ Birthday Party](https://www.topcartoons.tv/cartoons/pebbles-birthday-party/)
+
+
+
+![https://pbs.twimg.com/media/GIz-b_FasAAFssX?format=jpg&name=large](https://pbs.twimg.com/media/GIz-b_FasAAFssX?format=jpg&name=large)
+
 ![TRON](https://upload.wikimedia.org/wikipedia/commons/f/f9/Tron_%28Disney%29%2C_Logo.svg)
 [imdb](https://www.imdb.com/title/tt0084827/) [TronGame](https://www.classicgamesarcade.com/game/21670/tron-game.html)
 
