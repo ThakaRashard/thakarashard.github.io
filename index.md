@@ -9,6 +9,7 @@ layout: default
 
 {% include current.md %}
 {% include monica.md %}
+{% include albums.md %}
 {% include playlist.md %}
 {% include gaming.md %}
 {% include urlpairs.md %}

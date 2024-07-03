@@ -1,4 +1,130 @@
+# Albums
 
+
+
+# <(''<)  <( ' ' )>  (> '')>
+
+![ATLien420](https://pbs.twimg.com/media/GLoRhfRbMAA8_JK?format=jpg&name=large)
+
+<embed src="https://www.youtube.com/embed/qxyxqVDjSzs?si=FJLDFHo9UgZocaYA" title="YouTube video player"  allowfullscreen />
+<embed src="https://www.youtube.com/embed/5YMYrB0dqoU?si=ShVaFTO1D4851hIv" title="YouTube video player"  allowfullscreen />
+
+## Marvel Super Heroes (Euro 951024)
+by [Capcom](https://games.capcomusa.com/)  [Play At The internet Arcade](https://archive.org/details/arcade_msh) <(''<)  <( ' ' )>  (> '')>
+<div class="pinupImage expandingGallery"><img src="https://pbs.twimg.com/media/GHhryv7aUAEygHp?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GHhxw6lbkAEvTnI?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GFr9Rsea0AA6D8R?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GJyKxTIbEAAVuT9?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GFr3hVJagAAm7la?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GHi26hTasAAOD99?format=jpg&name=large" />
+<img src="https://i1.sndcdn.com/artworks-000327590304-xr9ecf-t500x500.jpg" />
+<img src="https://pbs.twimg.com/media/F_zwoXjasAA5Vun?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/F_zw9nuaoAAtmI1?format=jpg&name=small" />
+
+
+</div>
+
+![ATLiEN](https://pbs.twimg.com/media/GILodwkaMAASXdr?format=jpg&name=4096x4096)
+
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
+
+<div class="gullies">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+<embed width="100%" height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1413792211&color=%23446ff2&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />SZA - Sos Full Album</a></div>
+
+I listened to [Ctrl](https://www.essence.com/entertainment/only-essence/sza-ctrl-essay/) and understand a lot more about black adolescent emotions, i saw u in [Hollywood](https://tvtropes.org/pmwiki/pmwiki.php/Main/HollywoodHistory), after looking past the grey i realize im not that old! I dont know what i told you in Atlanta, but im not a person to leave loose strings, i may not even be important enough to you to be mentioned. Either way, i asked you for girlfriend advice and your album delivered again, thanks. im more at peace being single(ish) I dont want to talk about Normani bc im still scared thats you, i had a bedroom bandit that was going to the studio, she bonded like a step mother and coral would continue sleeping whenever she came over, or she put yquil in her lunch at Parkside. I was not given foodstamps back then so me an coral got skinny, so i may have all these relationships in my head with the pretty girls from up the street. At the very least im your fan... 
+
+
+# Gullies on Mars 
+![Gullies on Mars](https://www.nasa.gov/wp-content/uploads/2023/03/pia23675.jpg?resize=1024,640)
+[Gullies on Mars](https://www.nasa.gov/image-article/gullies-mars/)
+
+## Bright Gully Deposits on Mars
+![Bright Gully Deposits on Mars](https://science.nasa.gov/wp-content/uploads/2024/03/5247_1_Bright_Gully_Deposits_on_Mars-full2.jpg)
+[Bright Gully Deposits on Mars](https://science.nasa.gov/wp-content/uploads/2024/03/5247_1_Bright_Gully_Deposits_on_Mars-full2.jpg)
+
+[California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+
+<div class="gullies">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+
+<embed height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/899207614&amp;color=%2379f281&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%" />
+
+Ella Mai::Not Another Love Song
+
+## YoungBoy Never Broke Again - We Poppin (feat. Birdman)
+<embed  src="https://www.youtube.com/embed/SKexLz5QRN0?si=09OSnzNjbIoy50dD" title="YouTube video player"  allowfullscreen />
+
+
+
+I have not really connected to any of your songs before, but today is different. I miss riding in [Savannah](https://visitsavannah.com/). I lost my little girl, the one that was with me when you an your girl pulled up on me in Savannah. That song was really healing. Im in Los Angeles, i got intimate with [Normani](https://variety.com/2024/music/news/normani-dopamine-debut-solo-album-1235918512/) and i dont know what life is, but i saw that LenoxMall tape when [Allied](https://www.aus.com/) tried you. They had this Intership program at Dance411 an a few girls encircled me, we went to Graveyard and HodgePodge for meetings, an after some reondevus with about 4 different girls that all wear the same makeup i realized i got played... There is this lightskinone i see in Hollywood hellafly, used to dance there... Anyway Im running bc i was accused of killing erika and ppl trying to kill me bc the charge cant stick! [Nasa](https://www.jpl.nasa.gov/) has been monitoring me an i know i can get clear! If you stuck in LosAngeles go get a BackgroundCheck its [FortMcFphereson](https://militarybases.com/georgia/fort-mcpherson/) for LA bc im getting taht since im criminally clean they putting a lot of pressure on me to stay healthy so they can come home. Erika is [Latto](https://www.essence.com/celebrity/mulatto-rapper/) her an Gucci was ... actually u know all there was a [namechange](https://www.11alive.com/article/entertainment/television/programs/the-a-scene/why-rapper-mulatto-changed-her-name/85-2e9c3a1c-0d0f-4ea3-9589-91ded4a60165) an im hurt but since Matt is involved i hope there was like a bad trick bc, at somepoint hey will be free from Playboy an im grieving Normani getting shit Erika missed out on bc they would never give her privacy as a married woman. Its Genocide man they have a word for it in California... [eugenics](https://www.latimes.com/business/story/2020-07-07/caltech-robert-millikan-eugenics-sterilization)
+
+
+
+{% highlight python linenos hl_lines="1 3 4" %}
+print("YoungBoy Never Broke Again - We Poppin (feat. Birdman)")
+print(Normani ride with me ...)
+{% endhighlight %}
+
+---
+# Important Tweets 
+```js
+// https://x.com/RicoThaka/status/1778868638726115572
+// https://x.com/MooNLOVER404/status/1778533571399123058
+// https://x.com/MooNLOVER404/status/1778534422075277526
+// https://x.com/MooNLOVER404/status/1777831378148835715 
+// https://x.com/MooNLOVER404/status/1778506180756975799// 
+// https://x.com/RicoThaka/status/1777400067063701972
+// https://x.com/RicoThaka/status/1777401550077374969
+// https://x.com/RicoThaka/status/1778158754967789832 
+// https://x.com/RicoThaka/status/1778179396362510848
+// https://x.com/RicoThaka/status/1778182339115491677
+// https://x.com/RicoThaka/status/1778196930008580210
+// https://x.com/BubbleGumPop626/status/1765185587584364821
+// https://x.com/RicoThaka/status/1762585192257245607 
+// https://x.com/RicoThaka/status/1721321640292913435 
+// https://x.com/BubbleGumPop626/status/1743738575542497712 
+// https://x.com/BubbleGumPop510/status/1740490197899620389 
+// https://x.com/thakasartu/status/1740162543203840011
+// https://x.com/MooNLOVER404/status/1749521832108269600
+
+```
+![Coral](https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/134858017_1825095757652073_946978845847012539_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=tRkouIknGNQQ7kNvgEtFWct&_nc_ht=scontent-lax3-2.xx&oh=00_AYDh_URcuUj0WbAYwvWoiFLsLCNCHA3g53ZY9S0Yh3LqtQ&oe=6664DC2E)
+
+![MarvelSuperHeroes](https://pbs.twimg.com/media/GFsDZkxasAASKvH?format=jpg&name=large)
+[Marvel Super Heroes (951024 Japan)](https://www.retrogames.cc/arcade-games/marvel-super-heroes-951024-japan.html)
+
+---
+
+<div class="gullies">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+
+
+  
+<div class="gullies">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+
+[Eric Burdon - Declares War (1970 Full Album)](https://www.youtube.com/watch?v=OhuX8fFHP6I)
 [MF DOOM (King Geedorah) - Take Me To Your Leader (Full Album) (Deluxe Edition)](https://youtu.be/6u-JL-nNgJo?si=PD5L-TVELWpasWuX)
 [Beastie Boys - Glasgow 1999 (FULL)](https://youtu.be/xJYfOGb3sKw?si=I5QbOauB0Tf3Kji8) [21 Savage, Latto, Rick Ross - Stacks ft. Moneybagg Yo (Music Video) 2024](https://youtu.be/_Y6zDqirIxM?si=rFGnIvpYnpiixgVy)
 [Victoria Monét - Alright (Official Video)](https://youtu.be/q0oGhx2JT1A?si=iz8GzaLk3FvNJDsq)

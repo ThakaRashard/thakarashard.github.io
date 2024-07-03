@@ -13,8 +13,7 @@ by Matt Graham
 html {
 
 
-    font: 14px/22px "Quattrocento Sans", "Helvetica Neue", Helvetica, Arial,
-      sans-serif;
+  font: 130%/1.6 Baskerville, Palatino, serif;
       margin: 0px;
     padding: 0px 0 20px 0px;
     /*  background: url(../images/body-background.png) #eae6d1; */
@@ -95,33 +94,13 @@ h3 {
 
 
 
-a {
-  color: #c9ff23;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-  transition: 0.4s;
-  display:inline-block;
-}
-a {
-
-
-}
-a:hover,
-a:visited a:hover {
-  color: #F2274C;
-  padding: 10px;
-  font-size: 150%;
-}
 
 a {
-  color: #c9ff23;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-  transition: 0.3s;
-}
-a {
-  color: #4276b6;
-  font-weight: 700;
+  color: #590B11;
+  font-weight: 900;
   text-decoration: none;
-  transition: 0.2s;
+  text-shadow: 0 0 5px rgba(3, 89, 89, 0.5);
+  transition: 0.3s;
 }
 
 a:hover,
@@ -284,9 +263,11 @@ header {
   right: 0;
   width: 100%;
   text-align: center;
-  background:  linear-gradient(89.2deg, rgb(0, 0, 0) 10.4%, rgb(255, 0, 0) 37.1%, rgb(255, 216, 51) 64.3%, rgb(255, 255, 255) 90.5%);
+  background: url("https://www.transparenttextures.com/patterns/3px-tile.png") ,linear-gradient(89.2deg, rgb(0, 0, 0) 10.4%, rgb(255, 0, 0) 37.1%, rgb(255, 216, 51) 64.3%, rgb(255, 255, 255) 90.5%);
+ 
+  background:  ;
    box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
-   background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
+  
   z-index: 99;
   -webkit-font-smoothing: antialiased;
   min-height: 76px;
@@ -332,7 +313,7 @@ h1:hover {
   p {
     color: #d8d8d8;
     text-shadow: rgba(#000, 0.2) 0 1px 0;
-    font-size: 18px;
+   /* font-size: 18px; */
     margin: 0px;
   }
 }
@@ -479,7 +460,7 @@ nav {
     list-style-image: none;
     font-size: 14px;
     line-height: 24px;
-    transition: 0.9s;
+    transition: 0.5s;
 
     li {
       padding: 5px 0px;
@@ -722,7 +703,7 @@ footer {
     margin: 0;
 
     h1 {
-      font-size: 32px;
+      /* font-size: 32px; */
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
@@ -1002,8 +983,8 @@ iframe {
 
 .leftColumn {
    background-color: #2470FF; 
-  width:40%;
-  overflow: scroll;
+  width:100%;
+  overflow: auto;
 }
 
 .leftColumn img {
@@ -1028,6 +1009,7 @@ iframe {
   align-items: center;
   overflow: hidden;
 }
+
 
 /* 3_TO_6 panel spread ##LAUREN_IS_MY_WIFE_AS_WELL_as_LAURA */
 
@@ -5259,6 +5241,37 @@ iframe {
   padding: 0px;
 }
 
+.normani {
+  /*display: grid;
+  grid-gap: 5px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 80px;
+}
+.normani div:nth-child(1) {
+  background: #f2e205;
+}
+.normani div:nth-child(2) {
+  background: #d9cb04;
+}
+.normani div:nth-child(3) {
+  background: #a69b03;
+}
+.normani div:nth-child(4) {
+  background: #595302;
+}
+.normani div:nth-child(5) {
+  background: #262401;
+}
+
+.normani div {
+  flex: 0 1 200px;
+  flex: 1 1 200px;
+  padding: 0px;
+}
+
 .gullies {
   /*display: grid;
   grid-gap: 5px;
@@ -5320,6 +5333,7 @@ iframe {
   flex: 1 1 200px;
   padding: 0px;
 }
+
 
 #a-title {
   text-decoration: none;
