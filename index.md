@@ -12,6 +12,7 @@ layout: default
 {% include current.md %}
 {% include urlpairs.md %}
 {% include htau.md %}
+{% include civic.md %}
 {% include design.md %}
 {% include linkroll.md %}
 {% include worknotes.md %}

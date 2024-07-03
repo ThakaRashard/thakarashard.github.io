@@ -121,7 +121,7 @@
 ![Astronomy Picture of the Day](https://apod.nasa.gov/apod/image/2108/Luna_Fedez_1600.jpg)
 [https://apod.nasa.gov/apod/image/2108/Luna_Fedez_1600.jpg](https://apod.nasa.gov/apod/astropix.html) [Jupiter_and_Moons](https://apod.nasa.gov/apod/ap200902.html) [RandomApod](https://apod.nasa.gov/apod/random_apod.html)
 
-[Washington DC Mayor requests National Guard assistance amid migrant crisis](https://youtu.be/tVOaE8qByNI)
+[Washington DC Mayor requests National Guard assistance amid migrant crisis](https://youtu.be/tVOaE8qByNI) [WestSideAtlanta SnoWon The Bluff](https://youtu.be/hdcl1WVrBoI?si=fTAa-KNo8Skthwk0)
 
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="color">
