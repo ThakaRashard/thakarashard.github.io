@@ -1,4 +1,6 @@
 # Currently Compiling
+![normani](https://pbs.twimg.com/profile_banners/209003577/1718338162/1500x500)
+![NormaniAreospaceAwaits](https://pbs.twimg.com/media/GQAcpSaWgAAhbcU?format=jpg&name=large)
 ![Dopamine](https://pbs.twimg.com/media/GRbVtsyb0AAf-cG?format=jpg&name=large)
 ![Me Clean Burning Man](https://pbs.twimg.com/media/GO8FOmxbEAMWU9e?format=jpg&name=large)
 ![RedEarth](https://pbs.twimg.com/media/GRWUNVZbgAAVdEa?format=jpg&name=large)
@@ -19,6 +21,14 @@
 
 
 <div class="playlist">
+ <div class=" track">
+       
+   <IMG src="https://dn720306.ca.archive.org/0/items/nas-kigs-disease/I/a.jpg">
+        <audio controls  loop >
+                   <source src="https://ia804508.us.archive.org/35/items/nas-kigs-disease/I/03-Car%20%2385%20%28Ft.%20Charlie%20Wilson%29.mp3" type="audio/mp4">
+                   Your browser dose not Support the audio Tag
+               </audio>
+    </div>
  <div class=" track">
        
    <IMG src="https://ia903201.us.archive.org/31/items/gfk-ironman/Album/cover.jpg">
