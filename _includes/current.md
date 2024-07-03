@@ -7,6 +7,9 @@ Your huddled masses yearning to breathe free, 
 The wretched refuse of your teeming shore.
 Send these, the homeless, tempest-tost to me."
 — Emma Lazarus
+
+
+
 [A Responsibility I Take Seriously: By Barack Obama](https://www.scotusblog.com/2016/02/a-responsibility-i-take-seriously/)
 [*This Day in History: The Statue of Liberty Came to America*](https://obamawhitehouse.archives.gov/blog/2015/06/17/day-history-statue-liberty-came-america)
 ![UnBoxinG Justice?](https://2.bp.blogspot.com/-qDyZbAJRna4/WAhUQLSnpUI/AAAAAAAALjs/pGKC2Kh4BuEwDn75lZPWN-tA1sDLKZfBgCLcB/s1600/unboxing_the_statue_of_liberty.jpg)
