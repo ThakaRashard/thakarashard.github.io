@@ -1,5 +1,7 @@
 # Gaming 
-
+![Snes](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SNES-Mod1-Console-Set.png/2560px-SNES-Mod1-Console-Set.png)
+[What would you consider "must have" SNES games?](https://www.reddit.com/r/retrogaming/comments/x6wkg8/what_would_you_consider_must_have_snes_games/?rdt=48734)
+[Super Nintendo Entertainment System Games](https://www.retrogames.cc/snes-games) [SUperNESFun](https://www.snesfun.com/) [SuperMArio in browser](https://supermario-game.com/) [SuperMarioWorld2:Yoshis Island!](https://www.smbgames.be/mario-world-2-yoshis-island.php) [Yoshi's Island (SNES) - Part 1 - JJOR64 plays Super Nintendo on Nintendo Switch Online](https://youtu.be/0UW0tzsDV8I?si=5CjtqS_T8VVclUU5)
 <a href="https://upload.wikimedia.org/wikipedia/en/9/90/X-Men_COTA_arcade_flyer.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/9/90/X-Men_COTA_arcade_flyer.jpg" style="width:213px;height:316px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" />
 
 ## X-Men - Children Of The Atom (950105 USA)
