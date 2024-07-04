@@ -15,7 +15,7 @@ Ports of the game were released for Sega Saturn, PlayStation and personal comput
 [SaveState](ricothaka.github.io/xmcotau.save)
 [PlayHere](https://www.retrogames.cc/arcade-games/x-men-children-of-the-atom-950105-usa.html#)
 ![omega red](https://pbs.twimg.com/media/GPlqaWGaQAA9f2X?format=jpg&name=large)
- ![xmcota](https://pbs.twimg.com/media/GPlqXMWaUAABpid?format=jpg&name=large)
+![xmcota](https://pbs.twimg.com/media/GPlqXMWaUAABpid?format=jpg&name=large)
 ![SS2_NEOGEO](https://pbs.twimg.com/media/GPgQv_vaIAEupzP?format=jpg&name=large)
 
 <video playsinline  loop 
