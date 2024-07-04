@@ -37,18 +37,14 @@ body {
 
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1  {
   color: white;
   background: transparent;
   font-weight: 900;
   margin: 5px;
   padding: 5px;
-  background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
+
+background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif), linear-gradient(90deg, rgba(38,33,36,0.8071603641456583) 7%, rgba(89,54,54,0.8267682072829132) 17%, rgba(140,103,90,0.700717787114846) 46%, rgba(217,199,193,0.5270483193277311) 81%);
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
     0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
 }
@@ -472,7 +468,7 @@ nav {
         font-size:11px;
         text-decoration:none;
         font-weight:600;
-        font-family:verdana, arial, helvetica, sans-serif;
+        
 
         a {
           font-weight: bold;
@@ -1189,11 +1185,18 @@ iframe {
   /*display: grid;
   grid-gap: 5px;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
-  display: grid;
+  /*display: grid;
   grid-template-columns: repeat(9, 1fr);
   flex-wrap: wrap;
   width: 70vw;
   height: 50vh;
+  max-width: max-content;*/
+
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+ position:relative;
+  opacity: 1;
   max-width: max-content;
 }
 
