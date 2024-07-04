@@ -1,3 +1,10 @@
+
+{% highlight python %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##########7/3/2024##########
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE##############################################
+{% endhighlight %}
 # Currently Compiling
 
 ![United States Of America](https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg)
@@ -105,19 +112,8 @@ About this job, its not that normal to pretend im not on like a lot of missions,
 
 <img src="https://mars.nasa.gov/system/resources/detail_files/27283_PIA25737-web.jpg" />   
 
-## [Front_Left_Hazcam:Two_Year_Movie](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
-<video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
 
-<source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" />    
-<source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
-      
-        Download the
-        or
-        <a href="">MP4</a>
-        video.
-</video>
-
-<img src="https://mars.nasa.gov/system/resources/detail_files/27283_PIA25737-web.jpg" />    
+   
       
 
 <video controls >

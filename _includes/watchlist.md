@@ -1,46 +1,81 @@
 # WatchList
-<div class="section_hr">
-  <a href="https://www.b98.tv/videos_categories/studios/">./HoleToAnotherUniverse/TheFlintStones.sh</a>
-</div> 
 
-![PebblesCoral](https://media1.tenor.com/m/JObiYxQ1epcAAAAC/sleep-good-night.gif)
+## The Vanishing Private
+The war continues in the 1942 [Disney_Shorts](https://www.disneyplus.com/editorial/shorts) with one of my absolute favorites – The Vanishing Private. Donald Duck, who normally plays the role of frustrated working man, gets an upgrade to be the antagonist of this short, playing off of Pete. And he does it all while enlisted in the Army, as we saw in Donald Gets Drafted. - [ReadMorE](http://www.disneyfilmproject.com/2010/09/vanishing-private.html) - [disneyfilmproject](http://www.disneyfilmproject.com/)
 
-## [Pebbles’ Birthday Party](https://www.b98.tv/video/pebbles-birthday-party/)
-13629 views
-Fred makes arrangements for Pebbles’ first birthday and the Water Buffalo Lodge parties. Trouble ensues when the only caterer in town muddles the parties, including sending a children’s clown to the Water Buffalo Lodge and dancing girls to the babies’ party, and Fred gets blamed for it. Teaser is again a scene from the middle of the episode. [B98tv CArtoons](https://www.b98.tv/video/pebbles-birthday-party)
-
-<div class="section_hr">
-  <a href="https://archive.org/download/garfield-s-01-e-09-the-binky-show-keeping-cool-dont-move">./HoleToAnotherUniverse/TheFlintStones.sh</a>
-</div> 
-<video controls 
-  src="https://ia600506.us.archive.org/24/items/youtube-UFrWljsz9eo/UFrWljsz9eo.mp4"
-  poster="https://i.ytimg.com/vi/82lOD6znIic/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLCAnPUsERsRLGZl5bj3qCpecKRrRA"
+<video playsinline  loop 
+  controls
+  src="https://archive.org/download/duck00001/09.The.Vanishing.Private.1942.DVDRip.XViD-MRC.mp4"
+  poster="https://m.media-amazon.com/images/M/MV5BYjRkNGZiNzItNzE1Zi00MDg2LTg2OTMtNDkwMzc5Mzc4OTI4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg"
   >
   Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://archive.org/download/youtube-UFrWljsz9eo/UFrWljsz9eo.mp4">download it</a>
+  <a href="https://archive.org/download/duck00001">download it</a>
   and watch it with your favorite video player!
 </video>
 
-## [ABC Network](https://abc.com/) - The Flintstones - "Fred's Flying Lesson" (Promo, 1965)
-Here (from an original 2" Quad tape) is a promo for The Flintstones episode "Fred's Flying Lesson," to air at 7:30pm (6:30pm Central time).
-
-This promo starts with a "swinging" RCA TK-60 black-and-white camera with an 'abc' sticker on the side (this was their ID between 1964 and 1966). Also, although this promo was in black-and-white, The Flintstones itself aired in color by this point on the network (one of the very few prior to their increasing color programming in the 1965-66 season).
-
-Ending voiceover by ??
-
-This promo aired on local Chicago TV on Friday, January 1st 1965 at about 6:29pm.
-
-About The Museum of Classic Chicago Television: - [imdb](https://www.imdb.com/title/tt0166203/)  
-[Pebbles' Birthday Party (1964)](https://www.imdb.com/title/tt0580218/fullcredits)
-[theFlinTstones Pebbles Birthday](https://tubitv.com/tv-shows/596255/s05-e04-pebbles-birthday-party)
-[Top_Cartoons_Tv:Pebbles’ Birthday Party](https://www.topcartoons.tv/cartoons/pebbles-birthday-party/)
 
 
+[Donald_Fauntleroy_Duck](https://americanhistory.si.edu/explore/stories/donald-duck-american-diplomat) is an American cartoon character from The Walt Disney Company. Donald is a white anthropomorphic duck with a yellow-orange bill, legs, and feet. He usually wears a sailor shirt, cap, and a red bow tie, but no trousers. Donald’s most famous personality trait is his easily provoked and explosive temper. Donald Duck has been officially honored as the third most popular cartoon character of all time with Bugs Bunny of Warner Bros. Looney Tunes/Merrie Melodies at number two and fellow Disney creation Mickey Mouse who is number one.
 
-![https://pbs.twimg.com/media/GIz-b_FasAAFssX?format=jpg&name=large](https://pbs.twimg.com/media/GIz-b_FasAAFssX?format=jpg&name=large)
+[Evolution_oF_a_DucK](https://www.waltdisney.org/blog/evolution-duck)
+
+``` https://walkoffame.com/donald-duck/ ```
+
+[98_DonaldDuck_Ep](https://archive.org/details/duck00001)
+
+## Graffiti Rock
+Hip-hop based series that was intended as an ongoing series. The show only received one pilot episode. Features [Run-D.M.C.](https://youtu.be/kOBDEhxd_WU?si=DqueIPf6KdWN82Dp), [Shannon](https://youtu.be/_-0sUuGufmw?si=7pIrLqX8UFPdezzH), [The New York City Breakers](https://youtu.be/Y36aBTuRr1o?si=VPGzXTVlBg54343b), DJ Jimmie Jazz, [Kool Moe Dee](https://youtu.be/am9C2_DZ7s4?si=cxEnbXjIhCPnMHki) and Special K of the Treacherous Three... [imdb](https://www.imdb.com/title/tt0422342/plotsummary/?ref_=tt_ov_pl) [GraffitiRock](https://en.wikipedia.org/wiki/Graffiti_Rock)
+[fab5freddy_graffiti_rock_interview](Michael Holman and Fab Five Freddy discuss Graffiti Rock and Wild Style screenings)
+
+<video playsinline  loop 
+  controls
+  src="https://archive.org/download/graffiti.-rock.-1984.-dvdrip.x-264-handjob/Graffiti.Rock.1984.DVDRip.x264-HANDJOB.mp4"
+  poster="https://m.media-amazon.com/images/M/MV5BMTcxOTAzYmUtN2VmZi00NDdhLWJlMDQtYmY3OGZjMmI0NGI1XkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_.jpg"
+  >
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/details/graffiti.-rock.-1984.-dvdrip.x-264-handjob">download it</a>
+  and watch it with your favorite video player!
+</video>
+
 
 ![TRON](https://upload.wikimedia.org/wikipedia/commons/f/f9/Tron_%28Disney%29%2C_Logo.svg)
 [imdb](https://www.imdb.com/title/tt0084827/) [TronGame](https://www.classicgamesarcade.com/game/21670/tron-game.html)
+     
+# Marvel Super Heroes 1967
+In 1966, Marvel Comics hired animation company Grantray-Laurence to create "The Marvel Superheroes", a series of daily cartoons based on their titles Captain America, Thor, Hulk, Iron Man, and the Sub-Mariner. As it was Marvel's first foray into television animation, the producers stretched out the budget by using existing stories and artwork. Original comic art pages were Xeroxed and used as key frames, with animators adding only mouth and limb animation. Body movement was often accomplished by animating still images across a background. 
+
+Fortunately for comic fans, this cost-cutting move preserved for all time the original artwork of Gene Colon, Don Heck, and Jack "King" Kirby, and the dialog of Stan Lee. It was exactly what readers have always asked TV and movie makers to do: just film the comics. 
+
+<video playsinline  loop 
+  controls
+  src="https://archive.org/download/marvel-super-heroes/Marvel%20Super%20Heroes%2001.Secret%20Origins.mp4"
+  poster="https://bcdbimages.s3.amazonaws.com/other6/marvel_superheroes1.jpg"
+  >
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/details/marvel-super-heroes">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://archive.org/details/arcade_msh"><img src="https://i.ebayimg.com/images/g/fbAAAOSwDndkFOLy/s-l1200.webp" alt=""> </a>
+</div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://m.media-amazon.com/images/M/MV5BMTVjNTI2NTYtN2NjMS00NmJmLTk4MTQtOWM0Y2QyN2UzZTM3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg"><img src="https://m.media-amazon.com/images/M/MV5BMTVjNTI2NTYtN2NjMS00NmJmLTk4MTQtOWM0Y2QyN2UzZTM3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" alt=""> </a>
+  </div>
+  </div>
+  </div>
+</div>
+<a href="https://archive.org/download/marvel-super-heroes"><img src="https://pbs.twimg.com/media/GHhryv7aUAEygHp?format=jpg&name=large" class="crt" /></a>
+
+
+
+## [https://archive.org/details/arcade_msh](https://archive.org/details/arcade_msh)
+
 
 <video controls width="100%" height="auto" poster="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamU0czZlaTdnamt0bHZtMDd4MDJqcno4ejhmYTc3YTVlY2JoMWliayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornkf3FPmG6zkB1UQ/giphy.webp">
 
@@ -126,3 +161,56 @@ These are from the official uncut subtitled edition VHS tapes released by Pionee
   <a href="https://archive.org/download/sailor-moon-the-movies-special-uncut-subtitled-edition-vhs_202109/Sailor%20Moon%20R%20The%20Movie%20Special%20Uncut%20Subtitled%20Edition%20VHS.mp4">download it</a>
   and watch it with your favorite video player!
 </video>
+
+<div class="section_hr">
+  <a href="https://www.b98.tv/videos_categories/studios/">./HoleToAnotherUniverse/TheFlintStones.sh</a>
+</div> 
+
+[Front_Left_Hazcam:Two_Year_Movie](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
+<video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
+
+<source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" />    
+<source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
+      
+        Download the
+        or
+        <a href="">MP4</a>
+        video.
+</video>
+
+
+![PebblesCoral](https://media1.tenor.com/m/JObiYxQ1epcAAAAC/sleep-good-night.gif)
+
+## [Pebbles’ Birthday Party](https://www.b98.tv/video/pebbles-birthday-party/)
+13629 views
+Fred makes arrangements for Pebbles’ first birthday and the Water Buffalo Lodge parties. Trouble ensues when the only caterer in town muddles the parties, including sending a children’s clown to the Water Buffalo Lodge and dancing girls to the babies’ party, and Fred gets blamed for it. Teaser is again a scene from the middle of the episode. [B98tv CArtoons](https://www.b98.tv/video/pebbles-birthday-party)
+
+<div class="section_hr">
+  <a href="https://archive.org/download/garfield-s-01-e-09-the-binky-show-keeping-cool-dont-move">./HoleToAnotherUniverse/TheFlintStones.sh</a>
+</div> 
+<video controls 
+  src="https://ia600506.us.archive.org/24/items/youtube-UFrWljsz9eo/UFrWljsz9eo.mp4"
+  poster="https://i.ytimg.com/vi/82lOD6znIic/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLCAnPUsERsRLGZl5bj3qCpecKRrRA"
+  >
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/youtube-UFrWljsz9eo/UFrWljsz9eo.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+## [ABC Network](https://abc.com/) - The Flintstones - "Fred's Flying Lesson" (Promo, 1965)
+Here (from an original 2" Quad tape) is a promo for The Flintstones episode "Fred's Flying Lesson," to air at 7:30pm (6:30pm Central time).
+
+This promo starts with a "swinging" RCA TK-60 black-and-white camera with an 'abc' sticker on the side (this was their ID between 1964 and 1966). Also, although this promo was in black-and-white, The Flintstones itself aired in color by this point on the network (one of the very few prior to their increasing color programming in the 1965-66 season).
+
+Ending voiceover by ??
+
+This promo aired on local Chicago TV on Friday, January 1st 1965 at about 6:29pm.
+
+About The Museum of Classic Chicago Television: - [imdb](https://www.imdb.com/title/tt0166203/)  
+[Pebbles' Birthday Party (1964)](https://www.imdb.com/title/tt0580218/fullcredits)
+[theFlinTstones Pebbles Birthday](https://tubitv.com/tv-shows/596255/s05-e04-pebbles-birthday-party)
+[Top_Cartoons_Tv:Pebbles’ Birthday Party](https://www.topcartoons.tv/cartoons/pebbles-birthday-party/)
+
+
+
+![https://pbs.twimg.com/media/GIz-b_FasAAFssX?format=jpg&name=large](https://pbs.twimg.com/media/GIz-b_FasAAFssX?format=jpg&name=large)
