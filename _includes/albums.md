@@ -10,7 +10,8 @@
 <embed src="https://www.youtube.com/embed/5YMYrB0dqoU?si=ShVaFTO1D4851hIv" title="YouTube video player"  allowfullscreen />
 
 ## Marvel Super Heroes (Euro 951024)
-by [Capcom](https://games.capcomusa.com/)  [Play At The internet Arcade](https://archive.org/details/arcade_msh) <(''<)  <( ' ' )>  (> '')>
+by [Capcom](https://games.capcomusa.com/)  [Play At The internet Arcade](https://archive.org/details/arcade_msh) 
+<(''<)  <( ' ' )>  (> '')>
 <div class="pinupImage expandingGallery"><img src="https://pbs.twimg.com/media/GHhryv7aUAEygHp?format=jpg&name=large" />
 <img src="https://pbs.twimg.com/media/GHhxw6lbkAEvTnI?format=jpg&name=large" />
 <img src="https://pbs.twimg.com/media/GFr9Rsea0AA6D8R?format=jpg&name=large" />
