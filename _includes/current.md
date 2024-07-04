@@ -9,6 +9,32 @@
 
 ![United States Of America](https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg)
 
+![Me Rashard aka Thaka](https://pbs.twimg.com/media/GK__WllbQAAMH69?format=jpg&name=large)
+![Dopamine](https://pbs.twimg.com/media/GRbVtsyb0AAf-cG?format=jpg&name=large)
+About this job, its not that normal to pretend im not on like a lot of missions, so idk how youy can talk to them about my new contract but if you organize how i help u, the girls and the kids that may give you a good bargining point. Onika daddy Kermit can help. He might be yo daddy idk, i miss my chocholate playmates from savannah, if thats you vanessa 
+
+![Opening](https://pbs.twimg.com/media/GPQnXGiboAA21pe?format=jpg&name=large)
+
+![Me Clean Burning Man](https://pbs.twimg.com/media/GO8FOmxbEAMWU9e?format=jpg&name=large)
+![HiNormani!#ourhouse?](https://www.thebattery.org/wp-content/uploads/2018/02/2.-hand.jpg)
+![Free Feet?](https://obamawhitehouse.archives.gov/sites/default/files/image/image_file/jb_gilded_liberty_1_e.jpg)
+
+>"Give me your tired, your poor,
+Your huddled masses yearning to breathe free,
+The wretched refuse of your teeming shore.
+Send these, the homeless, tempest-tost to me."
+— Emma Lazarus
+
+
+
+[Lady Liberty: 10 Fascinating Facts](https://www.thebattery.org/lady-liberty-10-fascinating-facts/) 
+[A Responsibility I Take Seriously: By Barack Obama](https://www.scotusblog.com/2016/02/a-responsibility-i-take-seriously/)
+[*This Day in History: The Statue of Liberty Came to America*](https://obamawhitehouse.archives.gov/blog/2015/06/17/day-history-statue-liberty-came-america)
+![UnBoxinG Justice?](https://2.bp.blogspot.com/-qDyZbAJRna4/WAhUQLSnpUI/AAAAAAAALjs/pGKC2Kh4BuEwDn75lZPWN-tA1sDLKZfBgCLcB/s1600/unboxing_the_statue_of_liberty.jpg)
+[Unboxing the Statue of Liberty through rare photographs, 1885](https://rarehistoricalphotos.com/unboxing-statue-liberty-1885/)
+
+
+
 <pre>
 
                       ______
@@ -45,9 +71,12 @@
 
 
 ## [Perseverance Rover's Descent and Touchdown on Mars](https://svs.gsfc.nasa.gov/31250) 
-### [Perseverance Rover’s Descent and Touchdown on Mars: Onboard Camera Views](https://science.nasa.gov/wp-content/uploads/2024/03/45703_JPL-20210222-M2020f-0001-Perseverance_Rovers_Descent_and_Touchdown_on_Mars-1.mp4)
+[Perseverance Rover’s Descent and Touchdown on Mars: Onboard Camera Views](https://science.nasa.gov/wp-content/uploads/2024/03/45703_JPL-20210222-M2020f-0001-Perseverance_Rovers_Descent_and_Touchdown_on_Mars-1.mp4)
 
 >NASA's Mars 2020 Perseverance mission captured thrilling footage of its rover landing in Mars' Jezero Crater on Feb. 18, 2021. The real footage in this video was captured by several cameras that are part of the rover's entry, descent, and landing suite. The views include a camera looking down from the spacecraft's descent stage (a kind of rocket-powered jet pack that helps fly the rover to its landing site), a camera on the rover looking up at the descent stage, a camera on the top of the aeroshell (a capsule protecting the rover) looking up at that parachute, and a camera on the bottom of the rover looking down at the Martian surface.
+
+## Perseverance Rover’s Descent and Touchdown on Mars
+### Official NASA Video
 
 <video controls width="100%" height="auto" poster="https://www.nasa.gov/wp-content/uploads/2021/06/pia24542-perseverances-selfie-with-ingenuity-1041.jpg">
     
@@ -56,7 +85,14 @@
         or
 <a href="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/Perseverance-landing-1080p.mp4">MP4</a>
         video.
-</video>    
+</video> 
+
+<video controls width="100%" height="auto" >
+      <source src="https://science.nasa.gov/wp-content/uploads/2024/03/30414_msl20120808_malinheatshield-640.mp4" type="video/mp4" />
+
+      Your browser does not support the video tag.
+  </video>
+   
 
 [15 Second Clip of Parachute Deployment(MP4) (18.86 MB)](https://science.nasa.gov/wp-content/uploads/2024/03/45732_nasa_perseverance_parachute_deployment.mp4)
 
@@ -67,9 +103,6 @@
 [Normani | Dopamine, Album Delays, James Blake](https://www.youtube.com/watch?v=RyCLVKC9WBo) [Gunna?](https://www.youtube.com/shorts/Qbognbfn8RQ) [Rising Star Normani Is Being Compared to Beyoncé After This Jimmy Fallon Performance](https://www.oprahdaily.com/entertainment/tv-movies/a26823068/normani-beyonce-jimmy-fallon-performance/?utm_source=google&utm_medium=cpc&utm_campaign=mgu_ga_opr_md_pmx_us_urlx_18700515769&gad_source=2&gclid=EAIaIQobChMIhdbMm86LhwMVMozCCB3eKgUiEAAYASAAEgKkGfD_BwE) 
 
 
-About this job, its not that normal to pretend im not on like a lot of missions, so idk how youy can talk to them about my new contract but if you organize how i help u, the girls and the kids that may give you a good bargining point. Onika daddy Kermit can help. He might be yo daddy idk, i miss my chocholate playmates from savannah, if thats you vanessa 
-
-![Opening](https://pbs.twimg.com/media/GPQnXGiboAA21pe?format=jpg&name=large)
 
 ## [Front_Left_Hazcam:Two_Year_Movie](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
 <video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
@@ -83,7 +116,7 @@ About this job, its not that normal to pretend im not on like a lot of missions,
         video.
 </video>
 
-
+![BrokenWheel](https://pbs.twimg.com/media/GIz-b_FasAAFssX?format=jpg&name=large)
 <div class='twoPanelSpread'>
         <div class='row'>
           <div class='panelColumn'>
@@ -137,15 +170,7 @@ About this job, its not that normal to pretend im not on like a lot of missions,
 
 <embed src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/895314484&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
 
-## Perseverance Rover’s Descent and Touchdown on Mars
-### Official NASA Video
 
-
-<video width="500" autoplay="" loop="" muted="">
-      <source src="https://science.nasa.gov/wp-content/uploads/2024/03/30414_msl20120808_malinheatshield-640.mp4" type="video/mp4" />
-
-      Your browser does not support the video tag.
-  </video>
 
 <br>
 <embed  src="https://www.youtube.com/embed/4czjS9h4Fpg?si=Dhkd5gau1VRbYA_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen />
@@ -165,25 +190,6 @@ Hi sHooGz~ Im working from Cahenga at the moment. I recived communication from a
 >In Our America, Burns has assembled the images that, for him, best embody nearly two hundred years of the American experiment, taken by some of our most reknowned photographers and by others who worked in obscurity. We see America’s vast natural beauty as well as its dynamic cities and communities. There are striking images of war and civil conflict, and of communities drawing together across lines of race and class. Our greatest leaders appear alongside regular folks living their everyday lives. The photos talk to one another across boundaries and decades and, taken together, they capture the impossibly rich and diverse perspectives and places that comprise the American experience. [Source](https://kenburns.com/our-america/)
 
 ![Our America](https://citysupplyfayetteville.com/cdn/shop/products/image_d376e710-f33a-4bcb-8ed2-26b556cf5d52.jpg)
-![Dopamine](https://pbs.twimg.com/media/GRbVtsyb0AAf-cG?format=jpg&name=large)
-![Me Clean Burning Man](https://pbs.twimg.com/media/GO8FOmxbEAMWU9e?format=jpg&name=large)
-![HiNormani!#ourhouse?](https://www.thebattery.org/wp-content/uploads/2018/02/2.-hand.jpg)
-![Free Feet?](https://obamawhitehouse.archives.gov/sites/default/files/image/image_file/jb_gilded_liberty_1_e.jpg)
-
->"Give me your tired, your poor,
-Your huddled masses yearning to breathe free,
-The wretched refuse of your teeming shore.
-Send these, the homeless, tempest-tost to me."
-— Emma Lazarus
-
-
-
-[Lady Liberty: 10 Fascinating Facts](https://www.thebattery.org/lady-liberty-10-fascinating-facts/) 
-[A Responsibility I Take Seriously: By Barack Obama](https://www.scotusblog.com/2016/02/a-responsibility-i-take-seriously/)
-[*This Day in History: The Statue of Liberty Came to America*](https://obamawhitehouse.archives.gov/blog/2015/06/17/day-history-statue-liberty-came-america)
-![UnBoxinG Justice?](https://2.bp.blogspot.com/-qDyZbAJRna4/WAhUQLSnpUI/AAAAAAAALjs/pGKC2Kh4BuEwDn75lZPWN-tA1sDLKZfBgCLcB/s1600/unboxing_the_statue_of_liberty.jpg)
-[Unboxing the Statue of Liberty through rare photographs, 1885](https://rarehistoricalphotos.com/unboxing-statue-liberty-1885/)
-
 
 ![United States Of America](https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg)
 
@@ -233,4 +239,7 @@ retrogames.cc/genesis-games/rocket-knight-adventures-usa.html… https://github.
 ![https://edu.google.com/chromebooks/overview/](https://www.lapl.org/sites/default/files/Digital%20Inclusion-2022-header.png)
 Digital Inclusion Week is an annual campaign to bring attention to the need for digital equity in our communities. The library is committed to helping bridge the digital divide by providing resources and access to technology year-round. We provide internet access and computers for public use at all 73 library locations, lend a variety of technology items through our Tech2go program, and offer digital literacy classes for all age groups and skill levels.
 
+
+
+![Androiding](https://pbs.twimg.com/media/GOtUQbSa0AA3oVx?format=jpg&name=large)
 [back](./)
