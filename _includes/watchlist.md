@@ -1,5 +1,17 @@
 # WatchList
+##  The Maxx
+[This release](https://archive.org/details/xxam-maxximized) consists of all 13 episodes of the groundbreaking animated series, restored with the original broadcast audio as well as video upscaled to 1080p using AI. Each episode contains multiple audio tracks - the original broadcast audio on track 1, DVD audio on track 2*, and commentary by Sam Kieth and the production team on track 3.
+[The Maxx](https://archive.org/download/xxam-maxximized/The%20Maxx/)
 
+<video playsinline  loop 
+  controls
+  src="https://archive.org/download/xxam-maxximized/The%20Maxx/Season%201/The%20Maxx%20-%20S01E01%20-%20Chapter%201.mp4"
+  poster="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK5PlLfVgqTcWEF-IPcrbkaTpfKppeTzMxS5BTt2NM7pXD8RiPandfj99KA2t1QknLUdvIu52geoHkCBzVjFuTVQbq0QVPEAtgDKPxFkm8UFI-i0oGV6sWjQtzqcDTCKD9PHZpCbm6cDNO/s1600/z+maxx-julie_toe-nail+_500.gif"
+  >
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/duck00001">download it</a>
+  and watch it with your favorite video player!
+</video>
 
 DicKTracy 
 [RelatedTweet](https://x.com/thakasartu/status/1788626788446503046)
