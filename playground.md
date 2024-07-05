@@ -1,20 +1,30 @@
+
+
+{% highlight javascript %}
 {% assign image_files = site.static_files | where: "image", true %}
 {% for myimage in image_files %}
   {{ myimage.path }}
 {% endfor %}
-
-
-![normani](https://pbs.twimg.com/media/GMM-5OdakAAy7aK?format=jpg&name=large) [Scrollbar styling: scrollbar-color](https://codepen.io/ricoThaka/pen/poBBvgw?editors=1100)
-## parse 
-
-<content>
-
-![normani](https://pbs.twimg.com/media/GMM-5OdakAAy7aK?format=jpg&name=large) [Scrollbar styling: scrollbar-color](https://codepen.io/ricoThaka/pen/poBBvgw?editors=1100)
-## parse 
-
+{% endhighlight %}
 
 <style>
+#content {
 
+background: linear-gradient(
+    45deg,
+    #08a0e9 25%,
+    #e8f5fd 0,
+    #e8f5fd 50%,
+    #08a0e9 0,
+    #08a0e9 75%,
+    #e8f5fd 0
+  );
+  background-size: 80.4px 80.4px;
+  font-family: "VT323", monospace;
+  background-attachment: fixed;
+
+
+}
     table.blueTable {
   border: 1px solid #1C6EA4;
   background-color: #EEEEEE;
@@ -74,6 +84,16 @@ table.blueTable tfoot .links a{
   border-radius: 5px;
 }
 </style>
+
+![normani](https://pbs.twimg.com/media/GMM-5OdakAAy7aK?format=jpg&name=large) [Scrollbar styling: scrollbar-color](https://codepen.io/ricoThaka/pen/poBBvgw?editors=1100)
+## parse 
+
+<content>
+
+![normani](https://pbs.twimg.com/media/GMM-5OdakAAy7aK?format=jpg&name=large) [Scrollbar styling: scrollbar-color](https://codepen.io/ricoThaka/pen/poBBvgw?editors=1100)
+## parse 
+
+
 <table class="blueTable">
 <thead>
 <tr>

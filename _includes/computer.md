@@ -1,4 +1,7 @@
 # Computing
+
+[fast, pure-Ruby Markdown-superset converter](https://kramdown.gettalong.org/documentation.html)
+[kramdown](https://kramdown.gettalong.org/) (sic, not Kramdown or KramDown, just kramdown) is a free MIT-licensed Ruby library for parsing and converting a superset of Markdown. It is completely written in Ruby, supports standard Markdown (with some minor modifications) and various extensions that have been made popular by the PHP Markdown Extra package and Maruku.
 [Subresource Integrity](https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity) 
  is a security feature that enables browsers to verify that resources they fetch (for example, from a CDN) are delivered without unexpected manipulation. It works by `allowing you to provide` a cryptographic hash that a fetched resource must match.
 
