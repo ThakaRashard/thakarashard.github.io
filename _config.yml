@@ -3,3 +3,9 @@ description: compiling my life course in los angeles county
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-leap-day
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
