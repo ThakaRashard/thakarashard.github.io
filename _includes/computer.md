@@ -1,6 +1,6 @@
 # Computing
 
-
+[liquid tags in jekyll](https://jekyllrb.com/docs/plugins/tags/)
 [LeaVerouPatternGallery](https://projects.verou.me/css3patterns/#)
 [inline_block](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
 [FlexBoxGenerator](https://angrytools.com/css-flex/)
