@@ -10,6 +10,7 @@
 ![United States Of America](https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg)
 
 ![Me Rashard aka Thaka](https://pbs.twimg.com/media/GK__WllbQAAMH69?format=jpg&name=large)
+![AmericanFlagBlackBookByRashardakaThakaNASAMROJPLPASADENAATLANTA](https://pbs.twimg.com/media/GE47huua0AA4t46?format=jpg&name=large)
 ![Dopamine](https://pbs.twimg.com/media/GRbVtsyb0AAf-cG?format=jpg&name=large)
 About this job, its not that normal to pretend im not on like a lot of missions, so idk how youy can talk to them about my new contract but if you organize how i help u, the girls and the kids that may give you a good bargining point. Onika daddy Kermit can help. He might be yo daddy idk, i miss my chocholate playmates from savannah, if thats you vanessa 
 
