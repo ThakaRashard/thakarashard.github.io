@@ -1,5 +1,6 @@
 # Computing
-
+[Subresource Integrity](https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity) 
+ is a security feature that enables browsers to verify that resources they fetch (for example, from a CDN) are delivered without unexpected manipulation. It works by `allowing you to provide` a cryptographic hash that a fetched resource must match.
 
 ![MimE Sniffing](https://www.keycdn.com/img/support/mime-sniffing-md.webp) 
 Understanding MIME Sniffing#
@@ -10,7 +11,17 @@ MIME sniffing, on the other hand, is a browser behavior that attempts to guess t
 [What Is MIME Sniffing?](https://www.keycdn.com/support/what-is-mime-sniffing)
 [RelatedTweet](https://x.com/thakasartu/status/1783603276824621111) 
 [What Is a Browser Hash?](https://seon.io/resources/dictionary/browser-hash/) A browser hash is a string of numbers and letters created to map data related to a user’s browser. [What the hash?](https://docs.seon.io/knowledge-base/device-fingerprinting/understanding-hashes#overview)
-So what exactly is a hash? Simply put, a hash is a string of numbers and letters containing information about the desktop or mobile device someone uses to access your service. It is an accumulation of the device data we gather. [How Hash-Based Safe Browsing Works in Google Chrome](https://security.googleblog.com/2022/08/how-hash-based-safe-browsing-works-in.html)
+So what exactly is a hash? Simply put, a hash is a string of numbers and letters containing information about the desktop or mobile device someone uses to access your service. It is an accumulation of the device data we gather. [Using hashes to fight fraud](https://docs.seon.io/knowledge-base/device-fingerprinting/understanding-hashes#learn-more)
+
+{% highlight python %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##########7/3/2024##########
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE##############################################
+{% endhighlight %}
+
+
+ [How Hash-Based Safe Browsing Works in Google Chrome](https://security.googleblog.com/2022/08/how-hash-based-safe-browsing-works-in.html)
 [liquid tags in jekyll](https://jekyllrb.com/docs/plugins/tags/)
 [LeaVerouPatternGallery](https://projects.verou.me/css3patterns/#)
 [inline_block](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
