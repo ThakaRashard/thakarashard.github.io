@@ -9,7 +9,8 @@
 
 <style>
 #content {
-
+  height: 100%;
+  width: 50%;
 background: linear-gradient(
     45deg,
     #08a0e9 25%,
