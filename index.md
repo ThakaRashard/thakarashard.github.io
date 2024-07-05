@@ -8,6 +8,7 @@ layout: default
 
 
 {% include current.md %}
+{% include computer.md %}
 {% include monica.md %}
 {% include albums.md %}
 {% include playlist.md %}
@@ -19,7 +20,7 @@ layout: default
 {% include design.md %}
 {% include linkroll.md %}
 {% include worknotes.md %}
-{% include albums.md %}
+
 {% include sitemap.md %}
 
 `https://x.com/MooNLOVER404/status/1799143139263066343` makeup
