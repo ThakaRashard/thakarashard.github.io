@@ -1,5 +1,10 @@
 # Computing
 
+
+
+![Mime Sniffing](https://pbs.twimg.com/media/GMChe2OaQAAplJB?format=png&name=900x900)
+[What Is MIME Sniffing?](https://www.keycdn.com/support/what-is-mime-sniffing)
+[RelatedTweet](https://x.com/thakasartu/status/1783603276824621111) 
 [liquid tags in jekyll](https://jekyllrb.com/docs/plugins/tags/)
 [LeaVerouPatternGallery](https://projects.verou.me/css3patterns/#)
 [inline_block](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
