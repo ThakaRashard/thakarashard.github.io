@@ -1,5 +1,9 @@
 # WatchList
 
+
+DicKTracy 
+[RelatedTweet](https://x.com/thakasartu/status/1788626788446503046)
+<iframe src="https://archive.org/embed/dick-tracy-tv-series" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 ## The Vanishing Private
 The war continues in the 1942 [Disney_Shorts](https://www.disneyplus.com/editorial/shorts) with one of my absolute favorites – The Vanishing Private. Donald Duck, who normally plays the role of frustrated working man, gets an upgrade to be the antagonist of this short, playing off of Pete. And he does it all while enlisted in the Army, as we saw in Donald Gets Drafted. - [ReadMorE](http://www.disneyfilmproject.com/2010/09/vanishing-private.html) - [disneyfilmproject](http://www.disneyfilmproject.com/)
 
