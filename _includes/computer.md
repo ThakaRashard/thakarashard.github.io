@@ -1,7 +1,11 @@
 # Computing
 
 
+![MimE Sniffing](https://www.keycdn.com/img/support/mime-sniffing-md.webp) 
+Understanding MIME Sniffing#
+MIME stands for Multipurpose Internet Mail Extensions, and it is a standard used to identify the type of content being sent over the internet, such as text, images, audio, video, and application files. MIME types are defined in the HTTP header of web requests and responses.
 
+MIME sniffing, on the other hand, is a browser behavior that attempts to guess the MIME type of a resource if it is not explicitly specified in the HTTP header... [LearnMore](https://www.keycdn.com/support/glossary)
 ![Mime Sniffing](https://pbs.twimg.com/media/GMChe2OaQAAplJB?format=png&name=900x900)
 [What Is MIME Sniffing?](https://www.keycdn.com/support/what-is-mime-sniffing)
 [RelatedTweet](https://x.com/thakasartu/status/1783603276824621111) 
