@@ -6,7 +6,7 @@ layout: default
 
 
 
-
+{% include watchlist.md %}
 {% include current.md %}
 {% include computer.md %}
 {% include monica.md %}
@@ -15,7 +15,7 @@ layout: default
 {% include gaming.md %}
 {% include urlpairs.md %}
 {% include htau.md %}
-{% include watchlist.md %}
+
 {% include civic.md %}
 {% include design.md %}
 {% include linkroll.md %}
