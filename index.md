@@ -10,13 +10,13 @@ layout: default
 {% endhighlight %}
 
 
-
+{% include playlist.md %}
 {% include watchlist.md %}
 {% include current.md %}
 {% include computer.md %}
 {% include monica.md %}
 {% include albums.md %}
-{% include playlist.md %}
+
 {% include gaming.md %}
 {% include urlpairs.md %}
 {% include htau.md %}

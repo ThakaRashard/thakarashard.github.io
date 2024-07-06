@@ -1,20 +1,15 @@
-[Respect the Game - MeekMill](https://www.youtube.com/watch?v=ESlz9h4OdRs)
-### [FlexBox Demo](https://codepen.io/thakarashard/pen/WNBVzWr)
-<video controls width="100%" height="auto" poster="https://pbs.twimg.com/media/GRg4rl4b0AMgXF2?format=jpg&name=large">
-
-<source src="https://archive.org/download/screen-recording-2024-07-02-2.48.05-pm/Screen%20recording%202024-07-02%202.48.05%20PM.webm" type="video/webm" />    
-<source src="https://archive.org/download/screen-recording-2024-07-02-2.48.05-pm/Screen%20recording%202024-07-02%202.48.05%20PM.webm" type="video/webm" />
-      
-        Download the
-        or
-        <a href="">MP4</a>
-        video.
-</video>
-
-### in action 
-
+# PlayLisT
 
 <div class="playlist">
+
+ <div class=" track">
+       
+   <IMG src="https://archive.org/download/datpiff-mixtape-m6098c34/00%20-%20Schoolboy_Q_2_Chainz_Schoolboy_Q_Feat_2_Chainz--front-large.jpg">
+        <audio controls  loop >
+                   <source src="https://archive.org/download/datpiff-mixtape-m6098c34/04%20-%20SchoolBoy%20Q%20-%20Man%20Of%20The%20Year.mp3">
+                   Your browser dose not Support the audio Tag
+               </audio>
+    </div>
  <div class=" track">
        
    <IMG src="https://dn720703.ca.archive.org/0/items/datpiff-mixtape-m04c171f/00%20-%20Lil_Baby_Too_Hard-front-large.jpg">
@@ -125,4 +120,19 @@
 
 
 
+
+
+### [FlexBox Demo](https://codepen.io/thakarashard/pen/WNBVzWr)
+<video controls width="100%" height="auto" poster="https://pbs.twimg.com/media/GRg4rl4b0AMgXF2?format=jpg&name=large">
+
+<source src="https://archive.org/download/screen-recording-2024-07-02-2.48.05-pm/Screen%20recording%202024-07-02%202.48.05%20PM.webm" type="video/webm" />    
+<source src="https://archive.org/download/screen-recording-2024-07-02-2.48.05-pm/Screen%20recording%202024-07-02%202.48.05%20PM.webm" type="video/webm" />
+      
+        Download the
+        or
+        <a href="">MP4</a>
+        video.
+</video>
+
+ 
 
