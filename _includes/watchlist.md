@@ -1,16 +1,31 @@
 # WatchList
 
 
+![THC](https://upload.wikimedia.org/wikipedia/commons/c/c2/THC-11-oic-acid-3D-balls.png)
+[Reefer Madness 1938 NioR](https://archive.org/details/reefer_madness1938) [Public Domain](https://creativecommons.org/publicdomain/) ![Public Domain](https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/publicdomain.svg)
+  <video controls loop poster="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhtNDN1em9pNzh1ZzdlMWQ2czZsbmEwM21hdHljM2Y0bG1jN2JqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RLTdJfPjlY98zDFdF5/giphy.webp">
+<source src="https://archive.org/download/reefer_madness1938/reefer_madness1938.mp4" type="video/mp4" />    
+<source src="https://archive.org/download/reefer_madness1938/reefer_madness1938.mp4" type="video/mp4" />
+
+Download the
+        or <a href="https://archive.org/download/reefer_madness1938/reefer_madness1938.mp4">Reefer Madness 1938 NioR</a>
+        video.
+</video>
+
+[Seattle Web Entrepreneur's Efforts To Re-Brand Marijuana](https://archive.kuow.org/news/2012-11-29/seattle-web-entrepreneurs-efforts-to-re-brand-marijuana)
+[LeafLy](leafly.com)
 
 [The Cosby Show Season 1 - 2023 Restoration](https://archive.org/details/the-cosby-show-season-1-2023-restoration) Full Season 1 of The Cosby Show - original DVD release episodes, deinterlaced and denoised, upscaled with Topaz Video's new Iris model, and individually color corrected. Quality varies widely by episode depending on the quality of the original. Original 4:3 aspect ratio. English subtitles are both embedded and included in a [subfolder as SRTs.](https://archive.org/download/the-cosby-show-season-1-2023-restoration/The.Cosby.Show.S01_2023.Topaz.Iris.Restoration/)
 
 [Wicked City ( 1987) Complete Film](https://archive.org/details/WickedCity1987CompleteFilm)
 
-[Reefer Madness 1938 NioR](https://archive.org/details/reefer_madness1938) [Public Domain](https://creativecommons.org/publicdomain/) ![Public Domain](https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/publicdomain.svg)
+
+
+
 <video playsinline  loop 
   controls
-  src="https://archive.org/download/reefer_madness1938/reefer_madness1938.mp4"
-  poster="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhtNDN1em9pNzh1ZzdlMWQ2czZsbmEwM21hdHljM2Y0bG1jN2JqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RLTdJfPjlY98zDFdF5/giphy.webp"
+  src=""
+  poster=""
   >
   Sorry, your browser doesn't support embedded videos, but don't worry, you can
   <a href="https://archive.org/download/duck00001">download it</a>

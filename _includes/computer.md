@@ -1,5 +1,12 @@
 # Computing
 
+![https://edu.google.com/chromebooks/overview/](https://www.lapl.org/sites/default/files/Digital%20Inclusion-2022-header.png)
+Digital Inclusion Week is an annual campaign to bring attention to the need for digital equity in our communities. The library is committed to helping bridge the digital divide by providing resources and access to technology year-round. We provide internet access and computers for public use at all 73 library locations, lend a variety of technology items through our Tech2go program, and offer digital literacy classes for all age groups and skill levels.
+
+
+
+![Androiding](https://pbs.twimg.com/media/GOtUQbSa0AA3oVx?format=jpg&name=large)
+
 [fast, pure-Ruby Markdown-superset converter](https://kramdown.gettalong.org/documentation.html)
 [kramdown](https://kramdown.gettalong.org/) (sic, not Kramdown or KramDown, just kramdown) is a free MIT-licensed Ruby library for parsing and converting a superset of Markdown. It is completely written in Ruby, supports standard Markdown (with some minor modifications) and various extensions that have been made popular by the PHP Markdown Extra package and Maruku.
 [Subresource Integrity](https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity) 
