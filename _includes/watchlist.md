@@ -88,9 +88,7 @@ Hip-hop based series that was intended as an ongoing series. The show only recei
 </video>
 
 
-![TRON](https://upload.wikimedia.org/wikipedia/commons/f/f9/Tron_%28Disney%29%2C_Logo.svg)
-[imdb](https://www.imdb.com/title/tt0084827/) [TronGame](https://www.classicgamesarcade.com/game/21670/tron-game.html)
-     
+ 
 # Marvel Super Heroes 1967
 In 1966, Marvel Comics hired animation company Grantray-Laurence to create "The Marvel Superheroes", a series of daily cartoons based on their titles Captain America, Thor, Hulk, Iron Man, and the Sub-Mariner. As it was Marvel's first foray into television animation, the producers stretched out the budget by using existing stories and artwork. Original comic art pages were Xeroxed and used as key frames, with animators adding only mouth and limb animation. Body movement was often accomplished by animating still images across a background. 
 
@@ -124,23 +122,11 @@ Fortunately for comic fans, this cost-cutting move preserved for all time the or
 
 
 
-## [https://archive.org/details/arcade_msh](https://archive.org/details/arcade_msh)
-
-
-<video controls width="100%" height="auto" poster="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamU0czZlaTdnamt0bHZtMDd4MDJqcno4ejhmYTc3YTVlY2JoMWliayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornkf3FPmG6zkB1UQ/giphy.webp">
-
-<source src="https://archive.org/download/4f-1046b-6d-9f-4319fc-8e-4ade-5627ed-2d-4-mp-4/4f1046b6d9f4319fc8e4ade5627ed2d4%20mp4.mp4" type="video/mp4" />    
-<source src="https://archive.org/download/4f-1046b-6d-9f-4319fc-8e-4ade-5627ed-2d-4-mp-4/4f1046b6d9f4319fc8e4ade5627ed2d4%20mp4.mp4" type="video/mp4" />
-      
-        Download the
-        or
-        <a href="">MP4</a>
-        video.
-</video>
+[arcade_msh](https://archive.org/details/arcade_msh)
 
 ![TRON](https://upload.wikimedia.org/wikipedia/commons/f/f9/Tron_%28Disney%29%2C_Logo.svg)
 [imdb](https://www.imdb.com/title/tt0084827/) [TronGame](https://www.classicgamesarcade.com/game/21670/tron-game.html)
-
+    
 <video controls width="100%" height="auto" poster="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamU0czZlaTdnamt0bHZtMDd4MDJqcno4ejhmYTc3YTVlY2JoMWliayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornkf3FPmG6zkB1UQ/giphy.webp">
 
 <source src="https://archive.org/download/4f-1046b-6d-9f-4319fc-8e-4ade-5627ed-2d-4-mp-4/4f1046b6d9f4319fc8e4ade5627ed2d4%20mp4.mp4" type="video/mp4" />    
@@ -151,6 +137,7 @@ Fortunately for comic fans, this cost-cutting move preserved for all time the or
         <a href="">MP4</a>
         video.
 </video>
+
 <iframe src="https://archive.org/embed/arcade_tron" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <iframe src="https://archive.org/embed/msdos_TRON_-_Light_Cycles_1992" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
@@ -175,8 +162,6 @@ Beyond the Valley of the Dolls is a 1970 American satirical[6][7] musical melodr
 ![VALLEY](https://archive.org/download/beyond.-the.-valley.-of.-the.-dolls.-1970.1080p.-blu-ray.x-264-yts.-ag/beyond.-the.-valley.-of.-the.-dolls.-1970.1080p.-blu-ray.x-264-yts.-ag.thumbs/Beyond.The.Valley.Of.The.Dolls.1970.1080p.BluRay.x264-%5BYTS.AG%5D_002340.jpg)
 
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1818588336&color=%237a7262&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/jiahofficial" title="Jiah" target="_blank" style="color: #cccccc; text-decoration: none;">Jiah</a> · <a href="https://soundcloud.com/jiahofficial/sets/college-daze" title="College Daze" target="_blank" style="color: #cccccc; text-decoration: none;">College Daze</a></div>
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1758800004&color=%230582cd&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/thakaserika-selassie_kelly" title="thakasErika" target="_blank" style="color: #cccccc; text-decoration: none;">thakasErika</a> · <a href="https://soundcloud.com/thakaserika-selassie_kelly/sets/holetoanotheruniverse" title="#holeToAnotherUniverse #WorkShirt" target="_blank" style="color: #cccccc; text-decoration: none;">#holeToAnotherUniverse #WorkShirt</a></div>
 
 [back](./)
 
