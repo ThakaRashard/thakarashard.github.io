@@ -1,5 +1,18 @@
 # WatchList
 
+[Dragon Ball Z Movie 02 - The World's Strongest (Ocean Dub).mp4	](https://dragonball.fandom.com/wiki/Dragon_Ball_Z:_The_World%27s_Strongest)
+
+  <video controls loop poster="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Johndoe456789.jpg/220px-Johndoe456789.jpg">
+<source src="https://archive.org/download/DBZ-original-version/Movies/Ocean%20Dub/Dragon%20Ball%20Z%20Movie%2002%20-%20The%20World%27s%20Strongest%20%28Ocean%20Dub%29.mp4" type="video/mp4" />    
+<source src="https://archive.org/download/DBZ-original-version/Movies/Ocean%20Dub/Dragon%20Ball%20Z%20Movie%2002%20-%20The%20World%27s%20Strongest%20%28Ocean%20Dub%29.mp4" type="video/mp4" />
+
+Download the
+        or <a href="https://archive.org/download/reefer_madness1938/reefer_madness1938.mp4">Reefer Madness 1938 NioR</a>
+        video.
+</video>
+
+[Dragon Ball Z - The Original Ocean/In-House Dub + Movies Collection](https://archive.org/details/DBZ-original-version)
+[Dragon Ball Z Movies - AB Vidéo Remaster](https://archive.org/details/dragon-ball-z-movies-ab-video-remaster)
 
 ![THC](https://upload.wikimedia.org/wikipedia/commons/c/c2/THC-11-oic-acid-3D-balls.png)
 [Reefer Madness 1938 NioR](https://archive.org/details/reefer_madness1938) [Public Domain](https://creativecommons.org/publicdomain/) ![Public Domain](https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/publicdomain.svg)
@@ -12,6 +25,8 @@ Download the
         video.
 </video>
 
+
+Originally, [Reefer Madness](https://www.imdb.com/title/tt0028346/) was the title of a 1930’s American propaganda film that told the story of how an entire high school student body was introduced to smoking marijuana cigarettes (also known as, reefers).1 However, while the film was intentioned as a cautionary tale to parents about the grave and immoral consequences of allowing their kids to [smoke marijuana](https://weedmaps.com/) (i.e. murder, kidnapping, rape, automotive homicide), it was soon made satire by critics and advocates alike. [StanFord University:Tobacco](https://tobacco.stanford.edu/marijuanas/reefer-madness/)
 [Seattle Web Entrepreneur's Efforts To Re-Brand Marijuana](https://archive.kuow.org/news/2012-11-29/seattle-web-entrepreneurs-efforts-to-re-brand-marijuana)
 [LeafLy](leafly.com)
 
@@ -20,18 +35,6 @@ Download the
 [Wicked City ( 1987) Complete Film](https://archive.org/details/WickedCity1987CompleteFilm)
 
 
-
-
-<video playsinline  loop 
-  controls
-  src=""
-  poster=""
-  >
-  Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://archive.org/download/duck00001">download it</a>
-  and watch it with your favorite video player!
-</video>
-Originally, Reefer Madness was the title of a 1930’s American propaganda film that told the story of how an entire high school student body was introduced to smoking marijuana cigarettes (also known as, reefers).1 However, while the film was intentioned as a cautionary tale to parents about the grave and immoral consequences of allowing their kids to smoke marijuana (i.e. murder, kidnapping, rape, automotive homicide), it was soon made satire by critics and advocates alike. [StanFord University:Tobacco](https://tobacco.stanford.edu/marijuanas/reefer-madness/)
 
 ##  The Maxx
 [This release](https://archive.org/details/xxam-maxximized) consists of all 13 episodes of the groundbreaking animated series, restored with the original broadcast audio as well as video upscaled to 1080p using AI. Each episode contains multiple audio tracks - the original broadcast audio on track 1, DVD audio on track 2*, and commentary by Sam Kieth and the production team on track 3.
