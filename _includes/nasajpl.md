@@ -1,4 +1,16 @@
 
+![normani](https://pbs.twimg.com/profile_banners/209003577/1718338162/1500x500)
+[Normani](https://www.tiktok.com/@normani?lang=en) [Bobbly Ray is from Decatur](https://en.wikipedia.org/wiki/B.o.B) No one belived i worked for nasa when i came back east after being poisoned out of [Monrovia's Extended Stay](https://www.yelp.com/biz/extended-stay-america-los-angeles-monrovia-monrovia) with [Erika](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/). When I was babysitting coral, the song [5Th Dimension](https://www.youtube.com/watch?v=NHfPx7EZ_0U) was a fun tune. iDk if you assisted with production but it had that [Party Vibe we catch with the kids](https://www.abcearlylearning.com/child-care-atlanta-ga.htm). So im running around [Palmdale Mall(Antelope Valley)](https://www.av-mall.com/) Playing that hppy pop shit from atlanta to keep her entertained. She was born in [Northside](https://www.northside.com/locations/northside-hospital-atlanta) and has a true Native Georgia energy! I bring it up bc a few ppl talk to me in strange ways like you, but i really dont know who he is. But I know i went to the same [barbershop](https://www.yelp.com/biz/platinum-cut-decatur) for some time. I had some ppl taunting me in songs about you, erika and muna. It really breaks my heart bc im not from there. A lot of ppl got chewed up with jealosy and im terrified he is fighting me too. He is a [Flat Earther](https://en.wikipedia.org/wiki/B.o.B_discography)... i think im wrong [irt](https://www.suvoda.com/insights/blog/what-is-interactive-response-technology-irt) *inrealtime* Anyway im trying to weed out real people. Since you from Magic, like yo i really need you to help me sort out my male relationships so i dont hurt you ... [peer pressure](https://soundcloud.com/housevibez/de-la-soul-peer-pressure-feat-b-real-jaydee?in=joshua-calhoun-299698480/sets/de-la-soul-aoi-bionix-1&si=4cc9e042b14345248a46399e7ab6f147&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) im scared i dont really know what to say but there is a layer of men i can hang out with and have fun but they destroy my life  bc they have a different view of the law and [graffiti](https://archive.org/details/artofgettingover0000powe)... Back to Bobby ray. Since he using a [Nasa Logo](https://www.cnn.com/style/article/nasa-worm-logo-scn/index.html) i dont know man since the 
+
+
+[Rapper B.o.B. raising funds to check if Earth is flat](https://www.bbc.com/news/blogs-trending-41399164) 
+<embed  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/260595988&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
+
+[BoB  London Jae - NASA (DatPiff.com)](https://archive.org/details/datpiff-mixtape-m8f53a99)
+
+![wormLogo](https://media.cnn.com/api/v1/images/stellar/prod/200424060716-nasa-worm-logo.jpg?q=w_1480,c_fill/f_webp)
+![BoBNaSa](https://ia801201.us.archive.org/4/items/datpiff-mixtape-m8f53a99/00%20-%20BoB_London_Jae_NASA-back-large.jpg)
+
 ## [Perseverance Rover's Descent and Touchdown on Mars](https://svs.gsfc.nasa.gov/31250) 
 [Perseverance Rover’s Descent and Touchdown on Mars: Onboard Camera Views](https://science.nasa.gov/wp-content/uploads/2024/03/45703_JPL-20210222-M2020f-0001-Perseverance_Rovers_Descent_and_Touchdown_on_Mars-1.mp4)
 
