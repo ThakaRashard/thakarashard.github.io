@@ -15,7 +15,9 @@ Red Earth, released in Japan as Warzard (ウォーザード, Wōzādo),[1] is a 
 [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Red_Earth_(video_game)) 
 Play WarZard
 <iframe src="https://www.retrogames.cc/embed/9655-red-earth-war-zard-euro-961121.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
 [Magnum Photos](https://www.magnumphotos.com/)
+
 <iframe src="https://archive.org/embed/vietnam-war-era" width="500" height="200" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![TRON](https://upload.wikimedia.org/wikipedia/commons/f/f9/Tron_%28Disney%29%2C_Logo.svg)

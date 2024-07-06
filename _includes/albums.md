@@ -12,6 +12,7 @@
 ## Marvel Super Heroes (Euro 951024)
 by [Capcom](https://games.capcomusa.com/)  [Play At The internet Arcade](https://archive.org/details/arcade_msh) 
 <(''<)  <( ' ' )>  (> '')>
+
 <div class="pinupImage expandingGallery"><img src="https://pbs.twimg.com/media/GHhryv7aUAEygHp?format=jpg&name=large" />
 <img src="https://pbs.twimg.com/media/GHhxw6lbkAEvTnI?format=jpg&name=large" />
 <img src="https://pbs.twimg.com/media/GFr9Rsea0AA6D8R?format=jpg&name=large" />
@@ -74,7 +75,7 @@ I have not really connected to any of your songs before, but today is different.
 
 {% highlight python linenos hl_lines="1 3 4" %}
 print("YoungBoy Never Broke Again - We Poppin (feat. Birdman)")
-print(Normani ride with me ...)
+print("Normani ride with me ...")
 {% endhighlight %}
 
 ---
@@ -100,6 +101,7 @@ print(Normani ride with me ...)
 // https://x.com/MooNLOVER404/status/1749521832108269600
 
 ```
+
 ![Coral](https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/134858017_1825095757652073_946978845847012539_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=tRkouIknGNQQ7kNvgEtFWct&_nc_ht=scontent-lax3-2.xx&oh=00_AYDh_URcuUj0WbAYwvWoiFLsLCNCHA3g53ZY9S0Yh3LqtQ&oe=6664DC2E)
 
 ![MarvelSuperHeroes](https://pbs.twimg.com/media/GFsDZkxasAASKvH?format=jpg&name=large)
@@ -197,5 +199,3 @@ Yung Miami was born on 11 February 1994 in Miami, Florida, USA. She is a music a
 [Common & Pete Rock On Nas vs Biggie, Ye's Genius, Drake & Kendrick, New Album & More | Drink Champs](https://youtu.be/yqH9Vb72M_E?si=0dsX53DpZyOoeuvu)
 [CooleyHigh](https://youtu.be/ANrXC2HArXA?si=xyhyIT8c0Kt0aacV)
 
-## Convo with a killer
-<embed src="https://player.vimeo.com/video/396000267?h=9c3699c7fc&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" />
