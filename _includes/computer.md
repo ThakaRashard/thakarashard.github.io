@@ -16,12 +16,7 @@ MIME sniffing, on the other hand, is a browser behavior that attempts to guess t
 [What Is a Browser Hash?](https://seon.io/resources/dictionary/browser-hash/) A browser hash is a string of numbers and letters created to map data related to a user’s browser. [What the hash?](https://docs.seon.io/knowledge-base/device-fingerprinting/understanding-hashes#overview)
 So what exactly is a hash? Simply put, a hash is a string of numbers and letters containing information about the desktop or mobile device someone uses to access your service. It is an accumulation of the device data we gather. [Using hashes to fight fraud](https://docs.seon.io/knowledge-base/device-fingerprinting/understanding-hashes#learn-more)
 
-{% highlight python %}
-1 # HOLE_TO_ANOTHER_UNiVERSE##########7/3/2024##########
-2 # TO####################################################
-3 # ANOTHER###############################################
-4 # UNiVERSE##############################################
-{% endhighlight %}
+
 
 
  [How Hash-Based Safe Browsing Works in Google Chrome](https://security.googleblog.com/2022/08/how-hash-based-safe-browsing-works-in.html)

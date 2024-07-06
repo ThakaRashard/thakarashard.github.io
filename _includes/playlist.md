@@ -118,5 +118,3 @@
 
 
 
-### [bubblegumpop01](https://bubblegumpop01.tumblr.com/)
-<video controls width="100%" height="auto" poster="https://media1.giphy.com/media/v1.https://pbs.twimg.com/media/GRhDJHPa0AAUJax?format=jpg&name=large">

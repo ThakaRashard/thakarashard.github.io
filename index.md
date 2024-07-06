@@ -2,7 +2,12 @@
 layout: default
 ---
 
-
+{% highlight python %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##########07/06/2024##########
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE#########################iloveyounormani######
+{% endhighlight %}
 
 
 
@@ -15,7 +20,6 @@ layout: default
 {% include gaming.md %}
 {% include urlpairs.md %}
 {% include htau.md %}
-
 {% include civic.md %}
 {% include design.md %}
 {% include linkroll.md %}
@@ -145,68 +149,3 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
-
-<div class="office">
-
-  <div class="Courier font">
-    <h1>Courier</h1>
-    <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
-    </p>
-  </div>
-  <div class="trebuchet font">
-    <h1>Trebuchet MS Bold</h1>
-    <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
-    </p>
-  </div>
-  <div class="Tahoma font">
-    <h1>Tahoma</h1>
-    <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
-    </p>
-  </div>
-  <div class="verdana font">
-    <h1>Verdana</h1>
-    <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
-    </p>
-  </div>
-  <div class="arialblack font">
-    <h1>Arial Black</h1>
-    <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
-    </p>
-  </div>
-  <div class="arialnarrow font">
-    <h1>Arial Narrow</h1>
-    <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
-    </p>
-  </div>
-  <div class="arial font">
-    <h1>Arial</h1>
-    <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
-    </p>
-  </div>
-  <div class="arialbold font">
-    <h1>Arial Bold</h1>
-    <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
-    </p>
-  </div>
-  <div class="bigcaslon font">
-    <h1>Big Calson</h1>
-    <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
-    </p>
-  </div>
-  <div class="Baskerville font">
-    <h1>Baskerville</h1>
-    <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
-    </p>
-  </div>
-  <div class="georgia font">
-    <h1>Georgia</h1>
-    <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
-    </p>
-  </div>
-  <div class="lucidaconsole font">
-    <h1>Lucinda Console</h1>
-    <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
-    </p>
-  </div>
-
-</div>
