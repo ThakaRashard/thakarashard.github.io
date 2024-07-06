@@ -2,31 +2,14 @@
 
 
 
-# <(''<)  <( ' ' )>  (> '')>
 
-![ATLien420](https://pbs.twimg.com/media/GLoRhfRbMAA8_JK?format=jpg&name=large)
 
 <embed src="https://www.youtube.com/embed/qxyxqVDjSzs?si=FJLDFHo9UgZocaYA" title="YouTube video player"  allowfullscreen />
 <embed src="https://www.youtube.com/embed/5YMYrB0dqoU?si=ShVaFTO1D4851hIv" title="YouTube video player"  allowfullscreen />
 
-## Marvel Super Heroes (Euro 951024)
-by [Capcom](https://games.capcomusa.com/)  [Play At The internet Arcade](https://archive.org/details/arcade_msh) 
-<(''<)  <( ' ' )>  (> '')>
-
-<div class="pinupImage expandingGallery"><img src="https://pbs.twimg.com/media/GHhryv7aUAEygHp?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/GHhxw6lbkAEvTnI?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/GFr9Rsea0AA6D8R?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/GJyKxTIbEAAVuT9?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/GFr3hVJagAAm7la?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/GHi26hTasAAOD99?format=jpg&name=large" />
-<img src="https://i1.sndcdn.com/artworks-000327590304-xr9ecf-t500x500.jpg" />
-<img src="https://pbs.twimg.com/media/F_zwoXjasAA5Vun?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/F_zw9nuaoAAtmI1?format=jpg&name=small" />
 
 
-</div>
 
-![ATLiEN](https://pbs.twimg.com/media/GILodwkaMAASXdr?format=jpg&name=4096x4096)
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 
@@ -37,18 +20,12 @@ by [Capcom](https://games.capcomusa.com/)  [Play At The internet Arcade](https:/
 <div></div>
 <div></div>
 </div>
-<embed width="100%" height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1413792211&color=%23446ff2&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />SZA - Sos Full Album</a></div>
+<embed width="100%" height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1413792211&color=%23446ff2&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
+SZA - Sos 
 
 I listened to [Ctrl](https://www.essence.com/entertainment/only-essence/sza-ctrl-essay/) and understand a lot more about black adolescent emotions, i saw u in [Hollywood](https://tvtropes.org/pmwiki/pmwiki.php/Main/HollywoodHistory), after looking past the grey i realize im not that old! I dont know what i told you in Atlanta, but im not a person to leave loose strings, i may not even be important enough to you to be mentioned. Either way, i asked you for girlfriend advice and your album delivered again, thanks. im more at peace being single(ish) I dont want to talk about Normani bc im still scared thats you, i had a bedroom bandit that was going to the studio, she bonded like a step mother and coral would continue sleeping whenever she came over, or she put yquil in her lunch at Parkside. I was not given foodstamps back then so me an coral got skinny, so i may have all these relationships in my head with the pretty girls from up the street. At the very least im your fan... 
 
 
-# Gullies on Mars 
-![Gullies on Mars](https://www.nasa.gov/wp-content/uploads/2023/03/pia23675.jpg?resize=1024,640)
-[Gullies on Mars](https://www.nasa.gov/image-article/gullies-mars/)
-
-## Bright Gully Deposits on Mars
-![Bright Gully Deposits on Mars](https://science.nasa.gov/wp-content/uploads/2024/03/5247_1_Bright_Gully_Deposits_on_Mars-full2.jpg)
-[Bright Gully Deposits on Mars](https://science.nasa.gov/wp-content/uploads/2024/03/5247_1_Bright_Gully_Deposits_on_Mars-full2.jpg)
 
 [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
 
