@@ -1,10 +1,4 @@
 
-{% highlight python %}
-1 # HOLE_TO_ANOTHER_UNiVERSE##########7/3/2024##########
-2 # TO####################################################
-3 # ANOTHER###############################################
-4 # UNiVERSE##############################################
-{% endhighlight %}
 # Currently Compiling
 
 ![United States Of America](https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg)
