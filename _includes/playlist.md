@@ -25,6 +25,14 @@
     </div>
  <div class=" track">
        
+   <IMG src="https://archive.org/download/beyoncemusicoggvorbis/Beyonc%C3%A9%20-%20Music%20%5BOgg%20Vorbis%5D/4/Beyonc%C3%A9%20-%20Party%20%28ft%20Andr%C3%A9%203000%29_spectrogram.png">
+        <audio controls  loop >
+                   <source src="https://archive.org/download/beyoncemusicoggvorbis/Beyonc%C3%A9%20-%20Music%20%5BOgg%20Vorbis%5D/4/Beyonc%C3%A9%20-%20Party%20%28ft%20Andr%C3%A9%203000%29.mp3" type="audio/mp4">
+                   Your browser dose not Support the audio Tag
+               </audio>
+    </div>
+ <div class=" track">
+       
    <IMG src="https://dn720306.ca.archive.org/0/items/nas-kigs-disease/I/a.jpg">
         <audio controls  loop >
                    <source src="https://ia804508.us.archive.org/35/items/nas-kigs-disease/I/03-Car%20%2385%20%28Ft.%20Charlie%20Wilson%29.mp3" type="audio/mp4">
