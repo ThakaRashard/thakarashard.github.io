@@ -8,6 +8,39 @@
 {% endhighlight %}
 
 <style>
+
+
+  #TEXT1 {
+margin: -9px 0px 0px 10px;
+
+  text-align:left;
+font-family: Sigmar One, 'Arial Rounded MT Bold', 'Arial';
+font-size: 74px;
+font-weight:bold;
+color: #ffbd5b;
+
+/* TEXT1 Shadow Effect */
+text-shadow:
+0px 0px 0 #e7dd9f,
+1px 1px 0 #e0d698,
+2px 2px 0 #dad092,
+3px 3px 0 #d4ca8c,
+4px 4px 0 #cec486,
+5px 5px 0 #c7bd7f,
+6px 6px 0 #c1b779,
+7px 7px 0 #bbb173,
+8px 8px 0 #b5ab6d,
+9px 9px 0 #aea466,
+10px 10px 0 #a89e60,
+11px 11px 0 #a2985a,
+/* TEXT1 Shadow BLUR Effect */
+12px 12px 18px rgba(102, 56, 0,0.7),
+12px 12px 16px rgba(102, 56, 0,0.5),
+0px 0px 11px rgba(102, 56, 0,.2);
+}
+
+
+
 #content {
   height: 100%;
   width: 50%;
@@ -85,6 +118,10 @@ table.blueTable tfoot .links a{
   border-radius: 5px;
 }
 </style>
+
+
+
+<p id="TEXT1"><span>Letters1</span></p>
 
 ![normani](https://pbs.twimg.com/media/GMM-5OdakAAy7aK?format=jpg&name=large) [Scrollbar styling: scrollbar-color](https://codepen.io/ricoThaka/pen/poBBvgw?editors=1100)
 ## parse 

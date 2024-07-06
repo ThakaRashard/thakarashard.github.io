@@ -9,23 +9,25 @@ layout: default
 4 # UNiVERSE#########################iloveyounormani######
 {% endhighlight %}
 
-
+{% include current.md %}
 {% include playlist.md %}
 {% include watchlist.md %}
-{% include current.md %}
+{% include civic.md %}
+{% include graffiti.md %}
 {% include computer.md %}
 {% include monica.md %}
 {% include albums.md %}
-
+{% include aboutme.md %}
 {% include gaming.md %}
 {% include urlpairs.md %}
 {% include htau.md %}
 {% include civic.md %}
-{% include design.md %}
+{% include news.md %}
 {% include linkroll.md %}
 {% include worknotes.md %}
-
+{% include nasajpl.md %}
 {% include sitemap.md %}
+{% include blogroll.md %}
 
 
 ---
