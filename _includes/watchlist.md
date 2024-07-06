@@ -1,6 +1,11 @@
 # WatchList
 
 
+
+[The Cosby Show Season 1 - 2023 Restoration](https://archive.org/details/the-cosby-show-season-1-2023-restoration) Full Season 1 of The Cosby Show - original DVD release episodes, deinterlaced and denoised, upscaled with Topaz Video's new Iris model, and individually color corrected. Quality varies widely by episode depending on the quality of the original. Original 4:3 aspect ratio. English subtitles are both embedded and included in a [subfolder as SRTs.](https://archive.org/download/the-cosby-show-season-1-2023-restoration/The.Cosby.Show.S01_2023.Topaz.Iris.Restoration/)
+
+[Wicked City ( 1987) Complete Film](https://archive.org/details/WickedCity1987CompleteFilm)
+
 [Reefer Madness 1938 NioR](https://archive.org/details/reefer_madness1938) [Public Domain](https://creativecommons.org/publicdomain/) ![Public Domain](https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/publicdomain.svg)
 <video playsinline  loop 
   controls
