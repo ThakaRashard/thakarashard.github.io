@@ -27,33 +27,8 @@ I listened to [Ctrl](https://www.essence.com/entertainment/only-essence/sza-ctrl
 
 
 
-[California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
-
-<div class="gullies">
-<div></div>
-<div></div>
-<div></div>
-<div></div>
-<div></div>
-</div>
-
-<embed height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/899207614&amp;color=%2379f281&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%" />
-
-Ella Mai::Not Another Love Song
-
-## YoungBoy Never Broke Again - We Poppin (feat. Birdman)
-<embed  src="https://www.youtube.com/embed/SKexLz5QRN0?si=09OSnzNjbIoy50dD" title="YouTube video player"  allowfullscreen />
 
 
-
-I have not really connected to any of your songs before, but today is different. I miss riding in [Savannah](https://visitsavannah.com/). I lost my little girl, the one that was with me when you an your girl pulled up on me in Savannah. That song was really healing. Im in Los Angeles, i got intimate with [Normani](https://variety.com/2024/music/news/normani-dopamine-debut-solo-album-1235918512/) and i dont know what life is, but i saw that LenoxMall tape when [Allied](https://www.aus.com/) tried you. They had this Intership program at Dance411 an a few girls encircled me, we went to Graveyard and HodgePodge for meetings, an after some reondevus with about 4 different girls that all wear the same makeup i realized i got played... There is this lightskinone i see in Hollywood hellafly, used to dance there... Anyway Im running bc i was accused of killing erika and ppl trying to kill me bc the charge cant stick! [Nasa](https://www.jpl.nasa.gov/) has been monitoring me an i know i can get clear! If you stuck in LosAngeles go get a BackgroundCheck its [FortMcFphereson](https://militarybases.com/georgia/fort-mcpherson/) for LA bc im getting taht since im criminally clean they putting a lot of pressure on me to stay healthy so they can come home. Erika is [Latto](https://www.essence.com/celebrity/mulatto-rapper/) her an Gucci was ... actually u know all there was a [namechange](https://www.11alive.com/article/entertainment/television/programs/the-a-scene/why-rapper-mulatto-changed-her-name/85-2e9c3a1c-0d0f-4ea3-9589-91ded4a60165) an im hurt but since Matt is involved i hope there was like a bad trick bc, at somepoint hey will be free from Playboy an im grieving Normani getting shit Erika missed out on bc they would never give her privacy as a married woman. Its Genocide man they have a word for it in California... [eugenics](https://www.latimes.com/business/story/2020-07-07/caltech-robert-millikan-eugenics-sterilization)
-
-
-
-{% highlight python linenos hl_lines="1 3 4" %}
-print("YoungBoy Never Broke Again - We Poppin (feat. Birdman)")
-print("Normani ride with me ...")
-{% endhighlight %}
 
 ---
 # Important Tweets 
@@ -79,7 +54,7 @@ print("Normani ride with me ...")
 
 ```
 
-![Coral](https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/134858017_1825095757652073_946978845847012539_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=tRkouIknGNQQ7kNvgEtFWct&_nc_ht=scontent-lax3-2.xx&oh=00_AYDh_URcuUj0WbAYwvWoiFLsLCNCHA3g53ZY9S0Yh3LqtQ&oe=6664DC2E)
+![Coral](https://pbs.twimg.com/media/GNaGWK1aAAABmui?format=jpg&name=large)
 
 ![MarvelSuperHeroes](https://pbs.twimg.com/media/GFsDZkxasAASKvH?format=jpg&name=large)
 [Marvel Super Heroes (951024 Japan)](https://www.retrogames.cc/arcade-games/marvel-super-heroes-951024-japan.html)

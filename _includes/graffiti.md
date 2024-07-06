@@ -1,0 +1,1 @@
+![Bronze Lover Atlanta](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/bronzelover.jpg)
