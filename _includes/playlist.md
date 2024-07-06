@@ -17,9 +17,9 @@
 <div class="playlist">
  <div class=" track">
        
-   <IMG src="https://archive.org/download/beyoncemusicoggvorbis/Beyonc%C3%A9%20-%20Music%20%5BOgg%20Vorbis%5D/4/Beyonc%C3%A9%20-%20Party%20%28ft%20Andr%C3%A9%203000%29_spectrogram.png">
+   <IMG src="https://dn720703.ca.archive.org/0/items/datpiff-mixtape-m04c171f/00%20-%20Lil_Baby_Too_Hard-front-large.jpg">
         <audio controls  loop >
-                   <source src="https://archive.org/download/beyoncemusicoggvorbis/Beyonc%C3%A9%20-%20Music%20%5BOgg%20Vorbis%5D/4/Beyonc%C3%A9%20-%20Party%20%28ft%20Andr%C3%A9%203000%29.mp3" type="audio/mp4">
+                   <source src="https://archive.org/download/datpiff-mixtape-m04c171f/03%20-%20All%20of%20a%20Sudden%20%28feat%20Moneybagg%20Yo%29.mp3">
                    Your browser dose not Support the audio Tag
                </audio>
     </div>
