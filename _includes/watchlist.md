@@ -1,4 +1,18 @@
 # WatchList
+
+
+[Reefer Madness 1938 NioR](https://archive.org/details/reefer_madness1938) [Public Domain](https://creativecommons.org/publicdomain/) ![Public Domain](https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/publicdomain.svg)
+<video playsinline  loop 
+  controls
+  src="https://archive.org/download/reefer_madness1938/reefer_madness1938.mp4"
+  poster="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhtNDN1em9pNzh1ZzdlMWQ2czZsbmEwM21hdHljM2Y0bG1jN2JqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RLTdJfPjlY98zDFdF5/giphy.webp"
+  >
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/duck00001">download it</a>
+  and watch it with your favorite video player!
+</video>
+Originally, Reefer Madness was the title of a 1930’s American propaganda film that told the story of how an entire high school student body was introduced to smoking marijuana cigarettes (also known as, reefers).1 However, while the film was intentioned as a cautionary tale to parents about the grave and immoral consequences of allowing their kids to smoke marijuana (i.e. murder, kidnapping, rape, automotive homicide), it was soon made satire by critics and advocates alike. [StanFord University:Tobacco](https://tobacco.stanford.edu/marijuanas/reefer-madness/)
+
 ##  The Maxx
 [This release](https://archive.org/details/xxam-maxximized) consists of all 13 episodes of the groundbreaking animated series, restored with the original broadcast audio as well as video upscaled to 1080p using AI. Each episode contains multiple audio tracks - the original broadcast audio on track 1, DVD audio on track 2*, and commentary by Sam Kieth and the production team on track 3.
 [The Maxx](https://archive.org/download/xxam-maxximized/The%20Maxx/)
