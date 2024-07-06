@@ -1,5 +1,9 @@
 # Gaming 
 
+[Super Chase - Criminal Termination (World)](https://en.wikipedia.org/wiki/Super_Chase_H.Q.)
+![SuperChase](https://flyers.arcade-museum.com/flyers_video/taito/28130401.jpg)
+<iframe src="https://archive.org/embed/arcade_superchs" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ## Marvel Super Heroes (Euro 951024)
 by [Capcom](https://games.capcomusa.com/)  [Play At The internet Arcade](https://archive.org/details/arcade_msh) 
 <(''<)  <( ' ' )>  (> '')>
