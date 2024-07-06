@@ -9,6 +9,17 @@ by Matt Graham
 @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bungee&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@font-face {
+  font-family: Cluster;
+  src: url(https://raw.githubusercontent.com/ThakaRashard/thakarashardOLD/master/assets/fonts/clusrg__.ttf);
+}
+@font-face {
+  font-family: Museo_Slab;
+  src: url("https://raw.githubusercontent.com/ThakaRashard/thakarashardOLD/master/assets/fonts/Museo_Slab_900.otf") format("opentype");
+}
+
+
+
 
 html {
 
@@ -833,10 +844,7 @@ iframe {
 
 .office {
   justify-content: space-evenly;
-
   border-style: inset;
-  border: 1px solid #08a0e9;
-  font: normal 10px/18px Arial, "Helvetica Neue", Helvetica, sans-serif;
   display: flex;
   flex-direction: column;
   column-count: auto;
@@ -859,6 +867,15 @@ iframe {
   border-radius: 1px 1px 1px 1px;
   border-radius: 1;
 }
+
+
+.museo_slab {
+  font: bold 10px/18px "Museo_Slab";
+  display: block;
+  line-height: 1.2em;
+  font-size: 150%;
+}
+
 .trebuchet {
   font: bold 10px/18px "Trebuchet MS";
   display: block;
@@ -941,6 +958,7 @@ iframe {
   font-family: "Space Mono", monospace;
   font-weight: 400;
   font-style: normal;
+  font-size: 150%;
 }
 
 .space-mono-bold {
@@ -984,6 +1002,7 @@ iframe {
   font-family: "Kanit", sans-serif;
   font-weight: 400;
   font-style: normal;
+  font-size: 150%;
 }
 
 .kanit-medium {
