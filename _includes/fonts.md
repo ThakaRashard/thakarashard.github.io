@@ -2,6 +2,12 @@
 
 <div class="office">
 
+
+  <div class="museo_slab font">
+    <h3>Space-Mono</h3>
+    <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
+    </p>
+  </div>
   <div class="space-mono-regular font">
     <h3>Space-Mono</h3>
     <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!

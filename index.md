@@ -10,7 +10,7 @@ layout: default
 {% endhighlight %}
 
 {% include erika.md %}
-
+{% include fonts.md %}
 {% include news.md %}
 {% include worknotes.md %}
 {% include current.md %}
@@ -30,7 +30,7 @@ layout: default
 
 {% include coral.md %}
 
-{% include fonts.md %}
+
 {% include civic.md %}
 {% include gaming.md %}
 {% include linkroll.md %}
