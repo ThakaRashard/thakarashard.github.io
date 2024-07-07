@@ -4,6 +4,24 @@
 
 ![Valid](https://pbs.twimg.com/media/GR64eZ5aoAAMgKu?format=jpg&name=large)
 
+
+
+![imageScaling](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2xsai_example.svg/800px-2xsai_example.svg.png)
+
+![Raster vs Vector](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bitmap_VS_SVG.svg/800px-Bitmap_VS_SVG.svg.png)
+
+### [Image scaling](https://en.wikipedia.org/wiki/Image_scaling#:~:text=In%20computer%20graphics%20and%20digital,as%20upscaling%20or%20resolution%20enhancement.)
+
+In computer graphics and digital imaging, image scaling refers to the resizing of a digital image. In video technology, the magnification of digital material is known as upscaling or resolution enhancement.
+
+When scaling a vector graphic image, the graphic primitives that make up the image can be scaled using geometric transformations with no loss of image quality.
+
+[Scalable Vector Graphics (SVG) ](https://en.wikipedia.org/wiki/SVG) is an XML-based vector image format for defining two-dimensional graphics, having support for interactivity and animation. The SVG specification is an open standard developed by the World Wide Web Consortium since 1999.
+[SVG](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/SVG_Logo.svg/800px-SVG_Logo.svg.png)
+
+By <a href="//commons.wikimedia.org/wiki/File:2xsai_example.png" title="File:2xsai example.png">Original: </a> <a href="//commons.wikimedia.org/wiki/User:Kieff" class="mw-redirect" title="User:Kieff">Kieff</a> and <a href="//commons.wikimedia.org/wiki/User:Mysid" title="User:Mysid">Mysid</a> Vector: <a href="//commons.wikimedia.org/wiki/User:OmegaFallon" title="User:OmegaFallon">OmegaFallon</a> - <span class="int-own-work" lang="en">Own work</span>; vectorization of: <a href="//commons.wikimedia.org/wiki/File:2xsai_example.png" title="File:2xsai example.png">2xsai example.png</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=137922514">Link</a>
+[https://red-route.org/code/image-resizing-calculator](https://red-route.org/code/image-resizing-calculator) 
+
 [S͟q̲uare p̲u̲sher - Fe͟ed Me͟ Wei͟rd Thi͟ngs (Full Album)](https://youtu.be/ACCGdh_JYLE?si=Cz85_dob5hCd5CLv&t=1210)
 ![mapping losangles](https://pbs.twimg.com/media/GR62HDRaQAApmxg?format=jpg&name=large)
 [Open Metro](https://developer.metro.net/)
