@@ -5,7 +5,10 @@
 ![Valid](https://pbs.twimg.com/media/GR64eZ5aoAAMgKu?format=jpg&name=large)
 
 
+![me](https://pbs.twimg.com/media/GR68Mi7acAAyAxJ?format=jpg&name=large)
+![sync](https://pbs.twimg.com/media/GR68H01bMAAJOf5?format=png&name=large)
 
+<iframe src="https://archive.org/embed/arcade_garou" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 ![imageScaling](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2xsai_example.svg/800px-2xsai_example.svg.png)
 
 ![Raster vs Vector](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bitmap_VS_SVG.svg/800px-Bitmap_VS_SVG.svg.png)
