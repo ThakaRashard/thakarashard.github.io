@@ -861,11 +861,9 @@ iframe {
   color: white;
   background: transparent
     url(https://raw.githubusercontent.com/ThakaRashard/thakarashard.github.io/master/assets/images/PrairieWind.png);
-  background-size: tile;
   border-style: inset;
-  border: 1px solid #08a0e9;
-  border-radius: 1px 1px 1px 1px;
-  border-radius: 1;
+  
+  
 }
 
 
@@ -3095,10 +3093,6 @@ border-radius: 0.3em;
 -moz-transition:all 0.5s linear;
 -o-transition:all 0.5s linear;
 transition:all 0.5s linear;
-	box-shadow: 0 0 0 1px hsla(0,9%,1%,.3) outset
-	            0 .5em 1em rgba(0, 0, 0, 0.1);
-	text-shadow: 0 1px 1px hsla(0,0%,100%,.3);
-  background: hsla(0,0%,100%,.9) border-box;
 }
 
 .track:hover, .track:focus, .track:active
