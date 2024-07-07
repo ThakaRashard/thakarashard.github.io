@@ -9,8 +9,8 @@ layout: default
 4 # UNiVERSE#########################iloveyounormani######
 {% endhighlight %}
 
+{% include erika.md %}
 
-{% include nasajpl.md %}
 {% include news.md %}
 {% include worknotes.md %}
 {% include current.md %}
@@ -29,13 +29,13 @@ layout: default
 {% include urlpairs.md %}
 
 {% include coral.md %}
-{% include erika.md %}
+
 {% include fonts.md %}
 {% include civic.md %}
 {% include gaming.md %}
 {% include linkroll.md %}
 
-
+{% include nasajpl.md %}
 {% include sitemap.md %}
 {% include blogroll.md %}
 {% include playlist.md %}
