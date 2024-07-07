@@ -1,12 +1,14 @@
 
 # Currently Compiling
 
-
+![oromo tygrinya](https://pbs.twimg.com/media/GR6awOAbQAAHTic?format=jpg&name=large)
 ![gitgood](https://pbs.twimg.com/media/GR6ZDr2bIAAbrfl?format=jpg&name=large)
 [Making Git Good](https://blog.replit.com/git-good)
 ![blog](https://pbs.twimg.com/media/GR6SpzAaMAAfZhW?format=jpg&name=large)
 ![Landsatlook](https://pbs.twimg.com/media/GR6Vmgkb0AA1zLB?format=jpg&name=large)
+
 `https://x.com/BubbleGumPop626/status/1810049106016112786` 
+
 ![United States Of America](https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg)
 
 ### [bubblegumpop01](https://bubblegumpop01.tumblr.com/)
