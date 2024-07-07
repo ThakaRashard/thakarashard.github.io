@@ -1,7 +1,7 @@
 # Albums
 
 
-
+[S͟q̲uare p̲u̲sher - Fe͟ed Me͟ Wei͟rd Thi͟ngs (Full Album)](https://youtu.be/ACCGdh_JYLE?si=Cz85_dob5hCd5CLv&t=1210)
 
 
 <embed src="https://www.youtube.com/embed/qxyxqVDjSzs?si=FJLDFHo9UgZocaYA" title="YouTube video player"  allowfullscreen />

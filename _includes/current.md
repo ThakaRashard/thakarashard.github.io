@@ -1,6 +1,9 @@
 
 # Currently Compiling
 
+
+
+[S͟q̲uare p̲u̲sher - Fe͟ed Me͟ Wei͟rd Thi͟ngs (Full Album)](https://youtu.be/ACCGdh_JYLE?si=Cz85_dob5hCd5CLv&t=1210)
 ![mapping losangles](https://pbs.twimg.com/media/GR62HDRaQAApmxg?format=jpg&name=large)
 [Open Metro](https://developer.metro.net/)
 
