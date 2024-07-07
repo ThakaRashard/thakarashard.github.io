@@ -1,13 +1,7 @@
-{% include nasajpl.md content="Erika, I have been talking to Normani from Magic intimately. She is supposed to be taking over Jose M Pi spot in our life" %}
+Erika, I have been talking to Normani from Magic intimately. She is supposed to be taking over Jose M Pi spot in our life
 
 
-<div class="gullies">
-          <div> </div>
-          <div> </div>
-          <div> </div>
-          <div> </div>
-          <div> </div>
-</div>
+
    
 <div class="swatch">
     <div></div>
@@ -2674,5 +2668,12 @@
       <div></div>
       <div></div>
 
-    </div>
+  </div>
 
+<div class="gullies">
+          <div> </div>
+          <div> </div>
+          <div> </div>
+          <div> </div>
+          <div> </div>
+</div>

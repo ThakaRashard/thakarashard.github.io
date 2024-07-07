@@ -9,12 +9,14 @@ layout: default
 4 # UNiVERSE#########################iloveyounormani######
 {% endhighlight %}
 
+
+{% include current.md %}
+{% include cannabis.md %}
 {% include erika.md %}
 {% include fonts.md %}
 {% include news.md %}
 {% include worknotes.md %}
-{% include current.md %}
-{% include cannabis.md %}
+
 {% include htau.md %}
 
 {% include watchlist.md %}
