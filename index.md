@@ -12,32 +12,24 @@ layout: default
 
 {% include current.md %}
 {% include cannabis.md %}
+{% include watchlist.md %}
+{% include htau.md %}
+{% include computer.md %}
+{% include gaming.md %}
+{% include nasajpl.md %}
+{% include linkroll.md %}
 {% include erika.md %}
 {% include fonts.md %}
 {% include news.md %}
 {% include worknotes.md %}
 
-{% include htau.md %}
-
-{% include watchlist.md %}
 {% include civic.md %}
 {% include graffiti.md %}
-{% include computer.md %}
-
-
 {% include albums.md %}
 {% include aboutme.md %}
-
 {% include urlpairs.md %}
-
 {% include coral.md %}
 
-
-{% include civic.md %}
-{% include gaming.md %}
-{% include linkroll.md %}
-
-{% include nasajpl.md %}
 {% include sitemap.md %}
 {% include blogroll.md %}
 {% include playlist.md %}
