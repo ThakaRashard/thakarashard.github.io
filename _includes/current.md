@@ -2,6 +2,7 @@
 # Currently Compiling
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 
+![Valid](https://pbs.twimg.com/media/GR64eZ5aoAAMgKu?format=jpg&name=large)
 
 [S͟q̲uare p̲u̲sher - Fe͟ed Me͟ Wei͟rd Thi͟ngs (Full Album)](https://youtu.be/ACCGdh_JYLE?si=Cz85_dob5hCd5CLv&t=1210)
 ![mapping losangles](https://pbs.twimg.com/media/GR62HDRaQAApmxg?format=jpg&name=large)
