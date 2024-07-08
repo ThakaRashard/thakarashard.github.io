@@ -1,6 +1,9 @@
 # Them
 <cite> A group of women I know from my journeys that somehow all ended up in [LosAngeles](https://lacity.gov/) </cite>
 
+
+
+[Nicki Minaj - Pills N Potions Vs. Doja Cat - Go To Town (DJ Fletch Official Music Video Mashup)](https://www.youtube.com/watch?v=jQpGUTuZLrw)
 [Rico Nasty - Smack a Bitch LIVE at the 2019 Pornhub Awards](https://archive.org/details/191018-1644-1080-p-4000-k-255662912)
 <video controls width="100%" height="auto" poster="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVvczloMjUwa2d0b2YwYjM5c21pcGZtYm1tZmpzd3JndzZ0cjdzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RlkPRjL2XKODC1LQ31/giphy.webp">
 
