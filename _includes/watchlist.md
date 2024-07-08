@@ -1,5 +1,24 @@
 # WatchList
 
+[Art of Fighting-Full Movie](https://www.youtube.com/watch?v=QVqb0lsfC6s)
+[Samurai Shodown: The Motion Picture (The Movie -1994) HD](https://youtu.be/UV_YhxC3P90?si=VWidY9I1vGa5JUSL)
+[SDF Macross The Movie: Do You Remember Love?](https://www.youtube.com/watch?v=go6OhS43x30) (超時空要塞マクロス 愛・おぼえていますか, Chōjikū Yōsai Makurosu: Ai Oboete Imasu ka), also known as Macross: Do You Remember Love? (commonly referred to by the acronym "DYRL?" among Western fans) or Super Spacefortress Macross, is a 1984 Japanese animated space opera film based on the Macross anime television series.[Wikipedia](https://en.wikipedia.org/wiki/Macross:_Do_You_Remember_Love%3F) [imdb](https://www.imdb.com/title/tt0087660/)
+
+<video controls width="100%" height="auto" poster="https://64.media.tumblr.com/bd4c964ca79b5482e041da876825daab/tumblr_odjww7WQHR1r4zr8xo1_540.gif">
+
+<source src="https://archive.org/download/super-dimension-fortress-macross-do-you-remember-love_202212/Super%20Dimension%20Fortress%20Macross%3B%20Do%20You%20Remember%20Love.mp4" type="video/mp4" />    
+<source src="https://archive.org/download/super-dimension-fortress-macross-do-you-remember-love_202212/Super%20Dimension%20Fortress%20Macross%3B%20Do%20You%20Remember%20Love.mp4" type="video/mp4" />
+      
+        Download the
+        or
+        <a href="">MP4</a>
+        video.
+</video>
+
+
+[The Super Dimension Fortress MACROSS Do You Remember Love (Perfect Edition) English Japanese Dub](https://archive.org/details/thesuperdimensionfortressmacrossdoyourememberloveperfecteditionenglishjapanesedub)
+
+:: 
 
 [Dominion Tank Police (English Dub) Home Video Master Transfer (Betacam)](https://archive.org/details/dominion-tank-police-english-dubbed-master)
 <video controls width="100%" height="auto" poster="https://64.media.tumblr.com/c9d7c568dbb349fe4036599a64e0965a/tumblr_nqvkod9HyG1tbf8vto1_500.gifv">
