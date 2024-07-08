@@ -1,6 +1,6 @@
 # Albums
 
-
+[Gangsta Bitch Music Vol. 1](https://archive.org/details/cardi-b-gangsta-bitch-music-vol-1)
 [S͟q̲uare p̲u̲sher - Fe͟ed Me͟ Wei͟rd Thi͟ngs (Full Album)](https://youtu.be/ACCGdh_JYLE?si=Cz85_dob5hCd5CLv&t=1210)
 
 
