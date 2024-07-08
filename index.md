@@ -10,6 +10,7 @@ layout: default
 {% endhighlight %}
 
 
+{% include them.md}
 {% include current.md %}
 {% include cannabis.md %}
 {% include watchlist.md %}
