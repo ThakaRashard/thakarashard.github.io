@@ -4,7 +4,7 @@
 
 
 
-[LosAngelesParent - Xzibit](https://youtu.be/iYdzAnb__S0?si=gkBMXd7R5mEhcYSc)
+[LosAngelesParentS](https://youtu.be/iYdzAnb__S0?si=gkBMXd7R5mEhcYSc) [Xzibit - Paparazzi (Official Video)](https://youtu.be/g5xJBKVGTGs?si=gteXXubw-jYnqrfy)
 
 ### Chloe,
 ![work day](https://i.insider.com/61ba7b1696b8ed00194b3313?width=1136&format=jpeg)

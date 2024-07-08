@@ -1,5 +1,7 @@
+Hi Coral, I got your message, here are some curated hiphop selections i approve of, they will give us middle ground. ilove you . . . dad ~ rashard iman kelly aka thaka aka shaadi [NasaJpl_MrO]()
+<iframe src="https://archive.org/embed/Xzibit_Paparazzi" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-
+[reddit](https://www.reddit.com/r/hiphopheads/comments/y4msp9/xzibit_paparazzi/?rdt=62940)
 [Xzibit - The Foundation](https://en.wikipedia.org/wiki/The_Foundation_(song))  is the second single from Xzibit's debut album At the Speed of Life and also appeared on the soundtrack to the film Hurricane Streets. Xzibit dedicated this song to his one-year-old son.[wiki](https://en.wikipedia.org/wiki/Xzibit)
 
 <embed src="https://www.youtube.com/embed/k_8Jlq9n3Kw?si=RHS_4b3R4gxNlayD" title="YouTube video player" />
@@ -16,6 +18,14 @@
 
 <div class="playlist">
   
+  <div class=" track">
+       
+   <IMG src="https://upload.wikimedia.org/wikipedia/en/0/0c/Paparazzi_XZ.jpg">
+        <audio controls  loop >
+                   <source src="https://archive.org/download/bell-biv-devoe-do-me-mentality-hip-hop/Xzibit%20-%20Paparazzi.mp3">
+                   Your browser dose not Support the audio Tag
+               </audio>
+    </div>
   
 <div class=" track">
        
