@@ -3080,7 +3080,8 @@ text-shadow: 0 1px 1px hsla(0,0%,100%,.3);
 .playlist {
   display:flex;
   flex-flow: row wrap;
-  flex-direction: row;
+  flex-direction: row-reverse;
+  
   
 } 
 
