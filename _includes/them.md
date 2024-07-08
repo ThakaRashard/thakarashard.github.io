@@ -1,6 +1,15 @@
 # Them
 <cite> A group of women I know from my journeys that somehow all ended up in [LosAngeles](https://lacity.gov/) </cite>
 
+
+
+### Chloe,
+![work day](https://i.insider.com/61ba7b1696b8ed00194b3313?width=1136&format=jpeg)
+How can my intake be comfortable whereever it is an yall getting dark man ~> 
+[Heltah Skeltah & OGC - Leflaur Leflah Eshkoshka](https://www.youtube.com/watch?v=i4sW3jJuVDg) [Glamour Life](https://www.youtube.com/watch?v=1QnOCkQLTC0) [Chloe Bailey Removing a Wig for the First Time Is the Funniest Thing You'll See Today](https://www.allure.com/story/chloe-bailey-wig-removal-tiktok-video)
+
+[smugChloe](https://media.allure.com/photos/645baf344d62964b81842fd7/16:9/w_1600,c_limit/chloe%20bailey%20wig%20removal.jpg)
+
 <video controls width="100%" height="auto" poster="https://archive.org/download/roujin.-z.-1991.1080p.-blu-ray.x-264-skazhutin/roujin.-z.-1991.1080p.-blu-ray.x-264-skazhutin.thumbs/Roujin.Z.1991.1080p.BluRay.x264-Skazhutin_000075.jpg">
 
 <source src="https://archive.org/download/roujin-z-1991_202401/Roujin.Z.1991.JAPANESE-VXT.mp4" type="video/mp4" />    
