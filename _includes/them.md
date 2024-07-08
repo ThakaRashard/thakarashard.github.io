@@ -1,7 +1,16 @@
 # Them
 <cite> A group of women I know from my journeys that somehow all ended up in [LosAngeles](https://lacity.gov/) </cite>
 
+<video controls width="100%" height="auto" poster="https://archive.org/download/roujin.-z.-1991.1080p.-blu-ray.x-264-skazhutin/roujin.-z.-1991.1080p.-blu-ray.x-264-skazhutin.thumbs/Roujin.Z.1991.1080p.BluRay.x264-Skazhutin_000075.jpg">
 
+<source src="https://archive.org/download/roujin-z-1991_202401/Roujin.Z.1991.JAPANESE-VXT.mp4" type="video/mp4" />    
+<source src="https://archive.org/download/roujin-z-1991_202401/Roujin.Z.1991.JAPANESE-VXT.mp4" type="video/mp4" />
+      
+        Download the
+        or
+        <a href="">MP4</a>
+        video.
+</video>
 
 <embed  src="https://www.youtube.com/embed/JR1Ib8o_eL4?si=P87EMXsghaK_IOVY" title="Kandi Hits The Road with Psiryn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen />
 
