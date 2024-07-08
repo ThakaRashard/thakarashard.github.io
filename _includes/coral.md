@@ -1,3 +1,9 @@
+
+
+[Xzibit - The Foundation](https://en.wikipedia.org/wiki/The_Foundation_(song))  is the second single from Xzibit's debut album At the Speed of Life and also appeared on the soundtrack to the film Hurricane Streets. Xzibit dedicated this song to his one-year-old son.[wiki](https://en.wikipedia.org/wiki/Xzibit)
+
+<embed src="https://www.youtube.com/embed/k_8Jlq9n3Kw?si=RHS_4b3R4gxNlayD" title="YouTube video player" />
+
 [Xecutioners - Mad Flava (Album: X-Pressions)](https://youtu.be/P9E_p538Slc?si=iDG8zW7ZKjOp1bIh)
 ![https://archive.org/download/digable-planets-rebirth-of-slick-cool-like-dat/Rebirth%20Of%20Slick%20(Cool%20Like%20Dat)/1.jpg](https://archive.org/download/digable-planets-rebirth-of-slick-cool-like-dat/Rebirth%20Of%20Slick%20(Cool%20Like%20Dat)/1.jpg)
 [Rebirth Of Slick (Cool Like Dat)](https://archive.org/details/digable-planets-rebirth-of-slick-cool-like-dat)
