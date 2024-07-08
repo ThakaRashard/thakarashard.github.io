@@ -5,6 +5,7 @@
 <iframe src="https://archive.org/embed/arcade_pacmania" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> how kelsey doing ?
 
 [Quavo Huncho](https://archive.org/details/cd_quavo-huncho_quavo-21-savage-cardi-b-davido-drake-kid-c) [Culture III](https://archive.org/details/cd_culture-iii_migos-cardi-b-drake-future-4-juice-wrld-ju) [Nuthin' 2 Prove](https://archive.org/details/cd_nuthin-2-prove_lil-yachty-cardi-b-gunna-juice-wrld-kevin) [Cardi B WAP Feat. Megan Thee Stallion (FAN EDIT) ORIGINAL, EXPLICIT LYRICS](https://archive.org/details/cardi-b-wap-feat.-megan-thee-stallion-fan-edit-original-explicit-lyrics)
+ [Culture II by Migos; 2 Chainz; 21 Savage; Big Sean; Cardi B; Drake; Gucci Mane; Nicki Minaj; Post Malone; Travis Scott; Ty Dolla $ign](https://archive.org/details/cd_culture-ii_migos-2-chainz-21-savage-big-sean-cardi-b)
 
 [Ali Birra - Ushuruururuu - OFFICIAL Music Video 2018](https://www.youtube.com/watch?v=5r0JjR2C5v4)
 [Best Gonder Songs Compilation | ምርጥ የጎንደር ዘፈኖች ስብስብ](https://youtu.be/CAPJmS9T8Sg?si=KqTqY-kE1sKTleEo&t=179)
