@@ -1,7 +1,30 @@
 # WatchList
+### [Jonny Quest ](https://archive.org/download/jonny-quest-60s-complete)
+
+<iframe src="https://archive.org/embed/jonny-quest-60s-complete" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![https://upload.wikimedia.org/wikipedia/en/f/f7/Jonny-quest-logo.jpg](https://upload.wikimedia.org/wikipedia/en/f/f7/Jonny-quest-logo.jpg)
+Jonathan "Jonny" Quest is the son of Dr. Benton Quest and often accompanies him on his scientific investigations. Jonny has an adoptive brother and best friend, Hadji, and mentor/tutor, Race Bannon. He also has a pet dog named Bandit.[johnnyquest.fandom](https://jonnyquest.fandom.com/wiki/Jonny_Quest_(character)) [Jonny Quest/Doug Wildey “Where Does It Come From ” Pt 7](https://trekkercomic.com/2015/08/06/jonny-questdoug-wildey-where-does-it-come-from-pt-7/)
+![JohnnyQuest](https://trekkercomic.com/wp-content/uploads/2015/08/JQ_SignedStatOfTeam_Medium.jpg)
+
+![JohnnyBravo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Johnny_Bravo_series_logo.png/800px-Johnny_Bravo_series_logo.png)
+
+<iframe src="https://archive.org/embed/johnnybravo1997" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+[https://Johnny_Bravo](https://en.wikipedia.org/wiki/Johnny_Bravo)
+
+### Mobile Suit Gundam 0083 Stardust Memory   Episode Irregulats in Albion   Subtitled English [watch](https://archive.org/details/Mobile_Suit_Gundam_0083_Stardust_Memory_Episode_Irregulats_in_Albion_Subtitled_E)
+[Mobile Suit Gundam: The Witch from Mercury Ep. 1 | DUB | The Witch and the bride](https://www.youtube.com/watch?v=DF8aTKLYouw) [LiveAction GUNDAM :netflix:](https://youtu.be/s_fNP-ipgJA?si=TPxldMjjMzNYbPYP) [imdb](https://www.imdb.com/title/tt0159172/) [Mobile Suit Gundam](https://www.crunchyroll.com/series/GKEH2G9XV/mobile-suit-gundam) [Synopsis](https://myanimelist.net/anime/80/Kidou_Senshi_Gundam) It is year 0079 of the Universal Century. Mankind has moved to space, living in colony clusters known as "Sides." One of these Sides declares itself the "Principality of Zeon" and declares war on the Earth Federation, the governmental body currently ruling Earth. Using powerful humanoid robots known as "mobile suits," Zeon quickly gains the upper hand. [r/MobileSuitGundam](https://www.reddit.com/r/MobileSuitGundam/) 
+[This Year’s Special Animation Program: Mobile Suit Gundam　 The First-Ever Major Screening Occasion to Showcase the Monumental Works!](https://2015.tiff-jp.net/news/en/?p=8906)
+
+[[ 47] Mobile Suit Gundam Wing](https://archive.org/details/47-mobile-suit-gundam-wing)
+
+<iframe src="https://archive.org/embed/47-mobile-suit-gundam-wing" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
 
 [Art of Fighting-Full Movie](https://www.youtube.com/watch?v=QVqb0lsfC6s)
 [Samurai Shodown: The Motion Picture (The Movie -1994) HD](https://youtu.be/UV_YhxC3P90?si=VWidY9I1vGa5JUSL)
+
 <video controls width="100%" height="auto" poster="https://64.media.tumblr.com/c9d7c568dbb349fe4036599a64e0965a/tumblr_nqvkod9HyG1tbf8vto1_500.gifv">
 
 <source src="https://archive.org/download/dominion-tank-police-english-dubbed-master/Dominion%20Tank%20Police%20%28Acts%20I%20and%20II%29%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%29%20%5BBetacam%20SP%20Transfer.mp4" type="video/mp4" />    
@@ -30,7 +53,7 @@ Download the
 
 ![THC](https://upload.wikimedia.org/wikipedia/commons/c/c2/THC-11-oic-acid-3D-balls.png)
 [Reefer Madness 1938 NioR](https://archive.org/details/reefer_madness1938) [Public Domain](https://creativecommons.org/publicdomain/) ![Public Domain](https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/publicdomain.svg)
-  <video controls loop poster="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhtNDN1em9pNzh1ZzdlMWQ2czZsbmEwM21hdHljM2Y0bG1jN2JqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RLTdJfPjlY98zDFdF5/giphy.webp">
+<video controls loop poster="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhtNDN1em9pNzh1ZzdlMWQ2czZsbmEwM21hdHljM2Y0bG1jN2JqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RLTdJfPjlY98zDFdF5/giphy.webp">
 <source src="https://archive.org/download/reefer_madness1938/reefer_madness1938.mp4" type="video/mp4" />    
 <source src="https://archive.org/download/reefer_madness1938/reefer_madness1938.mp4" type="video/mp4" />
 
