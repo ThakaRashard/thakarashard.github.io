@@ -1,6 +1,20 @@
 # Them
 <cite> A group of women I know from my journeys that somehow all ended up in [LosAngeles](https://lacity.gov/) </cite>
 
+
+
+
+[Popeye the Sailor - 1933 to 1942 Fleischer Studios](https://archive.org/details/popeye-the-sailor-1933-to-1942-fleischer-studios) [Talk:Olive Oyl](https://en.wikipedia.org/wiki/Talk:Olive_Oyl)
+
+<video controls preload="auto" poster="https://cartoonresearch.com/wp-content/uploads/2020/04/popeye-fleischer-194-maintitle.jpg">
+    
+<source src="https://archive.org/download/popeye-the-sailor-1933-to-1942-fleischer-studios/014%20A%20Dream%20Walking%20%289-26-1934%29.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/popeye-the-sailor-1933-to-1942-fleischer-studios/014%20A%20Dream%20Walking%20%289-26-1934%29.mp4">MP4</a>
+        video.
+</video> 
+
 <iframe src="https://archive.org/embed/outkast-atliens" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> ### meditate savannah gals its come around
 
 ### Who's the Man? Comedy · Crime · Mystery
