@@ -4,7 +4,7 @@
 
 
 ### Who's the Man? Comedy · Crime · Mystery
-In this hip-hop whodunnit, Doctor Dré and Ed Lover play two barbers-turned-policemen who find themselves investigating their friend’s murder [TUBi](https://tubitv.com/movies/100000434/who-s-the-man) [TV_GUiDE](https://www.tvguide.com/movies/whos-the-man/2030109905/) [Yo! MTV Raps](https://en.wikipedia.org/wiki/Yo!_MTV_Raps) [https://plex](https://watch.plex.tv/movie/whos-the-man) [Who's the Man Soundtrack](https://youtube.com/playlist?list=PLvmdgH_DpOdI5xbuPGzzTVgTtr4XJneTq&si=g9KLLHPxeiLa0xVv) [ARCHiVE](https://archive.org/details/who-s-the-man-d-2-t-00)
+In this hip-hop whodunnit, Doctor Dré and Ed Lover play two barbers-turned-policemen who find themselves investigating their friend’s murder [TUBi](https://tubitv.com/movies/100000434/who-s-the-man) [TV_GUiDE](https://www.tvguide.com/movies/whos-the-man/2030109905/) [Yo! MTV Raps](https://en.wikipedia.org/wiki/Yo!_MTV_Raps) [https://plex](https://watch.plex.tv/movie/whos-the-man) [Who's the Man Soundtrack](https://youtube.com/playlist?list=PLvmdgH_DpOdI5xbuPGzzTVgTtr4XJneTq&si=g9KLLHPxeiLa0xVv) [ARCHiVE](https://archive.org/details/who-s-the-man-d-2-t-00) [Party AnD BullshiT](https://youtu.be/jX3bdJbo9ec?si=xRD48DfBGuc6UXL5)
 
 <video controls preload="auto" poster="https://m.media-amazon.com/images/M/MV5BNGIxNjY3ZTktMmNlOS00MDdmLWE3NTYtNGQ4N2I3MWNlNDg5XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg">
     
