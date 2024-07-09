@@ -2,6 +2,19 @@
 <cite> A group of women I know from my journeys that somehow all ended up in [LosAngeles](https://lacity.gov/) </cite>
 
 
+
+### Who's the Man? Comedy · Crime · Mystery
+In this hip-hop whodunnit, Doctor Dré and Ed Lover play two barbers-turned-policemen who find themselves investigating their friend’s murder [TUBi](https://tubitv.com/movies/100000434/who-s-the-man) [TV_GUiDE](https://www.tvguide.com/movies/whos-the-man/2030109905/) [Yo! MTV Raps](https://en.wikipedia.org/wiki/Yo!_MTV_Raps) [https://plex](https://watch.plex.tv/movie/whos-the-man) [Who's the Man Soundtrack](https://youtube.com/playlist?list=PLvmdgH_DpOdI5xbuPGzzTVgTtr4XJneTq&si=g9KLLHPxeiLa0xVv) [ARCHiVE](https://archive.org/details/who-s-the-man-d-2-t-00)
+
+<video controls preload="auto" poster="https://m.media-amazon.com/images/M/MV5BNGIxNjY3ZTktMmNlOS00MDdmLWE3NTYtNGQ4N2I3MWNlNDg5XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg">
+    
+<source src="https://archive.org/download/who-s-the-man-d-2-t-00/WHO%27S%20THE%20MAN-D2_t00.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/who-s-the-man-d-2-t-00/WHO%27S%20THE%20MAN-D2_t00.mp4">MP4</a>
+        video.
+</video> 
+
 ![Normani?](https://www.billboard.com/wp-content/uploads/media/Normani-bb1-2019-feat-billboard-kjnouhou-1500.jpg)
 [Normani](https://www.vogue.com/article/normani-dopamine-interview) [WildSide](https://youtu.be/DFMEBquxeO8) how you doin? [Bruh](https://www.the-sun.com/entertainment/4169087/who-normani-dated-boyfriend/) [C'mon Son](https://youtu.be/FZEavGn0LqA?si=RHCNWX991VfIAEOc)
 
