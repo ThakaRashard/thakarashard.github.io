@@ -2,7 +2,7 @@
 <cite> A group of women I know from my journeys that somehow all ended up in [LosAngeles](https://lacity.gov/) </cite>
 
 [Black Sheep - Flavor Of The Month](https://youtu.be/F01fzPwBwc4?si=via-83zuT6VRkH12)
-
+[A Tribe Called Quest - Sucka Nigga](https://www.youtube.com/watch?v=QuZu_9UcUKY)
 
 [LosAngelesParentS](https://youtu.be/iYdzAnb__S0?si=gkBMXd7R5mEhcYSc) [Xzibit - Paparazzi (Official Video)](https://youtu.be/g5xJBKVGTGs?si=gteXXubw-jYnqrfy)
 
