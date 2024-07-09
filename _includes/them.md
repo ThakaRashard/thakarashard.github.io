@@ -1,8 +1,16 @@
 # Them
 <cite> A group of women I know from my journeys that somehow all ended up in [LosAngeles](https://lacity.gov/) </cite>
 
+[Heath cliff and the Cadillac cats episodes + Heathcliff (animated flick)](https://archive.org/details/HeathcliffanimatedFlick)
 
-
+<video controls preload="auto" poster="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODB1OWVsaXFuZTk4aDJjN2o5eWN6ZmR5eTl3dTV1cnZ0cXc1bnM1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Kg9ZKwF120Pj9zJBhy/giphy.webp">
+    
+<source src="https://archive.org/download/HeathcliffanimatedFlick/Heathcliff%20and%20The%20Catillac%20Cats%20-%20Heathcliff%20Gets%20Framed.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/HeathcliffanimatedFlick/Heathcliff%20and%20The%20Catillac%20Cats%20-%20Heathcliff%20Gets%20Framed.mp4">MP4</a>
+        video.
+</video> 
 
 [Popeye the Sailor - 1933 to 1942 Fleischer Studios](https://archive.org/details/popeye-the-sailor-1933-to-1942-fleischer-studios) [Talk:Olive Oyl](https://en.wikipedia.org/wiki/Talk:Olive_Oyl)
 
