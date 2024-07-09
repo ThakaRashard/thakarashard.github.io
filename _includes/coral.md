@@ -1,4 +1,22 @@
-Hi Coral, I got your message, here are some curated hiphop selections i approve of, they will give us middle ground. ilove you . . . dad ~ rashard iman kelly aka thaka aka shaadi [NasaJpl_MrO]()
+<hr />
+
+# Coral 
+
+![Coral](https://pbs.twimg.com/media/GR6arCnacAEwgJA?format=jpg&name=medium)
+
+### Back Again 
+Hey baby if u r curious abt what font im using its [Space_Mono](https://fonts.google.com/specimen/Space+Mono). If you want to learn more, [Fork The Repo](https://github.com/googlefonts/spacemono) and [Study Typography](https://vimeo.com/398873298)
+
+<div class="office">
+  <div class="space-mono-regular font">
+    <h3>Space-Mono</h3>
+    <p>The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world! The Head is the story of Jim, "just a regular guy" who wakes up one day and finds that his cranium has swelled and is now home to Roy, a freaky-looking but amiable purple alien who's been sent here to save the world!
+    </p>
+  </div>
+  </div>
+  
+### Hi Coral,
+ I got your message, here are some curated hiphop selections i approve of, they will give us middle ground. ilove you . . . dad ~ rashard iman kelly aka thaka aka shaadi [NasaJpl_MrO]()
 <iframe src="https://archive.org/embed/Xzibit_Paparazzi" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [reddit](https://www.reddit.com/r/hiphopheads/comments/y4msp9/xzibit_paparazzi/?rdt=62940)
