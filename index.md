@@ -9,18 +9,21 @@ layout: default
 4 # UNiVERSE#########################iloveyounormani######
 {% endhighlight %}
 
-
-{% include them.md %}
 {% include coral.md %}
+{% include them.md %}
+{% include nasajpl.md %}
+
+{% include watchlist.md %}
 
 
 {% include current.md %}
 {% include cannabis.md %}
-{% include watchlist.md %}
+
 {% include htau.md %}
 {% include computer.md %}
+{% include monica.md %}
 {% include gaming.md %}
-{% include nasajpl.md %}
+
 {% include linkroll.md %}
 {% include erika.md %}
 {% include fonts.md %}
@@ -32,12 +35,12 @@ layout: default
 {% include albums.md %}
 {% include aboutme.md %}
 {% include urlpairs.md %}
-{% include coral.md %}
+
 
 {% include sitemap.md %}
 {% include blogroll.md %}
 {% include playlist.md %}
-{% include monica.md %}
+
 
 
 ---
