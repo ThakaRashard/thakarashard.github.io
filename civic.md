@@ -242,8 +242,6 @@ PIA19846 Cloudy Skies over [Hypanis Vallis](https://www.uahirise.org/ESP_040579_
 NASA/JPL-Caltech/Univ of Arizona
 ![cloudy.png](https://atmos.nmsu.edu/data_and_services/atmospheres_data/MARS/images/cloudy.png)
 
-{% include_relative books.md %}
-
 
 ### Coming to Campus a badidea anyway MissinControL?
 [FEBRUARY 8, 2024 BY EVAN GOUGH](https://ca.linkedin.com/in/evan-gough-31674560)
