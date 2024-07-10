@@ -1,6 +1,9 @@
 # To/About::Them
 <cite> A group of women I know from my journeys that somehow all ended up in [LosAngeles](https://lacity.gov/) </cite>
 
+[Ranma 1/2 VHS Subtitled Edition](https://archive.org/download/ranma-1-2-subtitled-edition-vhs)
+<iframe src="https://archive.org/embed/ranma-1-2-subtitled-edition-vhs" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ![Atlanta](https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147806/atlanta_oli_2020127.jpg)
 [changing-atlanta](https://earthobservatory.nasa.gov/images/147806/changing-atlanta)
 
