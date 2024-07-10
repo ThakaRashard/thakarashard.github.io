@@ -1,6 +1,6 @@
 # WatchList
 
-['Ranma ½: The Battle of Nekonron China! Fight to Break the Rules!!' (らんま½ 中国寝崑崙大決戦！掟やぶりの激闘篇！！](https://ranma.fandom.com/wiki/Big_Trouble_in_Nekonron,_China) [imdb](https://www.imdb.com/title/tt0101583/plotsummary/?ref_=tt_ov_pl) When Prince Kirin of the 7 Lucky Gods shows up at the Tendo dojo looking for his bride-to-be, guess who's accidentally holding the scroll that signifies his future mate? [blogspot](https://animeannoyances.blogspot.com/2018/12/recap-ranma-12-big-trouble-in-nekonron.html) [rotten tomatoes](https://www.rottentomatoes.com/m/ranma_12_the_movie_1_big_trouble_in_nekonron_china_1991)
+['Ranma ½: The Battle of Nekonron China! Fight to Break the Rules!!' (らんま½ 中国寝崑崙大決戦！掟やぶりの激闘篇！！](https://ranma.fandom.com/wiki/Big_Trouble_in_Nekonron,_China) [imdb](https://www.imdb.com/title/tt0101583/plotsummary/?ref_=tt_ov_pl) When Prince Kirin of the 7 Lucky Gods shows up at the Tendo dojo looking for his bride-to-be, guess who's accidentally holding the scroll that signifies his future mate? [blogspot](https://animeannoyances.blogspot.com/2018/12/recap-ranma-12-big-trouble-in-nekonron.html) [rotten tomatoes](https://www.rottentomatoes.com/m/ranma_12_the_movie_1_big_trouble_in_nekonron_china_1991) [ANN](https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1534)
 
 <video controls width="100%" height="auto" poster="https://static.wikia.nocookie.net/ranma/images/6/69/SeriesMovie01.png/revision/latest?cb=20120928053559">
 
