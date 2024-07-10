@@ -1,9 +1,9 @@
 # Computing
 
 
-[![Horizon of Mars](https://css-tricks.com/wp-content/uploads/2022/02/css-flexbox-poster.png)](https://css-tricks.com/wp-content/uploads/2022/02/css-flexbox-poster.png "Redirect to homepage") 
-Our comprehensive guide to CSS flexbox layout.
-### [Download](https://css-tricks.com/wp-content/uploads/2022/02/css-flexbox-poster.png)
+[![A Complete Guide to Flexbox](https://css-tricks.com/wp-content/uploads/2022/02/css-flexbox-poster.png)](https://css-tricks.com/wp-content/uploads/2022/02/css-flexbox-poster.png "Redirect to homepage") 
+Our comprehensive guide to CSS flexbox layout. [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+### [Download](https://css-tricks.com/wp-content/uploads/2022/02/css-flexbox-poster.png) 
 
 
 ![https://edu.google.com/chromebooks/overview/](https://www.lapl.org/sites/default/files/Digital%20Inclusion-2022-header.png)
