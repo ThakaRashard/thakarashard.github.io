@@ -1,12 +1,19 @@
 
 
 ![hi](https://pbs.twimg.com/media/GN5KzxZacAAGGzW?format=jpg&name=large)
+![ListOfDams](https://pbs.twimg.com/media/GNUrRIca0AAvWsw?format=jpg&name=medium
+)
+
+### List of dams and reservoirs in California
+ Following is a list of dams and reservoirs in California in a sortable table. There are over 1,400 named dams and 1,300 named reservoirs in the state of California.
+ ![water](https://pbs.twimg.com/media/GNUrKAYboAA_AOO?format=jpg&name=large)
+ 
 ![Carson](https://pbs.twimg.com/media/GNUpxIxaQAA3DP9?format=jpg&name=large)
 Longitude-118.259588 ° 
 @RepKarenBass
  to monitor ur district1 add the settlement layer to study [demographics  ](https://worldview.earthdata.nasa.gov/?v=-118.62764539623433,33.39246845104554,-117.7001372157381,34.38973351419748&l=Coastlines_15m,Reference_Features_15m,Reference_Labels_15m,OrbitTracks_Landsat-8_Descending,GRUMP_Settlements,Nuclear_Power_Plant_Locations,GRanD_Reservoirs,GRanD_Dams(hidden)&lg=true&t=2024-05-11-T16%3A53%3A48Z)
 
- 
+
 ![NasaWorld view](https://pbs.twimg.com/media/GNpzBCXa0AE3K6g?format=jpg&name=medium)
 ### Data Tool in Focus: NASA Worldview
 Worldview lets users browse more than 1,000 satellite imagery layers, create visualizations, and download the underlying datasets. [ Marshall Space Flight Center Earth Science Office](https://weather.ndc.nasa.gov/)
