@@ -1,7 +1,16 @@
 
 # Currently Compiling
 
+![attack on metro](https://pbs.twimg.com/media/GSJPBzKbIAAFflY?format=jpg&name=large)
 
+Dear MAyor (Karen Bass)
+
+[Allied Filling Jobs](https://labusinessjournal.com/technology/allied-universal-struggles-fill-thousands-security/)
+[ LA Local News Judge Orders Arbitration of Allied Security Guard's Harassment Suit](https://kfiam640.iheart.com/featured/la-local-news/content/2024-01-10-judge-orders-arbitration-of-allied-security-guards-harassment-suit/)]
+[BMO Stadium selects Allied Universal as preferred event services provider](https://www.securityinfowatch.com/security-executives/protective-operations-guard-services/press-release/53099143/allied-universal-bmo-stadium-selects-allied-universal-as-preferred-event-services-provider)
+[Allied Universal to hire 450 security officers, mostly in LA County](https://www.dailynews.com/2021/03/25/allied-universal-to-hire-450-security-officers-mostly-in-la-county/?clearUserState=true)
+![Tacticon](https://i0.wp.com/tacticon.com/wp-content/uploads/2021/01/BATTLE-VEST-BLACK-WEB-scaled.jpg?resize=510%2C510&ssl=1)
+[BODY ARMOR FOR THE SECURITY INDUSTRY](https://www.safeguardclothing.com/blogs/articles/body-armor-for-the-security-industry)
 
 <object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
     </object>
