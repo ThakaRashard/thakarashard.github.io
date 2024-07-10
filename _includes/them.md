@@ -1,6 +1,8 @@
 # To/About::Them
 <cite> A group of women I know from my journeys that somehow all ended up in [LosAngeles](https://lacity.gov/) </cite>
 
+![Atlanta](https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147806/atlanta_oli_2020127.jpg)
+[changing-atlanta](https://earthobservatory.nasa.gov/images/147806/changing-atlanta)
 
 >[RealTimeNegroSpiritualfromWestAtlanta FREE(CeeLoGreeN)](https://ia802307.us.archive.org/27/items/goodie-mob-what-chu-know/What%20Chu%20Know/08-Free%20%28Acapella%29.mp3)
 [Soul Food [Full Album] - Goodie Mob](https://youtu.be/q6-SFIAzFnA?si=E2p991ohdqjfmC1p)
