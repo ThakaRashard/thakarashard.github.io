@@ -303,8 +303,7 @@ Mars: Constraints From Rock Heights and Shapes](https://web.archive.org/web/2022
 
 [![MurrayLabs](https://pbs.twimg.com/media/GL-EXkdaEAAUeYT?format=jpg&name=large)](https://pbs.twimg.com/media/GL-EXkdaEAAUeYT?format=jpg&name=large "Redirect to homepage")
 
-<object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
-    </object>
+
 
 
 
@@ -526,8 +525,7 @@ In de jaren veertig verklaarden de Verenigde Staten insecten de oorlog. Helemaal
 
 {{ '/images/dog.jpeg' | relative_url }}
 
-<object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
-    </object>
+
 
 [All Mars Resources](https://science.nasa.gov/mars/resources/?pageno=9&search=perseverance&types=videos&content_list=true)
 
@@ -608,14 +606,15 @@ NASA/JPL-Caltech</p>
   <a href="https://science.nasa.gov/wp-content/uploads/2024/03/6085_sol_200_autonav.mp4">MP4</a>
   video.
 </video>
+
  <img src="https://mars.nasa.gov/system/resources/detail_files/27872_PIA26209-web.gif">
      <img src="https://murray-lab.caltech.edu/Mars2020/img/Jezero-perspective.jpg">
     <img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00001/ids/edr/browse/edl/EBF_0001_0667022756_679ECV_N0010052EDLC00001_0010LUJ01_1200.jpg">
      
 
 <h1><span id="Main_heading">Main heading</span></h1>
-    <h2><span id="Subheading">Subheading</span></h2>
-    <h3><span id="Sub-subheading">Sub-subheading</span></h3>
+<h2><span id="Subheading">Subheading</span></h2>
+<h3><span id="Sub-subheading">Sub-subheading</span></h3>
     <h4><span id="sub-sub-subheading">sub-sub-subheading</span></h4>
     <h5><span id="sub-sub-sub-subheading">sub-sub-sub-subheading</span></h5>
     <h6><span id="sub-sub-sub-sub-subheading">sub-sub-sub-sub-subheading</span></h6>
