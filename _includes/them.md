@@ -2,6 +2,7 @@
 <cite> A group of women I know from my journeys that somehow all ended up in [LosAngeles](https://lacity.gov/) </cite>
 
 
+[Rico Nasty - Smack A Bitch (Prod By Kenny Beats) [Official Music Video]](https://www.youtube.com/watch?v=-D4happ4TQU) [Rico Nasty - Poppin (Official Music Video)](https://www.youtube.com/watch?v=pOTfQ4NjIKs)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gc5mBU_sfu0?si=Z6j6YFpL6PPEYqlO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
