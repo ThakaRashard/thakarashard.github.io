@@ -2,6 +2,9 @@
 <cite> A group of women I know from my journeys that somehow all ended up in [LosAngeles](https://lacity.gov/) </cite>
 
 
+[Twitters](https://thakarashard.github.io/twitters/) is a [repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories) I made with some tweet where i talked about people effected by the coviDrape of [east atlanta](https://sfi.usc.edu/collections/nanjing-massacre)
+> 23% increase of sexual and psychological violence reported in a survey of 13,786 people in Spain
+[The impact of COVID19 pandemic and government enforced lockdowns on levels of attendance and context of sexual assaults reported at Saint Marys Sexual Assault Referral Centre](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10245237/#:~:text=Reports%20of%20intimate%20partner%20violence,in%20Peru%20increased%20by%2048%25) [A Second, Silent Pandemic: Sexual Violence in the time of COVID-19](https://info.primarycare.hms.harvard.edu/perspectives/articles/sexual-violence-and-covid)
 
 ![hi](https://i.makeagif.com/media/9-16-2015/cMX9cr.gif)
 ![WipeOuT_XL](https://pbs.twimg.com/media/GB2WGN8bEAAfbCx?format=jpg&name=large)
@@ -12,6 +15,8 @@
 [Ranma 1/2 VHS Subtitled Edition](https://archive.org/download/ranma-1-2-subtitled-edition-vhs)
 <iframe src="https://archive.org/embed/ranma-1-2-subtitled-edition-vhs" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+![Free Speech](https://pbs.twimg.com/media/GPP663haYAE0u8_?format=jpg&name=large)
 ![Atlanta](https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147806/atlanta_oli_2020127.jpg)
 [changing-atlanta](https://earthobservatory.nasa.gov/images/147806/changing-atlanta)
 
