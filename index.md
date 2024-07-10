@@ -10,6 +10,10 @@ layout: default
 {% endhighlight %}
 
 
+
+{% include current.md %}
+{% include civic.md %}
+{% include computer.md %}
 {% include them.md %}
 
 {% include nasajpl.md %}
@@ -22,7 +26,7 @@ layout: default
 {% include watchlist.md %}
 
 
-{% include current.md %}
+
 {% include cannabis.md %}
 
 {% include htau.md %}
