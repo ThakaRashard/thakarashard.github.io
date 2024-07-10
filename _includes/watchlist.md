@@ -1,5 +1,19 @@
 # WatchList
 
+[Macross Plus [OVA] (English Dub) Home Video Master Transfer (Betacam)](https://archive.org/details/macross-plus-english-dub-master)
+Macross Plus (マクロスプラス, Makurosu Purasu) is a four-episode anime OVA and theatrical movie in the Macross series. It was the first sequel to the original Macross television series that took place in the official timeline (Macross II was quickly retconned by series creator Shōji Kawamori as a parallel world story in the Macross universe). Plus was a groundbreaking combination of traditional cel and computer-generated animation at the time of its release, paving the way for the incorporation of more computer-generated imagery in Japanese animation.[Wiki](https://en.wikipedia.org/wiki/Macross_Plus) [imdb](https://www.imdb.com/title/tt0110426/) [GFR](https://www.giantfreakinrobot.com/ent/macross-plus-anime-greatest-format.html) [My Anime List](https://myanimelist.net/anime/474/Macross_Plus) [OVA_FiLES](https://archive.org/download/macross-plus-english-dub-master)
+
+<video controls  height="auto" poster="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXE1MG12eDB1MmNvMDdoa2JoMG1pbjBvYXJ4aGY0NWlqNzF1YjA0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qDQEzc4uJ2rwsbS/giphy.webp">
+
+<source src="https://archive.org/download/macross-plus-english-dub-master/Macross%20Plus%20-%20Episode%201%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%20Tape%29%20%5BBetacam%20SP%20Transfer%5D.mp4" type="video/mp4" />    
+<source src="https://archive.org/download/macross-plus-english-dub-master/Macross%20Plus%20-%20Episode%201%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%20Tape%29%20%5BBetacam%20SP%20Transfer%5D.mp4" type="video/mp4" />
+      
+Download the
+        or
+      <a href="https://dn720405.ca.archive.org/0/items/getvid_20220408/getvid.mp4">MP4</a>
+        video.
+</video>
+
 ['Ranma ½: The Battle of Nekonron China! Fight to Break the Rules!!' (らんま½ 中国寝崑崙大決戦！掟やぶりの激闘篇！！](https://ranma.fandom.com/wiki/Big_Trouble_in_Nekonron,_China) [imdb](https://www.imdb.com/title/tt0101583/plotsummary/?ref_=tt_ov_pl) When Prince Kirin of the 7 Lucky Gods shows up at the Tendo dojo looking for his bride-to-be, guess who's accidentally holding the scroll that signifies his future mate? [blogspot](https://animeannoyances.blogspot.com/2018/12/recap-ranma-12-big-trouble-in-nekonron.html) [rotten tomatoes](https://www.rottentomatoes.com/m/ranma_12_the_movie_1_big_trouble_in_nekonron_china_1991) [ANN](https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1534)
 
 <video controls width="100%" height="auto" poster="https://static.wikia.nocookie.net/ranma/images/6/69/SeriesMovie01.png/revision/latest?cb=20120928053559">
@@ -12,6 +26,22 @@ Download the
       <a href="https://dn720405.ca.archive.org/0/items/getvid_20220408/getvid.mp4">MP4</a>
         video.
 </video>
+
+[Super Dimension Fortress: Macross Episodes](https://archive.org/download/sdf-macross-episode-8-longest-birthday-adv-dub_202108)
+
+<video controls height="auto" poster="https://a.storyblok.com/f/178900/1280x720/6f9e6c0a89/sdf-macross-hero.jpg/m/1200x0/filters:quality(95)format(webp)">
+
+<source src="https://archive.org/download/sdf-macross-episode-8-longest-birthday-adv-dub_202108/SDF%20Macross%20%20Episode%2001%20%20Booby%20Trap%20%20%28ADV%20Dub%29.mp4" type="video/mp4" />    
+<source src="https://archive.org/download/sdf-macross-episode-8-longest-birthday-adv-dub_202108/SDF%20Macross%20%20Episode%2001%20%20Booby%20Trap%20%20%28ADV%20Dub%29.mp4" type="video/mp4" />
+      
+Download the
+        or
+      <a href="https://archive.org/download/sdf-macross-episode-8-longest-birthday-adv-dub_202108/SDF%20Macross%20%20Episode%2001%20%20Booby%20Trap%20%20%28ADV%20Dub%29.mp4">MP4</a>
+        video.
+</video>
+
+
+
 
 ### [Jonny Quest ](https://archive.org/download/jonny-quest-60s-complete)
 
@@ -39,7 +69,7 @@ Jonathan "Jonny" Quest is the son of Dr. Benton Quest and often accompanies him 
 [Art of Fighting-Full Movie](https://www.youtube.com/watch?v=QVqb0lsfC6s)
 [Samurai Shodown: The Motion Picture (The Movie -1994) HD](https://youtu.be/UV_YhxC3P90?si=VWidY9I1vGa5JUSL)
 
-<video controls width="100%" height="auto" poster="https://64.media.tumblr.com/c9d7c568dbb349fe4036599a64e0965a/tumblr_nqvkod9HyG1tbf8vto1_500.gifv">
+<video controls  height="auto" poster="https://64.media.tumblr.com/c9d7c568dbb349fe4036599a64e0965a/tumblr_nqvkod9HyG1tbf8vto1_500.gifv">
 
 <source src="https://archive.org/download/dominion-tank-police-english-dubbed-master/Dominion%20Tank%20Police%20%28Acts%20I%20and%20II%29%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%29%20%5BBetacam%20SP%20Transfer.mp4" type="video/mp4" />    
 <source src="https://archive.org/download/dominion-tank-police-english-dubbed-master/Dominion%20Tank%20Police%20%28Acts%20I%20and%20II%29%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%29%20%5BBetacam%20SP%20Transfer.mp4" type="video/mp4" />
@@ -181,7 +211,7 @@ Fortunately for comic fans, this cost-cutting move preserved for all time the or
 ![TRON](https://upload.wikimedia.org/wikipedia/commons/f/f9/Tron_%28Disney%29%2C_Logo.svg)
 [imdb](https://www.imdb.com/title/tt0084827/) [TronGame](https://www.classicgamesarcade.com/game/21670/tron-game.html)
     
-<video controls width="100%" height="auto" poster="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamU0czZlaTdnamt0bHZtMDd4MDJqcno4ejhmYTc3YTVlY2JoMWliayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornkf3FPmG6zkB1UQ/giphy.webp">
+<video controls  height="auto" poster="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamU0czZlaTdnamt0bHZtMDd4MDJqcno4ejhmYTc3YTVlY2JoMWliayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornkf3FPmG6zkB1UQ/giphy.webp">
 
 <source src="https://archive.org/download/4f-1046b-6d-9f-4319fc-8e-4ade-5627ed-2d-4-mp-4/4f1046b6d9f4319fc8e4ade5627ed2d4%20mp4.mp4" type="video/mp4" />    
 <source src="https://archive.org/download/4f-1046b-6d-9f-4319fc-8e-4ade-5627ed-2d-4-mp-4/4f1046b6d9f4319fc8e4ade5627ed2d4%20mp4.mp4" type="video/mp4" />
@@ -197,7 +227,7 @@ Fortunately for comic fans, this cost-cutting move preserved for all time the or
 
 ![vALLEYtv](https://archive.org/download/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am.thumbs/Valley.Of.The.Dolls.1967.1080p.BluRay.x264-%5BYTS.AM%5D_001136.jpg)
 
-<video controls width="100%" height="auto" poster="https://archive.org/download/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am.thumbs/Valley.Of.The.Dolls.1967.1080p.BluRay.x264-%5BYTS.AM%5D_007142.jpg">
+<video controls  height="auto" poster="https://archive.org/download/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am.thumbs/Valley.Of.The.Dolls.1967.1080p.BluRay.x264-%5BYTS.AM%5D_007142.jpg">
 
 <source src="https://archive.org/download/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am/Valley.Of.The.Dolls.1967.1080p.BluRay.x264-%5BYTS.AM%5D.mp4" type="video/mp4" />    
 <source src="https://archive.org/download/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am/Valley.Of.The.Dolls.1967.1080p.BluRay.x264-%5BYTS.AM%5D.mp4" type="video/mp4" />
@@ -256,7 +286,7 @@ These are from the official uncut subtitled edition VHS tapes released by Pionee
 </div> 
 
 [Front_Left_Hazcam:Two_Year_Movie](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
-<video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
+<video controls  height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
 
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" />    
 <source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
