@@ -5,6 +5,8 @@
 
 Dear MAyor (Karen Bass)
 
+[ALLIED UNIVERSAL ESTABLISHES GLOBAL PROGRAM MANAGEMENT OFFICE, HAUCK TO LEAD](https://www.securitysystemsnews.com/article/allied-universal-establishes-global-program-management-office-appoints-hauck-to-lead)
+[Two deaths, just months apart: private security guards hired by public agencies face more scrutiny(san dieago)](https://www.sandiegouniontribune.com/2021/05/16/two-deaths-just-months-apart-private-security-guards-hired-by-public-agencies-face-more-scrutiny/)
 [Allied Filling Jobs](https://labusinessjournal.com/technology/allied-universal-struggles-fill-thousands-security/)
 [ LA Local News Judge Orders Arbitration of Allied Security Guard's Harassment Suit](https://kfiam640.iheart.com/featured/la-local-news/content/2024-01-10-judge-orders-arbitration-of-allied-security-guards-harassment-suit/)]
 [BMO Stadium selects Allied Universal as preferred event services provider](https://www.securityinfowatch.com/security-executives/protective-operations-guard-services/press-release/53099143/allied-universal-bmo-stadium-selects-allied-universal-as-preferred-event-services-provider)
