@@ -1,6 +1,10 @@
 # To/About::Them
 <cite> A group of women I know from my journeys that somehow all ended up in [LosAngeles](https://lacity.gov/) </cite>
 
+
+## Proposition 64: The Adult Use of Marijuana Act
+Overview
+Effective November 9, 2016, Proposition 64 legalizes specified personal use and cultivation of marijuana for adults 21 years of age or older; reduces criminal penalties for specified marijuana-related offenses for adults and juveniles; and authorizes resentencing or dismissal and sealing of prior, eligible marijuana-related convictions. The proposition includes provisions on regulation, licensing, and taxation of legalized use. [California Courts](https://www.courts.ca.gov/prop64.htm) [Proposition 64 and Responsible Adult Use of Marijuana LA_COUNTY California](http://publichealth.lacounty.gov/sapc/public/proposition64.htm) [MEDICAL MARIJUANA IDENTIFICATION CARD PROGRAM](http://publichealth.lacounty.gov/docs/MMIP-FLYER.pdf)
 [Gangstarr - Moment_0f_Truth FULL ALBUM](https://youtu.be/b1EbbT7Xrgs?si=bM1BGbtQnU9YUgSc) [Shaakira_Gathers_iLoveu](https://ricothaka.github.io/)
 
 [Heath cliff and the Cadillac cats episodes + Heathcliff (animated flick)](https://archive.org/details/HeathcliffanimatedFlick)
