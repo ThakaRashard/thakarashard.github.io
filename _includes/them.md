@@ -1,6 +1,13 @@
 # To/About::Them
 <cite> A group of women I know from my journeys that somehow all ended up in [LosAngeles](https://lacity.gov/) </cite>
 
+
+>[RealTimeNegroSpiritualfromWestAtlanta FREE(CeeLoGreeN)](https://ia802307.us.archive.org/27/items/goodie-mob-what-chu-know/What%20Chu%20Know/08-Free%20%28Acapella%29.mp3)
+[Soul Food [Full Album] - Goodie Mob](https://youtu.be/q6-SFIAzFnA?si=E2p991ohdqjfmC1p)
+
+[Washington DC Mayor requests National Guard assistance amid migrant crisis](https://youtu.be/tVOaE8qByNI) [WestSideAtlanta SnoWon The Bluff](https://youtu.be/hdcl1WVrBoI?si=fTAa-KNo8Skthwk0)
+[WestSideAtlanta](https://youtu.be/hdcl1WVrBoI?si=fTAa-KNo8Skthwk0) = [Snow on Tha Bluff](https://tubitv.com/movies/701577/snow-on-tha-bluff?=undefined&startPos=0) 
+This movie is hard to get good quality. This is what Strip clubs do to a city. 
 [Kendrick Lamar vs Drake vs J cole how it started and ended full beef (parody)](https://youtu.be/2DjTqUjLbts?si=n14_p35_ChnTmODy) yall friend made a song [Kendrick Lamar - Not Like Us](https://youtu.be/H58vbez_m4E?si=X9Gdyiw78Q8yRHdb)
 [Rico Nasty - Smack A Bitch (Prod By Kenny Beats) [Official Music Video]](https://www.youtube.com/watch?v=-D4happ4TQU) [Rico Nasty - Poppin (Official Music Video)](https://www.youtube.com/watch?v=pOTfQ4NjIKs)
 
