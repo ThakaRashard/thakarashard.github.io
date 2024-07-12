@@ -3,7 +3,7 @@
 
 
 ### music
-[Yma Sumac ‎– Mambo! (1955) - Latin Folk Jazz Exotica](https://youtu.be/T7kPRvm7X34?si=dlEsijdHgSHuhBDx)
+[Yma Sumac – Mambo! (1955) - Latin Folk Jazz Exotica](https://youtu.be/T7kPRvm7X34?si=dlEsijdHgSHuhBDx) [Esquivel and his orchestra - Other worlds, other sounds LP: RCA Victor](https://youtube.com/playlist?list=PLCzdBMu_SA7HkBCfIrvVibp_1a_H5JGb6&si=D7nwcE3mDWRgPRUw)
 
 [Normani Details ‘Really Bad Accident’ That Forced Last Minute Cancelation of Her 2024 BET Awards Performance](https://www.usmagazine.com/entertainment/news/normani-reveals-accident-behind-canceled-bet-awards-performance/) 
 
