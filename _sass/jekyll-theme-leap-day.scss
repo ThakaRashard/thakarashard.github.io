@@ -103,6 +103,7 @@ h3 {
 
 
 a {
+  display:block;
   color: #590B11;
   font-weight: 900;
   text-decoration: none;
@@ -116,6 +117,7 @@ a:visited a:hover {
   font-size: 150%;
   margin:3%;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  display:block;
 }
 
 
@@ -177,11 +179,13 @@ section img {
 }
 
 blockquote {
-  border-left: 1px solid #ffcc00;
+  border-left: 12px dotted #ffcc00;
   margin: 0;
+  font-size: 120%;
   padding: 0 0 0 20px;
   font-style: italic;
-
+  color: white;
+  text-shadow:1px -1px rgba(0, 0, 0, .2);
 background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif), linear-gradient(90deg, rgba(38,33,36,0.8071603641456583) 7%, rgba(89,54,54,0.8267682072829132) 17%, rgba(140,103,90,0.700717787114846) 46%, rgba(217,199,193,0.5270483193277311) 81%);
 }
 
