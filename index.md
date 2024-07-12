@@ -31,7 +31,7 @@ layout: default
 {% include cannabis.md %}
 
 {% include htau.md %}
-{% include computer.md %}
+
 {% include monica.md %}
 {% include gaming.md %}
 
@@ -50,7 +50,7 @@ layout: default
 
 {% include sitemap.md %}
 {% include blogroll.md %}
-{% include playlist.md %}
+
 
 
 

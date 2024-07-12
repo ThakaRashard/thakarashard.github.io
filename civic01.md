@@ -5,6 +5,25 @@
 4 # UNiVERSE#####################iloveyounormani____######
 {% endhighlight %}
 
+
+![Christian OutReach Longbeach](https://pbs.twimg.com/profile_banners/1133901253446995968/1708980319/1500x500)
+[Christian Outreach in Action (COA)](https://linktr.ee/christianoutreachinaction) is a [501(c)(3) #nonprofit #organization](https://www.irs.gov/charities-non-profits/charitable-organizations/exemption-requirements-501c3-organizations) dedicated to helping needy families and individuals in our community. 
+<div class='twoPanelSpread'>
+        <div class='row'>
+          <div class='panelColumn'>
+            <div class='leftColumn'>
+              <img src="https://pbs.twimg.com/media/GNKLazeaAAIonNH?format=jpg&name=large" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+            </div>
+          </div>
+          <div class='panelColumn'>
+            <div class='rightColumn'>
+              <img src="https://pbs.twimg.com/media/GNKLazga0AErklB?format=jpg&name=large" alt="Girl in a jacket" >
+      
+   </div>
+  </div>    
+ </div>
+</div>
+
 <div class="viking">
         <div></div>
         <div></div>
