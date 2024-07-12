@@ -4,6 +4,7 @@
 
 Below is the place i was going on Linden an 3rd in LongBeach i just stopped going because my book/sleeping bag cart got vandalized an ppl steal while im eating. But they were managing a rough crowd from out east. Im at peace. They likely know Erikas Family, she had an aunt named Doris and another named Teresa that lived in Longbeach. Her Paternal family is from PAsadena pre yuppie colonization and got pushed out to sanbernadino after a patriarch died. What is homeless i just need to sleep and i would like to see the baby i spent my savings to make. What is housig ? In my situation. Erika is still missing! 
 
+
 ![Christian OutReach Longbeach](https://pbs.twimg.com/profile_banners/1133901253446995968/1708980319/1500x500)
 [Christian Outreach in Action (COA)](https://linktr.ee/christianoutreachinaction) is a [501(c)(3) #nonprofit #organization](https://www.irs.gov/charities-non-profits/charitable-organizations/exemption-requirements-501c3-organizations) dedicated to helping needy families and individuals in our community. 
 <div class='twoPanelSpread'>

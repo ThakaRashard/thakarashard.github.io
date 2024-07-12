@@ -56,8 +56,6 @@ I listened to [Ctrl](https://www.essence.com/entertainment/only-essence/sza-ctrl
 
 ![Coral](https://pbs.twimg.com/media/GNaGWK1aAAABmui?format=jpg&name=large)
 
-![MarvelSuperHeroes](https://pbs.twimg.com/media/GFsDZkxasAASKvH?format=jpg&name=large)
-[Marvel Super Heroes (951024 Japan)](https://www.retrogames.cc/arcade-games/marvel-super-heroes-951024-japan.html)
 
 ---
 

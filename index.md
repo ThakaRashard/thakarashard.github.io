@@ -10,6 +10,8 @@ layout: default
 {% endhighlight %}
 
 
+{% include current.md %}
+{% include worknotes.md %}
 {% include computer.md %}
 {% include them.md %}
 {% include current.md %}
