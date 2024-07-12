@@ -1,5 +1,6 @@
 # To/About::Them
 <cite> A group of women I know from my journeys that somehow all ended up in [LosAngeles](https://lacity.gov/) </cite>
+[https://ricothaka:Playlist](https://ricothaka.github.io/playlist)
 
 [Beast From The East - Lost Boyz](https://youtu.be/hJ5y0jKlLVc?si=r6GzrmRCAjaQROG7) 
 [Street Fighter: The Movie (V1.12)](https://www.retrogames.cc/arcade-games/street-fighter-the-movie-v1-12.html)
