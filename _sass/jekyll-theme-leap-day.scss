@@ -103,7 +103,7 @@ h3 {
 
 
 a {
-  display:block;
+  display:inline-block;
   color: #590B11;
   font-weight: 900;
   text-decoration: none;
@@ -117,7 +117,7 @@ a:visited a:hover {
   font-size: 150%;
   margin:3%;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-  display:block;
+  display:inline-block;
 }
 
 
@@ -839,23 +839,29 @@ video {
   border-radius: 0px;
   display: block;
   margin-block: 10px 10px;
-  background: rgb(217, 4, 121);
-  background: linear-gradient(
-    0deg,
-    #595959 25%,
-    #262626 0,
-    #262626 50%,
-    #595959 0,
-    #595959 75%,
-    #262626 0
-  );
-  background-size: 280.4px 280.4px;
+  background: repeating-linear-gradient(
+			to left,
+			transparent,
+			transparent 54px,
+			black 55px,
+			black 55px
+		),
+		repeating-linear-gradient(
+			to bottom,
+			transparent,
+			transparent 54px,
+			grey 55px,
+			grey 55px
+		),
+		linear-gradient(45deg, grey, black);
+	
+	background-attachment:fixed;
   transition: 3s cubic-bezier(0.1, 0.2, 0.3, 0.4);
   /*  transition: 4s cubic-bezier(.25,.1,.2,3); */
 }
 
 embed {
-  height: 300px;
+  
   width: 100%;
   scrollbar-color: #595959 #262626;
   scrollbar-width: thin;
