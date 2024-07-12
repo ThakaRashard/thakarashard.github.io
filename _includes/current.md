@@ -1,7 +1,7 @@
 
 # Currently Compiling
 
-
+Normani Details ‘Really Bad Accident’ That Forced Last Minute Cancelation of Her 2024 BET Awards Performance https://www.usmagazine.com/entertainment/news/normani-reveals-accident-behind-canceled-bet-awards-performance/
 
 Dear MAyor (Karen Bass)
 
