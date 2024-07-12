@@ -10,10 +10,10 @@ layout: default
 {% endhighlight %}
 
 
-
+{% include computer.md %}
 {% include current.md %}
 {% include civic.md %}
-{% include computer.md %}
+
 {% include them.md %}
 
 {% include nasajpl.md %}
