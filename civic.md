@@ -1,4 +1,29 @@
+<div class="viking">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+Dear MAyor (Karen Bass)
 
+Hi, Its Rasahrd from NasaJpl the [YA](https://www.reddit.com/r/YAlit/comments/18xxv05/is_there_a_list_of_must_read_ya_books_especially/) Somali that takes short naps on the back portch of [city hall](https://www.laconservancy.org/learn/historic-places/los-angeles-city-hall/). I am following your instructions in the [County of Los Angeles Emergency Survival Guide](https://lacounty.gov/wp-content/uploads/2022/03/1058408_2019_ESG_English_Webversion1.pdf)
+
+it reads 
+>This Guide will help you to better prepare for, respond to and recover from disasters that face Los Angeles County. Our goal is to provide tips that assist you to be self-sufficient after a disaster
+
+Its hard to explin everything in one quick note. But basically I was in Atlanta and [My Wife Vanished](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/) and i got destituted by ppl throwing me in the mental hospital a girl i was told was my cousin [Kelly Danielle](https://www.instagram.com/daniellekellybjj/p/Cdw9_9nsfEe/?img_index=1) Renee Williams daughter by Winfred. My daughter was taken and i cannot even get a cellphone. 
+
+I eat at [St_Francis](https://www.stfranciscenterla.org/) once a day and [Reality Church in Hollywood](https://realityla.com/) 5 days a week since i got suspended from [Long Beach's Billie Jean Library](https://www.longbeach.gov/library/locations/main-library/)... So i need you to look at this conversation. Its the kidnapper of my wife#2/3 [She is no longer you wife](https://vimeo.com/396000267)
+
+im always running from ppl bc she is in the entertainment industry. They have an infrastructure that cuts the girls off from contact outside a [Streaming Media Cult](https://www.socialmediatoday.com/news/tiktok-explores-streaming-studios-la-facilitate-live-shopping/706040/) 
+
+anyway last night [June 9th](https://www.amoeba.com/our-stores/store-news/469/the-2024-la-pride-parade-block-party-in-hollywood-sunday-june-9th-469/) a gaurd with [Allied Universal](https://ausnewsroom.aus.com/) The guy with scruffy hair. Hes white he called this South American Assasin and he cahsed me with a holstered gun and bullet proof [Tactical Vest](https://www.blackhawk.com/tactical-nylon/tactical-vests/) out of the [subway](https://ktla.com/news/local-news/pedestrian-suffers-major-injuries-after-being-hit-by-l-a-subway-train/)  more later
+
+
+[DownLoad LA EMERGENCY GUiDE .PDF County of Los Angeles Emergency Survival Guide](https://lacounty.gov/wp-content/uploads/2022/03/1058408_2019_ESG_English_Webversion1.pdf) [The Phenomenology of Group Stalking (‘Gang-Stalking’): A Content Analysis of Subjective Experiences](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7178134/) [TikTok Explores New Streaming Studios in LA to Facilitate Live Shopping Push](https://www.socialmediatoday.com/news/tiktok-explores-streaming-studios-la-facilitate-live-shopping/706040/) [Rooftop Gunman Opens Fire In Marina Del Rey While Live Streaming](https://patch.com/california/los-angeles/rooftop-gunman-opens-fire-marina-del-rey-while-live-streaming) Early Sunday, police arrested a chef who climbed atop a building and fired dozens of rounds from [AR-15](https://www.independent.co.uk/topic/ar-15) rifles, sheriff's officials said. [Are civilians allowed to own AR-15?](https://giffords.org/lawcenter/state-laws/assault-weapons-in-california/#:~:text=With%20limited%20exceptions%2C%20California%20prohibits,DOJ%E2%80%9D) ![https://cdn.prgloo.com/media/f218aec8b2d24fe68cca165f5a8ae3dc.jpg?width=968&height=1452](https://ausnewsroom.aus.com/)
+
+![https://www.blackhawk.com/dw/image/v2/BDBJ_PRD/on/demandware.static/-/Sites-shootAccessory-master-catalog/default/dw75816a98/images/large/BH_90SAFV_R_Patches_front.jpg?sw=300&sh=300&sm=fit](https://www.blackhawk.com/dw/image/v2/BDBJ_PRD/on/demandware.static/-/Sites-shootAccessory-master-catalog/default/dw75816a98/images/large/BH_90SAFV_R_Patches_front.jpg?sw=300&sh=300&sm=fit)
 ![hi](https://pbs.twimg.com/media/GN5KzxZacAAGGzW?format=jpg&name=large)
 [Bikers attack security guard in Hollywood](https://ktla.com/news/local-news/bikers-attack-security-guard-in-hollywood/) A video posted on social media by [Street People of Beverly Hills](https://www.instagram.com/streetpeopleoflosangeles/) shows several bikers attacking an ADT security SUV, grabbing items from inside the vehicle, and then riding off.
 
@@ -42,25 +67,6 @@ that was good. - `Joe Sullivan.mp4` [A Different Uber Post Mortem](https://media
 ![attack on metro](https://pbs.twimg.com/media/GSJPBzKbIAAFflY?format=jpg&name=large)
 ![Allied Universal](https://www.aus.com/sites/default/files/Allied%20Universal%20Tagline_1.png)
 
-Dear MAyor (Karen Bass)
-
-Hi, Its Rasahrd from NasaJpl the [YA](https://www.reddit.com/r/YAlit/comments/18xxv05/is_there_a_list_of_must_read_ya_books_especially/) Somali that takes short naps on the back portch of [city hall](https://www.laconservancy.org/learn/historic-places/los-angeles-city-hall/). I am following your instructions in the [County of Los Angeles Emergency Survival Guide](https://lacounty.gov/wp-content/uploads/2022/03/1058408_2019_ESG_English_Webversion1.pdf)
-
-it reads 
->This Guide will help you to better prepare for, respond to and recover from disasters that face Los Angeles County. Our goal is to provide tips that assist you to be self-sufficient after a disaster
-
-Its hard to explin everything in one quick note. But basically I was in Atlanta and [My Wife Vanished](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/) and i got destituted by ppl throwing me in the mental hospital a girl i was told was my cousin [Kelly Danielle](https://www.instagram.com/daniellekellybjj/p/Cdw9_9nsfEe/?img_index=1) Renee Williams daughter by Winfred. My daughter was taken and i cannot even get a cellphone. 
-
-I eat at [St_Francis](https://www.stfranciscenterla.org/) once a day and [Reality Church in Hollywood](https://realityla.com/) 5 days a week since i got suspended from [Long Beach's Billie Jean Library](https://www.longbeach.gov/library/locations/main-library/)... So i need you to look at this conversation. Its the kidnapper of my wife#2/3 [She is no longer you wife](https://vimeo.com/396000267)
-
-im always running from ppl bc she is in the entertainment industry. They have an infrastructure that cuts the girls off from contact outside a [Streaming Media Cult](https://www.socialmediatoday.com/news/tiktok-explores-streaming-studios-la-facilitate-live-shopping/706040/) 
-
-anyway last night [June 9th](https://www.amoeba.com/our-stores/store-news/469/the-2024-la-pride-parade-block-party-in-hollywood-sunday-june-9th-469/) a gaurd with [Allied Universal](https://ausnewsroom.aus.com/) The guy with scruffy hair. Hes white he called this South American Assasin and he cahsed me with a holstered gun and bullet proof [Tactical Vest](https://www.blackhawk.com/tactical-nylon/tactical-vests/) out of the [subway](https://ktla.com/news/local-news/pedestrian-suffers-major-injuries-after-being-hit-by-l-a-subway-train/)  more later
-
-
-[DownLoad LA EMERGENCY GUiDE .PDF County of Los Angeles Emergency Survival Guide](https://lacounty.gov/wp-content/uploads/2022/03/1058408_2019_ESG_English_Webversion1.pdf) [The Phenomenology of Group Stalking (‘Gang-Stalking’): A Content Analysis of Subjective Experiences](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7178134/) [TikTok Explores New Streaming Studios in LA to Facilitate Live Shopping Push](https://www.socialmediatoday.com/news/tiktok-explores-streaming-studios-la-facilitate-live-shopping/706040/) [Rooftop Gunman Opens Fire In Marina Del Rey While Live Streaming](https://patch.com/california/los-angeles/rooftop-gunman-opens-fire-marina-del-rey-while-live-streaming) Early Sunday, police arrested a chef who climbed atop a building and fired dozens of rounds from [AR-15](https://www.independent.co.uk/topic/ar-15) rifles, sheriff's officials said. [Are civilians allowed to own AR-15?](https://giffords.org/lawcenter/state-laws/assault-weapons-in-california/#:~:text=With%20limited%20exceptions%2C%20California%20prohibits,DOJ%E2%80%9D) ![https://cdn.prgloo.com/media/f218aec8b2d24fe68cca165f5a8ae3dc.jpg?width=968&height=1452](https://ausnewsroom.aus.com/)
-
-![https://www.blackhawk.com/dw/image/v2/BDBJ_PRD/on/demandware.static/-/Sites-shootAccessory-master-catalog/default/dw75816a98/images/large/BH_90SAFV_R_Patches_front.jpg?sw=300&sh=300&sm=fit](https://www.blackhawk.com/dw/image/v2/BDBJ_PRD/on/demandware.static/-/Sites-shootAccessory-master-catalog/default/dw75816a98/images/large/BH_90SAFV_R_Patches_front.jpg?sw=300&sh=300&sm=fit)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6vyx1ofc0mM?si=TJxwNPGkD_J6JtzC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
