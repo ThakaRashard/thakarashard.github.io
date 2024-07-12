@@ -40,21 +40,15 @@ im always running from ppl bc she is in the entertainment industry. They have an
 anyway last night [June 9th](https://www.amoeba.com/our-stores/store-news/469/the-2024-la-pride-parade-block-party-in-hollywood-sunday-june-9th-469/) a gaurd with [Allied Universal](https://ausnewsroom.aus.com/) The guy with scruffy hair. Hes white he called this South American Assasin and he cahsed me with a holstered gun and bullet proof [Tactical Vest](https://www.blackhawk.com/tactical-nylon/tactical-vests/) out of the [subway](https://ktla.com/news/local-news/pedestrian-suffers-major-injuries-after-being-hit-by-l-a-subway-train/)  more later
 
 
-[DownLoad LA EMERGENCY GUiDE .PDF County of Los Angeles Emergency Survival Guide](https://lacounty.gov/wp-content/uploads/2022/03/1058408_2019_ESG_English_Webversion1.pdf) [The Phenomenology of Group Stalking (‘Gang-Stalking’): A Content Analysis of Subjective Experiences](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7178134/) [TikTok Explores New Streaming Studios in LA to Facilitate Live Shopping Push](https://www.socialmediatoday.com/news/tiktok-explores-streaming-studios-la-facilitate-live-shopping/706040/) [Rooftop Gunman Opens Fire In Marina Del Rey While Live Streaming](https://patch.com/california/los-angeles/rooftop-gunman-opens-fire-marina-del-rey-while-live-streaming) Early Sunday, police arrested a chef who climbed atop a building and fired dozens of rounds from [AR-15](https://www.independent.co.uk/topic/ar-15) rifles, sheriff's officials said. [Are civilians allowed to own AR-15?](https://giffords.org/lawcenter/state-laws/assault-weapons-in-california/#:~:text=With%20limited%20exceptions%2C%20California%20prohibits,DOJ%E2%80%9D) ![https://cdn.prgloo.com/media/f218aec8b2d24fe68cca165f5a8ae3dc.jpg?width=968&height=1452](https://ausnewsroom.aus.com/)
+[DownLoad LA EMERGENCY GUiDE .PDF County of Los Angeles Emergency Survival Guide](https://lacounty.gov/wp-content/uploads/2022/03/1058408_2019_ESG_English_Webversion1.pdf) [The Phenomenology of Group Stalking (‘Gang-Stalking’): A Content Analysis of Subjective Experiences](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7178134/) [TikTok Explores New Streaming Studios in LA to Facilitate Live Shopping Push](https://www.socialmediatoday.com/news/tiktok-explores-streaming-studios-la-facilitate-live-shopping/706040/) [Rooftop Gunman Opens Fire In Marina Del Rey While Live Streaming](https://patch.com/california/los-angeles/rooftop-gunman-opens-fire-marina-del-rey-while-live-streaming) Early Sunday, police arrested a chef who climbed atop a building and fired dozens of rounds from [AR-15](https://www.independent.co.uk/topic/ar-15) rifles, sheriff's officials said. [Are civilians allowed to own AR-15?](https://www.gunsandammo.com/editorial/california-compliant-ar15/472134) 
+
+California-Compliant AR-15 Rifle?
+Not known as a hotbed for firearms freedom, California is home to some of the country's most restrictive gun laws. Still, resident enthusiasts have options for owning a semiautomatic AR-15 if they are willing to procure a state-compliant model following the fixed-magazine or featureless rifle regulations. 
+![Security](https://cdn.prgloo.com/media/f218aec8b2d24fe68cca165f5a8ae3dc.jpg?width=968&height=1452)
 
 ![https://www.blackhawk.com/dw/image/v2/BDBJ_PRD/on/demandware.static/-/Sites-shootAccessory-master-catalog/default/dw75816a98/images/large/BH_90SAFV_R_Patches_front.jpg?sw=300&sh=300&sm=fit](https://www.blackhawk.com/dw/image/v2/BDBJ_PRD/on/demandware.static/-/Sites-shootAccessory-master-catalog/default/dw75816a98/images/large/BH_90SAFV_R_Patches_front.jpg?sw=300&sh=300&sm=fit)
 ![hi](https://pbs.twimg.com/media/GN5KzxZacAAGGzW?format=jpg&name=large)
 [Bikers attack security guard in Hollywood](https://ktla.com/news/local-news/bikers-attack-security-guard-in-hollywood/) A video posted on social media by [Street People of Beverly Hills](https://www.instagram.com/streetpeopleoflosangeles/) shows several bikers attacking an ADT security SUV, grabbing items from inside the vehicle, and then riding off.
-
-
-<div class="viking">
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-      </div>
-
 
 ### Metro LosAngeles 
 Please play with this map we made of the surface of mars! [NASAJPL/CalTech/MurrayLabs](https://murray-lab.caltech.edu/)
@@ -83,6 +77,16 @@ that was good. - `Joe Sullivan.mp4` [A Different Uber Post Mortem](https://media
 
 
 [Psychological impact of false accusations of sexual abuse](https://www.youtube.com/watch?v=scSQc9iauuw)    [Some sort of satellite breaking apart and entering the atmosphere. Spotted Santa Monica Beaach](https://www.reddit.com/r/LosAngeles/comments/1dr5grs/some_sort_of_satellite_breaking_apart_and/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button&onetap_auto=true&one_tap=true)
+
+<div class="viking">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+
+
 ![attack on metro](https://pbs.twimg.com/media/GSJPBzKbIAAFflY?format=jpg&name=large)
 ![Allied Universal](https://www.aus.com/sites/default/files/Allied%20Universal%20Tagline_1.png)
 
