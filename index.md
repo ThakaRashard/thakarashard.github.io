@@ -11,10 +11,11 @@ layout: default
 
 
 {% include computer.md %}
+{% include them.md %}
 {% include current.md %}
 {% include civic.md %}
 
-{% include them.md %}
+
 
 {% include nasajpl.md %}
 
