@@ -1,3 +1,20 @@
+![Christian OutReach Longbeach](https://pbs.twimg.com/profile_banners/1133901253446995968/1708980319/1500x500)
+[Christian Outreach in Action (COA)](https://linktr.ee/christianoutreachinaction) is a [501(c)(3) #nonprofit #organization](https://www.irs.gov/charities-non-profits/charitable-organizations/exemption-requirements-501c3-organizations) dedicated to helping needy families and individuals in our community. 
+<div class='twoPanelSpread'>
+        <div class='row'>
+          <div class='panelColumn'>
+            <div class='leftColumn'>
+              <img src="https://pbs.twimg.com/media/GNKLazeaAAIonNH?format=jpg&name=large" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+            </div>
+          </div>
+          <div class='panelColumn'>
+            <div class='rightColumn'>
+              <img src="https://pbs.twimg.com/media/GNKLazga0AErklB?format=jpg&name=large" alt="Girl in a jacket" >
+      
+   </div>
+  </div>    
+ </div>
+</div>
 <div class="viking">
         <div></div>
         <div></div>
@@ -5,6 +22,10 @@
         <div></div>
         <div></div>
       </div>
+
+
+
+
 Dear MAyor (Karen Bass)
 
 Hi, Its Rasahrd from NasaJpl the [YA](https://www.reddit.com/r/YAlit/comments/18xxv05/is_there_a_list_of_must_read_ya_books_especially/) Somali that takes short naps on the back portch of [city hall](https://www.laconservancy.org/learn/historic-places/los-angeles-city-hall/). I am following your instructions in the [County of Los Angeles Emergency Survival Guide](https://lacounty.gov/wp-content/uploads/2022/03/1058408_2019_ESG_English_Webversion1.pdf)
