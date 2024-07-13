@@ -183,6 +183,8 @@ blockquote {
   margin: 0;
   font-size: 101%;
   padding: 0 0 0 20px;
+  font-family: "Space Mono", monospace;
+  font-weight: 700;
   font-style: italic;
   border-radius: .3em;
   text-shadow:1px -1px rgba(0, 0, 0, .2);
@@ -194,8 +196,11 @@ blockquote a {
   color: limegreen;
   font-weight: 900;
   text-decoration: none;
-  text-shadow: 0 0 5px rgba(3, 89, 89, 0.5);
+  text-shadow: 0 0 5px white;
   transition: 0.3s;
+  font-family: "Space Mono", monospace;
+  font-weight: 700;
+  font-style: italic;
 }
 
 blockquote a:hover,
@@ -868,7 +873,7 @@ embed {
 }
 
 iframe {
-  
+  margin:0px;
   width: 100%;
 }
 
