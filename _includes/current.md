@@ -2,6 +2,19 @@
 # Currently Compiling
 
 ![Normani injured ?](https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xODc3ODI1OS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTcyNDIyNTY4NH0.Myu--480C-LaypA0MlVj728XjWjPgVsDjuZ0JuqAwmY/img.jpg?width=1200&height=600&coordinates=0%2C312%2C0%2C312)
+
+<video controls  height="auto" poster="https://www.emugifs.net/wp-content/uploads/2022/03/Neo-Geo-Startup-Bios-Screen-Max-330-Mega-Pro-Gear-Spec-SNK-Intro-Download-Free-Animated-GIF.gif">
+
+<source src="https://archive.org/download/screen-recording-2024-07-13-11.22.07-am/Screen%20recording%202024-07-13%2011.22.07%20AM.webm" type="video/mp4" />    
+<source src="https://archive.org/download/screen-recording-2024-07-13-11.22.07-am/Screen%20recording%202024-07-13%2011.22.07%20AM.webm" type="video/mp4" />
+      
+Download the
+        or
+      <a href="https://archive.org/download/screen-recording-2024-07-13-11.22.07-am/Screen%20recording%202024-07-13%2011.22.07%20AM.webm">MP4</a>
+        video.
+</video>
+
+[Real Bout Fatal Fury 2 - The Newcomers (Korean release)](https://www.retrogames.cc/arcade-games/real-bout-fatal-fury-2-the-newcomers-korean-release.html#)
 <iframe src="https://archive.org/embed/arcade_svc" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [nikiminaj](https://mmbiz.qpic.cn/mmbiz_jpg/kbK9iagPzQDhNGhaMzm0ESFozWeDFAkicutTfIJmSw419BcOyDyYerDmfwib4wtXgT9wPWcXsicKiapdZbjA5V6EUXg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
