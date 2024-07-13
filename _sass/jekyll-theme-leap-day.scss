@@ -196,8 +196,11 @@ blockquote a {
   color: limegreen;
   font-weight: 900;
   text-decoration: none;
-  text-shadow: 0 0 5px rgba(3, 89, 89, 0.5);
+  text-shadow: 0 0 5px white;
   transition: 0.3s;
+  font-family: "Space Mono", monospace;
+  font-weight: 700;
+  font-style: italic;
 }
 
 blockquote a:hover,
