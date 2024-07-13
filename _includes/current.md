@@ -2,7 +2,8 @@
 # Currently Compiling
 
 ![Normani injured ?](https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xODc3ODI1OS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTcyNDIyNTY4NH0.Myu--480C-LaypA0MlVj728XjWjPgVsDjuZ0JuqAwmY/img.jpg?width=1200&height=600&coordinates=0%2C312%2C0%2C312)
-<iframe src="https://archive.org/embed/arcade_sfiii2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/arcade_svc" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 [nikiminaj](https://mmbiz.qpic.cn/mmbiz_jpg/kbK9iagPzQDhNGhaMzm0ESFozWeDFAkicutTfIJmSw419BcOyDyYerDmfwib4wtXgT9wPWcXsicKiapdZbjA5V6EUXg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 [Normani这个Fifth Harmony"五美"出身的女艺人的事业简直太tm诡异了！看得明白很多人，唯独看不透她。](https://mp.weixin.qq.com/s?src=11&timestamp=1720829815&ver=5379&signature=i*KFU5iKdMxkE*BYJ-msrTbxHQ5NhHlHzLm3J0DgcQ00LTuc5IzagANdsuUJMXc94LZYXojvgv4ZQF93W4tFDB9hsThrP1IU6EAiwfibs7zGk*r0EFZXjP*ikpE3Fb9u&new=1)
 [Nicki Minaj的恶趣味](https://mp.weixin.qq.com/s?src=11&timestamp=1720829642&ver=5379&signature=iTCXBN1A0QlfFTAbR9-N1NFyqrwh9Ug5n9D*jymPC1QmxJ7cj9jOh-wNRTQi62zzpDdPXErz1lmXOIxZC0shGTOS1ex6FihbMM3b4hFq0Uf7JijpwcgMLiVNK6vCcmaF&new=1) [[业内]史诗级马赛克操作带来NICKI MINAJ，DWP主办棒棒嗒](https://mp.weixin.qq.com/s?src=11&timestamp=1720829642&ver=5379&signature=j7LqNlRphb34BKRpzDK4xzmaoEMaG3BbdMl7kKu*JmUtU1EjYBgfEY2EMDo8djRTisIdNVPg4b9rhKCN9Qkq5cNzwVYgmDaW2cgZ4G3dV4-AgIhFeAQRTLMgDHf8-uoJ&new=1) [Eminem makes controversial Lizzo diss in his new album](https://www.unilad.com/music/eminem-lizzo-diss-track-song-road-rage-359070-20240712)
