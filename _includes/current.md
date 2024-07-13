@@ -1,7 +1,18 @@
 
 # Currently Compiling
 
-![Normani injured ?](https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xODc3ODI1OS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTcyNDIyNTY4NH0.Myu--480C-LaypA0MlVj728XjWjPgVsDjuZ0JuqAwmY/img.jpg?width=1200&height=600&coordinates=0%2C312%2C0%2C312)
+
+[SNK vs. Capcom - SVC Chaos (JAMMA PCB, set 1)](https://www.retrogames.cc/arcade-games/snk-vs-capcom-svc-chaos-jamma-pcb-set-1.html#google_vignette)<video controls  height="auto" poster="https://media.tenor.com/mH3SWivgcNgAAAAM/svcchaos-ryu.gif">
+
+<source src="https://archive.org/download/screen-recording-2024-07-13-4.20.16-pm_202407/Screen%20recording%202024-07-13%204.20.16%20PM.webm" type="video/webm" />    
+<source src="https://archive.org/download/screen-recording-2024-07-13-4.20.16-pm_202407/Screen%20recording%202024-07-13%204.20.16%20PM.webm" type="video/webm" />
+      
+Download the
+        or
+      <a href="https://archive.org/download/screen-recording-2024-07-13-11.22.07-am/Screen%20recording%202024-07-13%2011.22.07%20AM.webm">Webm</a>
+        video.
+</video>
+
 
 <video controls  height="auto" poster="https://www.emugifs.net/wp-content/uploads/2022/03/Neo-Geo-Startup-Bios-Screen-Max-330-Mega-Pro-Gear-Spec-SNK-Intro-Download-Free-Animated-GIF.gif">
 
