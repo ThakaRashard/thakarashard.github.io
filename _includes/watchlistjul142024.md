@@ -1,6 +1,10 @@
 # WatchList
 
 
+
+[Fat Albert and The Cosby Kids - S5: EP 8 - Soft Core](https://www.imdb.com/title/tt1993872/) Rudy's friend, Dustin, gives the gang the wrong information on sex education when he gives them pornographic magazines and shows them dirty movies. Rudy's mother intervenes and points the boys in the right direction...[imdb](https://www.imdb.com/title/tt0800332/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VqMFjweWvyA?si=HHE3-VnZsQjLuHrn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Fat Albert and the Cosby Kids - "Soft Core" - 1979](https://youtu.be/pJVcG6cl4WM?si=uIK1Il470L70oFAZ)
 
 [Macross Plus [OVA] (English Dub) Home Video Master Transfer (Betacam)](https://archive.org/details/macross-plus-english-dub-master)
