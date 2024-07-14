@@ -3,13 +3,17 @@ layout: default
 ---
 
 {% highlight python %}
-1 # HOLE_TO_ANOTHER_UNiVERSE##########07/06/2024##########
+1 # HOLE_TO_ANOTHER_UNiVERSE##########07/14/2024##########
 2 # TO####################################################
 3 # ANOTHER###############################################
 4 # UNiVERSE#####################iloveyounormani######
 {% endhighlight %}
 
 
+
+
+{% include hair.md %}
+{% include blogroll.md %}
 
 
 
