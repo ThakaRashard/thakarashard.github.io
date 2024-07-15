@@ -841,7 +841,9 @@ footer {
 video {
   height: 300px;
   width: 100%;
-  border-radius: 0px;
+  margin-left: 1em;
+  margin-right: 1em;
+  border-radius: .3em;
   display: block;
   margin-block: 10px 10px;
   background: repeating-linear-gradient(
