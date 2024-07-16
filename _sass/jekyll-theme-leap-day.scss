@@ -69,8 +69,27 @@ dl {
   margin: 0 0 20px;
 }
 
+
+p {
+  column-count: 2;
+  column-fill: balance-all;
+  word-break: break-all;
+  hyphens: auto;
+  display:block;
+  margin: 1%;
+  border-radius: 1em;
+padding:2%;
+  text-align: left;
+  color:white;
+    background: transparent
+    url(https://t4.ftcdn.net/jpg/01/11/31/93/360_F_111319320_3gSczDAUKn9b5DAbQdkILWgvA28p4lrx.jpg)
+   ;
+  background-size: contain;
+  background-repeat: repeat;
+}
+
 p:first-of-type {
-color:brown;
+/* color:brown; */
 }
 
 
@@ -841,9 +860,9 @@ footer {
 video {
   height: 300px;
   width: 100%;
-  margin-left: 1em;
+ /* margin-left: 1em;
   margin-right: 1em;
-  border-radius: .3em;
+  border-radius: .3em; */
   display: block;
   background: repeating-linear-gradient(
 			to left,
