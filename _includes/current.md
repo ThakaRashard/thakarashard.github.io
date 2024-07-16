@@ -1,9 +1,12 @@
 
 # Currently Compiling
-
-
+[Sadat X feat. Shawn Black - Petty People](https://youtu.be/uOwdca5b9eg?si=1xUQugai8lWMsX9v)
+[I found an archive of the original IT Crowd forums. It is weird to see that there was so much hate for Series 1 from Chris Morris fans.](https://www.reddit.com/r/ITcrowd/comments/q05a6m/i_found_an_archive_of_the_original_it_crowd/)
 [Family Seeks Answers In Disappearance Of Atlanta Woman Last Seen On Superbowl Sunday](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/)
 [Macross Plus -- Manga Entertainment Trailer](https://www.youtube.com/watch?v=KDtso935CU4)
+SDF Macross
+<iframe src="https://archive.org/embed/sdf-macross-episode-8-longest-birthday-adv-dub_202108" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 [Run and Gun 2 (ver UAA)](https://konami.fandom.com/wiki/Run_and_Gun_(series)) [Fat Albert and the Cosby Kids - "Soft Core" - 1979](https://youtu.be/pJVcG6cl4WM?si=fWHrNx59RTmfHS_2) 
 <iframe src="https://archive.org/embed/arcade_rungun2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
