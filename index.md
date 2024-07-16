@@ -3,55 +3,25 @@ layout: default
 ---
 
 {% highlight python %}
-1 # HOLE_TO_ANOTHER_UNiVERSE##########07/06/2024##########
+1 # HOLE_TO_ANOTHER_UNiVERSE##########07/14/2024##########
 2 # TO####################################################
 3 # ANOTHER###############################################
 4 # UNiVERSE#####################iloveyounormani######
 {% endhighlight %}
 
 
+
+[The IT Crowd US Pilot](https://archive.org/download/the-it-crowd_202204)
+<iframe src="https://archive.org/embed/the-it-crowd-us-pilot" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 {% include current.md %}
-{% include worknotes.md %}
-{% include computer.md %}
-{% include them.md %}
-{% include current.md %}
-{% include civic.md %}
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/995692936&color=%238c8c4c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/deltron-3030" title="Deltron 3030" target="_blank" style="color: #cccccc; text-decoration: none;">Deltron 3030</a> · <a href="https://soundcloud.com/deltron-3030/positive-contact-feat-dan-1" title="Positive Contact (feat. Dan The Automator, Del The Funky Homosapien &amp; Kid Koala)" target="_blank" style="color: #cccccc; text-decoration: none;">Positive Contact (feat. Dan The Automator, Del The Funky Homosapien &amp; Kid Koala)</a></div>
+[archive.org @thakaserika_selassie_kelly](https://archive.org/details/@thakaserika_selassie_kelly) screenshares 
 
 
-
-{% include nasajpl.md %}
-
-
-{% include coral.md %}
-
-
-
-{% include watchlist.md %}
-
-
-
-{% include cannabis.md %}
-
-{% include htau.md %}
-
-{% include monica.md %}
-{% include gaming.md %}
-
-{% include linkroll.md %}
-{% include erika.md %}
-{% include fonts.md %}
-{% include news.md %}
-{% include worknotes.md %}
-
-{% include civic.md %}
-{% include graffiti.md %}
-{% include albums.md %}
-{% include aboutme.md %}
-{% include urlpairs.md %}
-
-
-{% include sitemap.md %}
-{% include blogroll.md %}
+{% include hair.md %}
+{% include watchlistjul142024.md %}
 
 
 

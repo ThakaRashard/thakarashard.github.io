@@ -1,5 +1,10 @@
 # To/About::Them
 <cite> A group of women I know from my journeys that somehow all ended up in [LosAngeles](https://lacity.gov/) </cite>
+
+
+![Normani injured ?](https://i.dailymail.co.uk/1s/2024/05/02/06/84355311-0-image-a-270_1714498955523.jpg) [Normani faces more scrutiny after DODGING question about embarrassing theory she runs her own fan account on Instagram](https://www.dailymail.co.uk/tvshowbiz/article-13373893/Normani-scrutiny-dodges-question-running-fan-account.html)
+
+
 [https://ricothaka:Playlist](https://ricothaka.github.io/playlist)
 [Another bill again-Tony Rebel](https://youtu.be/U9ZLAgyn2-Q?si=edanJb7aZeVbTl00)
 [Beast From The East - Lost Boyz](https://youtu.be/hJ5y0jKlLVc?si=r6GzrmRCAjaQROG7) 
