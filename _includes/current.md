@@ -10,7 +10,7 @@ Martian Gothic: Unification is a survival horror video game developed by Creativ
 
 ![PSX](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/PSX-Original-Controller.png/689px-PSX-Original-Controller.png)
 
-
+![Atlanta](https://pbs.twimg.com/media/GO8M0YubEAEvGyt?format=jpg&name=medium)
 
 [Sadat X feat. Shawn Black - Petty People](https://youtu.be/uOwdca5b9eg?si=1xUQugai8lWMsX9v)
 [I found an archive of the original IT Crowd forums. It is weird to see that there was so much hate for Series 1 from Chris Morris fans.](https://www.reddit.com/r/ITcrowd/comments/q05a6m/i_found_an_archive_of_the_original_it_crowd/)

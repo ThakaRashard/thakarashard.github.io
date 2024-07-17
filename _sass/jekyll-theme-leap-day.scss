@@ -25,6 +25,7 @@ html {
   /* font: 120%/1.6 "Space Mono", monospace, Baskerville, Palatino, serif; */
       margin: 0px;
     padding: 0px 0 20px 0px;
+    font-size:120%
     /*  background: url(../images/body-background.png) #eae6d1; */
     /*
     
@@ -128,9 +129,10 @@ h3 {
 a {
   display:inline-block;
   color: DodgerBlue;
-  font-weight: 900;
   text-decoration: none;
   transition: 0.2s;
+  word-break: break-all;
+  hyphens: auto;
 }
 
 a:hover,
