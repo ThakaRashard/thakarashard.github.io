@@ -18,17 +18,17 @@ by Matt Graham
 
 
 
-
 html {
-
+  background: url(https://www.fightersgeneration.com/nf9/game/stage/pocket-fighter-stage-toy-store.gif)
+  no-repeat center center fixed;
+background-size: 100%;
   font: normal 10px/18px 'IBM Plex Sans', "Lucida Sans Unicode", verdana, lucida, sans-serif;
   /* font: 120%/1.6 "Space Mono", monospace, Baskerville, Palatino, serif; */
       margin: 0px;
     padding: 0px 0 20px 0px;
-    font-size:120%
+    font-size:100%
     background: url("https://fgbg.art/static/motw_hokutomaru-162019510b57d8c7d782751c7bf18cf4.gif") 0 / cover fixed;
   }
-
 
 body {
 
