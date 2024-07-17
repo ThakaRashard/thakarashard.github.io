@@ -10,16 +10,13 @@ layout: default
 {% endhighlight %}
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/34ENnbcnxTE?si=fJzz4zBckzIYsoVv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uABHh5OGQHs?si=9JQY9eHSJqkgnsAz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F9ULbmCvmxY?si=PeuHv1VK9Um3Jx2A" title="black ice outkast video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/34ENnbcnxTE?si=fJzz4zBckzIYsoVv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[The IT Crowd US Pilot](https://archive.org/download/the-it-crowd_202204)
-<iframe src="https://archive.org/embed/the-it-crowd-us-pilot" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 {% include current.md %}
+{% include computer.md %}
+{% include nasajpl.md %}
+{% include coral.md %}
+
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/995692936&color=%238c8c4c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/deltron-3030" title="Deltron 3030" target="_blank" style="color: #cccccc; text-decoration: none;">Deltron 3030</a> · <a href="https://soundcloud.com/deltron-3030/positive-contact-feat-dan-1" title="Positive Contact (feat. Dan The Automator, Del The Funky Homosapien &amp; Kid Koala)" target="_blank" style="color: #cccccc; text-decoration: none;">Positive Contact (feat. Dan The Automator, Del The Funky Homosapien &amp; Kid Koala)</a></div>
 [archive.org @thakaserika_selassie_kelly](https://archive.org/details/@thakaserika_selassie_kelly) screenshares 

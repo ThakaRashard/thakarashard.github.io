@@ -52,9 +52,9 @@ h1  {
   color: white;
   background: transparent;
   font-weight: 900;
-  margin: 5px;
-  padding: 5px;
-
+  margin: 3px;
+  padding: 3px;
+  border-radius: .2em;
 background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif), linear-gradient(90deg, rgba(38,33,36,0.8071603641456583) 7%, rgba(89,54,54,0.8267682072829132) 17%, rgba(140,103,90,0.700717787114846) 46%, rgba(217,199,193,0.5270483193277311) 81%);
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
     0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
@@ -76,16 +76,22 @@ p {
   word-break: break-all;
   hyphens: auto;
   display:block;
-  margin: 1%;
-  border-radius: 1em;
+  margin: .4em;
+  border-radius: .2em;
 padding:2%;
   text-align: left;
   color:white;
     background: transparent
     url(https://t4.ftcdn.net/jpg/01/11/31/93/360_F_111319320_3gSczDAUKn9b5DAbQdkILWgvA28p4lrx.jpg)
    ;
-  background-size: contain;
+  background-size: cover;
   background-repeat: repeat;
+}
+
+p a {
+
+color:DodgerBlue;
+  
 }
 
 p:first-of-type {
@@ -123,19 +129,19 @@ h3 {
 
 a {
   display:inline-block;
-  color: #590B11;
+  color: DodgerBlue;
   font-weight: 900;
   text-decoration: none;
-  text-shadow: 0 0 5px rgba(3, 89, 89, 0.5);
-  transition: 0.3s;
+  text-shadow: 0 0 5px DeepSkyBlue;
+  transition: 0.2s;
 }
 
 a:hover,
 a:visited a:hover {
-  color: #F2274C;
-  font-size: 150%;
+  color: Yellow;
+  font-size: 130%;
   margin:3%;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  text-shadow: 0 0 5px Goldenrod;
   display:inline-block;
 }
 

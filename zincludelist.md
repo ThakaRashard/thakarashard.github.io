@@ -1,16 +1,14 @@
 
 {% include current.md %}
 {% include worknotes.md %}
-{% include computer.md %}
+
 {% include them.md %}
 {% include current.md %}
 {% include civic.md %}
 
 
-
+{% include computer.md %}
 {% include nasajpl.md %}
-
-
 {% include coral.md %}
 
 
