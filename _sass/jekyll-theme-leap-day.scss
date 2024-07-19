@@ -77,21 +77,20 @@ p {
   padding: 10px;
     color: white;
 display:block;
-    width: 100%;
-  background: 
+border-radius: .2em;
+    background: 
       linear-gradient(45deg,
-        #08a0e990 25%,
+        #08a0e999 25%,
         dodgerblue 0,
         dodgerblue 50%,
-        #08a0e990 0,
-        #08a0e990 75%,
+        #08a0e999 0,
+        #08a0e999 75%,
         dodgerblue  0), url(https://www.transparenttextures.com/patterns/3px-tile.png) ;
     background-size: 80.4px 80.4px;
-
   /* text-shadow: 0 0 8px #ffffff,0 0 20px #fff, 0 0 40px; */
-
-
   background-attachment: fixed;
+  word-break: break-all;
+  hyphens: auto;
 }
 
 /*
