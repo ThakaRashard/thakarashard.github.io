@@ -27,8 +27,7 @@ background-size: 100%;
   font-optical-sizing: auto;
   font-weight: regular;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
+  font-variation-settings:  "wdth" 100;
   /* font: 120%/1.6 "Space Mono", monospace, Baskerville, Palatino, serif; */
       margin: 0px;
     padding: 0px 0 20px 0px;
@@ -68,6 +67,10 @@ dl {
 
 
 p {
+    column-fill: balance-all;
+  word-break: break-all;
+  hyphens: auto;
+  display:block;
   padding: 10px;
   text-shadow: 0 0 8px #ffffff;
   color: white;
