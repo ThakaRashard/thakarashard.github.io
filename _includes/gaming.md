@@ -1,6 +1,13 @@
 # Gaming 
 
+[Macross Plus -- Manga Entertainment Trailer](https://www.youtube.com/watch?v=KDtso935CU4)
+SDF Macross
+<iframe src="https://archive.org/embed/sdf-macross-episode-8-longest-birthday-adv-dub_202108" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+[Run and Gun 2 (ver UAA)](https://konami.fandom.com/wiki/Run_and_Gun_(series)) [Fat Albert and the Cosby Kids - "Soft Core" - 1979](https://youtu.be/pJVcG6cl4WM?si=fWHrNx59RTmfHS_2) 
+<iframe src="https://archive.org/embed/arcade_rungun2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[SNK vs. Capcom - SVC Chaos (JAMMA PCB, set 1)](https://www.retrogames.cc/arcade-games/snk-vs-capcom-svc-chaos-jamma-pcb-set-1.html) [Ikari Warriors (US JAMMA)](https://www.retrogames.cc/arcade-games/ikari-warriors-us-jamma.html)
 
 ![MarvelSuperHeroes](https://pbs.twimg.com/media/GFsDZkxasAASKvH?format=jpg&name=large)
 [Marvel Super Heroes (951024 Japan)](https://www.retrogames.cc/arcade-games/marvel-super-heroes-951024-japan.html)

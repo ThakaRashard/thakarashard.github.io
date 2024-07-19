@@ -1,7 +1,11 @@
 
 {% include current.md %}
 {% include worknotes.md %}
-
+{% include hair.md %}
+{% include watchlistjul142024.md %}
+{% include computer.md %}
+{% include nasajpl.md %}
+{% include coral.md %}
 {% include them.md %}
 {% include current.md %}
 {% include civic.md %}

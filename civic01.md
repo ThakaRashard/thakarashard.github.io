@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 {% highlight python %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##########07/11/2024##########
 2 # TO##################NickiPooH#4theMayor###############

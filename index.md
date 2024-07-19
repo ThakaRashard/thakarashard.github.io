@@ -9,20 +9,16 @@ layout: default
 4 # UNiVERSE#####################iloveyounormani######
 {% endhighlight %}
 
-[How To Use CSS Hex Code Colors with Alpha Values](https://www.digitalocean.com/community/tutorials/css-hex-code-colors-alpha-values) [Three 6 Mafia-Prophet Posse](https://youtu.be/T1XLNKElphE?si=cbCnn8bSlyXOibIM)
-[Playlist in FlexBoxDemo](https://thakarashard.github.io/ricothaka/playlist) [Playlist in FlexBoxDemo](https://ricothaka.github.io/playlist)
 
-{% include coral.md %}
+
+
+
+
 {% include current.md %}
-{% include hair.md %}
-{% include watchlistjul142024.md %}
-{% include computer.md %}
-{% include nasajpl.md %}
 
 
 
-
-[archive.org @thakaserika_selassie_kelly](https://archive.org/details/@thakaserika_selassie_kelly) screenshares 
+ 
 
 
 

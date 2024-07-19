@@ -2,15 +2,7 @@
 <cite> A group of women I know from my journeys that somehow all ended up in [LosAngeles](https://lacity.gov/) </cite>
 
 
-![Normani injured ?](https://i.dailymail.co.uk/1s/2024/05/02/06/84355311-0-image-a-270_1714498955523.jpg) [Normani faces more scrutiny after DODGING question about embarrassing theory she runs her own fan account on Instagram](https://www.dailymail.co.uk/tvshowbiz/article-13373893/Normani-scrutiny-dodges-question-running-fan-account.html)
-
-
-[https://ricothaka:Playlist](https://ricothaka.github.io/playlist)
-[Another bill again-Tony Rebel](https://youtu.be/U9ZLAgyn2-Q?si=edanJb7aZeVbTl00)
-[Beast From The East - Lost Boyz](https://youtu.be/hJ5y0jKlLVc?si=r6GzrmRCAjaQROG7) 
-[Street Fighter: The Movie (V1.12)](https://www.retrogames.cc/arcade-games/street-fighter-the-movie-v1-12.html)
-[The Chemical Brothers - Dig Your Own Hole (Full Album)](https://www.youtube.com/watch?v=2UafeQIkj5c)
-
+![Normani injured ?](https://i.dailymail.co.uk/1s/2024/05/02/06/84355311-0-image-a-270_1714498955523.jpg) 
 ![Cardi and Normani](https://pbs.twimg.com/media/GRwXnx5acAU5nlb?format=jpg&name=large)
 
 ![Tabletop Mountain](https://pbs.twimg.com/media/GRwbIWPasAEVFpa?format=jpg&name=large)

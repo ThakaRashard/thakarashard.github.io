@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 
 {% highlight javascript %}
 {% assign image_files = site.static_files | where: "image", true %}
