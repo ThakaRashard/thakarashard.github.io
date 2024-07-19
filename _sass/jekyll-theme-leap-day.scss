@@ -36,6 +36,8 @@ background-size: 100%;
   background-size: cover;
   background-position: center;
   height: 100vh;
+	column-fill: balance;
+	word-break: break-all;
   background-attachment: fixed;}
 
 body {
@@ -71,7 +73,7 @@ dl {
 p {
   padding: 10px;
     color: white;
-
+display:block;
     width: 100%;
   background: 
       linear-gradient(45deg,
