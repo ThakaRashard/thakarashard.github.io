@@ -72,19 +72,20 @@ p {
   padding: 10px;
   text-shadow: 0 0 8px #ffffff;
   color: white;
-  height: 100%;
-  width: 100%;
-    background: linear-gradient(
-      45deg,
-      #08a0e9 25%,
-      dodgerblue 0,
-      dodgerblue 50%,
-      #08a0e9 0,
-      #08a0e9 75%,
-      dodgerblue 0
-    ),
-    url(https://t4.ftcdn.net/jpg/01/11/31/93/360_F_111319320_3gSczDAUKn9b5DAbQdkILWgvA28p4lrx.jpg);
-  background-size: 80.4px 80.4px;
+
+    height: 100%;
+    width: 100%;
+    margin: 15px;
+ background: 
+      linear-gradient(45deg,
+        #08a0e990 25%,
+        dodgerblue 0,
+        dodgerblue 50%,
+        #08a0e990 0,
+        #08a0e990 75%,
+        dodgerblue  0), url(https://www.transparenttextures.com/patterns/3px-tile.png) ;
+    background-size: 80.4px 80.4px;
+
   text-shadow: 0 0 8px #ffffff,0 0 20px #fff, 0 0 40px;
 
 
