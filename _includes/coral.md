@@ -2,7 +2,46 @@
 
 # Coral 
 
+![matt](https://pbs.twimg.com/media/GMbrGfqaIAAaJeb?format=jpg&name=large)
+[Bullet With Butterfly Wings ](https://www.youtube.com/watch?v=xCmA1uC0r9A)
 ![CoralChrome](https://pbs.twimg.com/media/GNVVbu0akAA3Cjo?format=jpg&name=medium)
+
+<video controls  height="auto" poster="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BqeGhkeHlsa21zaGFzanJjbHQ0ZTJtdHVrbWc1YTFsYWtyam43dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R38DwrrBGxy9i/giphy.webp">
+
+<source src="https://archive.org/download/the-boondocks-complete/Season%201/The%20Boondocks%20-%20S01E11%20-%20Let%27s%20Nab%20Oprah.mp4" type="video/mp4" />    
+<source src="https://archive.org/download/the-boondocks-complete/Season%201/The%20Boondocks%20-%20S01E11%20-%20Let%27s%20Nab%20Oprah.mp4" type="video/mp4" />
+      
+Download the
+        or
+      <a href="https://archive.org/download/the-boondocks-complete/Season%201/The%20Boondocks%20-%20S01E11%20-%20Let%27s%20Nab%20Oprah.mp4">MP4</a>
+        video.
+</video>
+
+[Watch The Boondocks (Complete Series) on Archive.org](https://archive.org/details/the-boondocks-complete)
+
+<iframe src="https://archive.org/embed/the-scooby-doo-show" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[WatchList](https://www.b98.tv/home/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/34ENnbcnxTE?si=fJzz4zBckzIYsoVv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uABHh5OGQHs?si=9JQY9eHSJqkgnsAz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F9ULbmCvmxY?si=PeuHv1VK9Um3Jx2A" title="black ice outkast video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/34ENnbcnxTE?si=fJzz4zBckzIYsoVv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[The IT Crowd US Pilot](https://archive.org/download/the-it-crowd_202204)
+<iframe src="https://archive.org/embed/the-it-crowd-us-pilot" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<iframe src="https://archive.org/embed/The.Addams.Family" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<iframe src="https://archive.org/embed/anonymoose034dvd10bit9673730c" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[Fat Albert and The Cosby Kids - S5: EP 8 - Soft Core](https://www.imdb.com/title/tt1993872/) Rudy's friend, Dustin, gives the gang the wrong information on sex education when he gives them pornographic magazines and shows them dirty movies. Rudy's mother intervenes and points the boys in the right direction...[imdb](https://www.imdb.com/title/tt0800332/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VqMFjweWvyA?si=HHE3-VnZsQjLuHrn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Fat Albert and the Cosby Kids - "Soft Core" - 1979](https://youtu.be/pJVcG6cl4WM?si=uIK1Il470L70oFAZ)
+
 
 [Another bill again-Tony Rebel](https://youtu.be/U9ZLAgyn2-Q?si=edanJb7aZeVbTl00)
 
