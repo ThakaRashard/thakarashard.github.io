@@ -133,13 +133,13 @@ end
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>Rashard aka Thaka aka Shaadi</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>1980?</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
+<dd>Santa Monica(Savannah?)</dd>
 <dt>Color</dt>
-<dd>Green</dd>
+<dd>yellowbrown</dd>
 </dl>
 
 ```

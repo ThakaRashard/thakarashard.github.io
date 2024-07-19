@@ -1,9 +1,7 @@
 
 # Currently Compiling
 [1946 Los Angeles at Night | 4k and Remastered](https://www.youtube.com/watch?v=_x-0XH4A-PE)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_x-0XH4A-PE?si=jgpcIF8Sbn9kuISh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe src="https://archive.org/embed/private-snafu_202401" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rhpoEzu59c?si=jFwCu7FGUhi-Ffu_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![Atlanta](https://pbs.twimg.com/media/GO8M0YubEAEvGyt?format=jpg&name=medium)
 
