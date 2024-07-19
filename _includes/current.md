@@ -1,7 +1,7 @@
 
 # Currently Compiling
 
-[Pee Wee's Playhouse Complete Series](https://archive.org/download/peewee-playhouse) [Alvin & The Chipmunks 1983 Complete Series](https://archive.org/download/1983-alvin-and-the-chipmunks-complete) [Extreme Ghostbusters Complete Series (1997)](https://archive.org/details/extreme-ghostbusters-complete-series-1997) [Godzilla: The Series Complete Series (1998-2000)](https://archive.org/details/godzilla-the-series-complete-series-1998-2000)
+[Pee Wee's Playhouse Complete Series](https://archive.org/download/peewee-playhouse) [Alvin & The Chipmunks 1983 Complete Series](https://archive.org/download/1983-alvin-and-the-chipmunks-complete) [Extreme Ghostbusters Complete Series (1997)](https://archive.org/details/extreme-ghostbusters-complete-series-1997) [Godzilla: The Series Complete Series (1998-2000)](https://archive.org/details/godzilla-the-series-complete-series-1998-2000) [Silver Surfer Complete Series (1998)](https://archive.org/details/silver-surfer-1998-complete-series)
 ---
 
 
