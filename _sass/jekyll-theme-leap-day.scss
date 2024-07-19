@@ -363,7 +363,7 @@ header {
 
   h1 {
     display:block;
-    font-weight:900;
+    
     text-shadow: 1px 1px dodgerblue, 
                  2px 2px dodgerblue, 
                  3px 3px dodgerblue;
@@ -385,14 +385,17 @@ header {
 h1:hover {
 
   position: relative; 
-  top: 3px; 
-  left: 3px; 
+  font-weight:900;
+  top: 8px; 
+  left: 8px; 
   text-shadow: 1px 1px dodgerblue, 
                2px 2px dodgerblue, 
                3px 3px dodgerblue, 
                4px 4px dodgerblue, 
                5px 5px dodgerblue, 
-               6px 6px dodgerblue;
+               6px 6px dodgerblue,
+               7px 7px dodgerblue,
+               22px 22px dodgerblue;
 
 
 
