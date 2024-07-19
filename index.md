@@ -10,8 +10,15 @@ layout: default
 4 # UNiVERSE#####################iloveyounormani######
 {% endhighlight %}
 
- Trip to Mars by Dave Fleischer
+The Cartoon Factory
+by Dave Fleischer; Max Fleischer
+<iframe src="https://archive.org/embed/silent-the-cartoon-factory" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<!-- Trip to Mars by Dave Fleischer
 <iframe src="https://archive.org/embed/silent-trip-to-mars" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+Hi suga @normani i dont mind keeping this fresh with some ideas, its like a feature pane placement point in wordpress
+ -->
+[Twitter Anger In Real Time](https://archive.org/details/screen-recording-2024-07-19-3.44.19-pm)
 
 [The Chemical Brothers 1995 Exit Planet Dust](https://www.youtube.com/watch?v=gdGAGDMxQTg) [Psychological impact of false accusations of sexual abuse](https://youtu.be/scSQc9iauuw?si=1ZyjOYql9RLrm8cX) [Projeck A-Ko (English Dubbed) [VHS]](https://www.youtube.com/watch?v=JNSXBh0Gtv4) [Rasco - Unassisted](https://youtu.be/Nj2mbF1SrdU?si=4NjAZKu7SW4kXyaP)
 
