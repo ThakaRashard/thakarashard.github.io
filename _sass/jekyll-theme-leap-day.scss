@@ -71,7 +71,12 @@ dl {
   margin: 0 0 20px;
 }
 
-
+img:nth-child(odd) {
+  float: right;
+}
+img:nth-child(even) {
+float: left;
+}
 
 p {
   padding: 10px;
@@ -236,7 +241,7 @@ blockquote {
   font-style: italic;
   border-radius: .3em;
   text-shadow:1px -1px rgba(0, 0, 0, .2);
-background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-white.gif), linear-gradient(90deg, rgba(38,33,36,0.8071603641456583) 7%, rgba(89,54,54,0.8267682072829132) 17%, rgba(140,103,90,0.700717787114846) 46%, rgba(217,199,193,0.5270483193277311) 81%);
+/*background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-white.gif), linear-gradient(90deg, rgba(38,33,36,0.8071603641456583) 7%, rgba(89,54,54,0.8267682072829132) 17%, rgba(140,103,90,0.700717787114846) 46%, rgba(217,199,193,0.5270483193277311) 81%);*/
 }
 
 blockquote a {

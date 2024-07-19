@@ -25,7 +25,7 @@
 ![hi](https://i.makeagif.com/media/9-16-2015/cMX9cr.gif)
 ![WipeOuT_XL](https://pbs.twimg.com/media/GB2WGN8bEAAfbCx?format=jpg&name=large)
 
-<embed src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/217049673&color=%2300cc11&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />  <a href="https://soundcloud.com/user630627017/cdv2815" title="Wipeout 2097 (ワイプアウト―2097): The Soundtrack (30 September 1996) [CDV2815, LC3098]" target="_blank" style="color: #cccccc; text-decoration: none;">Wipeout 2097 (ワイプアウト―2097): The Soundtrack (30 September 1996) [CDV2815, LC3098]</a></div>
+<embed src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/217049673&color=%2300cc11&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />  <div> <a href="https://soundcloud.com/user630627017/cdv2815" title="Wipeout 2097 (ワイプアウト―2097): The Soundtrack (30 September 1996) [CDV2815, LC3098]" target="_blank" style="color: #cccccc; text-decoration: none;"> Wipeout 2097 (ワイプアウト―2097): The Soundtrack (30 September 1996) [CDV2815, LC3098]</a></div>
 
 [Wipeout 2097](https://www.retrogames.cc/psx-games/wipeout-2097.html) [WipEout XL (PS1)](https://www.retrogames.onl/2018/02/wipeout-xl-ps1.html) [Play WipEout 2097 online in browser REDDiT](https://www.reddit.com/r/WipeOut/comments/16g29dx/play_wipeout_2097_online_in_browser/?rdt=57852&onetap_auto=true&one_tap=true)
 [Ranma 1/2 VHS Subtitled Edition](https://archive.org/download/ranma-1-2-subtitled-edition-vhs)
