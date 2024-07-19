@@ -30,11 +30,12 @@ background-size: 100%;
       margin: 0px;
     padding: 0px 0 20px 0px;
     font-size:100%
-	    background: url("https://fgbg.art/static/mvc_newYork-8a30ed825143d36b528b5f9826ed9fe3.gif") 0 / cover fixed;
-   /*  background: url("https://fgbg.art/static/motw_hokutomaru-162019510b57d8c7d782751c7bf18cf4.gif") 0 / cover fixed; */
-	 /* font: 120%/1.6 "Space Mono", monospace, Baskerville, Palatino, serif; */
-	/*  background: url(https://www.fightersgeneration.com/nf9/game/stage/pocket-fighter-stage-toy-store.gif) no-repeat center center fixed; */
-  }
+background-image: url("https://fgbg.art/static/mvc_newYork-8a30ed825143d36b528b5f9826ed9fe3.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  background-attachment: fixed;}
 
 body {
 
