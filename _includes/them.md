@@ -1,8 +1,9 @@
 # To/About::Them
 <cite> A group of women I know from my journeys that somehow all ended up in [LosAngeles](https://lacity.gov/) </cite>
 
+![Pebbles Birthday Party](https://static.wikia.nocookie.net/flinstones/images/9/90/The_Flintstones_-_Pebbles%27_Birthday_Party_-_Pebbles%27_Birthday_Cake.jpg/revision/latest?cb=20211119211050) 
 
-![Pebbles Birthday Party](https://static.wikia.nocookie.net/flinstones/images/9/90/The_Flintstones_-_Pebbles%27_Birthday_Party_-_Pebbles%27_Birthday_Cake.jpg/revision/latest?cb=20211119211050) "Pebbles' Birthday Party" is the fourth episode of the fifth season and the one hundred and eighteenth overall episode of the original series, The Flintstones. It aired on October 8, 1964. [fandom](https://flintstones.fandom.com/wiki/Pebbles%27_Birthday_Party)
+"[Pebbles' Birthday Party](https://www.b98.tv/video/pebbles-birthday-party/)" is the fourth episode of the fifth season and the one hundred and eighteenth overall episode of the original series, The Flintstones. It aired on October 8, 1964. [fandom](https://flintstones.fandom.com/wiki/Pebbles%27_Birthday_Party) [Tubi](Season 5 Episode 4 - Pebbles' Birthday Party) [Pebbles and Bamm-Bamm’s Bedrock Dance Academy](https://archive.org/details/bedrockdanceacademy) [internet animation database](https://www.intanibase.com/iad_video/video?videoID=8343&seriesID=74)
 
 
 
