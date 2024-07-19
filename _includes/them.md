@@ -11,6 +11,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gvMCA9jHFZ0?si=Z5J6IubPubq1kMCv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+![kashdoll robbed](https://pbs.twimg.com/media/GSPXbukboAEO8ad?format=jpg&name=large)
 [Cartoons!](https://www.b98.tv/home/) [Missy Misdemeanor Elliott* – Da Real World](https://www.discogs.com/release/226224-Missy-Misdemeanor-Elliott-Da-Real-World)
 ![Normani injured ?](https://i.dailymail.co.uk/1s/2024/05/02/06/84355311-0-image-a-270_1714498955523.jpg) 
 ![Cardi and Normani](https://pbs.twimg.com/media/GRwXnx5acAU5nlb?format=jpg&name=large)

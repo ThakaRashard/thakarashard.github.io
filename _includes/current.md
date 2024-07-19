@@ -1,6 +1,13 @@
 
 # Currently Compiling
 
+![Juno Fly By](https://photojournal.jpl.nasa.gov/jpegMod/PIA22942_modest.jpg)
+This image of Jupiter's turbulent southern hemisphere was captured by NASA's Juno spacecraft as it performed its most recent close flyby of the gas giant planet on Dec. 21, 2018.
+
+This new perspective captures the notable Great Red Spot, as well as a massive storm called Oval BA. The storm reached its current size when three smaller spots collided and merged in the year 2000. The Great Red Spot, which is about twice as wide as Oval BA, may have formed from the same process centuries ago.[NasaPhotoJournal : Jupiter](https://photojournal.jpl.nasa.gov/catalog/PIA22942)
+[NASA’S JUNOCAM](https://www.missionjuno.swri.edu/junocam/) [Nasa Juno Images](https://photojournal.jpl.nasa.gov/mission/Juno)
+![Juno](https://d2pn8kiwq2w21t.cloudfront.net/images/22-mission-current-Juno.height-700.png) [Nasa Juno](https://www.jpl.nasa.gov/missions/juno)
+![Mariner9 USA Mars Mission](https://pbs.twimg.com/media/GSPYFqgaEAABUGs?format=jpg&name=4096x4096)
 [Pee Wee's Playhouse Complete Series](https://archive.org/download/peewee-playhouse) [Alvin & The Chipmunks 1983 Complete Series](https://archive.org/download/1983-alvin-and-the-chipmunks-complete) [Extreme Ghostbusters Complete Series (1997)](https://archive.org/details/extreme-ghostbusters-complete-series-1997) [Godzilla: The Series Complete Series (1998-2000)](https://archive.org/details/godzilla-the-series-complete-series-1998-2000) [Silver Surfer Complete Series (1998)](https://archive.org/details/silver-surfer-1998-complete-series) [X-Men The Animated Series 1080p AI Upscale](https://archive.org/details/x-men-the-animated-series-1080p-ai-upscale_202204) [The New Fantastic Four 1978](https://archive.org/details/the-new-fantastic-four-1978-complete-series) [The Incredble Hulk (1966)](https://archive.org/details/the-incredble-hulk-1966-complete-series-english) [A Tale Of Two Kitties (1942)](https://archive.org/details/ATaleOfTwoKitties1942) [Bulleteers, The by Dave Fleischer](https://archive.org/details/bulleteers)
 ---
 
@@ -25,7 +32,7 @@ In its original form, the act made it a felony to engage in interstate or foreig
 [1946 Los Angeles at Night | 4k and Remastered](https://www.youtube.com/watch?v=_x-0XH4A-PE) [Tekken The Motion Picture (English Dubbed) [VHS]](https://www.youtube.com/watch?v=AZb6KbZ6VJ4) [Variable Geo (English Dubbed) [VHS]](https://www.youtube.com/watch?v=B4vpSjd-XPU)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1rhpoEzu59c?si=jFwCu7FGUhi-Ffu_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![Atlanta](https://pbs.twimg.com/media/GO8M0YubEAEvGyt?format=jpg&name=medium)
+![AtlantaBlueBlackLover](https://pbs.twimg.com/media/GO8M0YubEAEvGyt?format=jpg&name=medium)
 
 [Roujin Z (English Dubbed) [VHS]](https://www.youtube.com/watch?v=itg4zKaUMgY)[Roujin Z (1991) [Japanese] [English Subtitles] reddit](https://www.reddit.com/r/fullforeignmovies/comments/tjo6os/roujin_z_1991_japanese_english_subtitles/) [Subtitles for Roujin Z](https://subf2m.co/subtitles/roujin-z/english) [OpenSubtitles dOt oRg](https://www.opensubtitles.org/en/search/sublanguageid-all/idmovie-11272)
 <video controls width="100%" height="auto" poster="https://archive.org/download/roujin.-z.-1991.1080p.-blu-ray.x-264-skazhutin/roujin.-z.-1991.1080p.-blu-ray.x-264-skazhutin.thumbs/Roujin.Z.1991.1080p.BluRay.x264-Skazhutin_000075.jpg">
