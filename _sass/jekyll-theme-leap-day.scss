@@ -74,8 +74,7 @@ p {
   color: white;
   height: 100%;
   width: 100%;
-  margin: 15px;
-  background: linear-gradient(
+    background: linear-gradient(
       45deg,
       #08a0e9 25%,
       dodgerblue 0,
@@ -86,8 +85,7 @@ p {
     ),
     url(https://t4.ftcdn.net/jpg/01/11/31/93/360_F_111319320_3gSczDAUKn9b5DAbQdkILWgvA28p4lrx.jpg);
   background-size: 80.4px 80.4px;
-  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
-    0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
+  text-shadow: 0 0 8px #ffffff,0 0 20px #fff, 0 0 40px;
 
 
   background-attachment: fixed;
