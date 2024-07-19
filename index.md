@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 
 {% highlight python %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##########07/14/2024##########
@@ -15,6 +16,7 @@ layout: default
 
 
 {% include current.md %}
+{% include linkroll.md %}
 
 
 
