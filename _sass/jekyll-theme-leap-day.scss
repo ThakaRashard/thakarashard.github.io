@@ -70,13 +70,10 @@ dl {
 
 p {
   padding: 10px;
-  text-shadow: 0 0 8px #ffffff;
-  color: white;
+    color: white;
 
-    height: 100%;
     width: 100%;
-    margin: 15px;
- background: 
+  background: 
       linear-gradient(45deg,
         #08a0e990 25%,
         dodgerblue 0,
@@ -86,7 +83,7 @@ p {
         dodgerblue  0), url(https://www.transparenttextures.com/patterns/3px-tile.png) ;
     background-size: 80.4px 80.4px;
 
-  text-shadow: 0 0 8px #ffffff,0 0 20px #fff, 0 0 40px;
+  /* text-shadow: 0 0 8px #ffffff,0 0 20px #fff, 0 0 40px; */
 
 
   background-attachment: fixed;
@@ -152,7 +149,7 @@ h3 {
 
 a {
   display:inline-block;
-  color: DodgerBlue;
+  color: Aquamarine;
   text-decoration: none;
   transition: 0.2s;
   word-break: break-all;
@@ -195,7 +192,7 @@ main {
 	border-radius: .3em;
 	box-shadow: 0 0 0 1px hsla(0,0%,100%,.3) inset,
 	            0 .5em 1em rgba(0, 0, 0, 0.1);
-	text-shadow: 0 1px 1px hsla(0,0%,100%,.3);
+	adow: 0 1px 1px hsla(0,0%,100%,.3);
 }
 
 main::before {
