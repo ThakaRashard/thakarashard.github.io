@@ -1,7 +1,7 @@
 # To/About::Them
 <cite> A group of women I know from my journeys that somehow all ended up in [LosAngeles](https://lacity.gov/) </cite>
 
-[Cartoons!](https://www.b98.tv/home/)
+
 ![Normani injured ?](https://i.dailymail.co.uk/1s/2024/05/02/06/84355311-0-image-a-270_1714498955523.jpg) 
 ![Cardi and Normani](https://pbs.twimg.com/media/GRwXnx5acAU5nlb?format=jpg&name=large)
 
@@ -38,6 +38,57 @@ This movie is hard to get good quality. This is what Strip clubs do to a city.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gc5mBU_sfu0?si=Z6j6YFpL6PPEYqlO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Proposition 64: The Adult Use of Marijuana Act
+Overview [The California Cannabis Hemp Initiative of 2014](https://lao.ca.gov/ballot/2014/140072.aspx)
+Effective November 9, 2016, Proposition 64 legalizes specified personal use and cultivation of marijuana for adults 21 years of age or older; reduces criminal penalties for specified marijuana-related offenses for adults and juveniles; and authorizes resentencing or dismissal and sealing of prior, eligible marijuana-related convictions. The proposition includes provisions on regulation, licensing, and taxation of legalized use. [California Courts](https://www.courts.ca.gov/prop64.htm) [Proposition 64 and Responsible Adult Use of Marijuana LA_COUNTY California](http://publichealth.lacounty.gov/sapc/public/proposition64.htm) [MEDICAL MARIJUANA IDENTIFICATION CARD PROGRAM](http://publichealth.lacounty.gov/docs/MMIP-FLYER.pdf) [Proposition 64 (Marijuana Offenses) FAQ [SanDieago]](https://www.sandiegocounty.gov/content/sdc/public_defender/prop_64_faq.html) [Proposition 64 - Personal Non-Medical Use of Cannabis Brea California](https://www.ci.brea.ca.us/1376/Prop-64-FAQ) [Prop 64 FAQs](https://www.santa-ana.org/prop-64-faqs/) [San Francisco Prop64 FAQ](https://sfpublicdefender.org/services/prop-64-faq/) When does Proposition 64 take effect? Proposition 64 took effect November 9, 2016. You can and should seek relief right away. [prop64](https://images.procon.org/wp-content/uploads/sites/16/ca-prop-64-marijuana.pdf) [Marijuana Initiative Enters Circulation](https://www.sos.ca.gov/administration/news-releases-and-advisories/2014-news-releases-and-advisories/db14-011) [Medicinal Cannabis: History, Pharmacology, And Implications for the Acute Care Setting](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5312634/) [Congress quietly ends federal government’s ban on medical marijuana](https://www.latimes.com/nation/la-na-medical-pot-20141216-story.html)
+
+[DOWNLOAD~MARIJUANA LEGALIZATION. INITIATIVE STATUTE Proposition64](https://slper.senate.ca.gov/sites/slper.senate.ca.gov/files/Background%20Supplemental%20-%20Prop%2064%20Text.pdf)
+
+[Gangstarr - Moment_0f_Truth FULL ALBUM](https://youtu.be/b1EbbT7Xrgs?si=bM1BGbtQnU9YUgSc) [Shaakira_Gathers_iLoveu](https://ricothaka.github.io/)
+
+[Heath cliff and the Cadillac cats episodes + Heathcliff (animated flick)](https://archive.org/details/HeathcliffanimatedFlick)
+
+<video controls preload="auto" poster="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODB1OWVsaXFuZTk4aDJjN2o5eWN6ZmR5eTl3dTV1cnZ0cXc1bnM1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Kg9ZKwF120Pj9zJBhy/giphy.webp">
+    
+<source src="https://archive.org/download/HeathcliffanimatedFlick/Heathcliff%20and%20The%20Catillac%20Cats%20-%20Heathcliff%20Gets%20Framed.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/HeathcliffanimatedFlick/Heathcliff%20and%20The%20Catillac%20Cats%20-%20Heathcliff%20Gets%20Framed.mp4">MP4</a>
+        video.
+</video> 
+
+[Popeye the Sailor - 1933 to 1942 Fleischer Studios](https://archive.org/details/popeye-the-sailor-1933-to-1942-fleischer-studios) [Talk:Olive Oyl](https://en.wikipedia.org/wiki/Talk:Olive_Oyl)
+
+<video controls preload="auto" poster="https://cartoonresearch.com/wp-content/uploads/2020/04/popeye-fleischer-194-maintitle.jpg">
+    
+<source src="https://archive.org/download/popeye-the-sailor-1933-to-1942-fleischer-studios/014%20A%20Dream%20Walking%20%289-26-1934%29.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/popeye-the-sailor-1933-to-1942-fleischer-studios/014%20A%20Dream%20Walking%20%289-26-1934%29.mp4">MP4</a>
+        video.
+</video> 
+
+<iframe src="https://archive.org/embed/outkast-atliens" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> ### meditate savannah gals its come around
+
+### Who's the Man? Comedy · Crime · Mystery
+In this hip-hop whodunnit, Doctor Dré and Ed Lover play two barbers-turned-policemen who find themselves investigating their friend’s murder [TUBi](https://tubitv.com/movies/100000434/who-s-the-man) [TV_GUiDE](https://www.tvguide.com/movies/whos-the-man/2030109905/) [Yo! MTV Raps](https://en.wikipedia.org/wiki/Yo!_MTV_Raps) [https://plex](https://watch.plex.tv/movie/whos-the-man) [Who's the Man Soundtrack](https://youtube.com/playlist?list=PLvmdgH_DpOdI5xbuPGzzTVgTtr4XJneTq&si=g9KLLHPxeiLa0xVv) [ARCHiVE](https://archive.org/details/who-s-the-man-d-2-t-00) [Party AnD BullshiT](https://youtu.be/jX3bdJbo9ec?si=xRD48DfBGuc6UXL5)
+
+<video controls preload="auto" poster="https://m.media-amazon.com/images/M/MV5BNGIxNjY3ZTktMmNlOS00MDdmLWE3NTYtNGQ4N2I3MWNlNDg5XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg">
+    
+<source src="https://archive.org/download/who-s-the-man-d-2-t-00/WHO%27S%20THE%20MAN-D2_t00.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/who-s-the-man-d-2-t-00/WHO%27S%20THE%20MAN-D2_t00.mp4">MP4</a>
+        video.
+</video> 
+
+![Normani?](https://www.billboard.com/wp-content/uploads/media/Normani-bb1-2019-feat-billboard-kjnouhou-1500.jpg)
+[Normani](https://www.vogue.com/article/normani-dopamine-interview) [WildSide](https://youtu.be/DFMEBquxeO8) how you doin? [Bruh](https://www.the-sun.com/entertainment/4169087/who-normani-dated-boyfriend/) [C'mon Son](https://youtu.be/FZEavGn0LqA?si=RHCNWX991VfIAEOc)
+
+
+[Black Sheep - Flavor Of The Month](https://youtu.be/F01fzPwBwc4?si=via-83zuT6VRkH12)
+[A Tribe Called Quest - Sucka Nigga](https://www.youtube.com/watch?v=QuZu_9UcUKY) [A Tribe Called Quest - Electric Relaxation](https://youtu.be/WHRnvjCkTsw?si=DVpM0fIbAW0OrH5E)
+
+[LosAngelesParentS](https://youtu.be/iYdzAnb__S0?si=gkBMXd7R5mEhcYSc) [Xzibit - Paparazzi (Official Video)](https://youtu.be/g5xJBKVGTGs?si=gteXXubw-jYnqrfy)
 
 ### Chloe,
 ![work day](https://i.insider.com/61ba7b1696b8ed00194b3313?width=1136&format=jpeg)
@@ -46,6 +97,16 @@ How can my intake be comfortable whereever it is an yall getting dark man ~>
 
 ![smugChloe](https://media.allure.com/photos/645baf344d62964b81842fd7/16:9/w_1600,c_limit/chloe%20bailey%20wig%20removal.jpg)
 
+<video controls width="100%" height="auto" poster="https://archive.org/download/roujin.-z.-1991.1080p.-blu-ray.x-264-skazhutin/roujin.-z.-1991.1080p.-blu-ray.x-264-skazhutin.thumbs/Roujin.Z.1991.1080p.BluRay.x264-Skazhutin_000075.jpg">
+
+<source src="https://archive.org/download/roujin-z-1991_202401/Roujin.Z.1991.JAPANESE-VXT.mp4" type="video/mp4" />    
+<source src="https://archive.org/download/roujin-z-1991_202401/Roujin.Z.1991.JAPANESE-VXT.mp4" type="video/mp4" />
+      
+        Download the
+        or
+        <a href="">MP4</a>
+        video.
+</video>
 
 <embed  src="https://www.youtube.com/embed/JR1Ib8o_eL4?si=P87EMXsghaK_IOVY" title="Kandi Hits The Road with Psiryn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen />
 
@@ -77,7 +138,7 @@ How can my intake be comfortable whereever it is an yall getting dark man ~>
 Pac-Mania[a] is a cavalier perspective maze game that was developed and released by Namco for arcades in 1987. In the game, the player controls [Pac-Man](https://www.arcadeadventures.com/midway-ms-pac-man-cocktail-arcade-game-with-lcd-plays-60-games/) as he must eat all of the dots while avoiding the colored ghosts that chase him in the maze. Eating large flashing "Power Pellets" will allow Pac-Man to eat the ghosts for bonus points, which lasts for a short period of time. A new feature to this game allows Pac-Man to jump over the ghosts to evade capture. It is the ninth title in the Pac-Man video game series and was the last one developed for arcades up until the release of Pac-Man Arrangement in 1996. Development was directed by Pac-Man creator Toru Iwatani. It was licensed to Atari Games for release in North America.
 <iframe src="https://archive.org/embed/arcade_pacmania" width="311" height="500" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> how kelsey doing ?
 
-[Gangsta Bitch Music Vol. 2 by Cardi B](https://archive.org/details/cardi-b-gangsta-bitch-music-vol-2) 
+[Gangsta Bitch Music Vol. 2 by Cardi B](https://archive.org/details/cardi-b-gangsta-bitch-music-vol-2)
 
 
 [Quavo Huncho](https://archive.org/details/cd_quavo-huncho_quavo-21-savage-cardi-b-davido-drake-kid-c) [Culture III](https://archive.org/details/cd_culture-iii_migos-cardi-b-drake-future-4-juice-wrld-ju) [Nuthin' 2 Prove](https://archive.org/details/cd_nuthin-2-prove_lil-yachty-cardi-b-gunna-juice-wrld-kevin) [Cardi B WAP Feat. Megan Thee Stallion (FAN EDIT) ORIGINAL, EXPLICIT LYRICS](https://archive.org/details/cardi-b-wap-feat.-megan-thee-stallion-fan-edit-original-explicit-lyrics)

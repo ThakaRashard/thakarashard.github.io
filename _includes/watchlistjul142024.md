@@ -1,5 +1,40 @@
 # [WatchList](https://www.b98.tv/home/)
 
+
+<video controls preload="auto" poster="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODB1OWVsaXFuZTk4aDJjN2o5eWN6ZmR5eTl3dTV1cnZ0cXc1bnM1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Kg9ZKwF120Pj9zJBhy/giphy.webp">
+    
+<source src="https://archive.org/download/HeathcliffanimatedFlick/Heathcliff%20and%20The%20Catillac%20Cats%20-%20Heathcliff%20Gets%20Framed.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/HeathcliffanimatedFlick/Heathcliff%20and%20The%20Catillac%20Cats%20-%20Heathcliff%20Gets%20Framed.mp4">MP4</a>
+        video.
+</video> 
+
+[Popeye the Sailor - 1933 to 1942 Fleischer Studios](https://archive.org/details/popeye-the-sailor-1933-to-1942-fleischer-studios) [Talk:Olive Oyl](https://en.wikipedia.org/wiki/Talk:Olive_Oyl)
+
+<video controls preload="auto" poster="https://cartoonresearch.com/wp-content/uploads/2020/04/popeye-fleischer-194-maintitle.jpg">
+    
+<source src="https://archive.org/download/popeye-the-sailor-1933-to-1942-fleischer-studios/014%20A%20Dream%20Walking%20%289-26-1934%29.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/popeye-the-sailor-1933-to-1942-fleischer-studios/014%20A%20Dream%20Walking%20%289-26-1934%29.mp4">MP4</a>
+        video.
+</video> 
+
+<iframe src="https://archive.org/embed/outkast-atliens" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> ### meditate savannah gals its come around
+
+### Who's the Man? Comedy · Crime · Mystery
+In this hip-hop whodunnit, Doctor Dré and Ed Lover play two barbers-turned-policemen who find themselves investigating their friend’s murder [TUBi](https://tubitv.com/movies/100000434/who-s-the-man) [TV_GUiDE](https://www.tvguide.com/movies/whos-the-man/2030109905/) [Yo! MTV Raps](https://en.wikipedia.org/wiki/Yo!_MTV_Raps) [https://plex](https://watch.plex.tv/movie/whos-the-man) [Who's the Man Soundtrack](https://youtube.com/playlist?list=PLvmdgH_DpOdI5xbuPGzzTVgTtr4XJneTq&si=g9KLLHPxeiLa0xVv) [ARCHiVE](https://archive.org/details/who-s-the-man-d-2-t-00) [Party AnD BullshiT](https://youtu.be/jX3bdJbo9ec?si=xRD48DfBGuc6UXL5)
+
+<video controls preload="auto" poster="https://m.media-amazon.com/images/M/MV5BNGIxNjY3ZTktMmNlOS00MDdmLWE3NTYtNGQ4N2I3MWNlNDg5XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg">
+    
+<source src="https://archive.org/download/who-s-the-man-d-2-t-00/WHO%27S%20THE%20MAN-D2_t00.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/who-s-the-man-d-2-t-00/WHO%27S%20THE%20MAN-D2_t00.mp4">MP4</a>
+        video.
+</video> 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/34ENnbcnxTE?si=fJzz4zBckzIYsoVv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uABHh5OGQHs?si=9JQY9eHSJqkgnsAz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
