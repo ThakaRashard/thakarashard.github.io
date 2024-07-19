@@ -1,9 +1,9 @@
 # To/About::Them
 <cite> A group of women I know from my journeys that somehow all ended up in [LosAngeles](https://lacity.gov/) </cite>
 
-![Pebbles Birthday Party](https://static.wikia.nocookie.net/flinstones/images/9/90/The_Flintstones_-_Pebbles%27_Birthday_Party_-_Pebbles%27_Birthday_Cake.jpg/revision/latest?cb=20211119211050) 
-
-"[Pebbles' Birthday Party](https://www.b98.tv/video/pebbles-birthday-party/)" is the fourth episode of the fifth season and the one hundred and eighteenth overall episode of the original series, The Flintstones. It aired on October 8, 1964. [fandom](https://flintstones.fandom.com/wiki/Pebbles%27_Birthday_Party) [Tubi](Season 5 Episode 4 - Pebbles' Birthday Party) [Pebbles and Bamm-Bamm’s Bedrock Dance Academy](https://archive.org/details/bedrockdanceacademy) [internet animation database](https://www.intanibase.com/iad_video/video?videoID=8343&seriesID=74)
+![Pebbles Birthday Party](https://i.makeagif.com/media/3-28-2016/jBmaQx.gif) 
+[Fred has to organize two parties](https://archive.org/download/flintstones-the-treasure-of-sierra-madrock-pal/Flintstones%20The%20Treasure%20of%20Sierra%20Madrock%20%28%20PAL%20%29.pdf) and one hour apart. Pebbles' first birthday party, he already planned. Plus, he and Barney were picked by the Grand Poobah to create a Water Buffalo Stag party, because they arrived late.
+"[Pebbles' Birthday Party](https://www.b98.tv/video/pebbles-birthday-party/)" is the fourth episode of the fifth season and the one hundred and eighteenth overall episode of the original series, [The Flintstones](https://www.retrogames.cc/snes-games/flintstones-the-usa-en-fr-de-es-it.html). It aired on October 8, 1964. [fandom](https://flintstones.fandom.com/wiki/Pebbles%27_Birthday_Party) [Tubi](Season 5 Episode 4 - Pebbles' Birthday Party) [Pebbles and Bamm-Bamm’s Bedrock Dance Academy](https://archive.org/details/bedrockdanceacademy) [internet animation database](https://www.intanibase.com/iad_video/video?videoID=8343&seriesID=74)
 
 
 
