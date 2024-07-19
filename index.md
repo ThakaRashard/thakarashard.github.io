@@ -17,6 +17,8 @@ layout: default
 
 {% include current.md %}
 {% include linkroll.md %}
+{% include them.md %}
+{% include coral.md %}
 
 
 
