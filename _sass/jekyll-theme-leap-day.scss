@@ -187,7 +187,7 @@ ul {
 
 strong {
   font-weight: bold;
-  color: lightgray;
+  color: gray;
 }
 
 /* 
@@ -416,17 +416,26 @@ h1:hover {
   right: 50%;
   height: 50px;
   margin-right: -382px;
+  color: white;
   position: fixed;
   top: 115px;
-  background: #ffcc00;
-  border: 1px solid #f0b500;
+  background:
+    linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px,
+    linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px,
+    linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px,
+    linear-gradient(207deg, #222 5px, transparent 5px) 10px 5px,
+    linear-gradient(90deg, #1b1b1b 10px, transparent 10px),
+    linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
+  background-color: #131313;
+  background-size: 20px 20px;
+  border: 5px solid #33333385;
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   border-radius: 0px 2px 2px 0px;
   padding-right: 10px;
 
   .button {
     border: 1px solid #dba500;
-    background: linear-gradient(rgb(255, 231, 136), rgb(255, 206, 56));
+    background: linear-gradient(#2c2c2c8d, rgb(255, 206, 56));
     border-radius: 2px;
     box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.4),
       0px 1px 1px rgba(0, 0, 0, 0.1);
