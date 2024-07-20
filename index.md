@@ -26,11 +26,17 @@ Captain America: Chapter 2 - Mechanical Executioner
 <iframe src="https://archive.org/embed/captain_america_ep2" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
+[Felix The Cat (1919-1936)](https://felixthecat.fandom.com/wiki/Felix_the_Cat)
+
+<iframe src="https://archive.org/embed/Felix-The-Cat-1919-1936" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+<!-- 
 The Cartoon Factory
 by Dave Fleischer; Max Fleischer
 <iframe src="https://archive.org/embed/silent-the-cartoon-factory" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-<!-- Trip to Mars by Dave Fleischer
+Trip to Mars by Dave Fleischer
 <iframe src="https://archive.org/embed/silent-trip-to-mars" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 Hi suga @normani i dont mind keeping this fresh with some ideas, its like a feature pane placement point in wordpress
  -->
