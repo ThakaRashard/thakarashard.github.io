@@ -1,6 +1,6 @@
 # Computing
 
-
+[Styling Gist embeds with CSS](https://danielbernal.co/styling-gist-embeds-with-css/)
 
 ![gtri](https://pbs.twimg.com/media/GILuccmbMAA0VfN?format=jpg&name=large)
 
