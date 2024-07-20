@@ -1,5 +1,24 @@
 # WorkNotes
 
+
+![CssFloatAuto](https://pbs.twimg.com/media/GS8ok0FaQAAkmOy?format=jpg&name=large) [CSS: The Missing Manual, 4th Edition](https://www.oreilly.com/library/view/css-the-missing/9781491918043/) by [David Sawyer McFarland](https://www.oreilly.com/search/?q=author%3A%22David%20Sawyer%20McFarland%22&type=*&rows=10) @sawmac thanks 
+
+{% highlight python %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##########07/14/2024##########
+2 [@sawmac](https://github.com/sawmac) I checked your book out from [EastLosAngeles](https://x.com/eastlalibrary?lang=en) and have been doing probono work for some girls i got involved with while i was working at rentpath. Erika the one i brought to Park and Roll might be Vanessa Williams daughter, she put me out an her sister stole my cellphone after 20 years of marriage... I want to marry Nakeisha and help her deal with her baggage i work at NAsaJPL its like we worked the working thing out and it was just getting paid what do patrick think of me harassing Anderson Cooper @parkr
+
+img:nth-child(odd) {
+  float: right;
+}
+img:nth-child(even) {
+float: left;
+}
+
+
+3 # ANOTHER###############################################
+4 # UNiVERSE#####################iloveyounormani######
+{% endhighlight %}
+
 [Mission Control](https://www.jpl.nasa.gov/news/explore-nasas-jet-propulsion-laboratory-with-the-new-virtual-tour) [RepKAren](https://www.politico.com/news/2024/04/16/karen-bass-state-of-the-city-00152431) [Jamie and Robin of Nasa Mars](https://science.nasa.gov/mars/) [Normani of thatheifer aint takin care of that man east atlanta fame](https://www.usmagazine.com/entertainment/news/normani-reveals-accident-behind-canceled-bet-awards-performance/)
 
 Below is the place i was going on Linden an 3rd in LongBeach i just stopped going because my book/sleeping bag cart got vandalized an ppl steal while im eating. But they were managing a rough crowd from out east. Im at peace. They likely know Erikas Family, she had an aunt named Doris and another named Teresa that lived in Longbeach. Her Paternal family is from PAsadena pre yuppie colonization and got pushed out to sanbernadino after a patriarch died. What is homeless i just need to sleep and i would like to see the baby i spent my savings to make. What is housig ? In my situation. Erika is still missing! 
