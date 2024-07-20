@@ -1,5 +1,8 @@
 # Computing
 
+![gist embed](https://camo.githubusercontent.com/54bfb8236004553cb56f0c4aaa2eee0e768be60e22ca59a2be869daf2f9c3d67/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f3238323735392f3438383835312f33663334616162302d623938392d313165322d393663652d6266353939623563373261612e706e67)
+
+{% gist 5555251 %}
 
 [HTML <img> width Attribute](https://www.w3schools.com/tags/att_img_width.asp) [![A Complete Guide to Flexbox](https://css-tricks.com/wp-content/uploads/2022/02/css-flexbox-poster.png)](https://css-tricks.com/wp-content/uploads/2022/02/css-flexbox-poster.png "Redirect to homepage") 
 Our comprehensive guide to CSS flexbox layout. [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
