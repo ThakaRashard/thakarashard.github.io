@@ -3,6 +3,55 @@
 # Coral 
 
 
+Hi Coral, here are some of my notes from my job, i gotta blog about this discovery bc i cant find the pin in the raw files [NASA’s Curiosity Rover Discovers a Surprise in a Martian Rock](https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock?utm_source=TWITTER&utm_medium=NASA&utm_campaign=NASASocial&linkId=513448326) [Mars Science Laboratory: Curiosity Raw Images Filtering:Sol: 4245 to 4248](https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=10&mission=msl&begin_date=2024-7-16&end_date=2024-7-19) [RelatedTweet](https://x.com/MooNLOVER404/status/1814371477732638922) [relatedtweet](https://x.com/MooNLOVER404/status/1814369090984915019) [Mars Science Laboratory: Curiosity Raw Images Filtering:Sol: 4247 to 4248](https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=1&mission=msl&begin_date=2024-7-18&end_date=2024-7-19)
+
+![Curiosity](https://pbs.twimg.com/media/GS3wr4JaIAAgNwa?format=jpg&name=large)
+
+[![Horizon of Mars](https://science.nasa.gov/wp-content/uploads/2024/03/mars-dust-storms-global-pia03170.jpg)](https://science.nasa.gov/wp-content/uploads/2024/03/mars-dust-storms-global-pia03170.jpg "Redirect to homepage")
+
+[This image was taken by Chemistry & Camera (ChemCam)](https://mars.nasa.gov/raw_images/1355895/?site=msl) onboard NASA's Mars rover Curiosity on Sol 4249 (2024-07-19 21:03:02 UTC).
+# [Perseverance Rover's Descent and Touchdown on Mars](https://svs.gsfc.nasa.gov/31250) 
+
+[Perseverance Rover’s Descent and Touchdown on Mars: Onboard Camera Views](https://science.nasa.gov/wp-content/uploads/2024/03/45703_JPL-20210222-M2020f-0001-Perseverance_Rovers_Descent_and_Touchdown_on_Mars-1.mp4)
+
+>NASA's Mars 2020 Perseverance mission captured thrilling footage of its rover landing in Mars' Jezero Crater on Feb. 18, 2021. The real footage in this video was captured by several cameras that are part of the rover's entry, descent, and landing suite. The views include a camera looking down from the spacecraft's descent stage (a kind of rocket-powered jet pack that helps fly the rover to its landing site), a camera on the rover looking up at the descent stage, a camera on the top of the aeroshell (a capsule protecting the rover) looking up at that parachute, and a camera on the bottom of the rover looking down at the Martian surface.
+
+<video controls width="100%" height="auto" poster="https://www.nasa.gov/wp-content/uploads/2021/06/pia24542-perseverances-selfie-with-ingenuity-1041.jpg">
+    
+<source src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/Perseverance-landing-1080p.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/Perseverance-landing-1080p.mp4">MP4</a>
+        video.
+</video>    
+
+[15 Second Clip of Parachute Deployment(MP4) (18.86 MB)](https://science.nasa.gov/wp-content/uploads/2024/03/45732_nasa_perseverance_parachute_deployment.mp4)
+
+[Scientific Visualisation Studio](https://svs.gsfc.nasa.gov/31250#section_credits)
+[Mars 2020: Perseverance Rover](https://science.nasa.gov/mission/mars-2020-perseverance/)
+[![Horizon of Mars](https://science.nasa.gov/wp-content/uploads/2024/03/mars-dust-storms-global-pia03170.jpg)](https://science.nasa.gov/wp-content/uploads/2024/03/mars-dust-storms-global-pia03170.jpg "Redirect to homepage")
+Two 2001 images from the Mars Orbiter Camera on NASA's Mars Global Surveyor orbiter show a dramatic change in the planet's appearance when haze raised by dust-storm activity in the south became globally distributed.
+[NASA/JPL-Caltech/MSSS](https://www.jpl.nasa.gov/news/new-interactive-mosaic-uses-nasa-imagery-to-show-mars-in-vivid-detail) [NasaJPL on Youtube](https://www.youtube.com/@NASAJPL)
+
+# [The Global CTX Mosaic of Mars](https://murray-lab.caltech.edu/CTX/index.html)
+
+The Bruce Murray Laboratory for Planetary Visualization has completed a 5.7 terapixel mosaic of the surface of Mars rendered at 5.0 m/px. Each pixel in the mosaic is about the size of a typical parking space, providing unprecedented resolution of the martian surface at the global scale.
+
+We emphasize transparency both in how the mosaic was generated and for users to understand where data in the mosaic come from. We have developed a Python-based pipeline that incorporates non-destructive image processing techniques that preserve all information about the original data that comprise the mosaic and map all seams.. [LearnMore](https://murray-lab.caltech.edu/CTX/index.html)
+
+[Martian summer : robot arms, cowboy spacemen and my 90 days with the Phoenix Mars Mission](https://archive.org/details/martiansummerrob0000kess_m5t7)
+[A Writer's 'Martian Summer' On Earth](https://www.npr.org/2011/04/16/135464282/a-writers-martian-summer-on-earth)
+[Smithsonian book of Mars](https://archive.org/details/smithsonianbooko00boyc)
+[Mars by Birch, Robin](https://archive.org/details/mars0000birc_r5s2/page/n39/mode/2up)
+
+[The Global CTX Mosaic of Mars](https://murray-lab.caltech.edu/CTX/index.html)
+
+<object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
+    </object>
+    
+[![MurrayLabs](https://pbs.twimg.com/media/GL-EXkdaEAAUeYT?format=jpg&name=large)](https://pbs.twimg.com/media/GL-EXkdaEAAUeYT?format=jpg&name=large "Redirect to homepage")
+
+
  [Vinroc* & Ed Swift – Audio Animation](https://www.discogs.com/release/4839912-Vinroc-Ed-Swift-Audio-Animation) [MixTapedia](http://www.mixtapedia.org/vinroc) [retail](https://www.hhv.de/shop/en/records/item/vin-roc-and-ed-swift-audio-animation-425765) [VinRoc](https://www.youtube.com/user/vinroc)
 
 <div class='twoPanelSpread'>
