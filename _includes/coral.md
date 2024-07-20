@@ -1,7 +1,7 @@
 <hr />
 
 # Coral 
-
+people are taking over [my sessions](https://archive.org/details/screen-recording-2024-07-20-2.18.38-pm), i know i was hacked by you and ppl u know b4... but if u trying to keep up with me i have an [atom feed](https://ricothaka.github.io/compiling/atom) how do i see you, im so confused, im scared of getting killed. TTys i hope
 
 Hi Coral, here are some of my notes from my job, i gotta blog about this discovery bc i cant find the pin in the raw files [NASA’s Curiosity Rover Discovers a Surprise in a Martian Rock](https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock?utm_source=TWITTER&utm_medium=NASA&utm_campaign=NASASocial&linkId=513448326) [Mars Science Laboratory: Curiosity Raw Images Filtering:Sol: 4245 to 4248](https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=10&mission=msl&begin_date=2024-7-16&end_date=2024-7-19) [RelatedTweet](https://x.com/MooNLOVER404/status/1814371477732638922) [relatedtweet](https://x.com/MooNLOVER404/status/1814369090984915019) [Mars Science Laboratory: Curiosity Raw Images Filtering:Sol: 4247 to 4248](https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=1&mission=msl&begin_date=2024-7-18&end_date=2024-7-19)
 
