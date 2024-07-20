@@ -1,21 +1,30 @@
+
+![CssFloatAuto](https://pbs.twimg.com/media/GS8ok0FaQAAkmOy?format=jpg&name=large) [CSS: The Missing Manual, 4th Edition](https://www.oreilly.com/library/view/css-the-missing/9781491918043/) by [David Sawyer McFarland](https://www.oreilly.com/search/?q=author%3A%22David%20Sawyer%20McFarland%22&type=*&rows=10) @sawmac thanks 
+
+
+
+[@sawmac](https://github.com/sawmac) I checked your book out from [EastLosAngeles](https://x.com/eastlalibrary?lang=en) and have been doing probono work for some girls i got involved with while i was working at rentpath. Erika the one i brought to Park and Roll might be Vanessa Williams daughter, she put me out an her sister stole my cellphone after 20 years of marriage... I want to marry Nakeisha and help her deal with her baggage i work at NAsaJPL its like we worked the working thing out and it was just getting paid what do patrick think of me harassing Anderson Cooper @parkr
+
+{% highlight python %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##########07/14/2024##########
+
+img:nth-child(odd) {
+  float: right;
+}
+img:nth-child(even) {
+float: left;
+}
+
+
+3 # ANOTHER###############################################
+4 # UNiVERSE#####################iloveyounormani######
+{% endhighlight %}
+
+
+
 <iframe src="https://archive.org/embed/private-snafu_202401" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [Trip to Mars](https://archive.org/details/silent-trip-to-mars)
-
-<div class="gullies">
-<div></div>
-<div></div>
-<div></div>
-<div></div>
-<div></div>
-</div>
-
-[Martian Gothic: Unification ISO](https://archive.org/details/martian-gothic)
-Martian Gothic: Unification is a survival horror video game developed by Creative Reality for Microsoft Windows and Coyote Developments for the PlayStation and published by TalonSoft for Microsoft Windows and Take-Two Interactive for the PlayStation.
-
-<iframe src="https://archive.org/embed/psx_martgoth" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-![PSX](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/PSX-Original-Controller.png/689px-PSX-Original-Controller.png)
 
 <div class="gullies">
 <div></div>

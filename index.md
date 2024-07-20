@@ -5,11 +5,7 @@ layout: default
 
 ![cityhall](https://pbs.twimg.com/media/GS8_5Y5bMAAmMi6?format=jpg&name=large)
 
-<iframe src="https://archive.org/embed/arcade_xmcota" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-[Jazzy Jeff House Party](https://x.com/i/broadcasts/1djxXrgPjLzGZ)
-<iframe src="https://archive.org/embed/ikaos-som-dragon-ball-complete-001-153-r2j-dragon-box-multi-audio-v4_202301" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
+![fair](https://media.cnn.com/api/v1/images/stellar/prod/e2-pia26367-curiosity-views-fascination-2500px.jpg?q=w_1015,c_fill/f_webp) fair ? [Ashley Strickland](https://www.cnn.com/profiles/ashley-strickland-profile)
 ![CssFloatAuto](https://pbs.twimg.com/media/GS8ok0FaQAAkmOy?format=jpg&name=large) [CSS: The Missing Manual, 4th Edition](https://www.oreilly.com/library/view/css-the-missing/9781491918043/) by [David Sawyer McFarland](https://www.oreilly.com/search/?q=author%3A%22David%20Sawyer%20McFarland%22&type=*&rows=10) @sawmac thanks 
 
 
@@ -18,18 +14,16 @@ layout: default
 
 {% highlight python %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##########07/14/2024##########
-
-img:nth-child(odd) {
-  float: right;
-}
-img:nth-child(even) {
-float: left;
-}
-
-
+img:nth-child(odd) { float: right; }
+img:nth-child(even) {float: left;}
 3 # ANOTHER###############################################
-4 # UNiVERSE#####################iloveyounormani######
+4 # UNiVERSE########coral########iloveyounormani######
 {% endhighlight %}
+<iframe src="https://archive.org/embed/arcade_xmcota" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[Jazzy Jeff House Party](https://x.com/i/broadcasts/1djxXrgPjLzGZ)
+<iframe src="https://archive.org/embed/ikaos-som-dragon-ball-complete-001-153-r2j-dragon-box-multi-audio-v4_202301" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 
 
 Captain America: Chapter 2 - Mechanical Executioner
@@ -58,10 +52,12 @@ Hi suga @normani i dont mind keeping this fresh with some ideas, its like a feat
 
 
 {% include current.md %}
+{% include coral.md %}
 {% include them.md %}
+{% include computer.md %}
 {% include linkroll.md %}
 
-{% include coral.md %}
+
 
 
 
