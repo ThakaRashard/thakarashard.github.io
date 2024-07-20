@@ -1,7 +1,7 @@
 # Computing
 
 
-[![A Complete Guide to Flexbox](https://css-tricks.com/wp-content/uploads/2022/02/css-flexbox-poster.png)](https://css-tricks.com/wp-content/uploads/2022/02/css-flexbox-poster.png "Redirect to homepage") 
+[HTML <img> width Attribute](https://www.w3schools.com/tags/att_img_width.asp) [![A Complete Guide to Flexbox](https://css-tricks.com/wp-content/uploads/2022/02/css-flexbox-poster.png)](https://css-tricks.com/wp-content/uploads/2022/02/css-flexbox-poster.png "Redirect to homepage") 
 Our comprehensive guide to CSS flexbox layout. [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 ### [Download](https://css-tricks.com/wp-content/uploads/2022/02/css-flexbox-poster.png) 
 
