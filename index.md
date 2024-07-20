@@ -5,7 +5,7 @@ layout: default
 
 ![cityhall](https://pbs.twimg.com/media/GS8_5Y5bMAAmMi6?format=jpg&name=large)
 
-![fair](https://media.cnn.com/api/v1/images/stellar/prod/e2-pia26367-curiosity-views-fascination-2500px.jpg?q=w_1015,c_fill/f_webp) fair ? [Ashley Strickland](https://www.cnn.com/profiles/ashley-strickland-profile)
+![fair](https://media.cnn.com/api/v1/images/stellar/prod/e2-pia26367-curiosity-views-fascination-2500px.jpg?q=w_1015,c_fill/f_webp) fair ? [Ashley Strickland](https://www.cnn.com/profiles/ashley-strickland-profile) [Moon cave that could shelter astronauts found beneath the Sea of Tranquility](https://www.cnn.com/2024/07/20/science/moon-cave-science-newsletter-wt/index.html) 
 ![CssFloatAuto](https://pbs.twimg.com/media/GS8ok0FaQAAkmOy?format=jpg&name=large) [CSS: The Missing Manual, 4th Edition](https://www.oreilly.com/library/view/css-the-missing/9781491918043/) by [David Sawyer McFarland](https://www.oreilly.com/search/?q=author%3A%22David%20Sawyer%20McFarland%22&type=*&rows=10) @sawmac thanks 
 
 
