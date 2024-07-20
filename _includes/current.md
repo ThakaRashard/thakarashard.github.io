@@ -1,6 +1,10 @@
 
 # Currently Compiling
 
+
+
+The Landsat 8 & 9 Active Fire and Thermal Anomalies product, generated from the Landsat Operational Land Imager (OLI) shows active fire detections and thermal anomalies, such as volcanoes, and gas flares.
+
 [Real Bout Fatal Fury 2 - The Newcomers (Korean release)](https://www.retrogames.cc/arcade-games/real-bout-fatal-fury-2-the-newcomers-korean-release.html)
 <iframe src="https://archive.org/embed/arcade_svc" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
