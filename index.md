@@ -4,7 +4,8 @@ layout: default
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 
 
-
+[Freedom of Information Act Electronic Reading Room](https://www.cia.gov/readingroom/search/site)
+Welcome to the Central Intelligence Agency's Freedom of Information Act Electronic Reading Room. The FOIA Electronic Reading Room is provided as a public service by the Directorate of Digital Innovation's Information Management Services.  It has recently been enhanced and updated, and while many of the updates happened behind the scenes, we'd like to highlight several of the changes. [C.I.A UFO Collection](https://www.cia.gov/readingroom/search/site/?f%5B0%5D=im_field_taxonomy_keyword%3A477) [SECTION IV - TELEPATHIC BEHAVIOR MODIFICATION DST-1810S-387-75](https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000600320004-3.pdf)
 
 Zero Divide (ゼロ・ディバイド)[4] is a 3D fighting video game developed by Zoom that was released for the PlayStation in 1995
 <iframe src="https://archive.org/embed/psx_zerodiv" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -34,13 +35,7 @@ Sonic the Hedgehog (ソニック・ザ・ヘッジホッグ Sonikku za Hejjihogg
 ![linkedin](https://pbs.twimg.com/media/GILuiVmbEAAyRtH?format=jpg&name=large)
 
 
---- 
-</br>
 
-{% gist 04c22752b4b7dde5f8407a043164b8e3 %}
-{% gist 5555251 %}
-</br>
---- 
 
 ![cityhall](https://pbs.twimg.com/media/GS8_5Y5bMAAmMi6?format=jpg&name=large)
 
