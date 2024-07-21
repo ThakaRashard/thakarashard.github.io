@@ -514,7 +514,8 @@ section {
   margin-top: 190px;
   position: relative;
   float:right;
-  background: hsla(0,0%,100%,.4) border-box;
+  /* background: hsla(0,0%,100%,.4) border-box; */
+  background: hsla(0, 0%, 0%, 0.247) border-box;
 	overflow: hidden;
 	border-radius: .3em;
 	box-shadow: 0 0 0 1px hsla(0,0%,100%,.3) inset,
