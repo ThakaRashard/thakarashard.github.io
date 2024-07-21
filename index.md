@@ -4,6 +4,10 @@ layout: default
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yGdcJBC5FOA?si=Bl7e8tzWJEI0rsJL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+In this clip, Don "Magic" Juan talked about why prostitution will always be around and the reasons he believes a prostitute needs a pimp. He also spoke on his transition from pimping into a spiritual advisory role and how he uses his social media as a way to provide that for his followers. Bishop Don "Magic" Juan closed out by talking about maintaining his health, smoking weed since 12, and how he stayed away from all the other drugs. - [VLAD](https://www.youtube.com/@vladtv)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9GBoWpLvjMc?si=7lTS4hAFW7UNAVWf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Freedom of Information Act Electronic Reading Room](https://www.cia.gov/readingroom/search/site)
