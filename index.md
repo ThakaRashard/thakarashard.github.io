@@ -4,12 +4,23 @@ layout: default
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 
 
+
+![fair](https://media.cnn.com/api/v1/images/stellar/prod/e2-pia26367-curiosity-views-fascination-2500px.jpg?q=w_1015,c_fill/f_webp) fair ? [Ashley Strickland](https://www.cnn.com/profiles/ashley-strickland-profile) [Moon cave that could shelter astronauts found beneath the Sea of Tranquility](https://www.cnn.com/2024/07/20/science/moon-cave-science-newsletter-wt/index.html) [Accidentally exposed yellowish-green crystals reveal ‘mind-blowing’ finding on Mars, scientists say](https://www.cnn.com/2024/07/20/science/nasa-curiosity-rover-mars-sulfur-rocks/index.html) [NASA’s Curiosity Rover Discovers a Surprise in a Martian Rock](https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock) [Curiosity Cracked Open a Rock on Mars And Found a Huge Surprise Space dOt cOm](https://www.sciencealert.com/curiosity-cracked-open-a-rock-on-mars-and-found-a-huge-surprise) [NASA's Curiosity rover accidentally reveals ultra-rare sulfur crystals after crushing a rock on Mars](https://www.livescience.com/space/mars/nasas-curiosity-rover-accidentally-reveals-ultra-rare-sulfur-crystals-after-crushing-a-rock-on-mars) [NASA's Curiosity rover accidentally crushes a Mars rock to discover this rare thing!](https://timesofindia.indiatimes.com/etimes/trending/nasas-curiosity-rover-accidentally-crushes-a-mars-rock-to-discover-this-rare-thing/articleshow/111888014.cms)
+![CssFloatAuto](https://pbs.twimg.com/media/GS8ok0FaQAAkmOy?format=jpg&name=large) [CSS: The Missing Manual, 4th Edition](https://www.oreilly.com/library/view/css-the-missing/9781491918043/) by [David Sawyer McFarland](https://www.oreilly.com/search/?q=author%3A%22David%20Sawyer%20McFarland%22&type=*&rows=10) @sawmac thanks 
+
 ![Sonic1 Not For Resale](https://www.lifewire.com/thmb/8ncd0X34c6dglK5uEdM60asZn8Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Sonic_the_Hedgehog_Coverart-4-5b958f8ac9e77c0082ee596c.jpg)" 
 
 [Sonic the Hedgehog Rev 1](https://archive.org/details/sg_Sonic_the_Hedgehog_Rev_1_1991_Sega_JP-KR_en)
 Sonic the Hedgehog (ソニック・ザ・ヘッジホッグ Sonikku za Hejjihoggu?) is a platform video game developed by Sonic Team and published by Sega for the Sega Mega Drive/Genesis. First released in North America, Europe, and Australia on June 23, 1991, the game is the first installment in the Sonic the Hedgehog series
 
 <iframe src="https://archive.org/embed/sg_Sonic_the_Hedgehog_Rev_1_1991_Sega_JP-KR_en" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+[Me Complaining On Archive on Twitter Real Time Twitter Confrontation](https://archive.org/details/screen-recording-2024-07-20-4.04.11-pm)
+
+<iframe src="https://archive.org/embed/screen-recording-2024-07-20-4.04.11-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
 [Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen (NGM-063)(NGH-063)](https://www.retrogames.cc/arcade-games/samurai-shodown-ii-shin-samurai-spirits-haohmaru-jigokuhen-ngm-063-ngh-063.html) [SegaSonic The Hedgehog (Japan, rev. C)](https://archive.org/details/arcade_sonic)
 
 <iframe src="https://archive.org/embed/arcade_sonic" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -27,8 +38,6 @@ Sonic the Hedgehog (ソニック・ザ・ヘッジホッグ Sonikku za Hejjihogg
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/23NaWMzkkSU?si=wg4JR-o1CM9HxTVa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![fair](https://media.cnn.com/api/v1/images/stellar/prod/e2-pia26367-curiosity-views-fascination-2500px.jpg?q=w_1015,c_fill/f_webp) fair ? [Ashley Strickland](https://www.cnn.com/profiles/ashley-strickland-profile) [Moon cave that could shelter astronauts found beneath the Sea of Tranquility](https://www.cnn.com/2024/07/20/science/moon-cave-science-newsletter-wt/index.html) [Accidentally exposed yellowish-green crystals reveal ‘mind-blowing’ finding on Mars, scientists say](https://www.cnn.com/2024/07/20/science/nasa-curiosity-rover-mars-sulfur-rocks/index.html) [NASA’s Curiosity Rover Discovers a Surprise in a Martian Rock](https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock) [Curiosity Cracked Open a Rock on Mars And Found a Huge Surprise Space dOt cOm](https://www.sciencealert.com/curiosity-cracked-open-a-rock-on-mars-and-found-a-huge-surprise) [NASA's Curiosity rover accidentally reveals ultra-rare sulfur crystals after crushing a rock on Mars](https://www.livescience.com/space/mars/nasas-curiosity-rover-accidentally-reveals-ultra-rare-sulfur-crystals-after-crushing-a-rock-on-mars) [NASA's Curiosity rover accidentally crushes a Mars rock to discover this rare thing!](https://timesofindia.indiatimes.com/etimes/trending/nasas-curiosity-rover-accidentally-crushes-a-mars-rock-to-discover-this-rare-thing/articleshow/111888014.cms)
-![CssFloatAuto](https://pbs.twimg.com/media/GS8ok0FaQAAkmOy?format=jpg&name=large) [CSS: The Missing Manual, 4th Edition](https://www.oreilly.com/library/view/css-the-missing/9781491918043/) by [David Sawyer McFarland](https://www.oreilly.com/search/?q=author%3A%22David%20Sawyer%20McFarland%22&type=*&rows=10) @sawmac thanks 
 
 
 
