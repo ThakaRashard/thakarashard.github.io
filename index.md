@@ -3,7 +3,7 @@ layout: default
 ---
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 
-
+[Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen (NGM-063)(NGH-063)](https://www.retrogames.cc/arcade-games/samurai-shodown-ii-shin-samurai-spirits-haohmaru-jigokuhen-ngm-063-ngh-063.html)
 ![linkedin](https://pbs.twimg.com/media/GILuiVmbEAAyRtH?format=jpg&name=large)
 
 
