@@ -4,6 +4,11 @@ layout: default
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 
 
+
+
+Zero Divide (ゼロ・ディバイド)[4] is a 3D fighting video game developed by Zoom that was released for the PlayStation in 1995
+<iframe src="https://archive.org/embed/psx_zerodiv" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 <iframe src="https://archive.org/embed/screen-recording-2024-07-20-5.15.27-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![fair](https://media.cnn.com/api/v1/images/stellar/prod/e2-pia26367-curiosity-views-fascination-2500px.jpg?q=w_1015,c_fill/f_webp) fair ? [Ashley Strickland](https://www.cnn.com/profiles/ashley-strickland-profile) [Moon cave that could shelter astronauts found beneath the Sea of Tranquility](https://www.cnn.com/2024/07/20/science/moon-cave-science-newsletter-wt/index.html) [Accidentally exposed yellowish-green crystals reveal ‘mind-blowing’ finding on Mars, scientists say](https://www.cnn.com/2024/07/20/science/nasa-curiosity-rover-mars-sulfur-rocks/index.html) [NASA’s Curiosity Rover Discovers a Surprise in a Martian Rock](https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock) [Curiosity Cracked Open a Rock on Mars And Found a Huge Surprise Space dOt cOm](https://www.sciencealert.com/curiosity-cracked-open-a-rock-on-mars-and-found-a-huge-surprise) [NASA's Curiosity rover accidentally reveals ultra-rare sulfur crystals after crushing a rock on Mars](https://www.livescience.com/space/mars/nasas-curiosity-rover-accidentally-reveals-ultra-rare-sulfur-crystals-after-crushing-a-rock-on-mars) [NASA's Curiosity rover accidentally crushes a Mars rock to discover this rare thing!](https://timesofindia.indiatimes.com/etimes/trending/nasas-curiosity-rover-accidentally-crushes-a-mars-rock-to-discover-this-rare-thing/articleshow/111888014.cms)
