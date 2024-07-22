@@ -4,7 +4,19 @@ layout: default
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/235620051&color=%231e90ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/reflectioneternaltalibkwelihitek" title="Talib Kweli &amp; Hi-Tek" target="_blank" style="color: #cccccc; text-decoration: none;">Talib Kweli &amp; Hi-Tek</a> · <a href="https://soundcloud.com/reflectioneternaltalibkwelihitek/reflection-eternal-talib" title="Just Begun (feat. Jay Electronica, J. Cole and Mos Def)" target="_blank" style="color: #cccccc; text-decoration: none;">Just Begun (feat. Jay Electronica, J. Cole and Mos Def)</a></div>
 
+[fair](https://media.cnn.com/api/v1/images/stellar/prod/e2-pia26367-curiosity-views-fascination-2500px.jpg?q=w_1015,c_fill/f_webp) [Freedom of Information Act Electronic Reading Room](https://www.cia.gov/readingroom/search/site)
+Welcome to the Central Intelligence Agency's Freedom of Information Act Electronic Reading Room. The FOIA Electronic Reading Room is provided as a public service by the Directorate of Digital Innovation's Information Management Services.  It has recently been enhanced and updated, and while many of the updates happened behind the scenes, we'd like to highlight several of the changes. [C.I.A UFO Collection](https://www.cia.gov/readingroom/search/site/?f%5B0%5D=im_field_taxonomy_keyword%3A477) [SECTION IV - TELEPATHIC BEHAVIOR MODIFICATION DST-1810S-387-75](https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000600320004-3.pdf)
+
+fair ? [Ashley Strickland](https://www.cnn.com/profiles/ashley-strickland-profile) [Moon cave that could shelter astronauts found beneath the Sea of Tranquility](https://www.cnn.com/2024/07/20/science/moon-cave-science-newsletter-wt/index.html) [Accidentally exposed yellowish-green crystals reveal ‘mind-blowing’ finding on Mars, scientists say](https://www.cnn.com/2024/07/20/science/nasa-curiosity-rover-mars-sulfur-rocks/index.html) [NASA’s Curiosity Rover Discovers a Surprise in a Martian Rock](https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock) [Curiosity Cracked Open a Rock on Mars And Found a Huge Surprise Space dOt cOm](https://www.sciencealert.com/curiosity-cracked-open-a-rock-on-mars-and-found-a-huge-surprise)[NASA's Curiosity rover accidentally reveals ultra-rare sulfur crystals after crushing a rock on Mars](https://www.livescience.com/space/mars/nasas-curiosity-rover-accidentally-reveals-ultra-rare-sulfur-crystals-after-crushing-a-rock-on-mars) [NASA's Curiosity rover accidentally crushes a Mars rock to discover this rare thing!](https://timesofindia.indiatimes.com/etimes/trending/nasas-curiosity-rover-accidentally-crushes-a-mars-rock-to-discover-this-rare-thing/articleshow/111888014.cms)
+[CssFloatAuto](https://pbs.twimg.com/media/GS8ok0FaQAAkmOy?format=jpg&name=large) [CSS: The Missing Manual, 4th Edition](https://www.oreilly.com/library/view/css-the-missing/9781491918043/) by [David Sawyer McFarland](https://www.oreilly.com/search/?q=author%3A%22David%20Sawyer%20McFarland%22&type=*&rows=10) @sawmac thanks  [Sonic the Hedgehog Rev 1](https://archive.org/details/sg_Sonic_the_Hedgehog_Rev_1_1991_Sega_JP-KR_en)
+Sonic the Hedgehog (ソニック・ザ・ヘッジホッグ Sonikku za Hejjihoggu?) is a platform video game developed by Sonic Team and published by Sega for the Sega Mega Drive/Genesis. First released in North America, Europe, and Australia on June 23, 1991, the game is the first installment in the Sonic the Hedgehog series [Me Complaining On Archive on Twitter Real Time Twitter Confrontation](https://archive.org/details/screen-recording-2024-07-20-4.04.11-pm) [Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen (NGM-063)(NGH-063)](https://www.retrogames.cc/arcade-games/samurai-shodown-ii-shin-samurai-spirits-haohmaru-jigokuhen-ngm-063-ngh-063.html) [SegaSonic The Hedgehog (Japan, rev. C)](https://archive.org/details/arcade_sonic) [Felix The Cat (1919-1936)](https://felixthecat.fandom.com/wiki/Felix_the_Cat) [Twitter Anger In Real Time](https://archive.org/details/screen-recording-2024-07-19-3.44.19-pm) [The Chemical Brothers 1995 Exit Planet Dust](https://www.youtube.com/watch?v=gdGAGDMxQTg) [Psychological impact of false accusations of sexual abuse](https://youtu.be/scSQc9iauuw?si=1ZyjOYql9RLrm8cX) [Projeck A-Ko (English Dubbed) [VHS]](https://www.youtube.com/watch?v=JNSXBh0Gtv4) [Rasco - Unassisted](https://youtu.be/Nj2mbF1SrdU?si=4NjAZKu7SW4kXyaP)
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/95404274&color=%231e90ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/massappealrecs" title="Mass Appeal" target="_blank" style="color: #cccccc; text-decoration: none;">Mass Appeal</a> · <a href="https://soundcloud.com/massappealrecs/jay-electronica-exhibit-c" title="Jay Electronica - Exhibit C" target="_blank" style="color: #cccccc; text-decoration: none;">Jay Electronica - Exhibit C</a></div>
+
+
+<iframe src="https://archive.org/embed/screen-recording-2024-07-22-11.35.43-am" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![They Got ME](https://pbs.twimg.com/media/GTC06Bta4AAonmF?format=jpg&name=medium)
 
@@ -14,33 +26,21 @@ In this clip, Don "Magic" Juan talked about why prostitution will always be arou
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9GBoWpLvjMc?si=7lTS4hAFW7UNAVWf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[Freedom of Information Act Electronic Reading Room](https://www.cia.gov/readingroom/search/site)
-Welcome to the Central Intelligence Agency's Freedom of Information Act Electronic Reading Room. The FOIA Electronic Reading Room is provided as a public service by the Directorate of Digital Innovation's Information Management Services.  It has recently been enhanced and updated, and while many of the updates happened behind the scenes, we'd like to highlight several of the changes. [C.I.A UFO Collection](https://www.cia.gov/readingroom/search/site/?f%5B0%5D=im_field_taxonomy_keyword%3A477) [SECTION IV - TELEPATHIC BEHAVIOR MODIFICATION DST-1810S-387-75](https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000600320004-3.pdf)
 
 Zero Divide (ゼロ・ディバイド)[4] is a 3D fighting video game developed by Zoom that was released for the PlayStation in 1995
 <iframe src="https://archive.org/embed/psx_zerodiv" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <iframe src="https://archive.org/embed/screen-recording-2024-07-20-5.15.27-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-![fair](https://media.cnn.com/api/v1/images/stellar/prod/e2-pia26367-curiosity-views-fascination-2500px.jpg?q=w_1015,c_fill/f_webp) fair ? [Ashley Strickland](https://www.cnn.com/profiles/ashley-strickland-profile) [Moon cave that could shelter astronauts found beneath the Sea of Tranquility](https://www.cnn.com/2024/07/20/science/moon-cave-science-newsletter-wt/index.html) [Accidentally exposed yellowish-green crystals reveal ‘mind-blowing’ finding on Mars, scientists say](https://www.cnn.com/2024/07/20/science/nasa-curiosity-rover-mars-sulfur-rocks/index.html) [NASA’s Curiosity Rover Discovers a Surprise in a Martian Rock](https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock) [Curiosity Cracked Open a Rock on Mars And Found a Huge Surprise Space dOt cOm](https://www.sciencealert.com/curiosity-cracked-open-a-rock-on-mars-and-found-a-huge-surprise) [NASA's Curiosity rover accidentally reveals ultra-rare sulfur crystals after crushing a rock on Mars](https://www.livescience.com/space/mars/nasas-curiosity-rover-accidentally-reveals-ultra-rare-sulfur-crystals-after-crushing-a-rock-on-mars) [NASA's Curiosity rover accidentally crushes a Mars rock to discover this rare thing!](https://timesofindia.indiatimes.com/etimes/trending/nasas-curiosity-rover-accidentally-crushes-a-mars-rock-to-discover-this-rare-thing/articleshow/111888014.cms)
-![CssFloatAuto](https://pbs.twimg.com/media/GS8ok0FaQAAkmOy?format=jpg&name=large) [CSS: The Missing Manual, 4th Edition](https://www.oreilly.com/library/view/css-the-missing/9781491918043/) by [David Sawyer McFarland](https://www.oreilly.com/search/?q=author%3A%22David%20Sawyer%20McFarland%22&type=*&rows=10) @sawmac thanks 
 
 ![Sonic1 Not For Resale](https://www.lifewire.com/thmb/8ncd0X34c6dglK5uEdM60asZn8Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Sonic_the_Hedgehog_Coverart-4-5b958f8ac9e77c0082ee596c.jpg)" 
 
-[Sonic the Hedgehog Rev 1](https://archive.org/details/sg_Sonic_the_Hedgehog_Rev_1_1991_Sega_JP-KR_en)
-Sonic the Hedgehog (ソニック・ザ・ヘッジホッグ Sonikku za Hejjihoggu?) is a platform video game developed by Sonic Team and published by Sega for the Sega Mega Drive/Genesis. First released in North America, Europe, and Australia on June 23, 1991, the game is the first installment in the Sonic the Hedgehog series
-
-<iframe src="https://archive.org/embed/sg_Sonic_the_Hedgehog_Rev_1_1991_Sega_JP-KR_en" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
-[Me Complaining On Archive on Twitter Real Time Twitter Confrontation](https://archive.org/details/screen-recording-2024-07-20-4.04.11-pm)
-
-<iframe src="https://archive.org/embed/screen-recording-2024-07-20-4.04.11-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
-[Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen (NGM-063)(NGH-063)](https://www.retrogames.cc/arcade-games/samurai-shodown-ii-shin-samurai-spirits-haohmaru-jigokuhen-ngm-063-ngh-063.html) [SegaSonic The Hedgehog (Japan, rev. C)](https://archive.org/details/arcade_sonic)
 
-<iframe src="https://archive.org/embed/arcade_sonic" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 
 ![linkedin](https://pbs.twimg.com/media/GILuiVmbEAAyRtH?format=jpg&name=large)
 
@@ -74,25 +74,14 @@ Captain America: Chapter 2 - Mechanical Executioner
 <iframe src="https://archive.org/embed/captain_america_ep2" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
-[Felix The Cat (1919-1936)](https://felixthecat.fandom.com/wiki/Felix_the_Cat)
+
 
 <iframe src="https://archive.org/embed/Felix-The-Cat-1919-1936" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-The Felix the Cat Sign in Los Angeles
-![https://www.laalmanac.com/images3/photo-2013-felix-chevrolet-sign-LA.jpg](https://www.laalmanac.com/images3/photo-2013-felix-chevrolet-sign-LA.jpg) Felix Chevrolet is the oldest auto dealership operating in the city of [Los Angeles](https://www.laalmanac.com/transport/tr706.php)
 
-<!-- 
-The Cartoon Factory
-by Dave Fleischer; Max Fleischer
-<iframe src="https://archive.org/embed/silent-the-cartoon-factory" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-Trip to Mars by Dave Fleischer
-<iframe src="https://archive.org/embed/silent-trip-to-mars" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-Hi suga @normani i dont mind keeping this fresh with some ideas, its like a feature pane placement point in wordpress
- -->
-[Twitter Anger In Real Time](https://archive.org/details/screen-recording-2024-07-19-3.44.19-pm)
 
-[The Chemical Brothers 1995 Exit Planet Dust](https://www.youtube.com/watch?v=gdGAGDMxQTg) [Psychological impact of false accusations of sexual abuse](https://youtu.be/scSQc9iauuw?si=1ZyjOYql9RLrm8cX) [Projeck A-Ko (English Dubbed) [VHS]](https://www.youtube.com/watch?v=JNSXBh0Gtv4) [Rasco - Unassisted](https://youtu.be/Nj2mbF1SrdU?si=4NjAZKu7SW4kXyaP)
+
 
 
 {% include current.md %}
