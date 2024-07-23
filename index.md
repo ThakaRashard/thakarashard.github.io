@@ -3,6 +3,16 @@ layout: default
 ---
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 
+
+
+
+{% include coral.md %}
+{% include current.md %}
+
+{% include them.md %}
+{% include computer.md %}
+{% include linkroll.md %}
+
 [Welcome to the Bronx | NYC Hood Vlogs](https://youtu.be/aC_xUrWkysE?si=aZSkoB8dj5UAuoel) [Roll on Kirk: The Vision of Rassan [EriC Burton and WAR]](https://youtu.be/n7Wjkg7UpK8?si=wJeKqr1RwrFV0Xxu) [Steely Dan - Decon Blues](https://youtu.be/6O4cvfaAsUM?si=78cm9YFVs_FWF3Tb)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dCYApJtsyd0?si=gRikFtgwrzLHQ_Ti" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -80,13 +90,6 @@ Captain America: Chapter 2 - Mechanical Executioner
 
 
 
-
-
-{% include current.md %}
-{% include coral.md %}
-{% include them.md %}
-{% include computer.md %}
-{% include linkroll.md %}
 
 
 
