@@ -1,6 +1,19 @@
 # WatchList
 
 
+
+<video controls width="100%" height="auto" poster="https://i.redd.it/qv9qfpq69dc91.gif">
+
+<source src="https://archive.org/download/short.circuit.1986.2160p/Short.Circuit.1986.2160p.BluRay.Topaz.AMQ.Upscale.x265-SoF.mp4" type="video/mp4" />    
+<source src="https://archive.org/download/short.circuit.1986.2160p/Short.Circuit.1986.2160p.BluRay.Topaz.AMQ.Upscale.x265-SoF.mp4" type="video/mp4" />
+      
+        Download the
+        or
+        <a href="">MP4</a>
+        video.
+</video>
+
+
 [Projeck A-Ko (English Dubbed) [VHS]](https://www.youtube.com/watch?v=JNSXBh0Gtv4)
 [1946 Los Angeles at Night | 4k and Remastered](https://www.youtube.com/watch?v=_x-0XH4A-PE) [Tekken The Motion Picture (English Dubbed) [VHS]](https://www.youtube.com/watch?v=AZb6KbZ6VJ4) [Variable Geo (English Dubbed) [VHS]](https://www.youtube.com/watch?v=B4vpSjd-XPU) [Roujin Z (English Dubbed) [VHS]](https://www.youtube.com/watch?v=itg4zKaUMgY)[Roujin Z (1991) [Japanese] [English Subtitles] reddit](https://www.reddit.com/r/fullforeignmovies/comments/tjo6os/roujin_z_1991_japanese_english_subtitles/) [Subtitles for Roujin Z](https://subf2m.co/subtitles/roujin-z/english) [OpenSubtitles dOt oRg](https://www.opensubtitles.org/en/search/sublanguageid-all/idmovie-11272)
 <video controls width="100%" height="auto" poster="https://archive.org/download/roujin.-z.-1991.1080p.-blu-ray.x-264-skazhutin/roujin.-z.-1991.1080p.-blu-ray.x-264-skazhutin.thumbs/Roujin.Z.1991.1080p.BluRay.x264-Skazhutin_000075.jpg">
