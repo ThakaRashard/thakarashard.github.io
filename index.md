@@ -8,6 +8,9 @@ layout: default
 ![They Got ME](https://pbs.twimg.com/media/GTC06Bta4AAonmF?format=jpg&name=medium)
 ![AtlantaBlueBlackLover](https://pbs.twimg.com/media/GO8M0YubEAEvGyt?format=jpg&name=medium)
 
+
+{% include series.md %}
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/31x57WrQIBo?si=UC2V3R_SDvhxb1EP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [The Batman (2004) Complete Collection with Featurettes](https://archive.org/details/the-batman-2004-complete-1080p-bluray) [What is the purpose of the "role" attribute in HTML?](https://stackoverflow.com/questions/10403138/what-is-the-purpose-of-the-role-attribute-in-html) [NasaPhotoJournal : Jupiter](https://photojournal.jpl.nasa.gov/catalog/PIA22942)
