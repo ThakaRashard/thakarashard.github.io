@@ -3,7 +3,7 @@ layout: default
 ---
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 
-
+[What is the purpose of the "role" attribute in HTML?](https://stackoverflow.com/questions/10403138/what-is-the-purpose-of-the-role-attribute-in-html)
 [Roger Miller "Dang Me"](https://www.youtube.com/watch?v=pg9YGmmPX6w)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/31x57WrQIBo?si=UC2V3R_SDvhxb1EP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
