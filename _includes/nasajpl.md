@@ -1,3 +1,28 @@
+![Juno Fly By](https://photojournal.jpl.nasa.gov/jpegMod/PIA22942_modest.jpg)
+This image of Jupiter's turbulent southern hemisphere was captured by NASA's Juno spacecraft as it performed its most recent close flyby of the gas giant planet on Dec. 21, 2018.
+
+This new perspective captures the notable Great Red Spot, as well as a massive storm called Oval BA. The storm reached its current size when three smaller spots collided and merged in the year 2000. The Great Red Spot, which is about twice as wide as Oval BA, may have formed from the same process centuries ago.
+
+
+![cityhall](https://pbs.twimg.com/media/GS8_5Y5bMAAmMi6?format=jpg&name=large)
+
+[@sawmac](https://github.com/sawmac) I checked your book out from [EastLosAngeles](https://x.com/eastlalibrary?lang=en) and have been doing probono work for some girls i got involved with while i was working at rentpath. Erika the one i brought to Park and Roll might be Vanessa Williams daughter, she put me out an her sister stole my cellphone after 20 years of marriage... I want to marry Nakeisha and help her deal with her baggage i work at NAsaJPL its like we worked the working thing out and it was just getting paid what do patrick think of me harassing Anderson Cooper @parkr
+
+{% highlight python %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##########07/14/2024##########
+img:nth-child(odd) { float: right; }
+img:nth-child(even) {float: left;}
+3 # ANOTHER###############################################
+4 # UNiVERSE########coral########iloveyounormani######
+{% endhighlight %}
+
+![They Got ME](https://pbs.twimg.com/media/GTC06Bta4AAonmF?format=jpg&name=medium)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yGdcJBC5FOA?si=Bl7e8tzWJEI0rsJL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+In this clip, Don "Magic" Juan talked about why prostitution will always be around and the reasons he believes a prostitute needs a pimp. He also spoke on his transition from pimping into a spiritual advisory role and how he uses his social media as a way to provide that for his followers. Bishop Don "Magic" Juan closed out by talking about maintaining his health, smoking weed since 12, and how he stayed away from all the other drugs. - [VLAD](https://www.youtube.com/@vladtv)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9GBoWpLvjMc?si=7lTS4hAFW7UNAVWf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![CssFloatAuto](https://pbs.twimg.com/media/GS8ok0FaQAAkmOy?format=jpg&name=large) [CSS: The Missing Manual, 4th Edition](https://www.oreilly.com/library/view/css-the-missing/9781491918043/) by [David Sawyer McFarland](https://www.oreilly.com/search/?q=author%3A%22David%20Sawyer%20McFarland%22&type=*&rows=10) @sawmac thanks 
 
