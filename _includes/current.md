@@ -10,7 +10,7 @@ The Landsat 8 & 9 Active Fire and Thermal Anomalies product, generated from the 
 
 
 
-[Psychological impact of false accusations of sexual abuse](https://youtu.be/scSQc9iauuw?si=1ZyjOYql9RLrm8cX) 
+
 
 <object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
     </object>
@@ -37,7 +37,6 @@ In its original form, the act made it a felony to engage in interstate or foreig
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1rhpoEzu59c?si=jFwCu7FGUhi-Ffu_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![AtlantaBlueBlackLover](https://pbs.twimg.com/media/GO8M0YubEAEvGyt?format=jpg&name=medium)
 
 
 

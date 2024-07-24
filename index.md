@@ -3,7 +3,11 @@ layout: default
 ---
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 
-Batman - 1943
+
+[Psychological impact of false accusations of sexual abuse](https://youtu.be/scSQc9iauuw?si=1ZyjOYql9RLrm8cX) 
+![They Got ME](https://pbs.twimg.com/media/GTC06Bta4AAonmF?format=jpg&name=medium)
+![AtlantaBlueBlackLover](https://pbs.twimg.com/media/GO8M0YubEAEvGyt?format=jpg&name=medium)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/31x57WrQIBo?si=UC2V3R_SDvhxb1EP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [The Batman (2004) Complete Collection with Featurettes](https://archive.org/details/the-batman-2004-complete-1080p-bluray) [What is the purpose of the "role" attribute in HTML?](https://stackoverflow.com/questions/10403138/what-is-the-purpose-of-the-role-attribute-in-html) [NasaPhotoJournal : Jupiter](https://photojournal.jpl.nasa.gov/catalog/PIA22942)
@@ -193,3 +197,6 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+![They Got ME](https://pbs.twimg.com/media/GTC06Bta4AAonmF?format=jpg&name=medium)
+![AtlantaBlueBlackLover](https://pbs.twimg.com/media/GO8M0YubEAEvGyt?format=jpg&name=medium)
