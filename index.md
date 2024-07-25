@@ -4,18 +4,20 @@ layout: default
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 
 
+
 [Little Stuff about Markdown I Always Forget and have to Google - Chris Coyier on Apr 5, 2017](https://css-tricks.com/little-stuff-markdown-always-forget-google/)
 
 <div class="arialblack font" markdown="1">
 
 `markdown=”1″`
-[Psychological impact of false accusations of sexual abuse](https://youtu.be/scSQc9iauuw?si=1ZyjOYql9RLrm8cX) 
+[Psychological impact of false accusations of sexual abuse](https://youtu.be/scSQc9iauuw?si=1ZyjOYql9RLrm8cX) [Queens 5 (2024 Hottest Female Rappers - Cypher Like Mix)](https://youtu.be/Zn3N9aWmtF4?si=6EzHCpyRh6fjID9a) [Magic Mountain - EriC Burton and WAR [delasoulpotholes]](https://youtu.be/wgHvxnTN4Nk?si=O4ByUUq2YLUFieB_)
+
 ![They Got ME](https://pbs.twimg.com/media/GTC06Bta4AAonmF?format=jpg&name=medium)
 ![AtlantaBlueBlackLover](https://pbs.twimg.com/media/GO8M0YubEAEvGyt?format=jpg&name=medium)
-[Queens 5 (2024 Hottest Female Rappers - Cypher Like Mix)](https://youtu.be/Zn3N9aWmtF4?si=6EzHCpyRh6fjID9a)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8QGLnq9VYxA?si=Pasq1wEpGt92SUBy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
+{ % include cssinclude.md %}
 
 
 
