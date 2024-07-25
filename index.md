@@ -24,15 +24,13 @@ layout: default
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8QGLnq9VYxA?si=Pasq1wEpGt92SUBy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
+
 in the right pane you see the line below but the space b4 the '%' sign in the live site seems to be breaking the include statement that was the answer! now the background clause from the css file is covering the whole document... I dont get why the iframe did not render... maybe i need the markdown flag in the include
+
 {% include cssinclude.md %}
-
-
-
-
-
 {% include series.md %}
 {% include watchlist.md %}
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/31x57WrQIBo?si=UC2V3R_SDvhxb1EP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [The Batman (2004) Complete Collection with Featurettes](https://archive.org/details/the-batman-2004-complete-1080p-bluray) [What is the purpose of the "role" attribute in HTML?](https://stackoverflow.com/questions/10403138/what-is-the-purpose-of-the-role-attribute-in-html) [NasaPhotoJournal : Jupiter](https://photojournal.jpl.nasa.gov/catalog/PIA22942)
