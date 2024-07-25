@@ -41,15 +41,20 @@
 
 <div class="includedemo1" markdown="1">
    
-    <div class="item1">item 1</div>
-    <div class="item2"><iframe width=100% height="315" src="https://www.youtube.com/embed/RF87aqqmf4Q?si=qdNeQpc97fjSclz_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-    <div class="item3">item 3</div>
+<div class="item1">item 1</div>
+
+<div class="item2">
+<iframe width=100% height="315" src="https://www.youtube.com/embed/RF87aqqmf4Q?si=qdNeQpc97fjSclz_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<div class="item3">item 3</div>
 
 </div>
+
 <div class="includedemo1">
    
-    <div class="item1">item 1</div>
-    <div class="item2">{{ include.content }}</div>
-    <div class="item3">item 3</div>
+<div class="item1">item 1</div>
+
+<div class="item3">item 3</div>
 
 </div>
