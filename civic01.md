@@ -14,11 +14,11 @@ layout: default
 <video controls width="100%" height="auto" poster="https://www.salvationsouth.com/wp-content/uploads/2023/12/CONDENSED-bandit-cover-1024x576.jpg">
 
   <source src="https://archive.org/download/SmokeyAndTheBandit/Smokey%20and%20the%20Bandit.mp4" type="video/mp4" />
-  <source src="https://archive.org/download/short.circuit.1986.2160p/Short.Circuit.1986.2160p.BluRay.Topaz.AMQ.Upscale.x265-SoF.mp4" type="video/mp4" />
+  <source src="https://archive.org/download/SmokeyAndTheBandit/Smokey%20and%20the%20Bandit.ogv" type="video/ogg" />
 
   Download the
   or
-  <a href="">MP4</a>
+  <a href="https://archive.org/download/SmokeyAndTheBandit/Smokey%20and%20the%20Bandit.mp4">MP4</a>
   video.
 </video>
 
@@ -38,6 +38,34 @@ layout: default
 In its original form, the act made it a felony to engage in interstate or foreign commerce transport of "any woman or girl for the purpose of prostitution or debauchery, or for any other immoral purpose". Its primary stated intent was to address prostitution, immorality, and human trafficking, particularly where trafficking was for the purposes of prostitution. It was one of several acts of protective legislation aimed at moral reform during the Progressive Era. In practice, its ambiguous language about "immorality" resulted in it being used to criminalize even consensual sexual behavior between adults.[1] It was amended by Congress in 1978 and again in 1986 to limit its application to transport for the purpose of prostitution or other illegal sexual acts [Editorial: Mayor Bass vetoed a police discipline ballot measure. Now she has to help create a new one](https://www.latimes.com/opinion/story/2024-07-17/editorial-mayor-bass-vetoed-police-discipline-ballot-measure-now-what) ['White slavery': the origins of the anti-trafficking movement](https://www.opendemocracy.net/en/beyond-trafficking-and-slavery/white-slavery-origins-of-anti-trafficking-movement/) A nineteenth century drive to protect the morality of white women created the concept of ‘human trafficking’, and its legacies live on in border control systems and slavery-based campaigning. [The Long, Colorful History of the Mann Act](https://www.npr.org/2008/03/11/88104308/the-long-colorful-history-of-the-mann-act)
 
 
+[2nd Childhood Song by Nas](https://youtu.be/A5nM66F903I?si=hrqXLu-CYPuteESs) [Mayhem at UCLA: 32 Minutes of Unrest, Protests & Cops](https://youtu.be/VF1_S-ZHjVw?si=K7Y9U2KTJXDG8CwN) [UCLA protests: Riot police fire rubber bullets at protesters during violent clashes](https://youtu.be/3perFUMnB-I?si=Ehi-6DDovv07WZtY)
+[SKiD ROW](https://www.loc.gov/search/?fa=subject:skid+row) Dear_NasaJPL+ Mayor/Rep_Karen please take a look at SkidRow, whats changed about homelessness is social media! More homeless people from [romance scams](https://www.youtube.com/watch?v=azYwHFUYOLA) [Romance scam victims speak out](https://www.youtube.com/watch?v=WqyhwPPVUCU) [Romance scammers turn victims into "money mules," creating a legal minefield for investigators](https://www.cbsnews.com/news/romance-scams-victims-money-mules/) [I hope y'all are watching CBS Sunday Morning today.](https://www.reddit.com/r/DatingOverSixty/comments/1c9ij01/romance_scams/?rdt=34374&onetap_auto=true&one_tap=true) [Romance scammers’ favorite lies exposed](https://www.ftc.gov/news-events/data-visualizations/data-spotlight/2023/02/romance-scammers-favorite-lies-exposed) [“Beatrice” fell hard when she met her Spanish lumberjack on a dating site in the middle of the COVID-19 pandemic. He was 66, somewhat attractive](https://www.dhs.gov/hsi/insider/romance-scams-protect-yourself) and looked uncannily like Beatrice’s late husband who died just months before the pandemic hit.
+
+“I was missing not having him here to talk about, you know, what was going on in the world and everything,” Beatrice said. “So, somebody suggested to go online through a dating service … and this guy’s pictures show up and he’s just, you know, no George Clooney, nothing gorgeous, but in fact, he had a [resemblance to my husband](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-scams-and-crimes/romance-scams).” [Love at first sight? AI making it even harder to detect romance scams](https://www.ctvnews.ca/sci-tech/love-at-first-sight-ai-making-it-even-harder-to-detect-romance-scams-1.6968524) As more people look to find love on dating apps and social media these days, so too are those looking to commit romance scams as [artificial intelligence makes it harder to know what's real and what isn't](https://www.ctvnews.ca/the-canadian-press-1.4652320) [Man sentenced in Wichita "Romance Scam"](https://www.audacy.com/knss/news/local/man-sentenced-in-wichita-romance-scam)
+
+![Skid row los angeles](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00160v.jpg)<caption>441 Towne Ave., Skid Row, Los Angeles, 2007</caption>
+![San Pedro 1999](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00157v.jpg) <caption>San Pedro St. at 7th St., LA, 2006</caption>
+
+## DEF CON 31 - A Different Uber Post Mortem - Joe Sullivan.mp4
+> there were civil suits and it actually
+resolved things for [Napster](https://iplawpost.wordpress.com/2021/01/08/napster-and-why-the-music-stopped/) and I remember thinking
+that was good. - `Joe Sullivan.mp4` [A Different Uber Post Mortem](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20and%20slides/DEF%20CON%2031%20-%20A%20Different%20Uber%20Post%20Mortem%20-%20Joe%20Sullivan.mp4)
+
+
+
+[![Hackers_Journalist](https://pbs.twimg.com/media/GO3R9FXbsAA2BgP?format=jpg&name=large)](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20video%20and%20slides/DEF%20CON%2029%20-%20Agent%20X%20-%20A%20Look%20Inside%20Security%20at%20the%20New%20York%20Times.mp4)
+
+
+[![Threats](https://pbs.twimg.com/media/GO3T_1fa8AAT_mY?format=jpg&name=large)](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20video%20and%20slides/DEF%20CON%2029%20-%20Agent%20X%20-%20A%20Look%20Inside%20Security%20at%20the%20New%20York%20Times.mp4)
+
+### [* CALIFORNIA CONSTITUTION - CONS ARTICLE I DECLARATION OF RIGHTS [SECTION 1 - SEC. 32]](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%202.&article=I)
+
+
+[Psychological impact of false accusations of sexual abuse](https://www.youtube.com/watch?v=scSQc9iauuw)    [Some sort of satellite breaking apart and entering the atmosphere. Spotted Santa Monica Beaach](https://www.reddit.com/r/LosAngeles/comments/1dr5grs/some_sort_of_satellite_breaking_apart_and/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button&onetap_auto=true&one_tap=true)
+
+[Los Angeles City Council looks into private security to deter high-rise graffiti](https://www.dailynews.com/2024/04/02/los-angeles-city-council-looks-into-private-security-to-deter-high-rise-graffiti/)
+
+### Is private security endangering those in California homeless shelters? [Read CaLmatteRs.orG](https://calmatters.org/newsletter/california-homelessness-private-security/)
 [Read More ricothaka.github.io/civic01](https://ricothaka.github.io/civic01)
 
 
