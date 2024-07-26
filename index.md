@@ -4,6 +4,9 @@ layout: default
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 
 
+[Computer](computer.md)
+
+ { % include watchlist.md %}
 
 [Little Stuff about Markdown I Always Forget and have to Google - Chris Coyier on Apr 5, 2017](https://css-tricks.com/little-stuff-markdown-always-forget-google/)
 
