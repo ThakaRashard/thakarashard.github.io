@@ -8,7 +8,7 @@ img[alt="whiteslavery40"] { max-width: 40%; transform: rotate(45deg);}
 </style>    
 
 # Computing
-
+[#HTML5 <video> source examples </video>](https://codepen.io/thakarashard/pen/BagQQaR?editors=1000)
 [Attribute selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors)
 The CSS attribute selector matches elements based on the element having a given attribute explicitly set, with options for defining an attribute value or substring value match.[full article on mozilla_developer](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors)
 

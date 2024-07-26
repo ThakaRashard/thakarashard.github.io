@@ -1,6 +1,8 @@
+---
+layout: null
+---
 
 # Currently Compiling
-
 
 [9 Surprising Facts About The Pontiac Trans Am From Smokey And The Bandit](https://www.hotcars.com/surprising-facts-pontiac-trans-am-from-smokey-and-the-bandit/)
 [Smokey and the Bandit](https://lastchancepowerdrive.com/2019/08/10/smokey-and-the-bandit-filming-sites/)
@@ -19,9 +21,16 @@
 
 [THE SOUTH WE SAW IN THE BANDIT](https://www.salvationsouth.com/the-south-we-thought-we-saw-in-smokey-and-the-bandit-ed-southern/) [Watch Stream On the InterNet Archive - Smokey and The Bandit](https://archive.org/details/SmokeyAndTheBandit)
 
-![WhiteSlaveTraffick](https://sexualtracking.weebly.com/uploads/5/2/7/4/52741633/9657864.jpg)
 
-<img src="https://sexualtracking.weebly.com/uploads/5/2/7/4/52741633/9657864.jpg" alt="WhiteSlaveTraffick" width="322" height="480" />
+<style>
+img[alt="whiteslavery"] {
+  max-width: 15%;
+  float: right;
+}
+</style>
+
+
+[![whiteslavery](https://sexualtracking.weebly.com/uploads/5/2/7/4/52741633/9657864.jpg)](https://sexualtracking.weebly.com/uploads/5/2/7/4/52741633/9657864.jpg "whiteslavery")
 
 [Classification 31: White Slave Traffic Act](https://www.archives.gov/research/investigations/fbi/classifications/031-white-slave-traffic.html) Investigation of white slave traffic is one of the oldest functions of the Bureau, dating from the passage of the White Slave Traffic Act (Mann Act) in 1910. Originally established as a separate records system, the white slave traffic act cases were incorporated into the central filing system that the Bureau adopted from the Justice Department in 1921. The act was codified in U.S. Code Title 18 and prohibited transportation of women or girls in interstate or foreign commerce for the purpose of prostitution, debauchery, or other immoral purposes, the coercion or enticement of women or girls for this purpose, and the coercion or enticement of female minors.
 
@@ -63,23 +72,27 @@ In its original form, the act made it a felony to engage in interstate or foreig
 </video>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [Contact](https://youtu.be/oG6y0mmI0N4?si=dPt23E0Ky8dxleUV) "We are not alone..." Two-time Academy Award-winner Jodie Foster and Hollywood's brightest new star, Matthew McConaughey, shine in this spellbinding drama of a dedicated astronomer's quest to make first Contact. Despite scorn from her colleagues...[imdb](https://www.imdb.com/title/tt0118884/) [Glamour Life](https://www.youtube.com/watch?v=1QnOCkQLTC0) 
 
-[Macross Plus [OVA] (English Dub) Home Video Master Transfer (Betacam)](https://archive.org/details/macross-plus-english-dub-master)
-Macross Plus (マクロスプラス, Makurosu Purasu) is a four-episode anime OVA and theatrical movie in the Macross series. It was the first sequel to the original Macross television series that took place in the official timeline (Macross II was quickly retconned by series creator Shōji Kawamori as a parallel world story in the Macross universe). Plus was a groundbreaking combination of traditional cel and computer-generated animation at the time of its release, paving the way for the incorporation of more computer-generated imagery in Japanese animation.[Wiki](https://en.wikipedia.org/wiki/Macross_Plus) [imdb](https://www.imdb.com/title/tt0110426/) [GFR](https://www.giantfreakinrobot.com/ent/macross-plus-anime-greatest-format.html) [My Anime List](https://myanimelist.net/anime/474/Macross_Plus) [OVA_FiLES](https://archive.org/download/macross-plus-english-dub-master)
 
-<video controls  height="auto" poster="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXE1MG12eDB1MmNvMDdoa2JoMG1pbjBvYXJ4aGY0NWlqNzF1YjA0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qDQEzc4uJ2rwsbS/giphy.webp">
-
-<source src="https://archive.org/download/macross-plus-english-dub-master/Macross%20Plus%20-%20Episode%201%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%20Tape%29%20%5BBetacam%20SP%20Transfer%5D.mp4" type="video/mp4" />    
-<source src="https://archive.org/download/macross-plus-english-dub-master/Macross%20Plus%20-%20Episode%201%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%20Tape%29%20%5BBetacam%20SP%20Transfer%5D.mp4" type="video/mp4" />
-      
-Download the
-        or
-      <a href="https://dn720405.ca.archive.org/0/items/getvid_20220408/getvid.mp4">MP4</a>
-        video.
-</video>
-
-[#HTML5 <video> source examples </video>](https://codepen.io/thakarashard/pen/BagQQaR?editors=1000)
 
 The Landsat 8 & 9 Active Fire and Thermal Anomalies product, generated from the Landsat Operational Land Imager (OLI) shows active fire detections and thermal anomalies, such as volcanoes, and gas flares.
 
