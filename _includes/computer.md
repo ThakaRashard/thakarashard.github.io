@@ -2,7 +2,7 @@
 layout : null
 ---
 <style>
-img[alt="whiteslavery"] { max-width: 20%;}
+img[alt="whiteslavery"] { max-width: 30%; float:left;}
 img[alt="whiteslavery40"] { max-width: 40%; transform: rotate(45deg);}
 
 </style>    

@@ -23,10 +23,11 @@ layout: null
 
 
 <style>
-img[alt="whiteslavery"] {
-  max-width: 15%;
-  float: right;
-}
+
+img[alt="whiteslavery"] { max-width: 30%; float:left;}
+img[alt="whiteslavery40"] { max-width: 40%; transform: rotate(45deg);}
+
+    
 </style>
 
 
