@@ -1,4 +1,32 @@
+---
+layout : null
+---
+<style>
+img[alt="whiteslavery"] { max-width: 20%;}
+img[alt="whiteslavery40"] { max-width: 40%; transform: rotate(45deg);}
+
+</style>    
+
 # Computing
+
+[Attribute selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors)
+The CSS attribute selector matches elements based on the element having a given attribute explicitly set, with options for defining an attribute value or substring value match.[full article on mozilla_developer](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors)
+
+```css
+img[alt="whiteslavery"] { max-width: 20%;}
+img[alt="whiteslavery40"] { max-width: 40%; transform: rotate(45deg);}
+```
+<cite>markdown</cite>
+
+![whiteslavery](https://sexualtracking.weebly.com/uploads/5/2/7/4/52741633/9657864.jpg)
+![whiteslavery40](https://sexualtracking.weebly.com/uploads/5/2/7/4/52741633/9657864.jpg)
+
+<cite>HTML5</cite>
+<IMG src="https://sexualtracking.weebly.com/uploads/5/2/7/4/52741633/9657864.jpg" alt="whiteslavery">
+<cite>img[alt="whiteslavery"] { max-width: 20%;}</cite>
+<IMG src="https://sexualtracking.weebly.com/uploads/5/2/7/4/52741633/9657864.jpg" alt="whiteslavery40">
+<cite>img[alt="whiteslavery40"] { max-width: 40%; transform: rotate(45deg);}</cite>   
+
 
 [Styling Gist embeds with CSS](https://danielbernal.co/styling-gist-embeds-with-css/)
 
