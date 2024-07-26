@@ -3,6 +3,8 @@ layout: null
 ---
 
 # Currently Compiling
+[EXPERIMENTAL DREAM TELEPATHY-CLAIRVOYANCE AND GEOMAGNETIC ACTIVITY (MICHAEL PERSINGER)](https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000400030001-0.pdf) Body: 
+Approved For Release tajp~reanj Drre TeZepat _Clairvayance and G~c,ma_grlet,ic Acti.yitY Michael Persirfger, PhD, L_aur,entzan University, S,.fdbriry, Qntario, Canada, and Stanley KriQpner^, PhD, Sa ybro,_,k Tnstltilte, San Francisccr; California, Tntroductior; Several studies invc,lvinq putative (T-C) eH "~=r,tanec,us telepatyic- periences concerning clairvoyant death o, yant have su r cs to f _r' to 99ested a r. amily members 4enrnannetic fr,i.e. Ontributir~rr evidence [C . i . A . Reading Room](https://www.cia.gov/readingroom/document/cia-rdp96-00792r000400030001-0)
 
 [9 Surprising Facts About The Pontiac Trans Am From Smokey And The Bandit](https://www.hotcars.com/surprising-facts-pontiac-trans-am-from-smokey-and-the-bandit/)
 [Smokey and the Bandit](https://lastchancepowerdrive.com/2019/08/10/smokey-and-the-bandit-filming-sites/)
@@ -21,11 +23,12 @@ layout: null
 
 [THE SOUTH WE SAW IN THE BANDIT](https://www.salvationsouth.com/the-south-we-thought-we-saw-in-smokey-and-the-bandit-ed-southern/) [Watch Stream On the InterNet Archive - Smokey and The Bandit](https://archive.org/details/SmokeyAndTheBandit)
 
+<iframe src="https://archive.org/embed/detrmi-Census_2020_-_Kash_Doll" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <style>
 
-img[alt="whiteslavery"] { max-width: 50%; float:right;}
-img[alt="whiteslavery40"] { max-width: 40%; transform: rotate(45deg);}
+img[alt="whiteslavery"] { width: 35%; float:right;}
+img[alt="whiteslavery40"] { width: 35%; transform: rotate(45deg);}
 
     
 </style>
