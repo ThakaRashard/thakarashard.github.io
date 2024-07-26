@@ -40,9 +40,7 @@ in the right pane you see the line below but the space b4 the '%' sign in the li
 
 [Jekyll Theme](https://www.builtatlightspeed.com/demo/insipx-material-bliss-jekyll-theme)
  
-<iframe src="https://archive.org/embed/the-price-is-right-december-20-1984-christmas-episode" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-![Bob](https://www.thevintagenews.com/wp-content/uploads/sites/65/2019/04/the-price-is-right-featured-image-30477.png)
 
 [Star Wars: A New Hope - (CBS) KIRO-TV Channel 7 Seattle - Saturday Feb. 14th 1987 - W/O/C](https://archive.org/details/starwarsanewhopesaturdayfeb.14th1987cbskirotvchannel7seattlewoc)
 <iframe src="https://archive.org/embed/starwarsanewhopesaturdayfeb.14th1987cbskirotvchannel7seattlewoc" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
