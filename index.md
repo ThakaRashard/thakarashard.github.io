@@ -5,10 +5,8 @@ layout: default
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 
-# Social Updates 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Cg1j3kMD2a4?si=aqpjYrSD2X7LQH34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Must Be dues - Melba Moore - song](https://www.youtube.com/watch?v=Cg1j3kMD2a4)
 
 ![No Head No Feet](https://pbs.twimg.com/media/GThaJYqagAAVh29?format=jpg&name=large)  
