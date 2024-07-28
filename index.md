@@ -7,8 +7,7 @@ layout: default
 
 
 ![TheGrapeJuice dOt nEt](https://thatgrapejuice.net/wp-content/themes/tgj17july17/images/logo.png)
-[Normani: “I’ve Been Tested Spiritually, Emotionally, Mentally, & Physically”](https://thatgrapejuice.net/2024/07/normani-ive-been-tested-spiritually-emotionally-mentally-physically/)
-[Best Android launchers 2024](https://www.tomsguide.com/round-up/best-android-launchers) [John Corpuz](https://www.tomsguide.com/author/john-corpuz) John Corpuz flip-flopped between computer science and creative writing courses in school. As a contributor to ... [TomsGuide](https://www.tomsguide.com/)
+[Normani: “I’ve Been Tested Spiritually, Emotionally, Mentally, & Physically”](https://thatgrapejuice.net/2024/07/normani-ive-been-tested-spiritually-emotionally-mentally-physically/) [Normani Calls Album ‘Dopamine’ A ‘Declaration’ Of Her ‘Resilience’: ‘I’ve Never Given Up On Myself’](https://www.accessonline.com/articles/normani-calls-album-dopamine-a-declaration-of-her-resilience-ive-never-given-up-on-myself#google_vignette) [Best Android launchers 2024](https://www.tomsguide.com/round-up/best-android-launchers) [John Corpuz](https://www.tomsguide.com/author/john-corpuz) John Corpuz flip-flopped between computer science and creative writing courses in school. As a contributor to ... [TomsGuide](https://www.tomsguide.com/)
 [Best keyboard r/androidapps Join A subreddit to talk about Android Apps 330K Members 76 Online • 8 mo. ago /u/Pauledo](https://www.reddit.com/r/androidapps/comments/18cxk6o/best_keyboard/?rdt=32776) []
 [Must Be dues - Melba Moore - song](https://www.youtube.com/watch?v=Cg1j3kMD2a4)
 
