@@ -4,8 +4,12 @@ layout: default
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 
 # Social Updates 
-![No Head No Feet](https://pbs.twimg.com/media/GThaJYqagAAVh29?format=jpg&name=large) #noHeadNoFeet maybe you are not raping coral, but did you ? Erika @GADFCS @TheJusticeDept @RepKarenBass @DVshowgirlsHV did erika rape my little girl ? @ChrisCoons
- #ivf 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cg1j3kMD2a4?si=aqpjYrSD2X7LQH34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![No Head No Feet](https://pbs.twimg.com/media/GThaJYqagAAVh29?format=jpg&name=large)  
+![Seven Streeter Wee Matter](https://pbs.twimg.com/media/GTMjkxLaYAMkTZx?format=jpg&name=medium) [Media Upload ThakaSartu](https://x.com/thakasartu/media) [Thakasartu bulliten board of sorts on github [css archive]]()
+ #ivf [Likes on ThakaSartu](https://x.com/thakasartu/likes) 
 [ThakaRashard on Twitter](https://x.com/MooNLOVER404/) [Thakarashard.github.io/computer_dmz](https://thakarashard.github.io/computer_dmz) [HOLE_TO_ANOTHER_UNiVERSE watch Smokey and The Bandit](https://thakarashard.github.io/civic01) [@RicoThaka Follows US GovernMent Often on Twitter](https://x.com/RicoThaka/with_replies) [RicoThaka uploaded twitter Media](https://x.com/RicoThaka/media)
 [LocalLosAngeles](https://thakarashard.github.io/civic01) [Computing Notes](https://thakarashard.github.io/computer_dmz) [NewBits+Notes](https://thakarashard.github.io/news) [FamilyNotes](https://thakarashard.github.io/thefam_dmz)
 
