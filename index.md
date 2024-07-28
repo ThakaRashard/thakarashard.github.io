@@ -6,6 +6,8 @@ layout: default
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 
 
+![TheGrapeJuice dOt nEt](https://thatgrapejuice.net/wp-content/themes/tgj17july17/images/logo.png)
+[Normani: “I’ve Been Tested Spiritually, Emotionally, Mentally, & Physically”](https://thatgrapejuice.net/2024/07/normani-ive-been-tested-spiritually-emotionally-mentally-physically/)
 [Best Android launchers 2024](https://www.tomsguide.com/round-up/best-android-launchers) [John Corpuz](https://www.tomsguide.com/author/john-corpuz) John Corpuz flip-flopped between computer science and creative writing courses in school. As a contributor to ... [TomsGuide](https://www.tomsguide.com/)
 [Best keyboard r/androidapps Join A subreddit to talk about Android Apps 330K Members 76 Online • 8 mo. ago /u/Pauledo](https://www.reddit.com/r/androidapps/comments/18cxk6o/best_keyboard/?rdt=32776) []
 [Must Be dues - Melba Moore - song](https://www.youtube.com/watch?v=Cg1j3kMD2a4)
