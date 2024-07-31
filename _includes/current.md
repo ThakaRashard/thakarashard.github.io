@@ -3,68 +3,46 @@ layout: post
 ---
 
 # Currently Compiling
-[EXPERIMENTAL DREAM TELEPATHY-CLAIRVOYANCE AND GEOMAGNETIC ACTIVITY (MICHAEL PERSINGER)](https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000400030001-0.pdf) Body: 
-Approved For Release tajp~reanj Drre TeZepat _Clairvayance and G~c,ma_grlet,ic Acti.yitY Michael Persirfger, PhD, L_aur,entzan University, S,.fdbriry, Qntario, Canada, and Stanley KriQpner^, PhD, Sa ybro,_,k Tnstltilte, San Francisccr; California, Tntroductior; Several studies invc,lvinq putative (T-C) eH "~=r,tanec,us telepatyic- periences concerning clairvoyant death o, yant have su r cs to f _r' to 99ested a r. amily members 4enrnannetic fr,i.e. Ontributir~rr evidence [C . i . A . Reading Room](https://www.cia.gov/readingroom/document/cia-rdp96-00792r000400030001-0)
-
-[9 Surprising Facts About The Pontiac Trans Am From Smokey And The Bandit](https://www.hotcars.com/surprising-facts-pontiac-trans-am-from-smokey-and-the-bandit/)
-[Smokey and the Bandit](https://lastchancepowerdrive.com/2019/08/10/smokey-and-the-bandit-filming-sites/)
-
-<video controls width="100%" height="auto" poster="https://www.salvationsouth.com/wp-content/uploads/2023/12/CONDENSED-bandit-cover-1024x576.jpg">
-
-  <source src="https://archive.org/download/SmokeyAndTheBandit/Smokey%20and%20the%20Bandit.mp4" type="video/mp4" />
-  <source src="https://archive.org/download/SmokeyAndTheBandit/Smokey%20and%20the%20Bandit.ogv" type="video/ogg" />
-
-  Download the
-  or
-  <a href="https://archive.org/download/SmokeyAndTheBandit/Smokey%20and%20the%20Bandit.mp4">MP4</a>
-  video.
-</video>
 
 
-[THE SOUTH WE SAW IN THE BANDIT](https://www.salvationsouth.com/the-south-we-thought-we-saw-in-smokey-and-the-bandit-ed-southern/) [Watch Stream On the InterNet Archive - Smokey and The Bandit](https://archive.org/details/SmokeyAndTheBandit)
+[Read More ricothaka.github.io/worknotes](https://ricothaka.github.io/computer) Normani its becoming a great record in real time, ill wait a lil longer 4 u 2 du mmy papprwrk [Compiling:TheBlog~NewPost[thakarashard.github.io dump 731]](https://ricothaka.github.io/compiling/thakarashard731)
+[Must Be dues - Melba Moore - song](https://www.youtube.com/watch?v=Cg1j3kMD2a4)
 
-<iframe src="https://archive.org/embed/detrmi-Census_2020_-_Kash_Doll" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RM7lw0Ovzq0?si=T8LSvWg1nuwT3jUx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BVhrUyKB5Eo?si=6eLSQoLgLrXkUxiN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<style>
+[Play Retro SNK Neo Geo games online | NEOGEOFUN](https://www.neogeofun.com/)
+[Marvel Super Heroes Vs Street Fighter (970625 USA)](https://www.retrogames.cc/arcade-games/marvel-super-heroes-vs-street-fighter-970625-usa.html#)
 
-img[alt="whiteslavery"] { width: 35%; float:right;}
-img[alt="whiteslavery40"] { width: 35%; transform: rotate(45deg);}
-
-    
-</style>
-
-
-[![whiteslavery](https://sexualtracking.weebly.com/uploads/5/2/7/4/52741633/9657864.jpg)](https://sexualtracking.weebly.com/uploads/5/2/7/4/52741633/9657864.jpg "whiteslavery") [Classification 31: White Slave Traffic Act](https://www.archives.gov/research/investigations/fbi/classifications/031-white-slave-traffic.html) Investigation of white slave traffic is one of the oldest functions of the Bureau, dating from the passage of the White Slave Traffic Act (Mann Act) in 1910. Originally established as a separate records system, the white slave traffic act cases were incorporated into the central filing system that the Bureau adopted from the Justice Department in 1921. The act was codified in U.S. Code Title 18 and prohibited transportation of women or girls in interstate or foreign commerce for the purpose of prostitution, debauchery, or other immoral purposes, the coercion or enticement of women or girls for this purpose, and the coercion or enticement of female minors. [![whiteslavery](https://sexualtracking.weebly.com/uploads/5/2/7/4/52741633/9657864.jpg)](https://sexualtracking.weebly.com/uploads/5/2/7/4/52741633/9657864.jpg "whiteslavery")   [The Mann Act](https://en.wikipedia.org/wiki/Mann_Act), previously called the [White-Slave Traffic Act of 1910](https://www.politico.com/story/2018/06/25/this-day-in-politics-june-25-1910-663071), is a United States federal law, passed June 25, 1910 (ch. 395, 36 Stat. 825; codified as amended at 18 U.S.C. §§ 2421–2424). It is named after Congressman James Robert Mann of Illinois. In its original form, the act made it a felony to engage in interstate or foreign commerce transport of "any woman or girl for the purpose of prostitution or debauchery, or for any other immoral purpose". Its primary stated intent was to address prostitution, immorality, and human trafficking, particularly where trafficking was for the purposes of prostitution. It was one of several acts of protective legislation aimed at moral reform during the Progressive Era. In practice, its ambiguous language about "immorality" resulted in it being used to criminalize even consensual sexual behavior between adults.[1] It was amended by Congress in 1978 and again in 1986 to limit its application to transport for the purpose of prostitution or other illegal sexual acts [Editorial: Mayor Bass vetoed a police discipline ballot measure. Now she has to help create a new one](https://www.latimes.com/opinion/story/2024-07-17/editorial-mayor-bass-vetoed-police-discipline-ballot-measure-now-what) ['White slavery': the origins of the anti-trafficking movement](https://www.opendemocracy.net/en/beyond-trafficking-and-slavery/white-slavery-origins-of-anti-trafficking-movement/) A nineteenth century drive to protect the morality of white women created the concept of ‘human trafficking’, and its legacies live on in border control systems and slavery-based campaigning. [The Long, Colorful History of the Mann Act](https://www.npr.org/2008/03/11/88104308/the-long-colorful-history-of-the-mann-act) [Read More ricothaka.github.io/civic01](https://ricothaka.github.io/civic01)
-
-![Short Circuit Johnny 5](https://m.media-amazon.com/images/M/MV5BYTk5ZmVjOWQtZmNiMC00ZTQ1LWI2NDAtZWZhMGUyMzFjMzk0XkEyXkFqcGdeQXVyMjY3MjUzNDk@._V1_.jpg)
-
-<video controls width="100%" height="auto" poster="https://i.redd.it/qv9qfpq69dc91.gif">
-
-<source src="https://archive.org/download/short.circuit.1986.2160p/Short.Circuit.1986.2160p.BluRay.Topaz.AMQ.Upscale.x265-SoF.mp4" type="video/mp4" />    
-<source src="https://archive.org/download/short.circuit.1986.2160p/Short.Circuit.1986.2160p.BluRay.Topaz.AMQ.Upscale.x265-SoF.mp4" type="video/mp4" />
-      
-        Download the
-        or
-        <a href="">MP4</a>
-        video.
-</video>
+[Screen Recording 2024 07 29 4.53.08 PM](https://archive.org/details/screen-recording-2024-07-29-4.53.08-pm)
 
 
-[Projeck A-Ko (English Dubbed) [VHS]](https://www.youtube.com/watch?v=JNSXBh0Gtv4)
-[1946 Los Angeles at Night | 4k and Remastered](https://www.youtube.com/watch?v=_x-0XH4A-PE) [Tekken The Motion Picture (English Dubbed) [VHS]](https://www.youtube.com/watch?v=AZb6KbZ6VJ4) [Variable Geo (English Dubbed) [VHS]](https://www.youtube.com/watch?v=B4vpSjd-XPU) [Roujin Z (English Dubbed) [VHS]](https://www.youtube.com/watch?v=itg4zKaUMgY)[Roujin Z (1991) [Japanese] [English Subtitles] reddit](https://www.reddit.com/r/fullforeignmovies/comments/tjo6os/roujin_z_1991_japanese_english_subtitles/) [Subtitles for Roujin Z](https://subf2m.co/subtitles/roujin-z/english) [OpenSubtitles dOt oRg](https://www.opensubtitles.org/en/search/sublanguageid-all/idmovie-11272)
-<video controls width="100%" height="auto" poster="https://archive.org/download/roujin.-z.-1991.1080p.-blu-ray.x-264-skazhutin/roujin.-z.-1991.1080p.-blu-ray.x-264-skazhutin.thumbs/Roujin.Z.1991.1080p.BluRay.x264-Skazhutin_000075.jpg">
-
-<source src="https://archive.org/download/roujin-z-1991_202401/Roujin.Z.1991.JAPANESE-VXT.mp4" type="video/mp4" />    
-<source src="https://archive.org/download/roujin-z-1991_202401/Roujin.Z.1991.JAPANESE-VXT.mp4" type="video/mp4" />
-      
-        Download the
-        or
-        <a href="">MP4</a>
-        video.
-</video>
+[mars Sediments within Aram Chaos That Are Likely to Be Sulfates](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_083600_083699/ESP_083687_1835/ESP_083687_1835_RED.browse.jpg)
+[MarsPoetica](https://www.uahirise.org/epo/beautiful-mars/marspoetica/)
+Mars Perseverance Sol 1222: Left Navigation Camera (Navcam) ![Sol1222](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01222/ids/edr/browse/ncam/NLF_1222_0775426842_176ECM_N0561010NCAM02222_07_195J01_1200.jpg)
+![TheGrapeJuice dOt nEt](https://thatgrapejuice.net/wp-content/themes/tgj17july17/images/logo.png)
+[Blac Chyna Reflects On Personal Transformation To Her Most ‘Authentic Self’](https://www.accessonline.com/videos/blac-chyna-reflects-on-personal-transformation-to-her-most-authentic-self) [Jennifer Hudson Receives Round of Applause After Surprise Performance At Versailles: ‘My Spirit’](https://www.accessonline.com/videos/jennifer-hudson-receives-round-of-applause-after-surprise-performance-at-versailles-my-spirit) [Normani: “I’ve Been Tested Spiritually, Emotionally, Mentally, & Physically”](https://thatgrapejuice.net/2024/07/normani-ive-been-tested-spiritually-emotionally-mentally-physically/) [Normani Calls Album ‘Dopamine’ A ‘Declaration’ Of Her ‘Resilience’: ‘I’ve Never Given Up On Myself’](https://www.accessonline.com/articles/normani-calls-album-dopamine-a-declaration-of-her-resilience-ive-never-given-up-on-myself#google_vignette) [Sabrina Carpenter, Serena Williams, Eva Longoria, & More Stun at Vogue World: Paris 2024](https://www.accessonline.com/videos/sabrina-carpenter-serena-williams-eva-longoria-more-stun-at-vogue-world-paris-2024) [Ally Brooke Reveals How Much Fifth Harmony is Paid for Their Music (She Said It's a 'Criminal' Amount)](https://www.justjared.com/2024/07/27/ally-brooke-reveals-how-much-fifth-harmony-is-paid-for-their-music-she-said-its-a-criminal-amount/) [Best Android launchers 2024](https://www.tomsguide.com/round-up/best-android-launchers) [John Corpuz](https://www.tomsguide.com/author/john-corpuz) John Corpuz flip-flopped between computer science and creative writing courses in school. As a contributor to ... [TomsGuide](https://www.tomsguide.com/)
+[Best keyboard r/androidapps Join A subreddit to talk about Android Apps 330K Members 76 Online • 8 mo. ago /u/Pauledo](https://www.reddit.com/r/androidapps/comments/18cxk6o/best_keyboard/?rdt=32776) []
 
 
 
+![MEGADRiVE](https://upload.wikimedia.org/wikipedia/commons/f/fd/JP_MegaDrive_Logo.gif)
+
+[Sonic the Hedgehog Rev 1](https://archive.org/details/sg_Sonic_the_Hedgehog_Rev_1_1991_Sega_JP-KR_en)
+Sonic the Hedgehog (ソニック・ザ・ヘッジホッグ Sonikku za Hejjihoggu?) is a platform video game developed by Sonic Team and published by Sega for the Sega Mega Drive/Genesis. First released in North America, Europe, and Australia on June 23, 1991, the game is the first installment in the Sonic the Hedgehog series 
+
+
+
+![Sonic1 Not For Resale](https://www.lifewire.com/thmb/8ncd0X34c6dglK5uEdM60asZn8Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Sonic_the_Hedgehog_Coverart-4-5b958f8ac9e77c0082ee596c.jpg)" 
+
+
+
+
+
+
+
+
+![linkedin](https://pbs.twimg.com/media/GILuiVmbEAAyRtH?format=jpg&name=large)
 
 
 

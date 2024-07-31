@@ -1,6 +1,18 @@
 # To/About::Them
 <cite> A group of women I know from my journeys that somehow all ended up in [LosAngeles](https://lacity.gov/) </cite>
 
+![No Head No Feet](https://pbs.twimg.com/media/GThaJYqagAAVh29?format=jpg&name=large)  
+![Seven Streeter Wee Matter](https://pbs.twimg.com/media/GTMjkxLaYAMkTZx?format=jpg&name=medium) [Sevyn Streeter On 76ers Stopping Her From Wearing "We Matter" Shirt](https://youtu.be/nUa32C6LuDE?si=E23brWEiJBr4xfuk) [The Breakfast Club Classic - Jay Z Interview 2013](https://www.youtube.com/watch?v=Y2TbLohPKI0) [Sevyn Streeter Perfoms in We Matter Jersey](https://www.youtube.com/watch?v=SM9oFokxCKw)  [Media Upload ThakaSartu](https://x.com/thakasartu/media) [Thakasartu bulliten board of sorts on github [css archive]](https://thakasartu.github.io/) [Kevin Hart Exposes Disturbing Party Footage Of Diddy.. (Exclusive)](https://youtu.be/yS_GWY6B_y8?si=OgN1CE7OerTzRYUZ)
+ #ivf [Likes on ThakaSartu](https://x.com/thakasartu/likes) 
+[ThakaRashard on Twitter](https://x.com/MooNLOVER404/) [Thakarashard.github.io/computer_dmz](https://thakarashard.github.io/computer_dmz) [HOLE_TO_ANOTHER_UNiVERSE watch Smokey and The Bandit](https://thakarashard.github.io/civic01) [@RicoThaka Follows US GovernMent Often on Twitter](https://x.com/RicoThaka/with_replies) [RicoThaka uploaded twitter Media](https://x.com/RicoThaka/media)
+[LocalLosAngeles](https://thakarashard.github.io/civic01) [Computing Notes](https://thakarashard.github.io/computer_dmz) [NewBits+Notes](https://thakarashard.github.io/news) [FamilyNotes](https://thakarashard.github.io/thefam_dmz)
+
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dCYApJtsyd0?si=gRikFtgwrzLHQ_Ti" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 <iframe src="https://archive.org/embed/detrmi-Census_2020_-_Kash_Doll" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
