@@ -12,7 +12,7 @@ layout: default
 <p><a href="https://vimeo.com/807485736">It&#039;s been a potent year as we approach nearly a decade of kelp forest restoration and further our many ocean resilience, coastal</a> from <a href="https://vimeo.com/user173605154">Rory Rudd</a> on <a href="https://vimeo.com">Vimeo</a>.</p> 
 is it healthy or not, idk im new to oceanography 
 
-[Kelp restoration Santa Monica Bay](https://www.pinwheel.earth/projects/kelp-restoration-santa-monica-bay) [The Bay Foundation](https://www.instagram.com/thebayfoundation/?locale=es)
+[Kelp restoration Santa Monica Bay](https://www.pinwheel.earth/projects/kelp-restoration-santa-monica-bay) [The Bay Foundation](https://www.instagram.com/thebayfoundation/?locale=es) [Kelp Us Kelp You - How Kelp Can Help in a Changing Climate (the bay foundation)](https://www.youtube.com/watch?v=ZpGZHn9Q8BQ)
 
 ![curiosity](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04258/opgs/edr/ncam/NRB_775492033EDR_S1080792NCAM00594M_.JPG)
 [Front_Left_Hazcam:Two_Year_Movie](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
