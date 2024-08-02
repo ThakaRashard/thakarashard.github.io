@@ -8,7 +8,7 @@ layout: default
 
 
 [Santa Monica Kelp](https://youtu.be/7nrLdR-HN2w?si=TYf4lsesCWpmusxC)
-<iframe src="https://player.vimeo.com/video/807485736?h=a9e080c39f&color=ff9933" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<embed src="https://player.vimeo.com/video/807485736?h=a9e080c39f&color=ff9933" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen />
 <p><a href="https://vimeo.com/807485736">It&#039;s been a potent year as we approach nearly a decade of kelp forest restoration and further our many ocean resilience, coastal</a> from <a href="https://vimeo.com/user173605154">Rory Rudd</a> on <a href="https://vimeo.com">Vimeo</a>.</p> 
 is it healthy or not, idk im new to oceanography 
 
