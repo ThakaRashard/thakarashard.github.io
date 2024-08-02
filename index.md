@@ -6,8 +6,13 @@ layout: default
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 
 
+Androiding 
+[Smart Phone Screenshare](https://archive.org/details/screen-20240731-050451_202408)
+
 [Fraggle Rock: The Animated Series](https://archive.org/details/fraggle-toon) [Fraggle Rock](https://archive.org/details/MashSeries) [Robo Cop The Complete Series](https://archive.org/details/RoboCopTheCompleteSeries) [Fraggle Rock UK (Rare Episodes)](https://archive.org/details/fraggle-rock-uk)
 
+Injuries toe
+<iframe src="https://archive.org/embed/vid-20240801-102349" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 [Santa Monica Kelp](https://youtu.be/7nrLdR-HN2w?si=TYf4lsesCWpmusxC)
