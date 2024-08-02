@@ -6,6 +6,9 @@ layout: default
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 
 
+[Fraggle Rock: The Animated Series](https://archive.org/details/fraggle-toon) [Fraggle Rock](https://archive.org/details/MashSeries)
+
+
 
 [Santa Monica Kelp](https://youtu.be/7nrLdR-HN2w?si=TYf4lsesCWpmusxC)
 <embed src="https://player.vimeo.com/video/807485736?h=a9e080c39f&color=ff9933" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen />
