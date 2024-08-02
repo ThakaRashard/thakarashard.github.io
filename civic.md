@@ -26,6 +26,8 @@
 
 
 
+Injuries toe
+<iframe src="https://archive.org/embed/vid-20240801-102349" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 Dear MAyor (Karen Bass)
 
 Hi, Its Rashard from NasaJpl the [YA](https://www.reddit.com/r/YAlit/comments/18xxv05/is_there_a_list_of_must_read_ya_books_especially/) Somali that takes short naps on the back portch of [city hall](https://www.laconservancy.org/learn/historic-places/los-angeles-city-hall/). I am following your instructions in the [County of Los Angeles Emergency Survival Guide](https://lacounty.gov/wp-content/uploads/2022/03/1058408_2019_ESG_English_Webversion1.pdf)
