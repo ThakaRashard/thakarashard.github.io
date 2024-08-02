@@ -56,7 +56,7 @@
       </div>
 
 
-      
+
 [RICK JAMES ON JUDGE JOE BROWN](https://youtu.be/CKSZNMxgPQg?si=Ye-z-mR4i-nGyp2t) 
 [Dr. Umar Says Kamala Harris Is Not For Black People and Calls Her Out For Marrying A White Man.](https://www.youtube.com/watch?v=Y4qUjZe6Y6M) [Kamala Harris Is Not Black, She’s Lazy and Flirts To Get What She Wants.](https://youtu.be/xmcqcbC16OU?si=vuvB8Z0N93VnRtcB) [Candace Owens On Black America, Congressional Puppets, Donald Trump, Kanye West, T.I. + More](https://youtu.be/goIrzPIh8yA?si=EWby97cSoGsujftz) [Jasmine Crockett Says Our Freedoms Are On The Line, Talks Kamala's Running Mate, Supreme Court +More](https://youtu.be/ytCCI9ACHe8?si=-zGwEwShAPyMF1hu)
 [Read More ricothaka.github.io/worknotes](https://ricothaka.github.io/computer) Normani its becoming a great record in real time, ill wait a lil longer 4 u 2 du mmy papprwrk [Compiling:TheBlog~NewPost[thakarashard.github.io dump 731]](https://ricothaka.github.io/compiling/thakarashard731) [Time's Up · O.C.](https://youtu.be/6gNmCGQRpcc?si=jswkjh0iBkx2EDB6)
@@ -71,9 +71,8 @@ Androiding
 
 
 [Santa Monica Kelp](https://youtu.be/7nrLdR-HN2w?si=TYf4lsesCWpmusxC)
-<embed src="https://player.vimeo.com/video/807485736?h=a9e080c39f&color=ff9933" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen />
-<p><a href="https://vimeo.com/807485736">It&#039;s been a potent year as we approach nearly a decade of kelp forest restoration and further our many ocean resilience, coastal</a> from <a href="https://vimeo.com/user173605154">Rory Rudd</a> on <a href="https://vimeo.com">Vimeo</a>.</p> 
-is it healthy or not, idk im new to oceanography 
+
+[kelp on vimeo](https://vimeo.com/807485736)
 
 [Kelp restoration Santa Monica Bay](https://www.pinwheel.earth/projects/kelp-restoration-santa-monica-bay) [The Bay Foundation](https://www.instagram.com/thebayfoundation/?locale=es) [Kelp Us Kelp You - How Kelp Can Help in a Changing Climate (the bay foundation)](https://www.youtube.com/watch?v=ZpGZHn9Q8BQ) [Impacts of Kelp Forests on Ocean Acidification in Santa Monica Bay](https://www.ioes.ucla.edu/project/the-bay-foundation/) [ June 15, 2017 By kelpteamIn #blog](https://kelpteam.wordpress.com/blog/)
 
