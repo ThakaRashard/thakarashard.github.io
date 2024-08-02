@@ -17,6 +17,16 @@ is it healthy or not, idk im new to oceanography
 ![divermaimer](https://www.ioes.ucla.edu/wp-content/uploads/2017/02/impacts-of-kelp-forests-on-ocean-acidification-in-santa-monica-bay-800x450.jpg)
 ![UCLA](https://www.ioes.ucla.edu/wp-content/themes/uclaioes/assets/images/ucla-ioes-logo.svg)
 
+[Kelp Forest Restoration Project Begins off Southern California Coast](https://response.restoration.noaa.gov/about/media/kelp-forest-restoration-project-begins-southern-california-coast.html)
+
+
+> After 15 years of scientific monitoring, research, and planning, the Santa Monica Bay Restoration Foundation (SMBRF), with funding and technical assistance from NOAA's Montrose Settlements Restoration Program (MSRP), begins a large-scale kelp forest restoration project off the coast of California's Palos Verdes peninsula this July.
+
+Are the rocks he is picking those urchins from a part of a reef? I got the idead from WarnerBrothers and otehr [LocalCartoons](https://www.b98.tv/videos_categories/studios/)
+
+
+![NOAA DiVER](https://response.restoration.noaa.gov/sites/default/files/images/13/montrose-volunteer-diver-removing-urchin-barren_2009-8-13_noaa-david-whitting_472.jpg)
+
 ![curiosity](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04258/opgs/edr/ncam/NRB_775492033EDR_S1080792NCAM00594M_.JPG)
 [Front_Left_Hazcam:Two_Year_Movie](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
 
