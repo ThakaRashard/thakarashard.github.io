@@ -5899,12 +5899,13 @@ text-shadow: 0 1px 1px hsla(0,0%,100%,.3);
 
 
 /* Start  styling the page */
+
+
 .playlist {
   display:flex;
   flex-flow: row wrap;
-  flex-direction: row-reverse;
-  
-  
+  flex-direction: row;
+
 } 
 
 .track {
@@ -5916,17 +5917,30 @@ border-radius: 0.3em;
 -moz-transition:all 0.5s linear;
 -o-transition:all 0.5s linear;
 transition:all 0.5s linear;
+
+
 }
 
 .track:hover, .track:focus, .track:active
 {
-  
+
 -webkit-transform: scale(1.05);
 -moz-transform: scale(1.05);
 transform: scale(1.09);
 }
 
+.track {
+
+}
+
+.container-audio {
+
+    padding: 0px;
+
+
+}
 .track>img { width:100%;
+
    -webkit-transition:all 0.5s linear;
 -moz-transition:all 0.5s linear;
 -o-transition:all 0.5s linear;
@@ -5934,15 +5948,16 @@ transition:all 0.5s linear;
 }
 
 audio {
-  
-   
+
+
+
 
     -webkit-transition:all 0.5s linear;
 -moz-transition:all 0.5s linear;
 -o-transition:all 0.5s linear;
 transition:all 0.5s linear;
 
-	text-shadow: 0 1px 1px hsla(0,0%,100%,.3);
+  text-shadow: 0 1px 1px hsla(0,0%,100%,.3);
   background: hsla(0,0%,100%,.9) border-box;
 }
 audio:nth-child(2), audio:nth-child(4), audio:nth-child(6) {
@@ -5958,8 +5973,6 @@ audio:hover, audio:focus, audio:active
 -moz-transform: scale(1.05);
 transform: scale(1.05);
 }
-
-
 
 .photoGcontainer {
   margin: 0 auto;

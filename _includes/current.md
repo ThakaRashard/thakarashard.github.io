@@ -1,8 +1,53 @@
----
-layout: null
----
-
 # Currently Compiling
+
+
+[JPL and the Space Age: The Hunt for Space Rocks](https://www.youtube.com/watch?v=1wNzTyu36WA) [JPL and the Space Age: Landing on Mars](https://youtu.be/7aKewWHXXRE?si=MouyInZGPsjt8Yw6) [Hubble Space Telescope, Planet 9, Curiosity Mars Rover, Cosmic Roulette | 60 Minutes Full Episodes](https://youtu.be/ZYlALC1Pmv4?si=0GnKqpjKQmyYaxFw) [Inside SpaceX's Mission to Send Humans into Deep Space | Foreign Correspondent](https://youtu.be/qInkR8P7q3M?si=uG4WNpxUxhCW0Igj) [Mars Direct 3 | A Proposal for SpaceX's Mars Program | Miguel Gurrea](https://youtu.be/YA7YQcA9Waw?si=LTJHZDvY65gHNnjG)
+
+<div class="playlist">
+<figure class=" track">
+<IMG src="https://i.discogs.com/IZW09_FtTLqJ_5902JW6OL6o1F37o9LdDFXg7UMorE8/rs:fit/g:sm/q:90/h:594/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MDEtMTI5MjA3NTEx/Ny5qcGVn.jpeg" />
+    
+ <figcaption> In The World Akinyele 
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/akinyele-putitinyourmouth/03-In%20The%20World.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+<figure class=" track">
+    <IMG src="https://ia904503.us.archive.org/15/items/nas-the-lost-tapes-2/II/cover.jpg?cnt=0" />
+    
+ <figcaption>naS - wAR aGAINST lOVE
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/nas-the-lost-tapes-2/II/09-War%20Against%20Love.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+<figure class=" track">
+    <IMG src="https://ia904503.us.archive.org/15/items/nas-the-lost-tapes-2/II/cover.jpg?cnt=0" />
+    
+ <figcaption>naS - nO bAD eNERGY 
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/nas-the-lost-tapes-2/II/01-No%20Bad%20Energy.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+<figure class=" track">
+    <IMG src="https://ia904509.us.archive.org/30/items/jay-z-the-dynasty-roc-la-familia/The%20Dynasty%20Roc%20La%20Familia/cover.jpg?cnt=0" />
+    
+ <figcaption>JayZ/Beenie/MemphBleek - Change The Game
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/jay-z-the-dynasty-roc-la-familia/The%20Dynasty%20Roc%20La%20Familia/02-Change%20The%20Game%20%28Ft.%20Beanie%20Sigel%20%26%20Memphis%20Bleek%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+      </div>
+
 ![The Breakfast CluB](https://i.iheart.com/v3/re/assets.brands/6035572a5f774a9161f29771?ops=gravity(%22center%22),contain(324,131)&quality=80)
 [Dr. Umar Says Kamala Harris Is Not For Black People and Calls Her Out For Marrying A White Man.](https://www.youtube.com/watch?v=Y4qUjZe6Y6M) [Kamala Harris Is Not Black, She’s Lazy and Flirts To Get What She Wants.](https://youtu.be/xmcqcbC16OU?si=vuvB8Z0N93VnRtcB) [Candace Owens On Black America, Congressional Puppets, Donald Trump, Kanye West, T.I. + More](https://youtu.be/goIrzPIh8yA?si=EWby97cSoGsujftz) [Jasmine Crockett Says Our Freedoms Are On The Line, Talks Kamala's Running Mate, Supreme Court +More](https://youtu.be/ytCCI9ACHe8?si=-zGwEwShAPyMF1hu)
 [Read More ricothaka.github.io/worknotes](https://ricothaka.github.io/computer) Normani its becoming a great record in real time, ill wait a lil longer 4 u 2 du mmy papprwrk [Compiling:TheBlog~NewPost[thakarashard.github.io dump 731]](https://ricothaka.github.io/compiling/thakarashard731) [Time's Up · O.C.](https://youtu.be/6gNmCGQRpcc?si=jswkjh0iBkx2EDB6)
