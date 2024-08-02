@@ -54,7 +54,10 @@
     </audio>
   </figure>
       </div>
- 
+
+
+      
+[RICK JAMES ON JUDGE JOE BROWN](https://youtu.be/CKSZNMxgPQg?si=Ye-z-mR4i-nGyp2t) 
 [Dr. Umar Says Kamala Harris Is Not For Black People and Calls Her Out For Marrying A White Man.](https://www.youtube.com/watch?v=Y4qUjZe6Y6M) [Kamala Harris Is Not Black, She’s Lazy and Flirts To Get What She Wants.](https://youtu.be/xmcqcbC16OU?si=vuvB8Z0N93VnRtcB) [Candace Owens On Black America, Congressional Puppets, Donald Trump, Kanye West, T.I. + More](https://youtu.be/goIrzPIh8yA?si=EWby97cSoGsujftz) [Jasmine Crockett Says Our Freedoms Are On The Line, Talks Kamala's Running Mate, Supreme Court +More](https://youtu.be/ytCCI9ACHe8?si=-zGwEwShAPyMF1hu)
 [Read More ricothaka.github.io/worknotes](https://ricothaka.github.io/computer) Normani its becoming a great record in real time, ill wait a lil longer 4 u 2 du mmy papprwrk [Compiling:TheBlog~NewPost[thakarashard.github.io dump 731]](https://ricothaka.github.io/compiling/thakarashard731) [Time's Up · O.C.](https://youtu.be/6gNmCGQRpcc?si=jswkjh0iBkx2EDB6)
 [Must Be dues - Melba Moore - song](https://www.youtube.com/watch?v=Cg1j3kMD2a4) [![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
