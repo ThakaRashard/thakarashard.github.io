@@ -1,7 +1,7 @@
 # Currently Compiling
 
 [Attack of the Killer Kung-Fu Wolf Bitch](https://boondocks.fandom.com/wiki/Attack_of_the_Killer_Kung-Fu_Wolf_Bitch) 
-Robert's online dating adventures lead him to a beautiful woman named Luna, whom he invites for the weekend. Unfortunately, Huey, Riley and Robert soon learn that Luna...[FromFandom](https://boondocks.fandom.com/wiki/Attack_of_the_Killer_Kung-Fu_Wolf_Bitch) [imdb](https://www.imdb.com/title/tt1143232/)
+Robert's online dating adventures lead him to a beautiful woman named Luna, whom he invites for the weekend. Unfortunately, Huey, Riley and Robert soon learn that Luna...[FromFandom](https://boondocks.fandom.com/wiki/Attack_of_the_Killer_Kung-Fu_Wolf_Bitch) [imdb](https://www.imdb.com/title/tt1143232/) [Normani playlist gift](https://youtu.be/wGpJbD9h-J0?si=zaSExbm4087w_yCi) its another cycle bae...
 
 <video controls  height="auto" poster="https://y.yarn.co/b678ced7-1052-4c22-be48-2fc2c2f7ebc6_text.gif">
 
