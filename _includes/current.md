@@ -1,7 +1,8 @@
 # Currently Compiling
 
 [Local TinGz on https://thakarashard.github.io/](https://thakarashard.github.io/civic01)
-[Barrington Levy - Under Mi Sensi](https://www.youtube.com/watch?v=uozhx1xeTDg) [Ganja Smuggling - Eek-A-Mouse](https://www.youtube.com/watch?v=UR9Cj5UyVbM)
+[Barrington Levy - Under Mi Sensi](https://www.youtube.com/watch?v=uozhx1xeTDg) [Ganja Smuggling - Eek-A-Mouse](https://www.youtube.com/watch?v=UR9Cj5UyVbM) [Bob Marley Tuff Gong Studio Rehearsal 1980 Full session](https://youtu.be/aXIDAd68ThI?si=mUAb-e0AyfKAPdjO)
+
 <iframe src="https://archive.org/embed/vid-20240802-073544" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [JPL and the Space Age: The Hunt for Space Rocks](https://www.youtube.com/watch?v=1wNzTyu36WA) [JPL and the Space Age: Landing on Mars](https://youtu.be/7aKewWHXXRE?si=MouyInZGPsjt8Yw6) 
