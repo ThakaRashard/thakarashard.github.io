@@ -1,4 +1,3 @@
-<hr />
 
 # Coral 
 
@@ -131,18 +130,7 @@ side a
 [Bullet With Butterfly Wings ](https://www.youtube.com/watch?v=xCmA1uC0r9A)
 ![CoralChrome](https://pbs.twimg.com/media/GNVVbu0akAA3Cjo?format=jpg&name=medium)
 
-<video controls  height="auto" poster="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BqeGhkeHlsa21zaGFzanJjbHQ0ZTJtdHVrbWc1YTFsYWtyam43dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R38DwrrBGxy9i/giphy.webp">
 
-<source src="https://archive.org/download/the-boondocks-complete/Season%201/The%20Boondocks%20-%20S01E11%20-%20Let%27s%20Nab%20Oprah.mp4" type="video/mp4" />    
-<source src="https://archive.org/download/the-boondocks-complete/Season%201/The%20Boondocks%20-%20S01E11%20-%20Let%27s%20Nab%20Oprah.mp4" type="video/mp4" />
-      
-Download the
-        or
-      <a href="https://archive.org/download/the-boondocks-complete/Season%201/The%20Boondocks%20-%20S01E11%20-%20Let%27s%20Nab%20Oprah.mp4">MP4</a>
-        video.
-</video>
-
-[Watch The Boondocks (Complete Series) on Archive.org](https://archive.org/details/the-boondocks-complete)
 
 <iframe src="https://archive.org/embed/the-scooby-doo-show" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
