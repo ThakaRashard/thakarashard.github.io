@@ -6,6 +6,8 @@ layout: default
 
 
 {% include current.md %}
+{% include erika.md %}
+{% include coral.md %}
 
 
 
