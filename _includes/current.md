@@ -1,7 +1,7 @@
 # Currently Compiling
 
 [Local TinGz on https://thakarashard.github.io/](https://thakarashard.github.io/civic01)
-[Barrington Levy - Under Mi Sensi](https://www.youtube.com/watch?v=uozhx1xeTDg) [Ganja Smuggling - Eek-A-Mouse](https://www.youtube.com/watch?v=UR9Cj5UyVbM) [Bob Marley Tuff Gong Studio Rehearsal 1980 Full session](https://youtu.be/aXIDAd68ThI?si=mUAb-e0AyfKAPdjO) [Nas - Take it in Blood - hiphop](https://youtu.be/pmmnzusZZMU?si=j9p5MfQSv4Wn9YfR)
+[Barrington Levy - Under Mi Sensi](https://www.youtube.com/watch?v=uozhx1xeTDg) [Ganja Smuggling - Eek-A-Mouse](https://www.youtube.com/watch?v=UR9Cj5UyVbM) [Bob Marley Tuff Gong Studio Rehearsal 1980 Full session](https://youtu.be/aXIDAd68ThI?si=mUAb-e0AyfKAPdjO) [Nas - Take it in Blood - hiphop](https://youtu.be/pmmnzusZZMU?si=j9p5MfQSv4Wn9YfR) [I Chase the Devil Max Romero](https://www.youtube.com/watch?v=zM4HXY1cLIY)
 
 <iframe src="https://archive.org/embed/vid-20240802-073544" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
