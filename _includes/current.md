@@ -3,7 +3,7 @@
 [Attack of the Killer Kung-Fu Wolf Bitch](https://boondocks.fandom.com/wiki/Attack_of_the_Killer_Kung-Fu_Wolf_Bitch) 
 Robert's online dating adventures lead him to a beautiful woman named Luna, whom he invites for the weekend. Unfortunately, Huey, Riley and Robert soon learn that Luna...[FromFandom](https://boondocks.fandom.com/wiki/Attack_of_the_Killer_Kung-Fu_Wolf_Bitch) [imdb](https://www.imdb.com/title/tt1143232/)
 
-<video controls  height="auto" poster="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BqeGhkeHlsa21zaGFzanJjbHQ0ZTJtdHVrbWc1YTFsYWtyam43dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R38DwrrBGxy9i/giphy.webp">
+<video controls  height="auto" poster="https://y.yarn.co/b678ced7-1052-4c22-be48-2fc2c2f7ebc6_text.gif">
 
 <source src="https://archive.org/download/the-boondocks-complete/Season%202/The%20Boondocks%20-%20S02E06%20-%20Attack%20of%20the%20Killer%20Kung-Fu%20Wolf%20Bitch.mp4" type="video/mp4" />    
 <source src="https://archive.org/download/the-boondocks-complete/Season%202/The%20Boondocks%20-%20S02E06%20-%20Attack%20of%20the%20Killer%20Kung-Fu%20Wolf%20Bitch.mp4" type="video/mp4" />
