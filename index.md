@@ -2,6 +2,10 @@
 layout: default
 ---
 
+
+[CalTech](https://www.imss.caltech.edu/services/wired-wireless-remote-access/about-caltech-network/ntp-time-service)
+NTP (Network Time Protocol) provides highly accurate atomic time for individuals connected to the Internet. Caltech, in agreement with the United States Naval Observatory, has installed a NTP Stratum 1 server that uses GPS time for synchronization. This server is available for on-campus as well as off campus public use. ntp-01.caltech.edu 192.12.19.20 131.215.220.143 ntp-02.caltech.edu
+
 <script src="https://gist.github.com/xujiaao/63cb3bbea9fe22e79206e5eb7ba82d0e.js"></script>
 [uptown butterfly _movie](https://youtu.be/UVhDEN4o7zk?si=c4evez9O4c5Z5SAB) [Tina, @kashdoll so pretty - song](https://youtu.be/-mv0YNUCoj4?si=YE7jtcVRzWUrPwcj) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/25VCq8iHTVo?si=kYLLTkf6Y9xpkSVG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
