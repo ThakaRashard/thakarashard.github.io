@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ydGxlS8l7Y0?si=WSRKxdXbMp5gzSO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Normani Web Bits](https://www.essence.com/tags/normani/)
 [CalTech](https://www.imss.caltech.edu/services/wired-wireless-remote-access/about-caltech-network/ntp-time-service)
 NTP (Network Time Protocol) provides highly accurate atomic time for individuals connected to the Internet. Caltech, in agreement with the United States Naval Observatory, has installed a NTP Stratum 1 server that uses GPS time for synchronization. This server is available for on-campus as well as off campus public use. ntp-01.caltech.edu 192.12.19.20 131.215.220.143 ntp-02.caltech.edu
