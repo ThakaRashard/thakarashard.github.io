@@ -2,9 +2,12 @@
 layout: default
 ---
 
-[Rashard Kelly is iNjured](https://archive.org/details/vid-20240811-073824)
+[Rashard Kelly is iNjured](https://archive.org/details/vid-20240811-073824) 
 
-[Alfred Hitchcock Presents S05E37 Escape To Sonoita](https://www.youtube.com/watch?v=IXOquJfqZ0U) [Is There An Extra Jeannie In The House? | Season 1 Ep 18 | I Dream Of Jeannie](https://youtu.be/HjZ6yDj_BWM?si=mctKWZM9wrYkVGGQ) [Get Me to Mecca on Time  Season 1 Ep 16 iDream Of Jeannie](https://www.youtube.com/watch?v=5R1oVz6sFK4) [Sherlock Holmes and the Secret Weapon (1943)](https://archive.org/details/SherlockHolmesAndTheSecretWeapon1943)
+music
+[One, Two](https://archive.org/details/sister-nancy-one-two) [Supa cat](https://archive.org/details/super-cat-don-dada)
+
+[Alfred Hitchcock Presents S05E37 Escape To Sonoita](https://www.youtube.com/watch?v=IXOquJfqZ0U) [Is There An Extra Jeannie In The House? | Season 1 Ep 18 | I Dream Of Jeannie](https://youtu.be/HjZ6yDj_BWM?si=mctKWZM9wrYkVGGQ) [Get Me to Mecca on Time  Season 1 Ep 16 iDream Of Jeannie](https://www.youtube.com/watch?v=5R1oVz6sFK4) [Sherlock Holmes and the Secret Weapon (1943)](https://archive.org/details/SherlockHolmesAndTheSecretWeapon1943) [CLEAR 2: SOFT LIFE EP](https://archive.org/details/summer-walker-clear-2-soft-life-ep)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> we need help too ... <a href="https://twitter.com/hashtag/Supercomputing?src=hash&amp;ref_src=twsrc%5Etfw">#Supercomputing</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasajpl</a> is real ask <a href="https://twitter.com/CHPAltadena?ref_src=twsrc%5Etfw">@CHPAltadena</a> abt <a href="https://twitter.com/josempi?ref_src=twsrc%5Etfw">@josempi</a> <a href="https://twitter.com/NetApp?ref_src=twsrc%5Etfw">@NetApp</a> the <a href="https://twitter.com/hashtag/EmploymentDispute?src=hash&amp;ref_src=twsrc%5Etfw">#EmploymentDispute</a> is connected to taht useless hardware purchase <a href="https://twitter.com/TEKsystems?ref_src=twsrc%5Etfw">@TEKsystems</a> may be an issue too <a href="https://twitter.com/AtlantaFirstUMC?ref_src=twsrc%5Etfw">@AtlantaFirstUMC</a> bc <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> is a <a href="https://twitter.com/hashtag/Fancyhooker?src=hash&amp;ref_src=twsrc%5Etfw">#Fancyhooker</a> <a href="https://t.co/UwuNLXHHRO">https://t.co/UwuNLXHHRO</a> <a href="https://t.co/WvR4KJMf8H">pic.twitter.com/WvR4KJMf8H</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1822769151225758067?ref_src=twsrc%5Etfw">August 11, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
