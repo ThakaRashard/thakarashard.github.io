@@ -158,6 +158,56 @@ h3 {
 
 
 
+.gallery-wrap {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 70vh;
+}
+
+.item {
+  flex: 1;
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: none;
+  transition: flex 0.8s ease;
+  
+  &:hover{
+    flex: 7;
+  }
+}
+
+.item-1 { 
+  background-image: url('https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04200/opgs/edr/ncam/NLB_770345493EDR_F1072484NCAM00256M_.JPG');
+}
+
+.item-2 { 
+  background-image: url('https://mars.nasa.gov/msl-raw-images/msss/04202/mcam/4202MR1059130272102870C00_DXXX.jpg');
+}
+
+.item-3 { 
+  background-image: url('https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04250/opgs/edr/ncam/NRB_774801663EDR_F1080222NCAM00200M_.JPG');
+}
+
+.item-4 { 
+  background-image: url('https://mars.nasa.gov/msl-raw-images/msss/04202/mcam/4202ML1059130291702010C00_DXXX.jpg');
+}
+
+.item-5 { 
+  background-image: url('https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04251/opgs/edr/ncam/NLB_774875074EDR_F1080438NCAM00274M_.JPG');
+}
+
+.social{
+  position: absolute;
+  right: 35px;
+  bottom: 0;
+  
+  img{
+    display: block;
+    width: 32px;
+  }
+}
 
 a {
   display:inline-block;
