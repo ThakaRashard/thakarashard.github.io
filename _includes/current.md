@@ -237,14 +237,15 @@ The Landsat 8 & 9 Active Fire and Thermal Anomalies product, generated from the 
 
 
 
+![lUNAR](https://upload.wikimedia.org/wikipedia/en/0/0b/LTSS_E_Boxart.jpg) Lunar: The Silver Star[b] is a role-playing video game developed by Game Arts in association with Studio Alex for the Sega/Mega-CD, originally published by Game Arts and released in Japan in 1992. After a successful release, the game was translated and localized by Working Designs for release in North America the following year.
 
+Designed as a "different kind of RPG",[1] Lunar: The Silver Star made use of the up-and-coming CD-ROM format by featuring high quality audio, full motion video, and voice acting to narrate a fantasy story set in a magical world. The game centers on the exploits of Alex, a young boy from a small town who dreams of one day becoming a great hero like his idol, Dragonmaster Dyne. When a childish adventure later turns to discovering an ancient dragon, Alex and his friends must journey across the world to gather the necessary power to become the next Dragonmaster, and save the world in the process.
 
+Lunar: The Silver Star was critically and commercially successful, becoming the number one selling Mega-CD title in Japan and the second highest-selling Mega-CD title. As the first game in the Lunar series, it set the standard for other follow-up titles including the direct sequel Lunar: Eternal Blue in 1994. Since the game's original release, three enhanced remakes have been produced for various systems: Lunar: Silver Star Story Complete in 1996, Lunar Legend in 2002, and Lunar: Silver Star Harmony in 2009. [wIKIpedia](https://en.wikipedia.org/wiki/Lunar:_The_Silver_Star) [rpgFan](https://www.rpgfan.com/review/lunar-the-silver-star/) [SegaRetro](https://segaretro.org/Lunar:_The_Silver_Star)
+[Try Lunar](https://www.retrogames.cc/segacd-games/lunar-the-silver-star.html) if You cant get your emulator right on your celly
 <object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
     </object>
-
-`91317e3be9d44dd75.7196870102` [twitterauth](#)
-
-
+![LunarCd](https://ia804604.us.archive.org/31/items/CG_Sega_CD/Lunar%20The%20Silver%20Star/JP/Disc.jpg)
 
 [Read More ricothaka.github.io/computer](https://ricothaka.github.io/computer)
 
