@@ -1,20 +1,21 @@
 # Currently Compiling
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1149242872&color=%23ff00e1&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/munilong" title="Muni Long" target="_blank" style="color: #cccccc; text-decoration: none;">Muni Long</a> · <a href="https://soundcloud.com/munilong/hrs-and-hrs" title="Hrs &amp; Hrs" target="_blank" style="color: #cccccc; text-decoration: none;">Hrs &amp; Hrs</a></div>
+
 [Compiling WasUpdated](https://thakarashard.github.io/compiling/)
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/904236316&color=%2300cbff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/asiandabratdoll" title="Asian Da Brat" target="_blank" style="color: #cccccc; text-decoration: none;">Asian Da Brat</a> · <a href="https://soundcloud.com/asiandabratdoll/sets/so-icy-princess-1" title="So Icy Princess" target="_blank" style="color: #cccccc; text-decoration: none;">So Icy Princess</a></div>
 
 ![Batman](https://upload.wikimedia.org/wikipedia/en/f/f4/Batman1943SerialPoster.jpg) 
 Batman is a 1943 American 15-chapter [theatrical serial](https://en.wikipedia.org/wiki/Serial_film) from Columbia Pictures, produced by Rudolph C. Flothow, The serial's story line involves the Batman, a secret U.S. government agent, attempting to defeat the schemes of Japanese agent Dr. Daka operating in Los Angeles at the height of World War II.[3] Serving Daka are his American henchmen.
 
-Batman is notable for being the first appearance on film of Batman and for debuting story elements that quickly became permanent parts of the Batman character's mythos, such as the "Bat's Cave" and its secret entrance through a grandfather clock inside Wayne Manor. The serial also changed the course of how Alfred's physical appearance was depicted in future Batman stories. At the time Batman was released in theaters, Alfred was drawn as a portly gentleman in the comics. Subsequent issues suddenly depicted Alfred as slim and sporting a thin moustache, following actor William Austin's appearance. [Wikipedia]()
-[Batman 1943](https://archive.org/details/batman-1943-episode-01)
+Batman is notable for being the first appearance on film of Batman and for debuting story elements that quickly became permanent parts of the Batman character's mythos, such as the "Bat's Cave" and its secret entrance through a grandfather clock inside Wayne Manor. The serial also changed the course of how Alfred's physical appearance was depicted in future Batman stories. At the time Batman was released in theaters, Alfred was drawn as a portly gentleman in the comics. Subsequent issues suddenly depicted Alfred as slim and sporting a thin moustache, following actor William Austin's appearance. [Wikipedia](https://en.wikipedia.org/wiki/Batman_(serial))
+[Batman 1943 all episodes](https://archive.org/download/batman-1943-episode-01)
+
+<iframe src="https://archive.org/embed/batman-1943-episode-01" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [uptown butterfly _movie](https://youtu.be/UVhDEN4o7zk?si=c4evez9O4c5Z5SAB) [Tina, @kashdoll so pretty - song](https://youtu.be/-mv0YNUCoj4?si=YE7jtcVRzWUrPwcj) 
 
 <iframe src="https://archive.org/embed/vid-20240813-131725" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-
-
 
 
 ![lUNAR](https://upload.wikimedia.org/wikipedia/en/0/0b/LTSS_E_Boxart.jpg) Lunar: The Silver Star[b] is a role-playing video game developed by Game Arts in association with Studio Alex for the Sega/Mega-CD, originally published by Game Arts and released in Japan in 1992. After a successful release, the game was translated and localized by Working Designs for release in North America the following year.
@@ -25,6 +26,7 @@ Lunar: The Silver Star was critically and commercially successful, becoming the 
 [Try Lunar](https://www.retrogames.cc/segacd-games/lunar-the-silver-star.html) if You cant get your emulator right on your celly
 <object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
     </object>
+
 ![LunarCd](https://ia804604.us.archive.org/31/items/CG_Sega_CD/Lunar%20The%20Silver%20Star/JP/Disc.jpg)
 
 [Read More ricothaka.github.io/computer](https://ricothaka.github.io/computer)
