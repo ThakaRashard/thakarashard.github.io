@@ -1,11 +1,35 @@
 # Currently Compiling
+
+[Compiling WasUpdated](https://thakarashard.github.io/compiling/)
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/904236316&color=%2300cbff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/asiandabratdoll" title="Asian Da Brat" target="_blank" style="color: #cccccc; text-decoration: none;">Asian Da Brat</a> · <a href="https://soundcloud.com/asiandabratdoll/sets/so-icy-princess-1" title="So Icy Princess" target="_blank" style="color: #cccccc; text-decoration: none;">So Icy Princess</a></div>
 
+![Batman](https://upload.wikimedia.org/wikipedia/en/f/f4/Batman1943SerialPoster.jpg) 
+Batman is a 1943 American 15-chapter [theatrical serial](https://en.wikipedia.org/wiki/Serial_film) from Columbia Pictures, produced by Rudolph C. Flothow, The serial's story line involves the Batman, a secret U.S. government agent, attempting to defeat the schemes of Japanese agent Dr. Daka operating in Los Angeles at the height of World War II.[3] Serving Daka are his American henchmen.
+
+Batman is notable for being the first appearance on film of Batman and for debuting story elements that quickly became permanent parts of the Batman character's mythos, such as the "Bat's Cave" and its secret entrance through a grandfather clock inside Wayne Manor. The serial also changed the course of how Alfred's physical appearance was depicted in future Batman stories. At the time Batman was released in theaters, Alfred was drawn as a portly gentleman in the comics. Subsequent issues suddenly depicted Alfred as slim and sporting a thin moustache, following actor William Austin's appearance. [Wikipedia]()
 [Batman 1943](https://archive.org/details/batman-1943-episode-01)
 
 [uptown butterfly _movie](https://youtu.be/UVhDEN4o7zk?si=c4evez9O4c5Z5SAB) [Tina, @kashdoll so pretty - song](https://youtu.be/-mv0YNUCoj4?si=YE7jtcVRzWUrPwcj) 
 
 <iframe src="https://archive.org/embed/vid-20240813-131725" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+
+
+![lUNAR](https://upload.wikimedia.org/wikipedia/en/0/0b/LTSS_E_Boxart.jpg) Lunar: The Silver Star[b] is a role-playing video game developed by Game Arts in association with Studio Alex for the Sega/Mega-CD, originally published by Game Arts and released in Japan in 1992. After a successful release, the game was translated and localized by Working Designs for release in North America the following year.
+
+Designed as a "different kind of RPG",[1] Lunar: The Silver Star made use of the up-and-coming CD-ROM format by featuring high quality audio, full motion video, and voice acting to narrate a fantasy story set in a magical world. The game centers on the exploits of Alex, a young boy from a small town who dreams of one day becoming a great hero like his idol, Dragonmaster Dyne. When a childish adventure later turns to discovering an ancient dragon, Alex and his friends must journey across the world to gather the necessary power to become the next Dragonmaster, and save the world in the process.
+
+Lunar: The Silver Star was critically and commercially successful, becoming the number one selling Mega-CD title in Japan and the second highest-selling Mega-CD title. As the first game in the Lunar series, it set the standard for other follow-up titles including the direct sequel Lunar: Eternal Blue in 1994. Since the game's original release, three enhanced remakes have been produced for various systems: Lunar: Silver Star Story Complete in 1996, Lunar Legend in 2002, and Lunar: Silver Star Harmony in 2009. [wIKIpedia](https://en.wikipedia.org/wiki/Lunar:_The_Silver_Star) [rpgFan](https://www.rpgfan.com/review/lunar-the-silver-star/) [SegaRetro](https://segaretro.org/Lunar:_The_Silver_Star)
+[Try Lunar](https://www.retrogames.cc/segacd-games/lunar-the-silver-star.html) if You cant get your emulator right on your celly
+<object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
+    </object>
+![LunarCd](https://ia804604.us.archive.org/31/items/CG_Sega_CD/Lunar%20The%20Silver%20Star/JP/Disc.jpg)
+
+[Read More ricothaka.github.io/computer](https://ricothaka.github.io/computer)
+
+[Heltah Skeltah & OGC - Leflaur Leflah Eshkoshka](https://www.youtube.com/watch?v=i4sW3jJuVDg) 
 
 ![Muna Ahmed_Memorial](https://pbs.twimg.com/media/GULEQmebcAAhekm?format=jpg&name=large)
 [Attack of the Killer Kung-Fu Wolf Bitch](https://boondocks.fandom.com/wiki/Attack_of_the_Killer_Kung-Fu_Wolf_Bitch) 
@@ -234,27 +258,6 @@ The Landsat 8 & 9 Active Fire and Thermal Anomalies product, generated from the 
 [Real Bout Fatal Fury 2 - The Newcomers (Korean release)](https://www.retrogames.cc/arcade-games/real-bout-fatal-fury-2-the-newcomers-korean-release.html)
 <iframe src="https://archive.org/embed/arcade_svc" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-
-
-
-![lUNAR](https://upload.wikimedia.org/wikipedia/en/0/0b/LTSS_E_Boxart.jpg) Lunar: The Silver Star[b] is a role-playing video game developed by Game Arts in association with Studio Alex for the Sega/Mega-CD, originally published by Game Arts and released in Japan in 1992. After a successful release, the game was translated and localized by Working Designs for release in North America the following year.
-
-Designed as a "different kind of RPG",[1] Lunar: The Silver Star made use of the up-and-coming CD-ROM format by featuring high quality audio, full motion video, and voice acting to narrate a fantasy story set in a magical world. The game centers on the exploits of Alex, a young boy from a small town who dreams of one day becoming a great hero like his idol, Dragonmaster Dyne. When a childish adventure later turns to discovering an ancient dragon, Alex and his friends must journey across the world to gather the necessary power to become the next Dragonmaster, and save the world in the process.
-
-Lunar: The Silver Star was critically and commercially successful, becoming the number one selling Mega-CD title in Japan and the second highest-selling Mega-CD title. As the first game in the Lunar series, it set the standard for other follow-up titles including the direct sequel Lunar: Eternal Blue in 1994. Since the game's original release, three enhanced remakes have been produced for various systems: Lunar: Silver Star Story Complete in 1996, Lunar Legend in 2002, and Lunar: Silver Star Harmony in 2009. [wIKIpedia](https://en.wikipedia.org/wiki/Lunar:_The_Silver_Star) [rpgFan](https://www.rpgfan.com/review/lunar-the-silver-star/) [SegaRetro](https://segaretro.org/Lunar:_The_Silver_Star)
-[Try Lunar](https://www.retrogames.cc/segacd-games/lunar-the-silver-star.html) if You cant get your emulator right on your celly
-<object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
-    </object>
-![LunarCd](https://ia804604.us.archive.org/31/items/CG_Sega_CD/Lunar%20The%20Silver%20Star/JP/Disc.jpg)
-
-[Read More ricothaka.github.io/computer](https://ricothaka.github.io/computer)
-
-
-
-
-
-
-[Heltah Skeltah & OGC - Leflaur Leflah Eshkoshka](https://www.youtube.com/watch?v=i4sW3jJuVDg) 
 
 
 
