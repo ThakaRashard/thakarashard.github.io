@@ -1,5 +1,11 @@
 # Currently Compiling
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/904236316&color=%2300cbff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/asiandabratdoll" title="Asian Da Brat" target="_blank" style="color: #cccccc; text-decoration: none;">Asian Da Brat</a> · <a href="https://soundcloud.com/asiandabratdoll/sets/so-icy-princess-1" title="So Icy Princess" target="_blank" style="color: #cccccc; text-decoration: none;">So Icy Princess</a></div>
 
+[Batman 1943](https://archive.org/details/batman-1943-episode-01)
+
+[uptown butterfly _movie](https://youtu.be/UVhDEN4o7zk?si=c4evez9O4c5Z5SAB) [Tina, @kashdoll so pretty - song](https://youtu.be/-mv0YNUCoj4?si=YE7jtcVRzWUrPwcj) 
+
+<iframe src="https://archive.org/embed/vid-20240813-131725" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![Muna Ahmed_Memorial](https://pbs.twimg.com/media/GULEQmebcAAhekm?format=jpg&name=large)
 [Attack of the Killer Kung-Fu Wolf Bitch](https://boondocks.fandom.com/wiki/Attack_of_the_Killer_Kung-Fu_Wolf_Bitch) 
@@ -15,6 +21,33 @@ Download the
       <a href="https://archive.org/download/the-boondocks-complete/Season%202/The%20Boondocks%20-%20S02E06%20-%20Attack%20of%20the%20Killer%20Kung-Fu%20Wolf%20Bitch.mp4">MP4</a>
         video.
 </video>
+
+
+[What Are Raw Images?](https://solarsystem.nasa.gov/raw-images/what-are-raw-images/)
+<cite>[Taken from webpage](https://science.nasa.gov/solar-system/)</cite>
+Raw images are photos from space missions that NASA provides online for easy public access in their original (usually monochrome) appearance, largely untouched by image processing software. Raw images, in this context, are generally not the same as truly "raw" science data – meaning the original image data format returned to Earth by spacecraft. They're more like high-quality previews of data received from missions. - [Why NASA offers raw images]() NASA space missions return lots of images to Earth ­– far more than featured images the agency posts on the web and in social media. For example, a long-lived mission like Cassini could return hundreds of thousands of images over its lifetime.
+
+[Rings of Saturn](https://solarsystem.nasa.gov/raw_images/158252/?layout=hds)
+![Rings](https://science.nasa.gov/wp-content/uploads/2023/10/W00083940.jpg?w=640&format=webp) 
+
+<div class="container">
+  <h1><a href="https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=0&mission=msl">Mars Science Laboratory: Curiosity Raw Images</a></h1>
+
+  <div class="gallery-wrap">
+    <div class="item item-1"></div>
+    <div class="item item-2"></div>
+    <div class="item item-3"></div>
+    <div class="item item-4"></div>
+    <div class="item item-5"></div>
+  </div>
+ </div>
+
+<div class="social">
+  <a href="https://twitter.com/StefCharle" target="_blank">
+    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/149103/twitter.svg" alt="">
+  </a>
+
+</div>
 
 [Watch The Boondocks (Complete Series) on Archive.org](https://archive.org/details/the-boondocks-complete)
 [Local TinGz on https://thakarashard.github.io/](https://thakarashard.github.io/civic01)

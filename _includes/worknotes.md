@@ -1,6 +1,18 @@
 # WorkNotes
 
 
+
+
+![heart erika normani](https://upload.wikimedia.org/wikipedia/en/f/f7/Franzcrisis.jpg)
+music
+[One, Two](https://archive.org/details/sister-nancy-one-two) [Supa cat](https://archive.org/details/super-cat-don-dada) [SZA+Ari_Lennox new song](https://youtu.be/MbksWNetHC4?si=xK80jTSuVzGP6OG2)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> we need help too ... <a href="https://twitter.com/hashtag/Supercomputing?src=hash&amp;ref_src=twsrc%5Etfw">#Supercomputing</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasajpl</a> is real ask <a href="https://twitter.com/CHPAltadena?ref_src=twsrc%5Etfw">@CHPAltadena</a> abt <a href="https://twitter.com/josempi?ref_src=twsrc%5Etfw">@josempi</a> <a href="https://twitter.com/NetApp?ref_src=twsrc%5Etfw">@NetApp</a> the <a href="https://twitter.com/hashtag/EmploymentDispute?src=hash&amp;ref_src=twsrc%5Etfw">#EmploymentDispute</a> is connected to taht useless hardware purchase <a href="https://twitter.com/TEKsystems?ref_src=twsrc%5Etfw">@TEKsystems</a> may be an issue too <a href="https://twitter.com/AtlantaFirstUMC?ref_src=twsrc%5Etfw">@AtlantaFirstUMC</a> bc <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> is a <a href="https://twitter.com/hashtag/Fancyhooker?src=hash&amp;ref_src=twsrc%5Etfw">#Fancyhooker</a> <a href="https://t.co/UwuNLXHHRO">https://t.co/UwuNLXHHRO</a> <a href="https://t.co/WvR4KJMf8H">pic.twitter.com/WvR4KJMf8H</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1822769151225758067?ref_src=twsrc%5Etfw">August 11, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+![karen bass email](https://pbs.twimg.com/media/GUvMLSdbcAAwpwv?format=jpg&name=large)
+![Email](https://pbs.twimg.com/media/GUvM1WZaoAI-_hP?format=jpg&name=large)
+
+
 [fair](https://media.cnn.com/api/v1/images/stellar/prod/e2-pia26367-curiosity-views-fascination-2500px.jpg?q=w_1015,c_fill/f_webp) [Freedom of Information Act Electronic Reading Room](https://www.cia.gov/readingroom/search/site)
 Welcome to the Central Intelligence Agency's Freedom of Information Act Electronic Reading Room. The FOIA Electronic Reading Room is provided as a public service by the Directorate of Digital Innovation's Information Management Services.  It has recently been enhanced and updated, and while many of the updates happened behind the scenes, we'd like to highlight several of the changes. [C.I.A UFO Collection](https://www.cia.gov/readingroom/search/site/?f%5B0%5D=im_field_taxonomy_keyword%3A477) [SECTION IV - TELEPATHIC BEHAVIOR MODIFICATION DST-1810S-387-75](https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000600320004-3.pdf)
 
