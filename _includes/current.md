@@ -2,7 +2,7 @@
 
   <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/545393754&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
   <div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/selectabwoy" title="Selectabwoy" target="_blank" style="color: #cccccc; text-decoration: none;">Selectabwoy</a> · <a href="https://soundcloud.com/selectabwoy/rawkus-presents-soundbombing-1997" title="Rawkus Presents Soundbombing (1997)" target="_blank" style="color: #cccccc; text-decoration: none;">Rawkus Presents Soundbombing (1997)</a></div>
-  
+
 <video controls width="100%" height="auto" poster="https://i.redd.it/qv9qfpq69dc91.gif">
 
   <source src="https://archive.org/download/short.circuit.1986.2160p/Short.Circuit.1986.2160p.BluRay.Topaz.AMQ.Upscale.x265-SoF.mp4" type="video/mp4" />
@@ -15,6 +15,13 @@
 </video>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RyCLVKC9WBo?si=uHRGGtE39n3RVm_O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+ <video  loop controls src="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4" poster="https://pbs.twimg.com/media/GJ3oD4vacAADC3A?format=jpg&name=large">
+    Sorry, your browser doesn't support embedded videos, but don't worry, you can
+    <a href="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4">download it</a>
+    and watch it with your favorite video player!
+  </video>
 
 [Compiling WasUpdated](https://thakarashard.github.io/compiling/)
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/904236316&color=%2300cbff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/asiandabratdoll" title="Asian Da Brat" target="_blank" style="color: #cccccc; text-decoration: none;">Asian Da Brat</a> · <a href="https://soundcloud.com/asiandabratdoll/sets/so-icy-princess-1" title="So Icy Princess" target="_blank" style="color: #cccccc; text-decoration: none;">So Icy Princess</a></div>
