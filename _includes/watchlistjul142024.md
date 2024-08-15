@@ -1,5 +1,59 @@
 # [WatchList](https://www.b98.tv/home/)
 
+
+<video controls  height="auto" poster="https://y.yarn.co/b678ced7-1052-4c22-be48-2fc2c2f7ebc6_text.gif">
+
+<source src="https://archive.org/download/the-boondocks-complete/Season%202/The%20Boondocks%20-%20S02E06%20-%20Attack%20of%20the%20Killer%20Kung-Fu%20Wolf%20Bitch.mp4" type="video/mp4" />    
+<source src="https://archive.org/download/the-boondocks-complete/Season%202/The%20Boondocks%20-%20S02E06%20-%20Attack%20of%20the%20Killer%20Kung-Fu%20Wolf%20Bitch.mp4" type="video/mp4" />
+      
+Download the
+        or
+      <a href="https://archive.org/download/the-boondocks-complete/Season%202/The%20Boondocks%20-%20S02E06%20-%20Attack%20of%20the%20Killer%20Kung-Fu%20Wolf%20Bitch.mp4">MP4</a>
+        video.
+</video>
+
+# Vintage Gaming Movie
+<iframe src="https://archive.org/embed/the-wizard-1989-hd" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+  <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/545393754&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+  <div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/selectabwoy" title="Selectabwoy" target="_blank" style="color: #cccccc; text-decoration: none;">Selectabwoy</a> · <a href="https://soundcloud.com/selectabwoy/rawkus-presents-soundbombing-1997" title="Rawkus Presents Soundbombing (1997)" target="_blank" style="color: #cccccc; text-decoration: none;">Rawkus Presents Soundbombing (1997)</a></div>
+
+<video controls width="100%" height="auto" poster="https://i.redd.it/qv9qfpq69dc91.gif">
+
+  <source src="https://archive.org/download/short.circuit.1986.2160p/Short.Circuit.1986.2160p.BluRay.Topaz.AMQ.Upscale.x265-SoF.mp4" type="video/mp4" />
+  <source src="https://archive.org/download/short.circuit.1986.2160p/Short.Circuit.1986.2160p.BluRay.Topaz.AMQ.Upscale.x265-SoF.mp4" type="video/mp4" />
+
+  Download the
+  or
+  <a href="">MP4</a>
+  video.
+</video>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RyCLVKC9WBo?si=uHRGGtE39n3RVm_O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+ <video  loop controls src="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4" poster="https://pbs.twimg.com/media/GJ3oD4vacAADC3A?format=jpg&name=large">
+    Sorry, your browser doesn't support embedded videos, but don't worry, you can
+    <a href="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4">download it</a>
+    and watch it with your favorite video player!
+  </video>
+
+## Robot Jox
+Dear Normani/Janika/Vanessa/Sartu/Imani(im not mad if its malaika) I cant talk about your movies or Chloe no more... I think you would laugh at how serious i still take this silly by my standards post 12ozProphet, so you guys can make those movies and i will be more accepting to what you do in hollywood professionally.
+
+<video controls 
+  src="https://archive.org/download/robotjox/Robot%20Jox.mp4"
+  poster="https://canvas-bridge02.tubitv.com/qLl8WbcPCCpxDRYJ7Hxj8icq2Xc=/1920x1080/smart/img.adrise.tv/ad076aa3-6c8c-4812-b385-7d6fab43a0d5.jpg"
+  >
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/robotjox/Robot%20Jox.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+Robot Jox is a 1990 American post-apocalyptic Mecha science-fiction film directed by Stuart Gordon and starring Gary Graham, Anne-Marie Johnson and Paul Koslo. Co-written by science-fiction author Joe Haldeman, the film's plot follows Achilles, one of the "robot jox" who pilot giant machines that fight international battles to settle territorial disputes in a dystopian, post-apocalyptic world...[ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Robot_Jox) [imdb](https://www.imdb.com/title/tt0102800/) [Robot Jox on Tubi](https://en.wikipedia.org/wiki/Robot_Jox)
+
+
+
+
 <iframe src="https://archive.org/embed/the-price-is-right-december-20-1984-christmas-episode" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![Bob](https://www.thevintagenews.com/wp-content/uploads/sites/65/2019/04/the-price-is-right-featured-image-30477.png)
