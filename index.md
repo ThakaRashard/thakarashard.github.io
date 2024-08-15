@@ -7,29 +7,7 @@ layout: default
 
 {% include current.md %}
 
-[Alfred Hitchcock Presents S05E37 Escape To Sonoita](https://www.youtube.com/watch?v=IXOquJfqZ0U) [Is There An Extra Jeannie In The House? Season 1 Ep 18  I Dream Of Jeannie](https://youtu.be/HjZ6yDj_BWM?si=mctKWZM9wrYkVGGQ) [Get Me to Mecca on Time  Season 1 Ep 16 iDream Of Jeannie](https://www.youtube.com/watch?v=5R1oVz6sFK4) [Sherlock Holmes and the Secret Weapon (1943)](https://archive.org/details/SherlockHolmesAndTheSecretWeapon1943) [CLEAR 2: SOFT LIFE EP](https://archive.org/details/summer-walker-clear-2-soft-life-ep) [Batman 1943](https://archive.org/details/batman-1943-episode-01)
-
-
-![erika johnson](https://pbs.twimg.com/media/GUflJ1mXUAAhzb3?format=jpg&name=large)
-![y](https://pbs.twimg.com/media/GUpnZ_6a0AAY3Pg?format=jpg&name=large)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ydGxlS8l7Y0?si=WSRKxdXbMp5gzSO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[Normani Web Bits](https://www.essence.com/tags/normani/)
-[CalTech](https://www.imss.caltech.edu/services/wired-wireless-remote-access/about-caltech-network/ntp-time-service)
-NTP (Network Time Protocol) provides highly accurate atomic time for individuals connected to the Internet. Caltech, in agreement with the United States Naval Observatory, has installed a NTP Stratum 1 server that uses GPS time for synchronization. This server is available for on-campus as well as off campus public use. ntp-01.caltech.edu 192.12.19.20 131.215.220.143 ntp-02.caltech.edu
-
-<script src="https://gist.github.com/xujiaao/63cb3bbea9fe22e79206e5eb7ba82d0e.js"></script>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/25VCq8iHTVo?si=kYLLTkf6Y9xpkSVG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-{% include erika.md %}
 {% include coral.md %}
-
-
-
-
-
 
 
 

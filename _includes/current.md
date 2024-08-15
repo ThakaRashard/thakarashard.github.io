@@ -1,4 +1,12 @@
 # Currently Compiling
+[Glamour Life](https://www.youtube.com/watch?v=1QnOCkQLTC0) 
+
+
+
+The Landsat 8 & 9 Active Fire and Thermal Anomalies product, generated from the Landsat Operational Land Imager (OLI) shows active fire detections and thermal anomalies, such as volcanoes, and gas flares.
+
+[Real Bout Fatal Fury 2 - The Newcomers (Korean release)](https://www.retrogames.cc/arcade-games/real-bout-fatal-fury-2-the-newcomers-korean-release.html)
+<iframe src="https://archive.org/embed/arcade_svc" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 [Compiling WasUpdated](https://thakarashard.github.io/compiling/)
@@ -52,8 +60,6 @@ Raw images are photos from space missions that NASA provides online for easy pub
 [Local TinGz on https://thakarashard.github.io/](https://thakarashard.github.io/civic01)
 [Barrington Levy - Under Mi Sensi](https://www.youtube.com/watch?v=uozhx1xeTDg) [Ganja Smuggling - Eek-A-Mouse](https://www.youtube.com/watch?v=UR9Cj5UyVbM) [Bob Marley Tuff Gong Studio Rehearsal 1980 Full session](https://youtu.be/aXIDAd68ThI?si=mUAb-e0AyfKAPdjO) [Nas - Take it in Blood - hiphop](https://youtu.be/pmmnzusZZMU?si=j9p5MfQSv4Wn9YfR) [I Chase the Devil Max Romero](https://www.youtube.com/watch?v=zM4HXY1cLIY)
 
-<iframe src="https://archive.org/embed/vid-20240802-073544" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
 [JPL and the Space Age: The Hunt for Space Rocks](https://www.youtube.com/watch?v=1wNzTyu36WA) [JPL and the Space Age: Landing on Mars](https://youtu.be/7aKewWHXXRE?si=MouyInZGPsjt8Yw6) 
 [Hubble Space Telescope, Planet 9, Curiosity Mars Rover, Cosmic Roulette  60 Minutes Full Episodes](https://youtu.be/ZYlALC1Pmv4?si=0GnKqpjKQmyYaxFw) 
 [Inside SpaceX's Mission to Send Humans into Deep Space  Foreign Correspondent](https://youtu.be/qInkR8P7q3M?si=uG4WNpxUxhCW0Igj) 
@@ -63,58 +69,6 @@ Raw images are photos from space missions that NASA provides online for easy pub
    [NASA's Breathtaking Findings on Ganymede: Exploring the Marvels of Jupiter's Largest Moon](https://youtu.be/s94XNsypTeo?si=YmvkYYiem5DdPAQo)
     [NASA's Next-Generation Solar Sail Mission](https://youtu.be/rfYLnbw7iu8?si=hcTrcU6zOGLUyHgx)
 
-<div class="playlist">
-<figure class=" track">
-<IMG src="https://i.discogs.com/IZW09_FtTLqJ_5902JW6OL6o1F37o9LdDFXg7UMorE8/rs:fit/g:sm/q:90/h:594/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MDEtMTI5MjA3NTEx/Ny5qcGVn.jpeg" />
-    
- <figcaption> In The World Akinyele 
-    </figcaption>
-    <audio controls loop>
-      <source src="https://archive.org/download/akinyele-putitinyourmouth/03-In%20The%20World.mp3">
-      Your browser dose not Support the audio Tag
-    </audio>
-  </figure>
-
-<figure class=" track">
-    <IMG src="https://ia904503.us.archive.org/15/items/nas-the-lost-tapes-2/II/cover.jpg?cnt=0" />
-    
- <figcaption>naS - wAR aGAINST lOVE
-    </figcaption>
-    <audio controls loop>
-      <source src="https://archive.org/download/nas-the-lost-tapes-2/II/09-War%20Against%20Love.mp3">
-      Your browser dose not Support the audio Tag
-    </audio>
-  </figure>
-<figure class=" track">
-    <IMG src="https://ia904503.us.archive.org/15/items/nas-the-lost-tapes-2/II/cover.jpg?cnt=0" />
-    
- <figcaption>naS - nO bAD eNERGY 
-    </figcaption>
-    <audio controls loop>
-      <source src="https://archive.org/download/nas-the-lost-tapes-2/II/01-No%20Bad%20Energy.mp3">
-      Your browser dose not Support the audio Tag
-    </audio>
-  </figure>
-
-<figure class=" track">
-    <IMG src="https://ia904509.us.archive.org/30/items/jay-z-the-dynasty-roc-la-familia/The%20Dynasty%20Roc%20La%20Familia/cover.jpg?cnt=0" />
-    
- <figcaption>JayZ/Beenie/MemphBleek - Change The Game
-    </figcaption>
-    <audio controls loop>
-      <source src="https://archive.org/download/jay-z-the-dynasty-roc-la-familia/The%20Dynasty%20Roc%20La%20Familia/02-Change%20The%20Game%20%28Ft.%20Beanie%20Sigel%20%26%20Memphis%20Bleek%29.mp3">
-      Your browser dose not Support the audio Tag
-    </audio>
-  </figure>
-      </div>
-
-
-
-[RICK JAMES ON JUDGE JOE BROWN](https://youtu.be/CKSZNMxgPQg?si=Ye-z-mR4i-nGyp2t) 
-[Dr. Umar Says Kamala Harris Is Not For Black People and Calls Her Out For Marrying A White Man.](https://www.youtube.com/watch?v=Y4qUjZe6Y6M) [Kamala Harris Is Not Black, She’s Lazy and Flirts To Get What She Wants.](https://youtu.be/xmcqcbC16OU?si=vuvB8Z0N93VnRtcB) [Candace Owens On Black America, Congressional Puppets, Donald Trump, Kanye West, T.I. + More](https://youtu.be/goIrzPIh8yA?si=EWby97cSoGsujftz) [Jasmine Crockett Says Our Freedoms Are On The Line, Talks Kamala's Running Mate, Supreme Court +More](https://youtu.be/ytCCI9ACHe8?si=-zGwEwShAPyMF1hu)
-[Read More ricothaka.github.io/worknotes](https://ricothaka.github.io/computer) Normani its becoming a great record in real time, ill wait a lil longer 4 u 2 du mmy papprwrk [Compiling:TheBlog~NewPost[thakarashard.github.io dump 731]](https://ricothaka.github.io/compiling/thakarashard731) [Time's Up · O.C.](https://youtu.be/6gNmCGQRpcc?si=jswkjh0iBkx2EDB6)
-[Must Be dues - Melba Moore - song](https://www.youtube.com/watch?v=Cg1j3kMD2a4) [![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
-
 
 Androiding 
 [Smart Phone Screenshare](https://archive.org/details/screen-20240731-050451_202408)
@@ -123,24 +77,6 @@ Androiding
 
 
 
-[Santa Monica Kelp](https://youtu.be/7nrLdR-HN2w?si=TYf4lsesCWpmusxC)
-
-[kelp on vimeo](https://vimeo.com/807485736)
-
-[Kelp restoration Santa Monica Bay](https://www.pinwheel.earth/projects/kelp-restoration-santa-monica-bay) [The Bay Foundation](https://www.instagram.com/thebayfoundation/?locale=es) [Kelp Us Kelp You - How Kelp Can Help in a Changing Climate (the bay foundation)](https://www.youtube.com/watch?v=ZpGZHn9Q8BQ) [Impacts of Kelp Forests on Ocean Acidification in Santa Monica Bay](https://www.ioes.ucla.edu/project/the-bay-foundation/) [ June 15, 2017 By kelpteamIn #blog](https://kelpteam.wordpress.com/blog/)
-
-![divermaimer](https://www.ioes.ucla.edu/wp-content/uploads/2017/02/impacts-of-kelp-forests-on-ocean-acidification-in-santa-monica-bay-800x450.jpg)
-![UCLA](https://www.ioes.ucla.edu/wp-content/themes/uclaioes/assets/images/ucla-ioes-logo.svg)
-
-[Kelp Forest Restoration Project Begins off Southern California Coast](https://response.restoration.noaa.gov/about/media/kelp-forest-restoration-project-begins-southern-california-coast.html)
-
-
-> After 15 years of scientific monitoring, research, and planning, the Santa Monica Bay Restoration Foundation (SMBRF), with funding and technical assistance from NOAA's Montrose Settlements Restoration Program (MSRP), begins a large-scale kelp forest restoration project off the coast of California's Palos Verdes peninsula this July.
-
-Are the rocks he is picking those urchins from a part of a reef? I got the idead from WarnerBrothers and otehr [LocalCartoons](https://www.b98.tv/videos_categories/studios/)
-
-
-![NOAA DiVER](https://response.restoration.noaa.gov/sites/default/files/images/13/montrose-volunteer-diver-removing-urchin-barren_2009-8-13_noaa-david-whitting_472.jpg)
 
 ![curiosity](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04258/opgs/edr/ncam/NRB_775492033EDR_S1080792NCAM00594M_.JPG)
 [Front_Left_Hazcam:Two_Year_Movie](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
@@ -224,15 +160,7 @@ Sonic the Hedgehog (ソニック・ザ・ヘッジホッグ Sonikku za Hejjihogg
 
 
 
-[Contact](https://youtu.be/oG6y0mmI0N4?si=dPt23E0Ky8dxleUV) "We are not alone..." Two-time Academy Award-winner Jodie Foster and Hollywood's brightest new star, Matthew McConaughey, shine in this spellbinding drama of a dedicated astronomer's quest to make first Contact. Despite scorn from her colleagues...[imdb](https://www.imdb.com/title/tt0118884/) [Glamour Life](https://www.youtube.com/watch?v=1QnOCkQLTC0) 
-
-
-
-The Landsat 8 & 9 Active Fire and Thermal Anomalies product, generated from the Landsat Operational Land Imager (OLI) shows active fire detections and thermal anomalies, such as volcanoes, and gas flares.
-
-[Real Bout Fatal Fury 2 - The Newcomers (Korean release)](https://www.retrogames.cc/arcade-games/real-bout-fatal-fury-2-the-newcomers-korean-release.html)
-<iframe src="https://archive.org/embed/arcade_svc" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
+[Contact](https://youtu.be/oG6y0mmI0N4?si=dPt23E0Ky8dxleUV) "We are not alone..." Two-time Academy Award-winner Jodie Foster and Hollywood's brightest new star, Matthew McConaughey, shine in this spellbinding drama of a dedicated astronomer's quest to make first Contact. Despite scorn from her colleagues...[imdb](https://www.imdb.com/title/tt0118884/) 
 
 
 
