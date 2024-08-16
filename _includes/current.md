@@ -1,6 +1,10 @@
 
 # Currently Compiling
+[The endless possibilities and services LA libraries offer](https://www.cbsnews.com/losangeles/video/the-endless-possibilities-and-services-la-libraries-offer/) <cite>With National Library Week in full swing, a Los Angeles librarian tells us about all of the amazing services they offer to enrich the lives of students, children, and adults.
+Apr 11, 2024</cite>
 
+Los angeles is a [Euridite civiliZation](https://en.wiktionary.org/wiki/erudite) so i may need to pay more attention to signage
+`characterized by great knowledge; learned or scholarly: an erudite professor; an erudite commentary. Synonyms: sapient, wise, knowledgeable, educated.`
 
 ![NasaGLEN_RED_PLANET](https://archive.org/download/C-1997-2554/1997_02554.jpg)
 [NAsa_GLeNN PLANET MARS](https://archive.org/details/C-1997-2554)
