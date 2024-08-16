@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Rashard Kelly is iNjury udATE -HEADSCABS FROM SOFT AMMO-](https://archive.org/download/vid-20240813-131725/VID_20240813_131725.mp4) 
+[Rashard Kelly is iNjury udATE -Graffifi in Atlanta is addressed some](https://archive.org/details/vid-20240815-062510) 
 
 
 {% include current.md %}
