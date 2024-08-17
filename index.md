@@ -4,7 +4,7 @@ layout: default
 
 [Rashard Kelly is iNjury udATE -Graffifi in Atlanta is addressed some](https://archive.org/details/vid-20240815-062510) 
 
-[RiCOTHAKA.GiTHUB.iO for more](https://ricothaka.github.io/worknotes01)
+
 
 
 {% include current.md %}

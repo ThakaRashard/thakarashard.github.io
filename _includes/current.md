@@ -1,5 +1,11 @@
 
 # Currently Compiling
+[ 47] Mobile Suit Gundam Wing
+<iframe src="https://archive.org/embed/47-mobile-suit-gundam-wing" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<a href="https://ricothaka.github.io/worknotes01"><img src="https://pbs.twimg.com/media/GVJMo0haYAAQRdu?format=jpg&name=large" alt="ricothaka.github.io"> </a>
+
+[RiCOTHAKA.GiTHUB.iO for more](https://ricothaka.github.io/civic01) [CompilingTheBlog=Updated](https://thakarashard.github.io/compiling/dispostionthestory)
 
 
 HipHop/Funk RollerRinky~
