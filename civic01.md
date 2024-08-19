@@ -10,6 +10,8 @@ layout: default
 4 # UNiVERSE#####################iloveyounormani____######
 {% endhighlight %}
 
+<script src="https://gist.github.com/ThakaRashard/04c22752b4b7dde5f8407a043164b8e3.js"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NYz5si-DZa4?si=iCYrdErhlrALX-IH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Must Be dues - Melba Moore - song](https://www.youtube.com/watch?v=Cg1j3kMD2a4)
 [Smokey and the Bandit](https://lastchancepowerdrive.com/2019/08/10/smokey-and-the-bandit-filming-sites/)
