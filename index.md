@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uABHh5OGQHs?si=OXyWohTJCN032BxP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #TwitterBlock  Screen Recording 2024 08 19 11.55.48 AM 
 <iframe src="https://archive.org/embed/screen-recording-2024-08-19-11.55.48-am" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
