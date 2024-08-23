@@ -988,8 +988,7 @@ video {
 embed {
   
   width: 100%;
-  scrollbar-color: #595959 #262626;
-  scrollbar-width: thin;
+min-height: max-content;
 }
 
 iframe {
