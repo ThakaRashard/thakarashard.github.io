@@ -1,12 +1,13 @@
 
 # Currently Compiling
+[LAndSat 7, retired?](https://www.usgs.gov/news/national-news-release/end-era-historic-landsat-7-mission-takes-final-images) [JAY Z, Kanye West - Otis ft. Otis Redding](https://www.youtube.com/watch?v=BoEKWtgJQAU) 
 
 ### [DragonBall GT](https://www.imdb.com/title/tt0139774/)
 <iframe src="https://archive.org/embed/ikaos-som-dragon-ball-gt-complete-001-064-r2j-dragon-box-multi-audio-v2" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-[JAY Z, Kanye West - Otis ft. Otis Redding](https://www.youtube.com/watch?v=BoEKWtgJQAU)
+
 ## The New social Disease
-[LAndSat 7, retired?](https://www.usgs.gov/news/national-news-release/end-era-historic-landsat-7-mission-takes-final-images)
+
 ![SantaMonica](https://pbs.twimg.com/media/GYbTbDFaoAA1W5x?format=png&name=900x900)
 
 # Broken Builds
