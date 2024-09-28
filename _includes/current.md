@@ -1,39 +1,167 @@
 
 # Currently Compiling
 
-<iframe src="https://player.vimeo.com/video/11938213?h=4fd886812d&color=c2c2c2&byline=0&portrait=0" width="640" height="432" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/11938213">BOUNCING CATS  film trailer</a> from <a href="https://vimeo.com/nabilelderkin">nabil elderkin</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
- 
+### [DragonBall GT](https://www.imdb.com/title/tt0139774/)
+<iframe src="https://archive.org/embed/ikaos-som-dragon-ball-gt-complete-001-064-r2j-dragon-box-multi-audio-v2" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-FILM SYNOPSIS
+[JAY Z, Kanye West - Otis ft. Otis Redding](https://www.youtube.com/watch?v=BoEKWtgJQAU)
+## The New social Disease
+[LAndSat 7, retired?](https://www.usgs.gov/news/national-news-release/end-era-historic-landsat-7-mission-takes-final-images)
+![SantaMonica](https://pbs.twimg.com/media/GYbTbDFaoAA1W5x?format=png&name=900x900)
 
-Uganda has been called one of the worst places on earth to be a child. In the South, children face the threat of poverty and disease. In the North, these threats are enflamed by a brutal, mindless war inflicted by the Lord’s Resistance Army (L.R.A.) that has divided families, displaced millions, and led to the abduction and mutilation of tens of thousands of children resulting in the deterioration of identity and culture.
+# Broken Builds
+Usually its in the .css/.scss file where my [build breaks](https://github.com/ricoThaka/compiling/actions/runs/11040779623/job/30784563669). i was porting some old code from BubblegumPop, a repo my friend an spouse uses to do something with her girlfriends when social media breaks... Now im being asked for new functionality bc `actions/upload-artifact@v4 or later` is not present. I had to add to the Buildfile and now the site and 3 other sites are not complaining and accepting new MarkDown and MarkUp [i shared a cheetsheet below ](#MArkDown-QuickFacts).
 
-Bouncing Cats is the inspiring story of one man’s attempt to create a better life for the children of
-Uganda using the unlikely tool of hip-hop with a focus on b-boy culture and breakdance. In 2006, Abraham “Abramz” Tekya, a Ugandan b-boy and A.I.D.S. orphan created Breakdance Project Uganda (B.P.U.). The dream was to establish a free workshop that would empower, rehabilitate and heal the community by teaching youth about b-boy culture. Based in Kampala, Uganda, B.P.U. has recently expanded to include permanent classes in Gulu, Northern Uganda. Abramz teaches classes three times a week to more than 300 kids from all parts of the country. Many of the children are homeless, victims of war and poverty, and few can afford proper schooling yet they walk from miles away to attend the B.P.U. classes. As Abramz says, “This is where many people’s pride is. It’s a skill that no one can take away from us.”
+`Artifacts allow you to share data between jobs in a workflow and store data once that workflow has completed.`
 
-Crazy Legs, one of the founding members of the seminal Rock Steady Crew visited Uganda after receiving an invitation from Abramz to teach b-boy classes. What he discovered upon his arrival was both heartbreaking and inspiring. Traveling throughout Uganda, from the southern slums to the war-torn North, Crazy Legs encountered a passion for hip-hop and desire to learn amongst the most squalid conditions.
+### [About workflow artifacts](https://docs.github.com/en/actions/writing-workflows/choosing-what-your-workflow-does/storing-and-sharing-data-from-a-workflow)
 
-Bouncing Cats follows Abramz, Crazy Legs, and Breakdance Project Uganda on a journey to use hip-hop culture for positive social change. The film features narration by Common and interviews with Mos Def, Will-I-Am, and K’Naan.
-
-<cite> sup nabril</cite>
-
-#  its rashard from TatsCruCommunityCenterHuntsPoint and Normani husband... Thaka
-i think its gonna work out. Im scared of common, ill be honest all my hiphop heros got impersonated or not in my wifes prostitution in hollywood and im relearning to listen to music. Im sleeping outdoors finally so my body is more adept to breaking. iDk what CrazyLegs is going through but we had an RSC dancer taking classes at Dance411. If you heard of [Sammy Davis Jr.](https://www.youtube.com/watch?v=OXYndNL4Mu8). Anywat he old school playboy and his boys control alot of the girls. I cant remember if it was you or how long you were in america but i grew. I work at [NasaJPL](https://www.jpl.nasa.gov/) im just locked out and i have a lot of false allagation from knowingthose girls from Dance411. [Normani - Motivation](https://www.youtube.com/watch?v=FKXSh14svlQ) Thats her MudFace song and you can look. Man its that whole kunyaza thing and I got hurt feelings. Itsounds so gross at this point im sure [Uganda Parliament](https://www.parliament.go.ug/) knows i looked up the word [Kunyaza](https://www.parliament.go.ug/)... why did i do that?!?! Anyway im still working on my [Six Step](https://youtu.be/J9mFCAERAC4?si=wFb0CZtT7lcHKkwd) [Mighty Zulu Kings](https://youtu.be/AVZyNqDjgnI?si=Vx6GOX1Dpl7H1o8-) u know what i dont care what he moves like now! I wanna know bc i get poisoned when i start having fun dancing! ~> there  [Spoonie GeeLove Rap](https://youtu.be/cv2ReNgW8I0?si=cr5W6_OKCA8lqaKn)  [Treacherous Three - Feel the heartbeat - 1981](https://www.youtube.com/watch?v=Hk_DBrjtH0s) [The New Rap Language](https://youtu.be/ppdQMWKQ2ok?si=NDZhEmaibyTDOn3_) [The Body Rock](https://www.youtube.com/watch?v=bo8u7aQEmUo) [Rappin and Rocking the House (Version B)](https://youtu.be/D1xnK3xVQY4?si=Tna8F65EJjIUcRxG) [Superrappin'](https://youtu.be/Up8zxybJNHQ?si=7vYe0Ilnux7jmSWd) [Time Machine-The Way Things Are](https://youtu.be/5YMYrB0dqoU?si=sWlWNsKNUSS9GreM) [Yma Sumac – Mambo! (1955) - Latin Folk Jazz Exotica](https://youtu.be/T7kPRvm7X34?si=dlEsijdHgSHuhBDx) [Esquivel and his orchestra - Other worlds, other sounds LP: RCA Victor](https://youtube.com/playlist?list=PLCzdBMu_SA7HkBCfIrvVibp_1a_H5JGb6&si=D7nwcE3mDWRgPRUw) [Yma Sumac sings Taita Inty "Hymn of the Sun Virgin" 1950. The Colgate Comedy Hour.](https://youtu.be/5waBf-jzZmc?si=d672wz6zBUZtNEEA) HipHop/Funk RollerRinky~
-[You've Gotta Believe (Vocal) · Lovebug Starski](https://youtu.be/YcXlDqstZUM?si=S_-L8RmSuGXAkQAM) [Positive Life · Lovebug Starski · Harlem World Crew](https://youtu.be/04-8u2Memes?si=ZVP33fTayRXCz6FH) [Alicia Myers - I want to thank you](https://youtu.be/R9wGnnwBc9M?si=nmsUj4XUnRRHhju7) [Golden Flamingo Orchestra Featuring Margo Williams   The Guardian Angel Is Watching Over Us](https://youtu.be/kTp0-IRuYLU?si=Z2vE4TKf3dhGJmHi) [Margo Williams - God Save And Protect All The Children](https://youtu.be/yz19n4eS3eQ?si=ESnBkvSlqWTQBdj-) [Nights Over Egypt · The Jones Girls](https://youtu.be/f2WgspFSpio?si=MVEPklBbV8uj3KaW) [I Love You More · René & Angela](https://youtu.be/Pa8EmB124mU?si=ehM2wGvmtbOSsFyw) [Xavier, Do It to the Max](https://youtu.be/JXTZ4OqQIr4?si=9AJ3mlSTB1alT444) [52nd Street - Tell Me (How it Feels) ](https://youtu.be/3Ck25PGjlLc?si=xSYHOzF6tY590DYg) [Razzamatazz · Quincy Jones](https://youtu.be/H8atbyVp-Pk?si=S3Wt3F2fwFzVvUa6) [Juicy - Sugar Free](https://youtu.be/z4rlMOGxtVY?si=AtU5q-JRWyeB4Wuo) [Adam and Eve · Nas · The-Dream](https://youtu.be/tobfI7tl7-g?si=yG2QHamIS8xOVrpV) [Sade - Turn My Back On You](https://youtu.be/CCzANcg3Xag?si=DvJzeab8_fsdMitS) 
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/56406342?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="BOUNCING CATS"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uABHh5OGQHs?si=OXyWohTJCN032BxP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x_kD3IUQpX0?si=yHafr5_7bzqEW1Q5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-#TwitterBlock   Twitter, x, normani_husband, Rashad, nasajpl
-<iframe src="https://archive.org/embed/screen-recording-2024-08-22-12.11.30-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-<iframe src="https://archive.org/embed/arcade_spuzbobl" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+```log
+Found 0 artifact(s)
+##[debug]List artifact count: 0
+Error: Fetching artifact metadata failed. Is githubstatus.com reporting issues with API requests, Pages, or Actions? Please re-run the deployment at a later time.
+Error: Error: No artifacts named "github-pages" were found for this workflow run. Ensure artifacts are uploaded with actions/upload-artifact@v4 or later.
+    at getArtifactMetadata (/home/runner/work/_actions/actions/deploy-pages/v4/src/internal/api-client.js:85:1)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Deployment.create (/home/runner/work/_actions/actions/deploy-pages/v4/src/internal/deployment.js:66:1)
+    at main (/home/runner/work/_actions/actions/deploy-pages/v4/src/index.js:30:1)
+Error: Error: No artifacts named "github-pages" were found for this workflow run. Ensure artifacts are uploaded with actions/upload-artifact@v4 or later.
+##[debug]Node Action run completed with exit code 1
+##[debug]Finishing: Deploy to GitHub Pages
+```
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xhuq9sSsvV4?si=Uv-XBHP28LdPHf3Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-\
+
+Like a pussy i turned off [linting](https://docs.github.com/en/contributing/collaborating-on-github-docs/using-the-content-linter). `The linter uses markdownlint as the framework to perform checks, report flaws, and automatically fix content, when possible. `  It was really helping me grow as an [HTML PRogrammer](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) some argue its not a [Programming Language](https://github.com/resources/articles/software-development/what-is-a-programming-language) theres just different types and HTNL is a [Markup Language](https://en.wikipedia.org/wiki/Markup_language). From my understanding at this point [MarkDown](https://www.markdownguide.org/) is just a collapesed subset that reducses the steps to publish text to device. Like theres no [KramDown](https://kramdown.gettalong.org/) object or [Video](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video) without knowing [LiquiD](https://jekyllrb.com/docs/liquid/)
+
+
+
+- [Rashard MRO](https://ricothaka.github.io/rashardmro/)
+
+[Embedding videos #91 [KramDown User 2014]](https://github.com/mmistakes/minimal-mistakes/issues/91)
+
+`I haven't been able to insert a video so far. I'm using:`
+```html
+
+<iframe src="https://www.youtube.com/watch?v=MU9sobaVx6I" width="560" height="315" frameborder="0"> </iframe>
+```
+
+[Is HTML a programming language? - theserverside.com](https://www.theserverside.com/feature/Is-HTML-a-programming-language)
+
+
+# The Build File 
+
+Here is the old Build file and the added and updated file is belo, i embedded a gist to see if my browser will throw that 200error
+
+```yml
+on:
+  push:
+  pull_request:
+    types: [opened, synchronize]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: script/cibuild
+    steps:
+      - uses: actions/checkout@v2
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.2.0
+          bundler-cache: true
+      - name: build
+        run: script/bootstrap
+      - name: test
+        run: script/cibuild
+```
+
+### updated
+
+```yml
+on:
+  push:
+  pull_request:
+    types: [opened, synchronize]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: script/cibuild
+    steps:
+      - uses: actions/checkout@v4
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.0
+          bundler-cache: true
+      - name: build
+        run: script/bootstrap
+      - name: test
+        run: script/cibuild
+  # Deployment job
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+```
+
+
+
+
+<script src="https://gist.github.com/ricoThaka/566d7f15a49f45fc5f782f3448caa778.js"></script>
+
+
+## MArkDown-QuickFacts
+
+# [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Create sophisticated formatting for your prose and code on GitHub with simple syntax.
+
+# A first-level heading
+## A second-level heading
+### A third-level heading
+
+
+[ANCHoRLiNKS](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#section-links)
+
+# Example headings
+
+## Sample Section
+
+## This'll  be a _Helpful_ Section About the Greek Letter Θ!
+A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.
+
+## This heading is not unique in the file
+
+TEXT 1
+
+## This heading is not unique in the file
+
+TEXT 2
+
+# Links to the example headings above
+
+Link to the sample section: [Link Text](#sample-section).
+
+Link to the helpful section: [Link Text](#thisll--be-a-helpful-section-about-the-greek-letter-Θ).
+
+Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
+
+Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
+
+
+![Mars HElicopter](https://photojournal.jpl.nasa.gov/archive/PIA25321.gif)
+![Curiosity](https://photojournal.jpl.nasa.gov/archive/PIA17938.gif)
+![Betty's Rock](https://photojournal.jpl.nasa.gov/jpegMod/PIA25656_modest.jpg)
+
 ## Dear_House_of_reps
 I have been doing research on the planet mars in public for a bout 4 years. CNN is covering my work and i have trouble eating and communicating. My Family vanished and no Social Security number based resource will aid me. I am struggling with hunger at times and have no shelter. I have women i need to reconnect with to find out what happend. They got kidnapped just b4 covid and tricked me into coming to california, where i was supposed to be headed anyway! And i found out they are victims of a Sex MArket online and the Street Walking and Dancing is just for display. I am complaining about CNN bc Ashley Strickland has no issues communicating from what i see and im stalked and chased by Allied Universal who is the BodyGaurd people of choice of Atlanta's YallyWood and CentralNewsNetwork. I am a native so the girls i was raised to think would be my spouses are up for NBA, Comedy, Film < journalism and everyother industry to deposit semen into. I dont know where my daughter ios from 631 Moreland Ave's illegal eviciton of Rashard Iman Kelly after being denied resources by family services leading to the foprced abduction of Coral Iris Kelly from the home of Copnstancia Arriba. So her i am in Holly wood. I am dating a Popstar named Normani off an on an she plays MineCraft. So thats my side outside. She is really pretty and poses for Vogue but a dark part of her life is that the pictures she takes nude for various publications are used by the local sex trade to keep her marketable for visitors to the city of los angeles and healthy to maintain telepathy for local criminals. She is my best friend(at this level(coral that shit 100bruh)). And since she is mixing with a lot of media i think my blogging gets into the hands of ppl with the power to publish at will. I need balance and a kind cooling center. CNN since we are working to gether can you help me off the streets digitally, can you  help me reconcile my family? Rashard Kelly aka Thaka(Muna Husband, Latto City Erika n nem Husband ) out NasaJPl Mars Mission Address: Jet Propulsion Laboratory, 4800 Oak Grove Dr, Pasadena, CA 91011 [Please Read](https://thakarashard.github.io/ricothaka/dispositionforsherrif)
 
