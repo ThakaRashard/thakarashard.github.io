@@ -25,7 +25,10 @@ Coral this is the landing of Insight. I put you an your mom names on, maybe keny
 
 
 ![MSHvsSF.zip](https://i0.wp.com/arcademarquee.com/wp-content/uploads/2015/02/marvel-super-heros-vs-street-fighter_marquee-scaled.jpg?fit=2560%2C788&ssl=1)
+
 <iframe src="https://archive.org/embed/arcade_mshvsf" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[Marvel Super Heroes vs Street Fighter (CP System II) OST SoundTrack](https://downloads.khinsider.com/game-soundtracks/album/marvel-super-heroes-vs-street-fighter-cp-system-ii-arcade)
 
 ![msvssf.7z](https://m.media-amazon.com/images/M/MV5BMTYxOGIxNTgtOTAzOC00Mjc0LThlNjEtYWY5Yjk2MWEzMDQ5XkEyXkFqcGc@._V1_.jpg)
 
