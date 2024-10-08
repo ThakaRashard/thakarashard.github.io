@@ -19,7 +19,7 @@ Coral this is the landing of Insight. I put you an your mom names on, maybe keny
         video.
 </video>  
 
-![iNSight_Landing](https://www.flickr.com/photos/nasahqphoto/albums/72157676018862708/)
+![iNSight_Landing](https://live.staticflickr.com/4847/46082708671_5ff53f7a07_h.jpg)
 
 <iframe src="https://archive.org/embed/jetson-complete" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
