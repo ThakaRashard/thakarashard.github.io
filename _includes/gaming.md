@@ -3,7 +3,7 @@
 <iframe src="https://archive.org/embed/screen-recording-2024-07-13-4.20.16-pm_202407" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
-<video controls  height="auto" poster="https://www.emugifs.net/wp-content/uploads/2022/03/Neo-Geo-Startup-Bios-Screen-Max-330-Mega-Pro-Gear-Spec-SNK-Intro-Download-Free-Animated-GIF.gif">
+<video controls preload="none"  height="auto" poster="https://www.emugifs.net/wp-content/uploads/2022/03/Neo-Geo-Startup-Bios-Screen-Max-330-Mega-Pro-Gear-Spec-SNK-Intro-Download-Free-Animated-GIF.gif">
 
 <source src="https://archive.org/download/screen-recording-2024-07-13-11.22.07-am/Screen%20recording%202024-07-13%2011.22.07%20AM.webm" type="video/mp4" />    
 <source src="https://archive.org/download/screen-recording-2024-07-13-11.22.07-am/Screen%20recording%202024-07-13%2011.22.07%20AM.webm" type="video/mp4" />

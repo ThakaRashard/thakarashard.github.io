@@ -47,7 +47,7 @@ Effective November 9, 2016, Proposition 64 legalizes specified personal use and 
 
 [Heath cliff and the Cadillac cats episodes + Heathcliff (animated flick)](https://archive.org/details/HeathcliffanimatedFlick)
 
-<video controls preload="auto" poster="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODB1OWVsaXFuZTk4aDJjN2o5eWN6ZmR5eTl3dTV1cnZ0cXc1bnM1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Kg9ZKwF120Pj9zJBhy/giphy.webp">
+<video controls preload="none" preload="auto" poster="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODB1OWVsaXFuZTk4aDJjN2o5eWN6ZmR5eTl3dTV1cnZ0cXc1bnM1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Kg9ZKwF120Pj9zJBhy/giphy.webp">
     
 <source src="https://archive.org/download/HeathcliffanimatedFlick/Heathcliff%20and%20The%20Catillac%20Cats%20-%20Heathcliff%20Gets%20Framed.mp4" type="video/mp4" />
          Download the
@@ -58,7 +58,7 @@ Effective November 9, 2016, Proposition 64 legalizes specified personal use and 
 
 [Popeye the Sailor - 1933 to 1942 Fleischer Studios](https://archive.org/details/popeye-the-sailor-1933-to-1942-fleischer-studios) [Talk:Olive Oyl](https://en.wikipedia.org/wiki/Talk:Olive_Oyl)
 
-<video controls preload="auto" poster="https://cartoonresearch.com/wp-content/uploads/2020/04/popeye-fleischer-194-maintitle.jpg">
+<video controls preload="none" preload="auto" poster="https://cartoonresearch.com/wp-content/uploads/2020/04/popeye-fleischer-194-maintitle.jpg">
     
 <source src="https://archive.org/download/popeye-the-sailor-1933-to-1942-fleischer-studios/014%20A%20Dream%20Walking%20%289-26-1934%29.mp4" type="video/mp4" />
          Download the
@@ -72,7 +72,7 @@ Effective November 9, 2016, Proposition 64 legalizes specified personal use and 
 ### Who's the Man? Comedy · Crime · Mystery
 In this hip-hop whodunnit, Doctor Dré and Ed Lover play two barbers-turned-policemen who find themselves investigating their friend’s murder [TUBi](https://tubitv.com/movies/100000434/who-s-the-man) [TV_GUiDE](https://www.tvguide.com/movies/whos-the-man/2030109905/) [Yo! MTV Raps](https://en.wikipedia.org/wiki/Yo!_MTV_Raps) [https://plex](https://watch.plex.tv/movie/whos-the-man) [Who's the Man Soundtrack](https://youtube.com/playlist?list=PLvmdgH_DpOdI5xbuPGzzTVgTtr4XJneTq&si=g9KLLHPxeiLa0xVv) [ARCHiVE](https://archive.org/details/who-s-the-man-d-2-t-00) [Party AnD BullshiT](https://youtu.be/jX3bdJbo9ec?si=xRD48DfBGuc6UXL5)
 
-<video controls preload="auto" poster="https://m.media-amazon.com/images/M/MV5BNGIxNjY3ZTktMmNlOS00MDdmLWE3NTYtNGQ4N2I3MWNlNDg5XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg">
+<video controls preload="none" preload="auto" poster="https://m.media-amazon.com/images/M/MV5BNGIxNjY3ZTktMmNlOS00MDdmLWE3NTYtNGQ4N2I3MWNlNDg5XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg">
     
 <source src="https://archive.org/download/who-s-the-man-d-2-t-00/WHO%27S%20THE%20MAN-D2_t00.mp4" type="video/mp4" />
          Download the
@@ -97,7 +97,7 @@ How can my intake be comfortable whereever it is an yall getting dark man ~>
 
 ![smugChloe](https://media.allure.com/photos/645baf344d62964b81842fd7/16:9/w_1600,c_limit/chloe%20bailey%20wig%20removal.jpg)
 
-<video controls width="100%" height="auto" poster="https://archive.org/download/roujin.-z.-1991.1080p.-blu-ray.x-264-skazhutin/roujin.-z.-1991.1080p.-blu-ray.x-264-skazhutin.thumbs/Roujin.Z.1991.1080p.BluRay.x264-Skazhutin_000075.jpg">
+<video controls preload="none" width="100%" height="auto" poster="https://archive.org/download/roujin.-z.-1991.1080p.-blu-ray.x-264-skazhutin/roujin.-z.-1991.1080p.-blu-ray.x-264-skazhutin.thumbs/Roujin.Z.1991.1080p.BluRay.x264-Skazhutin_000075.jpg">
 
 <source src="https://archive.org/download/roujin-z-1991_202401/Roujin.Z.1991.JAPANESE-VXT.mp4" type="video/mp4" />    
 <source src="https://archive.org/download/roujin-z-1991_202401/Roujin.Z.1991.JAPANESE-VXT.mp4" type="video/mp4" />
@@ -115,7 +115,7 @@ How can my intake be comfortable whereever it is an yall getting dark man ~>
 [Battle Angel Anime Movie English Dubbed (Best Version)](https://www.youtube.com/watch?v=EHG_kOfrtTQ) [Metal Skin Panic MADOX- 01 (1987) | Japanese Animation | Sci-Fi | Subtitled](https://www.youtube.com/watch?v=PUi6RPZv7hw) 
 [SDF Macross The Movie: Do You Remember Love?](https://www.youtube.com/watch?v=go6OhS43x30) (超時空要塞マクロス 愛・おぼえていますか, Chōjikū Yōsai Makurosu: Ai Oboete Imasu ka), also known as Macross: Do You Remember Love? (commonly referred to by the acronym "DYRL?" among Western fans) or Super Spacefortress Macross, is a 1984 Japanese animated space opera film based on the Macross anime television series.[Wikipedia](https://en.wikipedia.org/wiki/Macross:_Do_You_Remember_Love%3F) [imdb](https://www.imdb.com/title/tt0087660/) [Street Fighter 4 The Movie](https://youtu.be/Pt96FcavTgU?si=o03uR8HhFn7RZUOR) [Strapped 1993 DVD (Best Quality)](https://youtu.be/Wujr5FnC-GE?si=wg9CUqVp3Avmy8iX) [Uptown Saturday Night](https://www.youtube.com/watch?v=yqrUVBgeKWo) [Disorderlies](https://youtu.be/EsmWygTrKWw?si=eqgFgKv5ldb2BsXm) [Boomerang](https://www.youtube.com/watch?v=g5RI-6H7qHA) [Richard Pryor: Live & Smokin'](https://youtu.be/r0sVbrmRDDE?si=Woa2uQOlCCvzEvSN) [ATL](https://www.youtube.com/watch?v=ybzh6_5GFD0) [Honey: Rise Up and Dance](https://youtu.be/BOlOnimUriA?si=lPdrMhm1BYDHqOE9) [ClockHouse (Da Movie) (2024)](https://www.youtube.com/watch?v=7PSNFE-w_e0)
 
-<video controls width="100%" height="auto" poster="https://64.media.tumblr.com/bd4c964ca79b5482e041da876825daab/tumblr_odjww7WQHR1r4zr8xo1_540.gif">
+<video controls preload="none" width="100%" height="auto" poster="https://64.media.tumblr.com/bd4c964ca79b5482e041da876825daab/tumblr_odjww7WQHR1r4zr8xo1_540.gif">
 
 <source src="https://archive.org/download/super-dimension-fortress-macross-do-you-remember-love_202212/Super%20Dimension%20Fortress%20Macross%3B%20Do%20You%20Remember%20Love.mp4" type="video/mp4" />    
 <source src="https://archive.org/download/super-dimension-fortress-macross-do-you-remember-love_202212/Super%20Dimension%20Fortress%20Macross%3B%20Do%20You%20Remember%20Love.mp4" type="video/mp4" />
@@ -148,7 +148,7 @@ Pac-Mania[a] is a cavalier perspective maze game that was developed and released
 [Best Gonder Songs Compilation | ምርጥ የጎንደር ዘፈኖች ስብስብ](https://youtu.be/CAPJmS9T8Sg?si=KqTqY-kE1sKTleEo&t=179)
 [Nicki Minaj - Pills N Potions Vs. Doja Cat - Go To Town (DJ Fletch Official Music Video Mashup)](https://www.youtube.com/watch?v=jQpGUTuZLrw)
 [Rico Nasty - Smack a Bitch LIVE at the 2019 Pornhub Awards](https://archive.org/details/191018-1644-1080-p-4000-k-255662912)
-<video controls width="100%" height="auto" poster="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVvczloMjUwa2d0b2YwYjM5c21pcGZtYm1tZmpzd3JndzZ0cjdzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RlkPRjL2XKODC1LQ31/giphy.webp">
+<video controls preload="none" width="100%" height="auto" poster="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVvczloMjUwa2d0b2YwYjM5c21pcGZtYm1tZmpzd3JndzZ0cjdzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RlkPRjL2XKODC1LQ31/giphy.webp">
 
 <source src="https://archive.org/download/191018-1644-1080-p-4000-k-255662912/191018_1644_1080P_4000K_255662912.mp4" type="video/mp4" />    
 <source src="https://archive.org/download/191018-1644-1080-p-4000-k-255662912/191018_1644_1080P_4000K_255662912.mp4" type="video/mp4" />

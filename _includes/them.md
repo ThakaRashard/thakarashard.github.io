@@ -71,7 +71,7 @@ How can my intake be comfortable whereever it is an yall getting dark man ~>
 
 [SDF Macross The Movie: Do You Remember Love?](https://www.youtube.com/watch?v=go6OhS43x30) (超時空要塞マクロス 愛・おぼえていますか, Chōjikū Yōsai Makurosu: Ai Oboete Imasu ka), also known as Macross: Do You Remember Love? (commonly referred to by the acronym "DYRL?" among Western fans) or Super Spacefortress Macross, is a 1984 Japanese animated space opera film based on the Macross anime television series.[Wikipedia](https://en.wikipedia.org/wiki/Macross:_Do_You_Remember_Love%3F) [imdb](https://www.imdb.com/title/tt0087660/) [Street Fighter 4 The Movie](https://youtu.be/Pt96FcavTgU?si=o03uR8HhFn7RZUOR) [Strapped 1993 DVD (Best Quality)](https://youtu.be/Wujr5FnC-GE?si=wg9CUqVp3Avmy8iX) [Uptown Saturday Night](https://www.youtube.com/watch?v=yqrUVBgeKWo) [Disorderlies](https://youtu.be/EsmWygTrKWw?si=eqgFgKv5ldb2BsXm) [Boomerang](https://www.youtube.com/watch?v=g5RI-6H7qHA) [Richard Pryor: Live & Smokin'](https://youtu.be/r0sVbrmRDDE?si=Woa2uQOlCCvzEvSN) [ATL](https://www.youtube.com/watch?v=ybzh6_5GFD0) [Honey: Rise Up and Dance](https://youtu.be/BOlOnimUriA?si=lPdrMhm1BYDHqOE9) [ClockHouse (Da Movie) (2024)](https://www.youtube.com/watch?v=7PSNFE-w_e0)
 
-<video controls width="100%" height="auto" poster="https://64.media.tumblr.com/bd4c964ca79b5482e041da876825daab/tumblr_odjww7WQHR1r4zr8xo1_540.gif">
+<video controls preload="none" width="100%" height="auto" poster="https://64.media.tumblr.com/bd4c964ca79b5482e041da876825daab/tumblr_odjww7WQHR1r4zr8xo1_540.gif">
 
 <source src="https://archive.org/download/super-dimension-fortress-macross-do-you-remember-love_202212/Super%20Dimension%20Fortress%20Macross%3B%20Do%20You%20Remember%20Love.mp4" type="video/mp4" />    
 <source src="https://archive.org/download/super-dimension-fortress-macross-do-you-remember-love_202212/Super%20Dimension%20Fortress%20Macross%3B%20Do%20You%20Remember%20Love.mp4" type="video/mp4" />
@@ -95,7 +95,7 @@ Pac-Mania[a] is a cavalier perspective maze game that was developed and released
 <iframe src="https://archive.org/embed/arcade_pacmania" width="311" height="500" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> how kelsey doing ?
 
 [Rico Nasty - Smack a Bitch LIVE at the 2019 Pornhub Awards](https://archive.org/details/191018-1644-1080-p-4000-k-255662912)
-<video controls width="100%" height="auto" poster="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVvczloMjUwa2d0b2YwYjM5c21pcGZtYm1tZmpzd3JndzZ0cjdzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RlkPRjL2XKODC1LQ31/giphy.webp">
+<video controls preload="none" width="100%" height="auto" poster="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVvczloMjUwa2d0b2YwYjM5c21pcGZtYm1tZmpzd3JndzZ0cjdzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RlkPRjL2XKODC1LQ31/giphy.webp">
 
 <source src="https://archive.org/download/191018-1644-1080-p-4000-k-255662912/191018_1644_1080P_4000K_255662912.mp4" type="video/mp4" />    
 <source src="https://archive.org/download/191018-1644-1080-p-4000-k-255662912/191018_1644_1080P_4000K_255662912.mp4" type="video/mp4" />

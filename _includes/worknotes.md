@@ -201,7 +201,7 @@ DataRecovery
  Perseverance Rover’s Descent and Touchdown on Mars
 Official NASA Video
 
-<video controls width="100%" height="auto" poster="https://www.nasa.gov/wp-content/uploads/2021/06/pia24542-perseverances-selfie-with-ingenuity-1041.jpg">
+<video controls preload="none" width="100%" height="auto" poster="https://www.nasa.gov/wp-content/uploads/2021/06/pia24542-perseverances-selfie-with-ingenuity-1041.jpg">
     
 <source src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/Perseverance-landing-1080p.mp4" type="video/mp4" />
          Download the
@@ -210,7 +210,7 @@ Official NASA Video
         video.
 </video> 
 
-<video controls width="100%" height="auto" >
+<video controls preload="none" width="100%" height="auto" >
       <source src="https://science.nasa.gov/wp-content/uploads/2024/03/30414_msl20120808_malinheatshield-640.mp4" type="video/mp4" />
 
       Your browser does not support the video tag.
@@ -222,7 +222,7 @@ Official NASA Video
 
 
 [Front_Left_Hazcam:Two_Year_Movie](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
-<video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
+<video controls preload="none" width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
 
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" />    
 <source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
@@ -252,7 +252,7 @@ Official NASA Video
   </div>    
  </div>
 </div>
- <video controls width="100%" height="auto" poster="https://i.discogs.com/SJqj4bzMUsGALvmzeVDf3WL0lDXS2pWWICXywvmEgFc/rs:fit/g:sm/q:90/h:500/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTEy/My0xMTU5MTI3NTEx/LmpwZWc.jpeg">
+ <video controls preload="none" width="100%" height="auto" poster="https://i.discogs.com/SJqj4bzMUsGALvmzeVDf3WL0lDXS2pWWICXywvmEgFc/rs:fit/g:sm/q:90/h:500/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTEy/My0xMTU5MTI3NTEx/LmpwZWc.jpeg">
     
 <source src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/Audio/QueenLatifah_WrathofMyMadnessSoulshockRemix.mp4" type="video/mp4" />
          Download the
@@ -269,7 +269,7 @@ Official NASA Video
    
       
 
-<video controls >
+<video controls preload="none" >
 
   <source src="https://science.nasa.gov/wp-content/uploads/2024/03/6085_sol_200_autonav.mp4" type="video/mp4" />
 

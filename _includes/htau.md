@@ -47,7 +47,7 @@ Play WarZard
 ![TRON](https://upload.wikimedia.org/wikipedia/commons/f/f9/Tron_%28Disney%29%2C_Logo.svg)
 [imdb](https://www.imdb.com/title/tt0084827/) [TronGame](https://www.classicgamesarcade.com/game/21670/tron-game.html)
 
-<video controls width="100%" height="auto" poster="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamU0czZlaTdnamt0bHZtMDd4MDJqcno4ejhmYTc3YTVlY2JoMWliayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornkf3FPmG6zkB1UQ/giphy.webp">
+<video controls preload="none" width="100%" height="auto" poster="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamU0czZlaTdnamt0bHZtMDd4MDJqcno4ejhmYTc3YTVlY2JoMWliayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornkf3FPmG6zkB1UQ/giphy.webp">
 
 <source src="https://archive.org/download/4f-1046b-6d-9f-4319fc-8e-4ade-5627ed-2d-4-mp-4/4f1046b6d9f4319fc8e4ade5627ed2d4%20mp4.mp4" type="video/mp4" />    
 <source src="https://archive.org/download/4f-1046b-6d-9f-4319fc-8e-4ade-5627ed-2d-4-mp-4/4f1046b6d9f4319fc8e4ade5627ed2d4%20mp4.mp4" type="video/mp4" />
@@ -62,7 +62,7 @@ Play WarZard
 
 ![vALLEYtv](https://archive.org/download/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am.thumbs/Valley.Of.The.Dolls.1967.1080p.BluRay.x264-%5BYTS.AM%5D_001136.jpg)
 
-<video controls width="100%" height="auto" poster="https://archive.org/download/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am.thumbs/Valley.Of.The.Dolls.1967.1080p.BluRay.x264-%5BYTS.AM%5D_007142.jpg">
+<video controls preload="none" width="100%" height="auto" poster="https://archive.org/download/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am.thumbs/Valley.Of.The.Dolls.1967.1080p.BluRay.x264-%5BYTS.AM%5D_007142.jpg">
 
 <source src="https://archive.org/download/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am/Valley.Of.The.Dolls.1967.1080p.BluRay.x264-%5BYTS.AM%5D.mp4" type="video/mp4" />    
 <source src="https://archive.org/download/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am/Valley.Of.The.Dolls.1967.1080p.BluRay.x264-%5BYTS.AM%5D.mp4" type="video/mp4" />

@@ -1,6 +1,51 @@
 
 # Coral 
 
+# Dear_Coral,
+I learned alot about my job. Im for one still being onboarded, they just did intake. I see y they let somethings happen like us living in hotels and moving around. That wasnt stable. Your mom shortsighted so she just riding a scary ass wave that will end in doom if she does not correct her thinking... The lander that you guys names are on, they had an amazing party for you two arriving to the planet MArs. And if  [![Twitter Follow](https://img.shields.io/badge/Social-nasajpl__-blue?style=social&logo=X)](https://twitter.com/nasajpl) is hurting our family is, there are other families affected by rabbithead. They got mad bc we developed technology at a government level that makes cellphones as we know them connectivity wise, [obsolete](https://en.wikipedia.org/wiki/Obsolescence)... Im not a drone or [George Jetson](https://archive.org/details/jetson-complete) but am at the same time bc that is your communities Largest Employer and they know our Arizona world aswell! [HiRise](https://www.uahirise.org/epo/beautiful-mars/marspoetica/) the one with the 3d Mars Pics is at the [University Of Arizona](https://www.arizona.edu/) and thats in [Tuscon](https://www.tucsonaz.gov/Home) where me and your mommy had [our first apartment](https://www.realtor.com/realestateandhomes-detail/2020-S-Columbus-Blvd_Tucson_AZ_85711_M21476-33960).
+
+
+[Mission Control Live: NASA InSight Mars Landing](https://www.youtube.com/watch?v=bGD_YF64Nwk)
+
+Coral this is the landing of Insight. I put you an your mom names on, maybe kenyashoals, not her daughters, i was scared of closeness... 
+
+
+<video controls preload="none" width="100%" height="auto" poster="https://live.staticflickr.com/4894/32211485778_30c3db3308_h.jpg">
+    
+<source src="https://d2pn8kiwq2w21t.cloudfront.net/media/videosinsight20181031JPL-20181031-INSIGHf-0001-360.webm" type="video/webm" />
+         Download the
+        or
+<a href="https://d2pn8kiwq2w21t.cloudfront.net/media/videosinsight20181031JPL-20181031-INSIGHf-0001-360.webm">MP4</a>
+        video.
+</video>  
+
+![iNSight_Landing](https://www.flickr.com/photos/nasahqphoto/albums/72157676018862708/)
+
+<iframe src="https://archive.org/embed/jetson-complete" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+![MSHvsSF.zip](https://i0.wp.com/arcademarquee.com/wp-content/uploads/2015/02/marvel-super-heros-vs-street-fighter_marquee-scaled.jpg?fit=2560%2C788&ssl=1)
+<iframe src="https://archive.org/embed/arcade_mshvsf" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![msvssf.7z](https://m.media-amazon.com/images/M/MV5BMTYxOGIxNTgtOTAzOC00Mjc0LThlNjEtYWY5Yjk2MWEzMDQ5XkEyXkFqcGc@._V1_.jpg)
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://i.discogs.com/qV2HyeJQIyfUe4cgkv81p8F6KU67No5iJabN-_qRthA/rs:fit/g:sm/q:90/h:522/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTA5/OTAtMTYxMDE1ODI4/Mi00NzU5LmpwZWc.jpeg"><img src="https://i.discogs.com/qV2HyeJQIyfUe4cgkv81p8F6KU67No5iJabN-_qRthA/rs:fit/g:sm/q:90/h:522/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTA5/OTAtMTYxMDE1ODI4/Mi00NzU5LmpwZWc.jpeg" alt="Vinroc and Ed Swift 5th Platoon"> </a>
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://i.discogs.com/tDCO4JTTNkj4KH01NwF4ExH9nbsDVylr2TSk-ExG880/rs:fit/g:sm/q:90/h:527/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTA5/OTAtMTYxMDE1ODI4/Mi0zNDAwLmpwZWc.jpeg"><img src="https://i.discogs.com/tDCO4JTTNkj4KH01NwF4ExH9nbsDVylr2TSk-ExG880/rs:fit/g:sm/q:90/h:527/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTA5/OTAtMTYxMDE1ODI4/Mi0zNDAwLmpwZWc.jpeg" alt="Vinroc and Ed Swift 5th Platoon"> </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<iframe src="https://archive.org/embed/aaliyah-one-in-a-million" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ![Pillars of Creation](https://stsci-opo.org/STScI-01GFRYX6CJ1ZTKW4PHAE55BY8P.png)
 [Web Space Telescope](https://webbtelescope.org/home) [76ers apologize for canceling 'We Matter' anthem singer's performance](https://www.theguardian.com/sport/2016/oct/28/philadelphia-76ers-apologize-sevyn-streeter-we-matter-national-anthem)
 
@@ -31,7 +76,7 @@ Hi Coral, here are some of my notes from my job, i gotta blog about this discove
 
 >NASA's Mars 2020 Perseverance mission captured thrilling footage of its rover landing in Mars' Jezero Crater on Feb. 18, 2021. The real footage in this video was captured by several cameras that are part of the rover's entry, descent, and landing suite. The views include a camera looking down from the spacecraft's descent stage (a kind of rocket-powered jet pack that helps fly the rover to its landing site), a camera on the rover looking up at the descent stage, a camera on the top of the aeroshell (a capsule protecting the rover) looking up at that parachute, and a camera on the bottom of the rover looking down at the Martian surface.
 
-<video controls width="100%" height="auto" poster="https://www.nasa.gov/wp-content/uploads/2021/06/pia24542-perseverances-selfie-with-ingenuity-1041.jpg">
+<video controls preload="none" width="100%" height="auto" poster="https://www.nasa.gov/wp-content/uploads/2021/06/pia24542-perseverances-selfie-with-ingenuity-1041.jpg">
     
 <source src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/Perseverance-landing-1080p.mp4" type="video/mp4" />
          Download the

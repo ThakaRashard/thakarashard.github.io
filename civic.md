@@ -133,7 +133,7 @@ The group, dubbed the "Reflector Vest Crew," was arrested in a joint operation o
 ### Divide and Conquer (film)
 [Divide and Conquer (1943)](https://upload.wikimedia.org/wikipedia/commons/5/5d/Why_We_Fight-_Divide_and_Conquer.webm) is the third film of Frank Capra's Why We Fight propaganda film series and deals with the Nazi conquest of Western Europe in 1940. [ReadMoreOnWikiPedia](https://en.wikipedia.org/wiki/Divide_and_Conquer_(film))
 
-<video controls 
+<video controls preload="none" 
   src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Why_We_Fight-_Divide_and_Conquer.webm"
   poster="https://pbs.twimg.com/media/GP_VBuEbEAEmjbi?format=jpg&name=large">
 
@@ -241,7 +241,7 @@ The git fetch command downloads commits, files, and refs from a remote repositor
 You told me to study the weather on mars ... [The Last Report](https://www.msss.com/science-images/mars-valentine-2024.php) has no weather updates, whas that your baby ? Im concenred bc it was a really big deal at the time... Maybe it moved? idk but listen Erika is at Harolds Chicken sometimes. She won a grammy for a [nasty song](https://upload.wikimedia.org/wikipedia/en/d/df/Latto_-_Big_Energy.png) you can play it here [Latto - Big Energy (Official Lyric Video)](https://www.youtube.com/watch?v=IpHPBIdrak4) but youtube dont like me so my [lightbox](https://jekyllcodex.org/without-plugin/lightbox/) might not work <a href="https://upload.wikimedia.org/wikipedia/en/d/df/Latto_-_Big_Energy.png"> <img src="https://upload.wikimedia.org/wikipedia/en/d/df/Latto_-_Big_Energy.png" style="width:250px;height:250px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" /> </a>
 
 [MRO MARCI WEATHER REPORT FOR THE WEEK OF 10 JANUARY 2022 – 16 JANUARY 2022](https://www.msss.com/msss_images/2022/01/19/)
-<video controls 
+<video controls preload="none" 
   src="https://www.msss.com/msss_images/2022/01/19/map_movie_220110_220116.mp4"
   poster="http://www.msss.com/msss_images/icons/mars_map1.jpg">
 
@@ -262,7 +262,7 @@ This image was taken by Mars Descent Imager (MARDI) onboard NASA's Mars rover Cu
 ### MARS RECONNAISSANCE ORBITER (MRO) MARS COLOR IMAGER (MARCI)
 ![MarO](https://www.msss.com/images/science/MARCI140_cb.jpg)
 
-<video controls 
+<video controls preload="none" 
   src="https://mastcamz.asu.edu/wp-content/uploads/2020/07/zoom-v1.mp4"
   poster="http://www.msss.com/msss_images/icons/mars_map1.jpg">
 
@@ -423,7 +423,7 @@ We emphasize transparency both in how the mosaic was generated and for users to 
 
 >NASA's Mars 2020 Perseverance mission captured thrilling footage of its rover landing in Mars' Jezero Crater on Feb. 18, 2021. The real footage in this video was captured by several cameras that are part of the rover's entry, descent, and landing suite. The views include a camera looking down from the spacecraft's descent stage (a kind of rocket-powered jet pack that helps fly the rover to its landing site), a camera on the rover looking up at the descent stage, a camera on the top of the aeroshell (a capsule protecting the rover) looking up at that parachute, and a camera on the bottom of the rover looking down at the Martian surface.
 
-<video controls width="100%" height="auto" poster="https://www.nasa.gov/wp-content/uploads/2021/06/pia24542-perseverances-selfie-with-ingenuity-1041.jpg">
+<video controls preload="none" width="100%" height="auto" poster="https://www.nasa.gov/wp-content/uploads/2021/06/pia24542-perseverances-selfie-with-ingenuity-1041.jpg">
     
 <source src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/Perseverance-landing-1080p.mp4" type="video/mp4" />
          Download the
@@ -443,7 +443,7 @@ Two 2001 images from the Mars Orbiter Camera on NASA's Mars Global Surveyor orbi
 ### Odyssey’s THEMIS Views the Horizon of Mars
 [![Horizon of Mars](https://science.nasa.gov/wp-content/uploads/2024/03/48660_PIA26203-Odysseys_THEMIS_Views_the_Horizon_of_Mars.png)](https://science.nasa.gov/wp-content/uploads/2024/03/48660_PIA26203-Odysseys_THEMIS_Views_the_Horizon_of_Mars.png "Redirect to homepage")
 
- <video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/1739.gif?w=768&format=webp">
+ <video controls preload="none" width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/1739.gif?w=768&format=webp">
     
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/6190_PIA26203_FigA.m4v" type="video/mp4" />
          Download the
@@ -463,7 +463,7 @@ Two 2001 images from the Mars Orbiter Camera on NASA's Mars Global Surveyor orbi
  The data in the video show the telescopic view of Mars from Earth, the planet's albedo (brightness), its color, its topography, its ancient magnetism, its abundance of elemental potassium, its thermal inertia, and its global mineralogy. Then the scene zooms in, eventually stopping at Syrtis Major, a large, low volcano. [https://www.youtube.com/@ASUMarsSpaceFlight](https://www.youtube.com/@ASUMarsSpaceFlight/videos)
 
 ## [Front_Left_Hazcam:Two_Year_Movie](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
-<video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
+<video controls preload="none" width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
 
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" />    
 <source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
@@ -612,7 +612,7 @@ In de jaren veertig verklaarden de Verenigde Staten insecten de oorlog. Helemaal
 <img src="https://mars.nasa.gov/system/resources/detail_files/27283_PIA25737-web.jpg" />   
 
 ## [Front_Left_Hazcam:Two_Year_Movie](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
-<video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
+<video controls preload="none" width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
 
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" />    
 <source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
@@ -672,7 +672,7 @@ NASA/JPL-Caltech</p>
   </div>    
  </div>
 </div>
- <video controls width="100%" height="auto" poster="https://i.discogs.com/SJqj4bzMUsGALvmzeVDf3WL0lDXS2pWWICXywvmEgFc/rs:fit/g:sm/q:90/h:500/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTEy/My0xMTU5MTI3NTEx/LmpwZWc.jpeg">
+ <video controls preload="none" width="100%" height="auto" poster="https://i.discogs.com/SJqj4bzMUsGALvmzeVDf3WL0lDXS2pWWICXywvmEgFc/rs:fit/g:sm/q:90/h:500/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTEy/My0xMTU5MTI3NTEx/LmpwZWc.jpeg">
     
 <source src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/Audio/QueenLatifah_WrathofMyMadnessSoulshockRemix.mp4" type="video/mp4" />
          Download the
@@ -686,7 +686,7 @@ NASA/JPL-Caltech</p>
 <img src="https://mars.nasa.gov/system/resources/detail_files/27283_PIA25737-web.jpg" />   
 
 ## [Front_Left_Hazcam:Two_Year_Movie](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
-<video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
+<video controls preload="none" width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
 
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" />    
 <source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
@@ -700,7 +700,7 @@ NASA/JPL-Caltech</p>
 <img src="https://mars.nasa.gov/system/resources/detail_files/27283_PIA25737-web.jpg" />    
       
 
-<video controls >
+<video controls preload="none" >
 
   <source src="https://science.nasa.gov/wp-content/uploads/2024/03/6085_sol_200_autonav.mp4" type="video/mp4" />
 
@@ -958,7 +958,7 @@ In 1975, a communist regime known as the Khmer Rouge conquered the Cambodian cap
 ### Divide and Conquer (film)
 [Divide and Conquer (1943)](https://upload.wikimedia.org/wikipedia/commons/5/5d/Why_We_Fight-_Divide_and_Conquer.webm) is the third film of Frank Capra's Why We Fight propaganda film series and deals with the Nazi conquest of Western Europe in 1940. [ReadMoreOnWikiPedia](https://en.wikipedia.org/wiki/Divide_and_Conquer_(film))
 
-<video controls 
+<video controls preload="none" 
   src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Why_We_Fight-_Divide_and_Conquer.webm"
   poster="https://pbs.twimg.com/media/GP_VBuEbEAEmjbi?format=jpg&name=large">
 
@@ -1006,7 +1006,7 @@ The git fetch command downloads commits, files, and refs from a remote repositor
 You told me to study the weather on mars ... [The Last Report](https://www.msss.com/science-images/mars-valentine-2024.php) has no weather updates, whas that your baby ? Im concenred bc it was a really big deal at the time... Maybe it moved? idk but listen Erika is at Harolds Chicken sometimes. She won a grammy for a [nasty song](https://upload.wikimedia.org/wikipedia/en/d/df/Latto_-_Big_Energy.png) you can play it here [Latto - Big Energy (Official Lyric Video)](https://www.youtube.com/watch?v=IpHPBIdrak4) but youtube dont like me so my [lightbox](https://jekyllcodex.org/without-plugin/lightbox/) might not work <a href="https://upload.wikimedia.org/wikipedia/en/d/df/Latto_-_Big_Energy.png"> <img src="https://upload.wikimedia.org/wikipedia/en/d/df/Latto_-_Big_Energy.png" style="width:250px;height:250px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" /> </a>
 
 [MRO MARCI WEATHER REPORT FOR THE WEEK OF 10 JANUARY 2022 – 16 JANUARY 2022](https://www.msss.com/msss_images/2022/01/19/)
-<video controls 
+<video controls preload="none" 
   src="https://www.msss.com/msss_images/2022/01/19/map_movie_220110_220116.mp4"
   poster="http://www.msss.com/msss_images/icons/mars_map1.jpg">
 
@@ -1027,7 +1027,7 @@ This image was taken by Mars Descent Imager (MARDI) onboard NASA's Mars rover Cu
 ### MARS RECONNAISSANCE ORBITER (MRO) MARS COLOR IMAGER (MARCI)
 ![MarO](https://www.msss.com/images/science/MARCI140_cb.jpg)
 
-<video controls 
+<video controls preload="none" 
   src="https://mastcamz.asu.edu/wp-content/uploads/2020/07/zoom-v1.mp4"
   poster="http://www.msss.com/msss_images/icons/mars_map1.jpg">
 
@@ -1191,7 +1191,7 @@ We emphasize transparency both in how the mosaic was generated and for users to 
 
 >NASA's Mars 2020 Perseverance mission captured thrilling footage of its rover landing in Mars' Jezero Crater on Feb. 18, 2021. The real footage in this video was captured by several cameras that are part of the rover's entry, descent, and landing suite. The views include a camera looking down from the spacecraft's descent stage (a kind of rocket-powered jet pack that helps fly the rover to its landing site), a camera on the rover looking up at the descent stage, a camera on the top of the aeroshell (a capsule protecting the rover) looking up at that parachute, and a camera on the bottom of the rover looking down at the Martian surface.
 
-<video controls width="100%" height="auto" poster="https://www.nasa.gov/wp-content/uploads/2021/06/pia24542-perseverances-selfie-with-ingenuity-1041.jpg">
+<video controls preload="none" width="100%" height="auto" poster="https://www.nasa.gov/wp-content/uploads/2021/06/pia24542-perseverances-selfie-with-ingenuity-1041.jpg">
     
 <source src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/Perseverance-landing-1080p.mp4" type="video/mp4" />
          Download the
@@ -1211,7 +1211,7 @@ Two 2001 images from the Mars Orbiter Camera on NASA's Mars Global Surveyor orbi
 ### Odyssey’s THEMIS Views the Horizon of Mars
 [![Horizon of Mars](https://science.nasa.gov/wp-content/uploads/2024/03/48660_PIA26203-Odysseys_THEMIS_Views_the_Horizon_of_Mars.png)](https://science.nasa.gov/wp-content/uploads/2024/03/48660_PIA26203-Odysseys_THEMIS_Views_the_Horizon_of_Mars.png "Redirect to homepage")
 
- <video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/1739.gif?w=768&format=webp">
+ <video controls preload="none" width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/1739.gif?w=768&format=webp">
     
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/6190_PIA26203_FigA.m4v" type="video/mp4" />
          Download the
@@ -1231,7 +1231,7 @@ Two 2001 images from the Mars Orbiter Camera on NASA's Mars Global Surveyor orbi
  The data in the video show the telescopic view of Mars from Earth, the planet's albedo (brightness), its color, its topography, its ancient magnetism, its abundance of elemental potassium, its thermal inertia, and its global mineralogy. Then the scene zooms in, eventually stopping at Syrtis Major, a large, low volcano. [https://www.youtube.com/@ASUMarsSpaceFlight](https://www.youtube.com/@ASUMarsSpaceFlight/videos)
 
 ## [Front_Left_Hazcam:Two_Year_Movie](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
-<video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
+<video controls preload="none" width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
 
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" />    
 <source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
@@ -1380,7 +1380,7 @@ In de jaren veertig verklaarden de Verenigde Staten insecten de oorlog. Helemaal
 <img src="https://mars.nasa.gov/system/resources/detail_files/27283_PIA25737-web.jpg" />   
 
 ## [Front_Left_Hazcam:Two_Year_Movie](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
-<video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
+<video controls preload="none" width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
 
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" />    
 <source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
@@ -1439,7 +1439,7 @@ NASA/JPL-Caltech</p>
   </div>    
  </div>
 </div>
- <video controls width="100%" height="auto" poster="https://i.discogs.com/SJqj4bzMUsGALvmzeVDf3WL0lDXS2pWWICXywvmEgFc/rs:fit/g:sm/q:90/h:500/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTEy/My0xMTU5MTI3NTEx/LmpwZWc.jpeg">
+ <video controls preload="none" width="100%" height="auto" poster="https://i.discogs.com/SJqj4bzMUsGALvmzeVDf3WL0lDXS2pWWICXywvmEgFc/rs:fit/g:sm/q:90/h:500/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTEy/My0xMTU5MTI3NTEx/LmpwZWc.jpeg">
     
 <source src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/Audio/QueenLatifah_WrathofMyMadnessSoulshockRemix.mp4" type="video/mp4" />
          Download the
@@ -1453,7 +1453,7 @@ NASA/JPL-Caltech</p>
 <img src="https://mars.nasa.gov/system/resources/detail_files/27283_PIA25737-web.jpg" />   
 
 ## [Front_Left_Hazcam:Two_Year_Movie](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
-<video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
+<video controls preload="none" width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
 
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" />    
 <source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
@@ -1467,7 +1467,7 @@ NASA/JPL-Caltech</p>
 <img src="https://mars.nasa.gov/system/resources/detail_files/27283_PIA25737-web.jpg" />    
       
 
-<video controls >
+<video controls preload="none" >
 
   <source src="https://science.nasa.gov/wp-content/uploads/2024/03/6085_sol_200_autonav.mp4" type="video/mp4" />
 

@@ -8,7 +8,7 @@ layout: null
 [Macross Plus [OVA] (English Dub) Home Video Master Transfer (Betacam)](https://archive.org/details/macross-plus-english-dub-master)
 Macross Plus (マクロスプラス, Makurosu Purasu) is a four-episode anime OVA and theatrical movie in the Macross series. It was the first sequel to the original Macross television series that took place in the official timeline (Macross II was quickly retconned by series creator Shōji Kawamori as a parallel world story in the Macross universe). Plus was a groundbreaking combination of traditional cel and computer-generated animation at the time of its release, paving the way for the incorporation of more computer-generated imagery in Japanese animation.[Wiki](https://en.wikipedia.org/wiki/Macross_Plus) [imdb](https://www.imdb.com/title/tt0110426/) [GFR](https://www.giantfreakinrobot.com/ent/macross-plus-anime-greatest-format.html) [My Anime List](https://myanimelist.net/anime/474/Macross_Plus) [OVA_FiLES](https://archive.org/download/macross-plus-english-dub-master)
 
-<video controls  height="auto" poster="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXE1MG12eDB1MmNvMDdoa2JoMG1pbjBvYXJ4aGY0NWlqNzF1YjA0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qDQEzc4uJ2rwsbS/giphy.webp">
+<video controls preload="none"  height="auto" poster="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXE1MG12eDB1MmNvMDdoa2JoMG1pbjBvYXJ4aGY0NWlqNzF1YjA0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qDQEzc4uJ2rwsbS/giphy.webp">
 
 <source src="https://archive.org/download/macross-plus-english-dub-master/Macross%20Plus%20-%20Episode%201%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%20Tape%29%20%5BBetacam%20SP%20Transfer%5D.mp4" type="video/mp4" />    
 <source src="https://archive.org/download/macross-plus-english-dub-master/Macross%20Plus%20-%20Episode%201%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%20Tape%29%20%5BBetacam%20SP%20Transfer%5D.mp4" type="video/mp4" />
@@ -21,7 +21,7 @@ Download the
 
 ['Ranma ½: The Battle of Nekonron China! Fight to Break the Rules!!' (らんま½ 中国寝崑崙大決戦！掟やぶりの激闘篇！！](https://ranma.fandom.com/wiki/Big_Trouble_in_Nekonron,_China) [imdb](https://www.imdb.com/title/tt0101583/plotsummary/?ref_=tt_ov_pl) When Prince Kirin of the 7 Lucky Gods shows up at the Tendo dojo looking for his bride-to-be, guess who's accidentally holding the scroll that signifies his future mate? [blogspot](https://animeannoyances.blogspot.com/2018/12/recap-ranma-12-big-trouble-in-nekonron.html) [rotten tomatoes](https://www.rottentomatoes.com/m/ranma_12_the_movie_1_big_trouble_in_nekonron_china_1991) [ANN](https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1534)
 
-<video controls width="100%" height="auto" poster="https://static.wikia.nocookie.net/ranma/images/6/69/SeriesMovie01.png/revision/latest?cb=20120928053559">
+<video controls preload="none" width="100%" height="auto" poster="https://static.wikia.nocookie.net/ranma/images/6/69/SeriesMovie01.png/revision/latest?cb=20120928053559">
 
 <source src="https://dn720405.ca.archive.org/0/items/getvid_20220408/getvid.mp4" type="video/mp4" />    
 <source src="https://dn720405.ca.archive.org/0/items/getvid_20220408/getvid.mp4" type="video/mp4" />
@@ -34,7 +34,7 @@ Download the
 
 [Super Dimension Fortress: Macross Episodes](https://archive.org/download/sdf-macross-episode-8-longest-birthday-adv-dub_202108)
 
-<video controls height="auto" poster="https://a.storyblok.com/f/178900/1280x720/6f9e6c0a89/sdf-macross-hero.jpg/m/1200x0/filters:quality(95)format(webp)">
+<video controls preload="none" height="auto" poster="https://a.storyblok.com/f/178900/1280x720/6f9e6c0a89/sdf-macross-hero.jpg/m/1200x0/filters:quality(95)format(webp)">
 
 <source src="https://archive.org/download/sdf-macross-episode-8-longest-birthday-adv-dub_202108/SDF%20Macross%20%20Episode%2001%20%20Booby%20Trap%20%20%28ADV%20Dub%29.mp4" type="video/mp4" />    
 <source src="https://archive.org/download/sdf-macross-episode-8-longest-birthday-adv-dub_202108/SDF%20Macross%20%20Episode%2001%20%20Booby%20Trap%20%20%28ADV%20Dub%29.mp4" type="video/mp4" />
@@ -48,7 +48,7 @@ Download the
 ### Who's the Man? Comedy · Crime · Mystery
 In this hip-hop whodunnit, Doctor Dré and Ed Lover play two barbers-turned-policemen who find themselves investigating their friend’s murder [TUBi](https://tubitv.com/movies/100000434/who-s-the-man) [TV_GUiDE](https://www.tvguide.com/movies/whos-the-man/2030109905/) [Yo! MTV Raps](https://en.wikipedia.org/wiki/Yo!_MTV_Raps) [https://plex](https://watch.plex.tv/movie/whos-the-man) [Who's the Man Soundtrack](https://youtube.com/playlist?list=PLvmdgH_DpOdI5xbuPGzzTVgTtr4XJneTq&si=g9KLLHPxeiLa0xVv) [ARCHiVE](https://archive.org/details/who-s-the-man-d-2-t-00) [Party AnD BullshiT](https://youtu.be/jX3bdJbo9ec?si=xRD48DfBGuc6UXL5)
 
-<video controls preload="auto" poster="https://m.media-amazon.com/images/M/MV5BNGIxNjY3ZTktMmNlOS00MDdmLWE3NTYtNGQ4N2I3MWNlNDg5XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg">
+<video controls preload="none" preload="auto" poster="https://m.media-amazon.com/images/M/MV5BNGIxNjY3ZTktMmNlOS00MDdmLWE3NTYtNGQ4N2I3MWNlNDg5XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg">
     
 <source src="https://archive.org/download/who-s-the-man-d-2-t-00/WHO%27S%20THE%20MAN-D2_t00.mp4" type="video/mp4" />
          Download the
@@ -84,7 +84,7 @@ Jonathan "Jonny" Quest is the son of Dr. Benton Quest and often accompanies him 
 [Art of Fighting-Full Movie](https://www.youtube.com/watch?v=QVqb0lsfC6s)
 [Samurai Shodown: The Motion Picture (The Movie -1994) HD](https://youtu.be/UV_YhxC3P90?si=VWidY9I1vGa5JUSL)
 
-<video controls  height="auto" poster="https://64.media.tumblr.com/c9d7c568dbb349fe4036599a64e0965a/tumblr_nqvkod9HyG1tbf8vto1_500.gifv">
+<video controls preload="none"  height="auto" poster="https://64.media.tumblr.com/c9d7c568dbb349fe4036599a64e0965a/tumblr_nqvkod9HyG1tbf8vto1_500.gifv">
 
 <source src="https://archive.org/download/dominion-tank-police-english-dubbed-master/Dominion%20Tank%20Police%20%28Acts%20I%20and%20II%29%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%29%20%5BBetacam%20SP%20Transfer.mp4" type="video/mp4" />    
 <source src="https://archive.org/download/dominion-tank-police-english-dubbed-master/Dominion%20Tank%20Police%20%28Acts%20I%20and%20II%29%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%29%20%5BBetacam%20SP%20Transfer.mp4" type="video/mp4" />
@@ -98,7 +98,7 @@ Jonathan "Jonny" Quest is the son of Dr. Benton Quest and often accompanies him 
 [Tank S.W.A.T. 01](https://archive.org/details/tank-police-team-tank-s.-w.-a.-t.-01-2006-jap-audio) [World's Wildest Police Videos Collection](https://archive.org/details/worlds-wildest-police-videos-collection)
 [Dragon Ball Z Movie 02 - The World's Strongest (Ocean Dub).mp4	](https://dragonball.fandom.com/wiki/Dragon_Ball_Z:_The_World%27s_Strongest)
 
-  <video controls loop poster="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Johndoe456789.jpg/220px-Johndoe456789.jpg">
+  <video controls preload="none" loop poster="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Johndoe456789.jpg/220px-Johndoe456789.jpg">
 <source src="https://archive.org/download/DBZ-original-version/Movies/Ocean%20Dub/Dragon%20Ball%20Z%20Movie%2002%20-%20The%20World%27s%20Strongest%20%28Ocean%20Dub%29.mp4" type="video/mp4" />    
 <source src="https://archive.org/download/DBZ-original-version/Movies/Ocean%20Dub/Dragon%20Ball%20Z%20Movie%2002%20-%20The%20World%27s%20Strongest%20%28Ocean%20Dub%29.mp4" type="video/mp4" />
 
@@ -112,7 +112,7 @@ Download the
 
 ![THC](https://upload.wikimedia.org/wikipedia/commons/c/c2/THC-11-oic-acid-3D-balls.png)
 [Reefer Madness 1938 NioR](https://archive.org/details/reefer_madness1938) [Public Domain](https://creativecommons.org/publicdomain/) ![Public Domain](https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/publicdomain.svg)
-<video controls loop poster="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhtNDN1em9pNzh1ZzdlMWQ2czZsbmEwM21hdHljM2Y0bG1jN2JqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RLTdJfPjlY98zDFdF5/giphy.webp">
+<video controls preload="none" loop poster="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhtNDN1em9pNzh1ZzdlMWQ2czZsbmEwM21hdHljM2Y0bG1jN2JqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RLTdJfPjlY98zDFdF5/giphy.webp">
 <source src="https://archive.org/download/reefer_madness1938/reefer_madness1938.mp4" type="video/mp4" />    
 <source src="https://archive.org/download/reefer_madness1938/reefer_madness1938.mp4" type="video/mp4" />
 
@@ -226,7 +226,7 @@ Fortunately for comic fans, this cost-cutting move preserved for all time the or
 ![TRON](https://upload.wikimedia.org/wikipedia/commons/f/f9/Tron_%28Disney%29%2C_Logo.svg)
 [imdb](https://www.imdb.com/title/tt0084827/) [TronGame](https://www.classicgamesarcade.com/game/21670/tron-game.html)
     
-<video controls  height="auto" poster="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamU0czZlaTdnamt0bHZtMDd4MDJqcno4ejhmYTc3YTVlY2JoMWliayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornkf3FPmG6zkB1UQ/giphy.webp">
+<video controls preload="none"  height="auto" poster="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamU0czZlaTdnamt0bHZtMDd4MDJqcno4ejhmYTc3YTVlY2JoMWliayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornkf3FPmG6zkB1UQ/giphy.webp">
 
 <source src="https://archive.org/download/4f-1046b-6d-9f-4319fc-8e-4ade-5627ed-2d-4-mp-4/4f1046b6d9f4319fc8e4ade5627ed2d4%20mp4.mp4" type="video/mp4" />    
 <source src="https://archive.org/download/4f-1046b-6d-9f-4319fc-8e-4ade-5627ed-2d-4-mp-4/4f1046b6d9f4319fc8e4ade5627ed2d4%20mp4.mp4" type="video/mp4" />
@@ -242,7 +242,7 @@ Fortunately for comic fans, this cost-cutting move preserved for all time the or
 
 ![vALLEYtv](https://archive.org/download/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am.thumbs/Valley.Of.The.Dolls.1967.1080p.BluRay.x264-%5BYTS.AM%5D_001136.jpg)
 
-<video controls  height="auto" poster="https://archive.org/download/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am.thumbs/Valley.Of.The.Dolls.1967.1080p.BluRay.x264-%5BYTS.AM%5D_007142.jpg">
+<video controls preload="none"  height="auto" poster="https://archive.org/download/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am.thumbs/Valley.Of.The.Dolls.1967.1080p.BluRay.x264-%5BYTS.AM%5D_007142.jpg">
 
 <source src="https://archive.org/download/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am/Valley.Of.The.Dolls.1967.1080p.BluRay.x264-%5BYTS.AM%5D.mp4" type="video/mp4" />    
 <source src="https://archive.org/download/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am/Valley.Of.The.Dolls.1967.1080p.BluRay.x264-%5BYTS.AM%5D.mp4" type="video/mp4" />
@@ -269,7 +269,7 @@ Beyond the Valley of the Dolls is a 1970 American satirical[6][7] musical melodr
 They Live is a 1988 American science fiction action horror film[b] written and directed by John Carpenter, based on the 1963 short story "[Eight O'Clock in the Morning](https://ia801600.us.archive.org/9/items/eight-oclock-in-the-morning/Eight%20o%27clock%20in%20the%20morning.pdf)" by [Ray Nelson](https://www.goodreads.com/book/show/5841632-eight-o-clock-in-the-morning) 
 [Radell Faraday Nelson](https://en.wikipedia.org/wiki/Ray_Nelson_(author)) (October 3, 1931 – November 30, 2022) was an American science fiction author and cartoonist
  . [imdb](https://www.imdb.com/title/tt0096256/)[ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/They_Live)
-<video controls 
+<video controls preload="none" 
   src="https://archive.org/download/they-live-1989-vhs/They%20Live%201989%20VHS%20.mp4"
   poster="https://i.gifer.com/origin/81/817aa974b6c8bad26b3f2ef4a7a21848_w200.gif">
 
@@ -287,7 +287,7 @@ They Live is a 1988 American science fiction action horror film[b] written and d
 
 These are from the official uncut subtitled edition VHS tapes released by Pioneer Entertainment
  . [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Sailor_Moon)
-<video controls 
+<video controls preload="none" 
   src="https://archive.org/download/sailor-moon-the-movies-special-uncut-subtitled-edition-vhs_202109/Sailor%20Moon%20R%20The%20Movie%20Special%20Uncut%20Subtitled%20Edition%20VHS.mp4"
   poster="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm51ZDhkdDR1MHh5YjVxMHg2aXI0a25ydWU1MjM5M3ZvN2hoMnl1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Djk6OV5llwUb6/giphy.webp">
 
@@ -310,7 +310,7 @@ Fred makes arrangements for Pebbles’ first birthday and the Water Buffalo Lodg
 <div class="section_hr">
   <a href="https://archive.org/download/garfield-s-01-e-09-the-binky-show-keeping-cool-dont-move">./HoleToAnotherUniverse/TheFlintStones.sh</a>
 </div> 
-<video controls 
+<video controls preload="none" 
   src="https://ia600506.us.archive.org/24/items/youtube-UFrWljsz9eo/UFrWljsz9eo.mp4"
   poster="https://i.ytimg.com/vi/82lOD6znIic/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLCAnPUsERsRLGZl5bj3qCpecKRrRA"
   >

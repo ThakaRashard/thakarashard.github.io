@@ -21,7 +21,7 @@ In late 2023, the hybrid antenna downlinked data from 20 million miles (32 milli
 
 ![wargames 1983](https://www.originalfilmart.com/cdn/shop/products/Wargames_1983_40x60_original_film_art_5000x.webp?v=1681149717)
 
-<video controls preload="none"   width="100%" height="auto" poster="https://ia600204.us.archive.org/12/items/ComputerHackingDocumentriesMegaCollection/Hackers.0%20-%20%5B1983%5D%20WarGames.gif">
+<video controls preload="none" preload="none"   width="100%" height="auto" poster="https://ia600204.us.archive.org/12/items/ComputerHackingDocumentriesMegaCollection/Hackers.0%20-%20%5B1983%5D%20WarGames.gif">
 
   <source src="https://archive.org/download/ComputerHackingDocumentriesMegaCollection/Hackers.0%20-%20%5B1983%5D%20WarGames.mp4" type="video/mp4" />
 
@@ -246,7 +246,7 @@ Los angeles is a [Euridite civiliZation](https://en.wiktionary.org/wiki/erudite)
 - Rashard...
 
 Perseverance Rover Watches Ingenuity Mars Helicopter’s 54th Flight
-<video controls  height="auto" poster="https://d2pn8kiwq2w21t.cloudfront.net/images/PIA25968.width-1320.jpg">
+<video controls preload="none"  height="auto" poster="https://d2pn8kiwq2w21t.cloudfront.net/images/PIA25968.width-1320.jpg">
 
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/6172_PIA25970.mp4" type="video/mp4" />    
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/6172_PIA25970.mp4" type="video/mp4" />
@@ -347,7 +347,7 @@ Androiding
 ![curiosity](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04258/opgs/edr/ncam/NRB_775492033EDR_S1080792NCAM00594M_.JPG)
 [Front_Left_Hazcam:Two_Year_Movie](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
 
-<video controls  height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
+<video controls preload="none"  height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
 
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" />    
 <source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
@@ -367,7 +367,7 @@ https://mars.nasa.gov/mars2020/multimedia/raw-images/ZR0_0297_0693322301_098ECM_
 
 >NASA's Mars 2020 Perseverance mission captured thrilling footage of its rover landing in Mars' Jezero Crater on Feb. 18, 2021. The real footage in this video was captured by several cameras that are part of the rover's entry, descent, and landing suite. The views include a camera looking down from the spacecraft's descent stage (a kind of rocket-powered jet pack that helps fly the rover to its landing site), a camera on the rover looking up at the descent stage, a camera on the top of the aeroshell (a capsule protecting the rover) looking up at that parachute, and a camera on the bottom of the rover looking down at the Martian surface.
 
-<video controls width="100%" height="auto" poster="https://www.nasa.gov/wp-content/uploads/2021/06/pia24542-perseverances-selfie-with-ingenuity-1041.jpg">
+<video controls preload="none" width="100%" height="auto" poster="https://www.nasa.gov/wp-content/uploads/2021/06/pia24542-perseverances-selfie-with-ingenuity-1041.jpg">
     
 <source src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/Perseverance-landing-1080p.mp4" type="video/mp4" />
          Download the

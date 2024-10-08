@@ -49,7 +49,7 @@ The Fire Information for Resource Management System (FIRMS) distributes Near Rea
 ![United States Of America](https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg)
 
 ### [bubblegumpop01](https://bubblegumpop01.tumblr.com/)
-<video controls width="100%" height="auto" poster="https://pbs.twimg.com/media/GRhDJHPa0AAUJax?format=jpg&name=large">
+<video controls preload="none" width="100%" height="auto" poster="https://pbs.twimg.com/media/GRhDJHPa0AAUJax?format=jpg&name=large">
 
 <source src="https://archive.org/download/screen-recording-2024-07-02-3.14.48-pm/Screen%20recording%202024-07-02%203.14.48%20PM.webm" type="video/webm" />    
 <source src="https://archive.org/download/screen-recording-2024-07-02-3.14.48-pm/Screen%20recording%202024-07-02%203.14.48%20PM.webm" type="video/webm" />

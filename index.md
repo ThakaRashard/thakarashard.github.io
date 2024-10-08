@@ -2,10 +2,10 @@
 layout: default
 ---
 
-
+{% include coral.md %}
 
 {% include current.md %}
-{% include coral.md %}
+
 
 
 
