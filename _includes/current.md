@@ -1,7 +1,6 @@
 # Currently Compiling
 
-![LROC](https://www.lroc.asu.edu/ckeditor_assets/pictures/1442/content_M1467242026L.1300wide_flat_open.png)
-[2024 Eclipse as Seen From The Moon](https://www.lroc.asu.edu/images/1368) [Space Shuttle Audio Collection](https://archive.org/details/spaceshuttleaudiocollection)
+
 
 ![meandyou](https://pbs.twimg.com/media/GYbZ7CpasAAaftJ?format=jpg&name=large)
 
