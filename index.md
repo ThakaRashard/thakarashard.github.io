@@ -3,6 +3,9 @@ layout: default
 ---
 
 
+MAVEN Maps Wind in the Martian Upper Atmosphere
+[<img src="https://science.nasa.gov/wp-content/uploads/2024/03/24754_mars_winds_preview_2-web.jpg?w=768&format=webp" />](https://science.nasa.gov/wp-content/uploads/2024/03/24754_mars_winds_preview_2-web.jpg?w=768&format=webp)
+
 [Grateful Dead - "Estimated Prophet" Terrapin Station (1977)](https://www.youtube.com/watch?v=dmnxG59n9-k)
 
 North American's P-51 Mustang Fighter is in service with Britain's Royal Air Force, N[orth] A[merican] Aviation, Inc., Inglewood, Calif.
