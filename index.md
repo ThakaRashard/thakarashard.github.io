@@ -2,6 +2,8 @@
 layout: default
 ---
 
+
+
 {% include current.md %}
 {% include coral.md %}
 
@@ -134,3 +136,6 @@ The final element.
 
 ![They Got ME](https://pbs.twimg.com/media/GTC06Bta4AAonmF?format=jpg&name=medium)
 ![AtlantaBlueBlackLover](https://pbs.twimg.com/media/GO8M0YubEAEvGyt?format=jpg&name=medium)
+
+<script type="text/javascript" src="/js/lightbox.js"></script>
+<link rel="stylesheet" href="/css/lightbox.css">

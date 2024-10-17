@@ -1,7 +1,17 @@
 # Currently Compiling
 
+[San Andreas Fault Deployment (L-band) - forlater](https://uavsar.jpl.nasa.gov/cgi-bin/deployment.pl?id=L20181018)
+[<img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26018.jpg" alt="MARiNER STATUS BULLiTEN" />](https://photojournal.jpl.nasa.gov/jpeg/PIA26018.jpg)
+[<img src="https://static.uahirise.org/hipod/ESP_021520_1550.jpg" alt="MARiNER STATUS BULLiTEN" />](https://static.uahirise.org/hipod/ESP_021520_1550.jpg)
 
-A Colorful Aurora Paints the Night Sky
+# Hues in a Crater Slope
+Impact craters expose the subsurface materials on steep slopes. However, these slopes often experience rockfalls and debris avalanches that keep the surface clean of dust, revealing a variety of hues, like in this enhanced-color image, representing different rock types. The bright reddish material at the top of the crater rim is from a coating of the Martian dust.
+
+>https://uahirise.org/hipod/ESP_021520_1550 NASA/JPL-Caltech/University of Arizona
+
+[<img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26018.jpg" alt="PIA26018: Curiosity Looks Over the Hill" />](https://photojournal.jpl.nasa.gov/jpeg/PIA26018.jpg)
+
+A Colorful Aurora Paints the Night Sky [Earth Observatory](https://www.naturalhazards.nasa.gov/images/153463/a-colorful-aurora-paints-the-night-sky)
 
 ![Aurora](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153463/aurora_vir2_20241011.jpg)
 A powerful geomagnetic storm caused a display of light that was visible unusually far from Earth’s poles.
