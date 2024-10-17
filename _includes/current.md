@@ -1,6 +1,59 @@
 # Currently Compiling
 
 
+A Colorful Aurora Paints the Night Sky
+
+![Aurora](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153463/aurora_vir2_20241011.jpg)
+A powerful geomagnetic storm caused a display of light that was visible unusually far from Earth’s poles.
+>Instrument:
+>NOAA-20 — VIIRS
+Image of the Day for October 16, 2024
+
+>Atlanta got a glimpse of the aurora colrs just a splash a few years back last time this cycled 
+
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<a href="https://pbs.twimg.com/media/GaHuyPNb0AADWjw?format=jpg&name=large"><img src="https://pbs.twimg.com/media/GaHuyPNb0AADWjw?format=jpg&name=large"></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+
+<a href="https://pbs.twimg.com/media/GaHuyPib0AAQV1m?format=jpg&name=large"><img src="https://pbs.twimg.com/media/GaHuyPib0AAQV1m?format=jpg&name=large"></a>
+         </div>
+    </div>
+  </div>
+</div>
+
+<img src="https://s3.amazonaws.com/standardsmanualimages/worm/detail/nasawormbook_detail02-1600.jpg">
+
+
+[NASA Graphics Standards Manual (NHB 1430.2) (January 1976)](https://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
+
+
+[Astronaught PHotoGraphy - eol.jsc.nasa.gov ](https://eol.jsc.nasa.gov/) [The Chemical Brothers ~ Exit Planet Dust [Full]](https://www.youtube.com/watch?v=Ay-LclYFkQ8)
+[Jurassic 5 - Jayou](https://www.youtube.com/watch?v=o5nh_lwNxWw) [Jurassic 5 - Jayou (Instrumental)](https://soundcloud.com/pietr-5/jurassic-5-jayou-instrumental)
+
+<iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/885699253&color=%23caa270&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/apanib-flyemcee" title="Apani B-Fly Emcee" target="_blank" style="color: #cccccc; text-decoration: none;">Apani B-Fly Emcee</a> · <a href="https://soundcloud.com/apanib-flyemcee/narcotic" title="Narcotic" target="_blank" style="color: #cccccc; text-decoration: none;">Narcotic</a></div>
+
+MAVEN Maps Wind in the Martian Upper Atmosphere
+[<img src="https://science.nasa.gov/wp-content/uploads/2024/03/24754_mars_winds_preview_2-web.jpg?w=768&format=webp" />](https://science.nasa.gov/wp-content/uploads/2024/03/24754_mars_winds_preview_2-web.jpg?w=768&format=webp)
+
+[Grateful Dead - "Estimated Prophet" Terrapin Station (1977)](https://www.youtube.com/watch?v=dmnxG59n9-k)
+
+North American's P-51 Mustang Fighter is in service with Britain's Royal Air Force, N[orth] A[merican] Aviation, Inc., Inglewood, Calif.
+
+[<img src="https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35300/1a35398v.jpg" />](https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35300/1a35398v.jpg)
+
+# Inspectah Deck + 7L & Esoteric = CZARFACE
+<iframe loading="lazy" width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1243204216&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/silveragerecords" title="CZARFACE" target="_blank" style="color: #cccccc; text-decoration: none;">CZARFACE</a> · <a href="https://soundcloud.com/silveragerecords/sets/inspectah-deck-7l-esoteric" title="Inspectah Deck + 7L &amp; Esoteric = CZARFACE" target="_blank" style="color: #cccccc; text-decoration: none;">Inspectah Deck + 7L &amp; Esoteric = CZARFACE</a></div>
+
+![LROC](https://www.lroc.asu.edu/ckeditor_assets/pictures/1442/content_M1467242026L.1300wide_flat_open.png)
+[2024 Eclipse as Seen From The Moon](https://www.lroc.asu.edu/images/1368) [Space Shuttle Audio Collection](https://archive.org/details/spaceshuttleaudiocollection)
+
+
 
 ![meandyou](https://pbs.twimg.com/media/GYbZ7CpasAAaftJ?format=jpg&name=large)
 
