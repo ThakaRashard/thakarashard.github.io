@@ -1,5 +1,143 @@
 # Currently Compiling
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vJLr9mpcY8Q?si=UtQ9Ijawt2YoMszF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/631214895&color=%2327d7bc&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/futureisnow" title="Future" target="_blank" style="color: #cccccc; text-decoration: none;">Future</a> · <a href="https://soundcloud.com/futureisnow/please-tell-me" title="Please Tell Me" target="_blank" style="color: #cccccc; text-decoration: none;">Please Tell Me</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/559658823&color=%23824c68&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/futureisnow" title="Future" target="_blank" style="color: #cccccc; text-decoration: none;">Future</a> · <a href="https://soundcloud.com/futureisnow/krazy-but-true" title="Krazy but True" target="_blank" style="color: #cccccc; text-decoration: none;">Krazy but True</a></div>
+
+
+# Mars Relay Network 
+[Lessons Learned from the Mars Relay Network: Considerations for Future Relay Networks](https://ieeexplore.ieee.org/document/10521332)
+<object data="https://eyes.nasa.gov/apps/mrn/#/mars" width="100%" height=400px ></object>
+
+# The Global CTX Mosaic of Mars
+[The Bruce Murray Laboratory](https://murray-lab.caltech.edu/) for Planetary Visualization has completed a 5.7 [terapixel](https://en.wikipedia.org/wiki/Gigapixel_image#:~:text=A%20terapixel%20image%20is%20an,collectively%20considered%20over%20one%20terapixel.) mosaic of the surface of Mars rendered at 5.0 m/px. Each pixel in the mosaic is about the size of a typical parking space, providing unprecedented resolution of the martian surface at the global scale.
+<object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
+    </object>
+
+# Deep Space Network Now @nasa-jpl
+![DSN](https://eyes.nasa.gov/apps/dsn-now/images/intro/deep-space-network-logo@2x.png)
+
+<object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="height:500px;width:100%;" >
+    </object>
+
+
+![MADRiD_DSN](https://www.nasa.gov/wp-content/uploads/2023/08/madrid-dss-56-01.jpg)
+>Deep Space Network, Deep Space Station 56 (DSS-56), a 112-foot-wide antenna at [Madrid Deep Space Communications Complex](https://www.mdscc.nasa.gov/index.php/en/start/) in Madrid, Spain. Image Credit: [NASA](https://plus.nasa.gov/series/)
+
+
+## About the United States Space Force
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_of_the_United_States_Space_Force.png/188px-Logo_of_the_United_States_Space_Force.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette United States Space Force" />](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_of_the_United_States_Space_Force.png/188px-Logo_of_the_United_States_Space_Force.png) [The U.S. Space Force](https://www.spaceforce.mil/About-Us/) was established on Dec. 20, 2019, creating the first new branch of the armed services since 1947. The establishment of the USSF resulted from widespread recognition that space is a national security imperative. When combined with the growing threat posed by strategic competitors in space, it became clear that there was a need for a military service focused solely on pursuing superiority in the space domain. [US SPACE Force 101 - PDF](https://www.spaceforce.mil/Portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf)
+
+<video controls preload="none" 
+  src="https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110409447/DOD_110409447-1024x576-2000k.mp4"
+  poster="https://media.defense.gov/2024/Jul/17/2003504898/2000/2000/0/240716-D-AF999-2001.PNG">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110409447/DOD_110409447-1024x576-2000k.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+![![SPACE FORCE 101](https://www.spaceforce.mil/portals/2/Documents/SF101/ussf_101.png)](https://www.spaceforce.mil/portals/2/Documents/SF101/ussf_101.png)
+
+### Mars MissionObjectives [MArs Reconnocinse Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)
+[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf) [PDS Cartography and Imaging Sciences Node - WebTool](https://pds-imaging.jpl.nasa.gov/beta/search) [Computer Ethics 4th ed. Deborah G. Johnson](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/pdf/computer-ethics-4e_compress.pdf)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7qwIiNFri8RklFl2hJt5JV?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+# Library Scare [RelatedTweet](https://x.com/thakasartu/status/1857546216739057809)
+[<img src="https://pbs.twimg.com/media/GcdUMpjaMAEtFwc?format=jpg&name=large" alt="You are not allowed at this location @nasa-jpl @deptofdefense @blackgirlscode thats what it said when i loggedin" />](https://pbs.twimg.com/media/GcdUMpjaMAEtFwc?format=jpg&name=large)
+![mariner](https://pbs.twimg.com/media/GZtlCP8aAAEMA_-?format=jpg&name=large)
+[COMPUTiNG:Highlighting liquid code in Jekyll = nithinbekal.com](https://nithinbekal.com/posts/jekyll-liquid-highlight/)
+
+
+[<img src="https://static.wikia.nocookie.net/logopedia/images/8/82/Apple_IIe.png" alt="Apple IIe" />](https://static.wikia.nocookie.net/logopedia/images/8/82/Apple_IIe.png)
+
+
+
+# For Loops with FeaturePost
+{%raw %}
+  {% for post in site.posts %}
+    
+<article class="paginator">
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
+
+  {% endfor %}
+{% endraw %}
+
+
+
+# Mars Perseverance Sol 1320: Right Mastcam-Z Camera
+### PERSEVERANCE RAW IMAGES:Image of the Week
+This photo was selected by public vote and featured as "Image of the Week" for __Week 195 (Nov. 3 - 9, 2024)__ of the Perseverance rover mission on Mars.
+
+NASA's Mars Perseverance rover acquired this image using its Right Mastcam-Z camera. Mastcam-Z is a pair of cameras located high on the rover's mast.
+
+This image was acquired on Nov. 5, 2024 (Sol 1320) at the local mean solar time of 10:23:50.
+
+Image Credit: [NASA/JPL-Caltech/ASU](https://mars.nasa.gov/mars2020/multimedia/raw-images/image-of-the-week/week-195)
+[<img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01320/ids/edr/browse/zcam/ZR0_1320_0784114966_193EBY_N0612534ZCAM04024_1100LMJ01_1200.jpg" alt="martian landscape" />](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01320/ids/edr/browse/zcam/ZR0_1320_0784114966_193EBY_N0612534ZCAM04024_1100LMJ01_1200.jpg)
+
+
+{% highlight css %} 
+  img[src*="ZR0_1320_0784114966_193EBY_N0612534ZCAM04024_1100LMJ01_1200.jpg"] {width: 100%;
+    border-bottom:solid 10px  #BF785E50;
+    filter: contrast(50%); 
+  }
+{% endhighlight %}
+
+
+
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+     <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_07_195J01_1200.jpg"><img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_07_195J01_1200.jpg" alt=""> </a>
+        
+      </div>
+    </div>
+ <div class='panelColumn'>
+      <div class='rightColumn'>
+           <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_10_195J01_1200.jpg"><img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_10_195J01_1200.jpg" alt=""> </a>
+        
+   </div>
+    </div>
+  </div>
+</div>
+
+
+# Dear_Normani re:WorkDayMoodiness
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4UuTnRKGJ2fgo8u07bT4cD?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+# M_R_O_Update:Veterans Day
+## #re:#Rashard_iMan_Kelly|status
+Dear Team ([![Twitter Follow](https://img.shields.io/badge/Social-@VeronicaMcG__-blue?style=social&logo=X)](https://twitter.com/@VeronicaMcG)VeroinCa, [![Twitter Follow](https://img.shields.io/badge/Social-@GeorgieC__-blue?style=social&logo=X)](https://twitter.com/@GeorgieC) GeorgieC [![Twitter Follow](https://img.shields.io/badge/Social-@NASAMars__-blue?style=social&logo=X)](https://twitter.com/@NASAMars)Jamie, Robin([![Twitter Follow](https://img.shields.io/badge/Social-@usgs__-blue?style=social&logo=X)](https://twitter.com/@usgs)@USGS [![Twitter Follow](https://img.shields.io/badge/Social-@Zoeapie__-blue?style=social&logo=X)](https://twitter.com/@Zoeapie)zoeapie [![Twitter Follow](https://img.shields.io/badge/Social-@a_feldman24__-blue?style=social&logo=X)](https://twitter.com/@a_feldman24)andrew_feldman))
+I will likely not be online tomorrow at all. And Im learning more from my scavenger hunt to normalcy. I found some documentation within [Freedom of Information Act Electronic Reading Room](https://www.cia.gov/readingroom/) on Mind control. There are a lot of [RumorVideos](https://www.youtube.com/watch?v=Ic9glqPzgF4) about mind control, that one is just some ppl in atlanta ther need to be brought in in my playboy destitution case. I dont know how to solve my internet access problems [![Twitter Follow](https://img.shields.io/badge/Social-@LACountyLibrary__-blue?style=social&logo=X)](https://twitter.com/@LACountyLibrary)  [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) I have been doing [NOC_WORK](https://eyes.nasa.gov/apps/dsn-now/dsn.html) as asked and its 27/7 and idk marstime ! [Mars Relay Network](https://eyes.nasa.gov/apps/mrn/#/mars) i have not looked at i got swamped learning [FirMS](https://www.youtube.com/watch?v=xfSlkvQb7To) i found a @twitter account for a Mars Relay Network feed but it said its dead from APi Changes... if im not online, can someone let me in since its Veterans day? [![Twitter Follow](https://img.shields.io/badge/Social-@mrn_status__-blue?style=social&logo=X)](https://twitter.com/@russss) [![Twitter Follow](https://img.shields.io/badge/Social-@mrn_status__-blue?style=social&logo=X)](https://twitter.com/@russss)
+
+```
+Mars Relay Network
+@mrn_status
+Automated by @russss
+Killed by Twitter's API changes.
+```
+
+[Lessons Learned from the Mars Relay Network: Considerations for Future Relay Networks](https://ieeexplore.ieee.org/document/10521332)
+[Practical Mobile Forensics (2014).pdf](https://github.com/ricoThaka/crate/blob/master/Practical%20Mobile%20Forensics%20(2014).pdf) [ Project MK-ULTRA cia-readingroom](https://www.cia.gov/readingroom/docs/project%20mk-ultra%5B15545700%5D.pdf)
+# Sol 4359: Mars Hand Lens Imager [MAHLI](https://www.msss.com/science-images/mahli-acquires-test-image-en-route-to-mars.php)
+## sunday Nov 10th[Latest From MSL](https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=0&mission=msl)
+NASA's Mars rover Curiosity acquired this image using its Mars Hand Lens Imager (MAHLI), located on the turret at the end of the rover's robotic arm, on November 10, 2024, Sol 4359 of the Mars Science Laboratory Mission, at 04:14:53 UTC.
+[<img src="https://mars.nasa.gov/msl-raw-images/msss/04359/mhli/4359MH0008920011600066C00_DXXX.jpg" alt="" />](https://mars.nasa.gov/msl-raw-images/msss/04359/mhli/4359MH0008920011600066C00_DXXX.jpg)
+
 [San Andreas Fault Deployment (L-band) - forlater](https://uavsar.jpl.nasa.gov/cgi-bin/deployment.pl?id=L20181018)
 [<img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26018.jpg" alt="MARiNER STATUS BULLiTEN" />](https://photojournal.jpl.nasa.gov/jpeg/PIA26018.jpg)
 [<img src="https://static.uahirise.org/hipod/ESP_021520_1550.jpg" alt="MARiNER STATUS BULLiTEN" />](https://static.uahirise.org/hipod/ESP_021520_1550.jpg)
