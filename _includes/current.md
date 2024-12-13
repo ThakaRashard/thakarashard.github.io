@@ -1,13 +1,11 @@
 # Currently Compiling
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vJLr9mpcY8Q?si=UtQ9Ijawt2YoMszF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/631214895&color=%2327d7bc&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/futureisnow" title="Future" target="_blank" style="color: #cccccc; text-decoration: none;">Future</a> · <a href="https://soundcloud.com/futureisnow/please-tell-me" title="Please Tell Me" target="_blank" style="color: #cccccc; text-decoration: none;">Please Tell Me</a></div>
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/559658823&color=%23824c68&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/futureisnow" title="Future" target="_blank" style="color: #cccccc; text-decoration: none;">Future</a> · <a href="https://soundcloud.com/futureisnow/krazy-but-true" title="Krazy but True" target="_blank" style="color: #cccccc; text-decoration: none;">Krazy but True</a></div>
-
-
+# @blackgirlscode : noir
+i never at yall from this domain 
+[AstronaughtPhotos - CLiCKHERE](https://eol.jsc.nasa.gov/ExplorePhotos/?illum=day)
+![nikonFan](https://photorumors.com/wp-content/uploads/2024/12/7Artisans-18mm-f5.6-full-frame-lens-2.jpeg)
 # Mars Relay Network 
 [Lessons Learned from the Mars Relay Network: Considerations for Future Relay Networks](https://ieeexplore.ieee.org/document/10521332)
 <object data="https://eyes.nasa.gov/apps/mrn/#/mars" width="100%" height=400px ></object>
@@ -26,6 +24,15 @@
 
 ![MADRiD_DSN](https://www.nasa.gov/wp-content/uploads/2023/08/madrid-dss-56-01.jpg)
 >Deep Space Network, Deep Space Station 56 (DSS-56), a 112-foot-wide antenna at [Madrid Deep Space Communications Complex](https://www.mdscc.nasa.gov/index.php/en/start/) in Madrid, Spain. Image Credit: [NASA](https://plus.nasa.gov/series/)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vJLr9mpcY8Q?si=UtQ9Ijawt2YoMszF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/631214895&color=%2327d7bc&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/futureisnow" title="Future" target="_blank" style="color: #cccccc; text-decoration: none;">Future</a> · <a href="https://soundcloud.com/futureisnow/please-tell-me" title="Please Tell Me" target="_blank" style="color: #cccccc; text-decoration: none;">Please Tell Me</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/559658823&color=%23824c68&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/futureisnow" title="Future" target="_blank" style="color: #cccccc; text-decoration: none;">Future</a> · <a href="https://soundcloud.com/futureisnow/krazy-but-true" title="Krazy but True" target="_blank" style="color: #cccccc; text-decoration: none;">Krazy but True</a></div>
+
+
 
 
 ## About the United States Space Force
