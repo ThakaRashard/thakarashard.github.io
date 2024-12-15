@@ -1,9 +1,17 @@
 # Currently Compiling
+
+
+<figure>
+  <figcaption>Listen to Deltron 3030 - Positive Contact:</figcaption>
+  <audio controls src="https://archive.org/download/deltron-3030-the-album/Album/05-Positive%20Contact.mp3"></audio>
+  <a href="https://archive.org/download/deltron-3030-the-album/Album/05-Positive%20Contact.mp3"> Download audio </a>
+</figure>
+
 # [Deltron 3030 - Deltron 3030 (FULL ALBUM)](https://www.youtube.com/watch?v=v6YJjkO7F5A)
 [![Twitter Follow](https://img.shields.io/badge/Social-@DelHIERO__-blue?style=social&logo=X)](https://twitter.com/@DelHIERO) [![Twitter Follow](https://img.shields.io/badge/Social-@Latto__-blue?style=social&logo=X)](https://twitter.com/@Latto) 
 So, Del, im in losangeles, and i am enjoying your album, y bc Dan Lombardino in all of us... plz look at my [blog](https://thakarashard.github.io/rashardmro)
 
- im working and i got in volved with strippers an i know u guys can help me talk to constancia peacefully [3030files @blackgirlscode - @normani](https://archive.org/download/deltron-3030-the-album/Album/)
+ im working and i got involved with strippers an i know u guys can help me talk to constancia peacefully [3030files @blackgirlscode - @normani](https://archive.org/download/deltron-3030-the-album/Album/) [NORMANiPAGE](https://ricothaka.github.io/normani) if marquisha not dead, i might wanna learn her . . . - rashard 
 
 <iframe src="https://archive.org/embed/deltron-3030-the-album" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
