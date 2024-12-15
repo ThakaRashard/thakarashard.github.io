@@ -1,4 +1,79 @@
 # Currently Compiling
+# [Deltron 3030 - Deltron 3030 (FULL ALBUM)](https://www.youtube.com/watch?v=v6YJjkO7F5A)
+[![Twitter Follow](https://img.shields.io/badge/Social-@DelHIERO__-blue?style=social&logo=X)](https://twitter.com/@DelHIERO) [![Twitter Follow](https://img.shields.io/badge/Social-@Latto__-blue?style=social&logo=X)](https://twitter.com/@Latto) 
+So, Del, im in losangeles, and i am enjoying your album, y bc Dan Lombardino in all of us... plz look at my [blog](https://thakarashard.github.io/rashardmro)
+
+ im working and i got in volved with strippers an i know u guys can help me talk to constancia peacefully [3030files @blackgirlscode - @normani](https://archive.org/download/deltron-3030-the-album/Album/)
+
+<iframe src="https://archive.org/embed/deltron-3030-the-album" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[Interview with Del the Funky Homosapien (Deltron 3030 2015)](https://www.youtube.com/watch?v=D7cvpoGIuAU) [DELTRON3030 live - KEXP](https://youtu.be/s7FxVSDLonY?si=REd9SdNA9-yA_M5E) [Hieroglyphics - You Never Knew](https://www.youtube.com/watch?v=V8B8bbrkETQ)
+
+
+![3030](https://i.discogs.com/roxdE7jklgsx-N2YxlOEtzcBGH-AoTHxFgqXiPsoCWU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTYz/MjA1LTE3MTgzOTg2/ODAtOTQ1NC5qcGVn.jpeg)
+
+# Mars Relay Network 
+[Lessons Learned from the Mars Relay Network: Considerations for Future Relay Networks](https://ieeexplore.ieee.org/document/10521332)
+<object data="https://eyes.nasa.gov/apps/mrn/#/mars" width="100%" height=400px ></object>
+
+# The Global CTX Mosaic of Mars
+[The Bruce Murray Laboratory](https://murray-lab.caltech.edu/) for Planetary Visualization has completed a 5.7 [terapixel](https://en.wikipedia.org/wiki/Gigapixel_image#:~:text=A%20terapixel%20image%20is%20an,collectively%20considered%20over%20one%20terapixel.) mosaic of the surface of Mars rendered at 5.0 m/px. Each pixel in the mosaic is about the size of a typical parking space, providing unprecedented resolution of the martian surface at the global scale.
+<object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
+    </object>
+
+# Deep Space Network Now @nasa-jpl
+![DSN](https://eyes.nasa.gov/apps/dsn-now/images/intro/deep-space-network-logo@2x.png)
+
+<object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="height:500px;width:100%;" >
+    </object>
+
+
+
+![curiosity](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04258/opgs/edr/ncam/NRB_775492033EDR_S1080792NCAM00594M_.JPG)
+[Front_Left_Hazcam:Two_Year_Movie](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
+
+<video controls preload="none"  height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
+
+<source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" />    
+<source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
+      
+        Download the
+        or
+        <a href="">MP4</a>
+        video.
+</video>
+
+
+![perserverance](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00297/ids/edr/browse/zcam/ZR0_0297_0693322301_098ECM_N0090000ZCAM01012_026050J01_1200.jpg)
+https://mars.nasa.gov/mars2020/multimedia/raw-images/ZR0_0297_0693322301_098ECM_N0090000ZCAM01012_026050J
+[International Space Station Operations (June 28, 2024)](https://www.youtube.com/live/u-BGAPuzxZU?si=9TTR6kH--bpQE5c3)
+[Perseverance Rover's Descent and Touchdown on Mars](https://svs.gsfc.nasa.gov/31250) 
+[Perseverance Rover’s Descent and Touchdown on Mars: Onboard Camera Views](https://science.nasa.gov/wp-content/uploads/2024/03/45703_JPL-20210222-M2020f-0001-Perseverance_Rovers_Descent_and_Touchdown_on_Mars-1.mp4)
+
+>NASA's Mars 2020 Perseverance mission captured thrilling footage of its rover landing in Mars' Jezero Crater on Feb. 18, 2021. The real footage in this video was captured by several cameras that are part of the rover's entry, descent, and landing suite. The views include a camera looking down from the spacecraft's descent stage (a kind of rocket-powered jet pack that helps fly the rover to its landing site), a camera on the rover looking up at the descent stage, a camera on the top of the aeroshell (a capsule protecting the rover) looking up at that parachute, and a camera on the bottom of the rover looking down at the Martian surface.
+
+<video controls preload="none" width="100%" height="auto" poster="https://www.nasa.gov/wp-content/uploads/2021/06/pia24542-perseverances-selfie-with-ingenuity-1041.jpg">
+    
+<source src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/Perseverance-landing-1080p.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/Perseverance-landing-1080p.mp4">MP4</a>
+        video.
+</video>    
+
+[15 Second Clip of Parachute Deployment(MP4) (18.86 MB)](https://science.nasa.gov/wp-content/uploads/2024/03/45732_nasa_perseverance_parachute_deployment.mp4)
+
+[Rashards Archive Uploads](https://archive.org/details/@thakaserika_selassie_kelly)
+
+
+
+
+[Play Retro SNK Neo Geo games online | NEOGEOFUN](https://www.neogeofun.com/)
+[Marvel Super Heroes Vs Street Fighter (970625 USA)](https://www.retrogames.cc/arcade-games/marvel-super-heroes-vs-street-fighter-970625-usa.html#)
+
+![MADRiD_DSN](https://www.nasa.gov/wp-content/uploads/2023/08/madrid-dss-56-01.jpg)
+>Deep Space Network, Deep Space Station 56 (DSS-56), a 112-foot-wide antenna at [Madrid Deep Space Communications Complex](https://www.mdscc.nasa.gov/index.php/en/start/) in Madrid, Spain. Image Credit: [NASA](https://plus.nasa.gov/series/)
+
 
 [Q-Bert VS. Craze /TTV vol.3/](https://youtu.be/J1-V99dVZgk?t=331)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7hZbasTiSka1krmiEqGDrg?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -25,24 +100,7 @@ i never at yall from this domain
 </div>
 
 ![nikonFan](https://photorumors.com/wp-content/uploads/2024/12/7Artisans-18mm-f5.6-full-frame-lens-2.jpeg)
-# Mars Relay Network 
-[Lessons Learned from the Mars Relay Network: Considerations for Future Relay Networks](https://ieeexplore.ieee.org/document/10521332)
-<object data="https://eyes.nasa.gov/apps/mrn/#/mars" width="100%" height=400px ></object>
 
-# The Global CTX Mosaic of Mars
-[The Bruce Murray Laboratory](https://murray-lab.caltech.edu/) for Planetary Visualization has completed a 5.7 [terapixel](https://en.wikipedia.org/wiki/Gigapixel_image#:~:text=A%20terapixel%20image%20is%20an,collectively%20considered%20over%20one%20terapixel.) mosaic of the surface of Mars rendered at 5.0 m/px. Each pixel in the mosaic is about the size of a typical parking space, providing unprecedented resolution of the martian surface at the global scale.
-<object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
-    </object>
-
-# Deep Space Network Now @nasa-jpl
-![DSN](https://eyes.nasa.gov/apps/dsn-now/images/intro/deep-space-network-logo@2x.png)
-
-<object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="height:500px;width:100%;" >
-    </object>
-
-
-![MADRiD_DSN](https://www.nasa.gov/wp-content/uploads/2023/08/madrid-dss-56-01.jpg)
->Deep Space Network, Deep Space Station 56 (DSS-56), a 112-foot-wide antenna at [Madrid Deep Space Communications Complex](https://www.mdscc.nasa.gov/index.php/en/start/) in Madrid, Spain. Image Credit: [NASA](https://plus.nasa.gov/series/)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vJLr9mpcY8Q?si=UtQ9Ijawt2YoMszF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -569,48 +627,6 @@ Androiding
 
 
 
-
-![curiosity](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04258/opgs/edr/ncam/NRB_775492033EDR_S1080792NCAM00594M_.JPG)
-[Front_Left_Hazcam:Two_Year_Movie](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
-
-<video controls preload="none"  height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
-
-<source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" />    
-<source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
-      
-        Download the
-        or
-        <a href="">MP4</a>
-        video.
-</video>
-
-
-![perserverance](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00297/ids/edr/browse/zcam/ZR0_0297_0693322301_098ECM_N0090000ZCAM01012_026050J01_1200.jpg)
-https://mars.nasa.gov/mars2020/multimedia/raw-images/ZR0_0297_0693322301_098ECM_N0090000ZCAM01012_026050J
-[International Space Station Operations (June 28, 2024)](https://www.youtube.com/live/u-BGAPuzxZU?si=9TTR6kH--bpQE5c3)
-[Perseverance Rover's Descent and Touchdown on Mars](https://svs.gsfc.nasa.gov/31250) 
-[Perseverance Rover’s Descent and Touchdown on Mars: Onboard Camera Views](https://science.nasa.gov/wp-content/uploads/2024/03/45703_JPL-20210222-M2020f-0001-Perseverance_Rovers_Descent_and_Touchdown_on_Mars-1.mp4)
-
->NASA's Mars 2020 Perseverance mission captured thrilling footage of its rover landing in Mars' Jezero Crater on Feb. 18, 2021. The real footage in this video was captured by several cameras that are part of the rover's entry, descent, and landing suite. The views include a camera looking down from the spacecraft's descent stage (a kind of rocket-powered jet pack that helps fly the rover to its landing site), a camera on the rover looking up at the descent stage, a camera on the top of the aeroshell (a capsule protecting the rover) looking up at that parachute, and a camera on the bottom of the rover looking down at the Martian surface.
-
-<video controls preload="none" width="100%" height="auto" poster="https://www.nasa.gov/wp-content/uploads/2021/06/pia24542-perseverances-selfie-with-ingenuity-1041.jpg">
-    
-<source src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/Perseverance-landing-1080p.mp4" type="video/mp4" />
-         Download the
-        or
-<a href="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/Perseverance-landing-1080p.mp4">MP4</a>
-        video.
-</video>    
-
-[15 Second Clip of Parachute Deployment(MP4) (18.86 MB)](https://science.nasa.gov/wp-content/uploads/2024/03/45732_nasa_perseverance_parachute_deployment.mp4)
-
-[Rashards Archive Uploads](https://archive.org/details/@thakaserika_selassie_kelly)
-
-
-
-
-[Play Retro SNK Neo Geo games online | NEOGEOFUN](https://www.neogeofun.com/)
-[Marvel Super Heroes Vs Street Fighter (970625 USA)](https://www.retrogames.cc/arcade-games/marvel-super-heroes-vs-street-fighter-970625-usa.html#)
 
 [Screen Recording 2024 07 29 4.53.08 PM](https://archive.org/details/screen-recording-2024-07-29-4.53.08-pm)
 
