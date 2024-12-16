@@ -20,6 +20,13 @@ So, Del, im in losangeles, and i am enjoying your album, y bc Dan Lombardino in 
 
 ![3030](https://i.discogs.com/roxdE7jklgsx-N2YxlOEtzcBGH-AoTHxFgqXiPsoCWU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTYz/MjA1LTE3MTgzOTg2/ODAtOTQ1NC5qcGVn.jpeg)
 
+
+<figure>
+  <figcaption>Future: `[WifiLit]()`</figcaption>
+  <audio controls src="https://archive.org/download/future-beastmode-2/2/01-WIFI%20LIT.mp3"></audio>
+  <a href="https://archive.org/download/future-beastmode-2/2/01-WIFI%20LIT.mp3"> Download audio </a>
+</figure> 
+
 # Mars Relay Network 
 [Lessons Learned from the Mars Relay Network: Considerations for Future Relay Networks](https://ieeexplore.ieee.org/document/10521332)
 <object data="https://eyes.nasa.gov/apps/mrn/#/mars" width="100%" height=400px ></object>
