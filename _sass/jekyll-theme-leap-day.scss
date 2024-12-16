@@ -157,6 +157,18 @@ h3 {
 
 }
 
+::selection {
+  color: #aaff00;
+  background: #454b1b;
+}
+
+img[src*="cloudfront"] {width: 100%;
+  border-bottom:solid 10px  #FCE30070;}
+img[alt*="USGS"] {width: 100%;
+  border-bottom:solid 10px  #BF785E;}
+/* matches selection in URL/src */
+img[src*="nasa.gov"] {width: 100%;
+  border-bottom:solid 10px  #c9ff2340;}
 
 
 .gallery-wrap {
@@ -467,6 +479,9 @@ h1:hover {
   }
 }
 
+
+
+
 #banner {
   z-index: 100;
   left: 0;
@@ -594,6 +609,45 @@ section::before {
 }
 small {
   font-size: 12px;
+}
+
+.floatright img:nth-child(odd) {
+  float: right;
+}
+.floatleft img:nth-child(even) {
+  float: left;
+  border-bottom: solid 10px #ffffff50;
+}
+
+
+.tupperware > * {
+  border: 1px solid #c9ff23;
+  border-radius: 5px;
+  padding: 0px;
+  flex-basis: 30%;
+  flex-shrink:2;
+  flex-grow:1;
+  overflow: hidden;
+  transition: all 300ms ease-in-out;
+  
+  &:hover {
+    flex-grow: 9.3;
+    
+  }
+}
+
+
+.tupperware {
+  display: flex;
+  justify-content: space-evenly;
+  flex-flow: row wrap; 
+  padding: 15px;
+  gap: 5px;
+  height: auto;
+}
+
+.tupperware img {
+  width: 100%;
 }
 
 
