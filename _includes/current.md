@@ -1,5 +1,7 @@
 # Currently Compiling
-
+## TurboGrafx-16 Power
+>(1992 Promo Video)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3699nku1eU?si=LYndWB0WZPOCPfT5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <figure>
   <figcaption>Listen to Deltron 3030 - Positive Contact:</figcaption>
