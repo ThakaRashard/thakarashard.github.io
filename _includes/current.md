@@ -1,4 +1,11 @@
 # Currently Compiling
+
+# [Portrait of June Christy, 1947 or 1948]
+![JunEChrisTy](https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-10441:0001/full/pct:50.0/0/default.jpg)
+
+# El Niño: A NASA Perspective
+Steven Pawson discussed how NASA uses computer models to build up a complete three-dimensional picture of El Niño in the ocean and atmosphere. [WATCH](https://www.loc.gov/item/2021690074/)
+
 ## TurboGrafx-16 Power
 >(1992 Promo Video)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3699nku1eU?si=LYndWB0WZPOCPfT5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
