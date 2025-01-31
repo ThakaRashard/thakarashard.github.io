@@ -1,8 +1,8 @@
 # Currently Compiling
 @nasa @blackgirlscode @nasa-jpl @whitehouse 
 alot of new data an redesign
-[ricothaka](https://ricothaka.github.io/) an i made [NORMANi](https://ricothaka.github.io/normanikordei) a  page. [RashardLEarD](https://ricothaka.github.io/rashardlearned/) is similar to [My MarsWorkBlog](https://ricothaka.github.io/rashardmro/) but im playing with a tile layout im calling [Tupperware](https://codepen.io/ricoThaka/pen/JoPRWdr) 
-
+[ricothaka](https://ricothaka.github.io/) an i made [NORMANi](https://ricothaka.github.io/normanikordei) a  page. [RashardLEarD](https://ricothaka.github.io/rashardlearned/) is similar to [My MarsWorkBlog](https://ricothaka.github.io/rashardmro/) but im playing with a tile layout im calling [Tupperware](https://codepen.io/ricoThaka/pen/JoPRWdr) its actually a [CSS FLeXBoX Container](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox). im really overwhelmed right now as the truth unflods on [HOT107.9fm ATLATA](https://hotspotatl.com/listen-live/)
+![r](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAMQTvpQlawFWy2Jlx_BFS5tIcjtMwLv9IXA&s)
 # MarsPano 
 ![MarsPano](https://pbs.twimg.com/media/GigDa_2a4AAEdzj?format=jpg&name=large)
 [RelatedTweeT](https://x.com/RicoThaka/status/1884760551156510720)
