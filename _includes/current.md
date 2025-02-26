@@ -2,7 +2,7 @@
 
 
 
-[Future-Space Cadets Prod By Zaytoven](https://youtu.be/sYeHfBQktec?si=YPx9gkE1m9veEqTL) 
+[Future-Space Cadets Prod By Zaytoven](https://youtu.be/sYeHfBQktec?si=YPx9gkE1m9veEqTL) [Hollywood Resivior-kcal news climate data](https://youtu.be/vHrRy0elIj0?si=BmrQfvaqqTtnG0Bw) @nasa
 
 ## sonta "Your Mistake" [OfficialVideo](https://youtu.be/FiGAkDE7s7o?si=R5PbUm03gx7dEhC-)
 
@@ -69,6 +69,12 @@ alot of new data an redesign
 [![Twitter Follow](https://img.shields.io/badge/Social-Power106LA__-blue?style=social&logo=X)](https://twitter.com/Power106LA) 
 
 
+![SevyNSTreetER](https://assets.teenvogue.com/photos/58135977b51e871830656ba3/16:9/w_960,c_limit/sevyn-streeter.jpg) [Sevyn Streeter Perfoms in We Matter Jersey](https://www.youtube.com/watch?v=SM9oFokxCKw)
+### Philadelphia 76ers national anthem singer Sevyn Streeter: Team canceled over "We Matter" shirt
+PHILADELPHIA -- Philadelphia 76ers national anthem singer Sevyn Streeter said she was told by the team she could not perform because of her “We Matter” jersey. “I’d say two minutes before we were about to walk out ... the organization told me that I could not wear my shirt while singing the national anthem at their game,” the R&B singer said by phone. “I was never given any kind of dress code. I was never asked beforehand to show my wardrobe.” - [CBS_NEWS](https://www.cbsnews.com/news/philadelphia-76ers-national-anthem-singer-sevyn-streeter-we-matter-shirt/) [Sevyn Streeter Barred From Singing the National Anthem at an NBA Game Because of Her ‘We Matter’ Jersey](https://www.teenvogue.com/story/sevyn-streeter-we-matter-jersey-national-anthem-philadelphia-76ers-nba-black-lives-matter) [76ers pull national anthem singer who was wearing ‘We Matter’ shirt](https://www.washingtonpost.com/news/early-lead/wp/2016/10/27/76ers-pull-national-anthem-singer-who-was-wearing-we-matter-shirt/) [Sevyn Streeter On 76ers Stopping Her From Wearing "We Matter" Shirt - AudioonYoutube](https://www.youtube.com/watch?v=nUa32C6LuDE)[Sevyn Streeter Reflects On Wearing "We Matter" Jersey For National Anthem Performance at 76ers Game](https://www.youtube.com/watch?v=_Dsbro2lyh0) [Sevyn Streeter’s 76ers National Anthem Performance Canceled Over ‘We Matter’ Shirt, She Says](https://www.billboard.com/music/music-news/sevyn-streeters-76ers-national-anthem-canceled-we-matter-7556989/) [76ers apologize for canceling 'We Matter' anthem singer's performance](https://www.theguardian.com/sport/2016/oct/28/philadelphia-76ers-apologize-sevyn-streeter-we-matter-national-anthem) [Sevyn Streeter’s ‘We Matter’ Jersey Was Too Controversial For The Sixers](https://uproxx.com/music/sevyn-streeter-we-matter-jersey-76ers/) [Sevyn Sings National Anthem at 76ers Game in 'We Matter' Jersey](https://bleacherreport.com/articles/2682381-sevyn-sings-76ers-national-anthem-in-we-matter-jersey)
+
+The Sixers declined to say why Streeter’s performance was canceled. 
+
 # Listen to NASA’s Ingenuity Mars Helicopter in Flight
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1044556651&color=%238c9265&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/listen-to-nasas-ingenuity-helicopter-as-it-flies-on-mars" title="Listen to NASA’s Ingenuity Mars Helicopter in Flight" target="_blank" style="color: #cccccc; text-decoration: none;">Listen to NASA’s Ingenuity Mars Helicopter in Flight</a></div>
 
@@ -126,7 +132,21 @@ So, Del, im in losangeles, and i am enjoying your album, y bc Dan Lombardino in 
 <object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="height:500px;width:100%;" >
     </object>
 
+[Computer Hacking Documentries Mega Collection](https://archive.org/download/ComputerHackingDocumentriesMegaCollection) 
 
+![wargames 1983](https://www.originalfilmart.com/cdn/shop/products/Wargames_1983_40x60_original_film_art_5000x.webp?v=1681149717)
+
+<video controls preload="none" preload="none"   width="100%" height="auto" poster="https://ia600204.us.archive.org/12/items/ComputerHackingDocumentriesMegaCollection/Hackers.0%20-%20%5B1983%5D%20WarGames.gif">
+
+  <source src="https://archive.org/download/ComputerHackingDocumentriesMegaCollection/Hackers.0%20-%20%5B1983%5D%20WarGames.mp4" type="video/mp4" />
+
+  <source src="https://archive.org/download/ComputerHackingDocumentriesMegaCollection/Hackers.0%20-%20%5B1983%5D%20WarGames.mp4" type="video/mp4" />
+
+  Download the
+  or
+  <a href="https://archive.org/download/ComputerHackingDocumentriesMegaCollection/Hackers.0%20-%20%5B1983%5D%20WarGames.mp4">MP4</a>
+  video.
+</video>
 
 ![curiosity](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04258/opgs/edr/ncam/NRB_775492033EDR_S1080792NCAM00594M_.JPG)
 [Front_Left_Hazcam:Two_Year_Movie](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
@@ -402,21 +422,7 @@ PHILADELPHIA -- Philadelphia 76ers national anthem singer Sevyn Streeter said sh
 
 The Sixers declined to say why Streeter’s performance was canceled. 
 ![GoldStone Hybrid](https://www.nasa.gov/wp-content/uploads/2024/02/e1-pia23617-hybrid-antenna-concept.jpg?resize=1024,700)
-In late 2023, the hybrid antenna downlinked data from 20 million miles (32 million kilometers) away at a rate of 15.63 megabits per second – about 40 times faster than radio frequency communications at that distance. On Jan. 1, 2024, the antenna downlinked a team photograph that had been uploaded to DSOC before Psyche’s launch. [ReadMorE](https://www.nasa.gov/technology/space-comms/deep-space-network/nasas-new-experimental-antenna-tracks-deep-space-laser/) [Computer Hacking Documentries Mega Collection](https://archive.org/download/ComputerHackingDocumentriesMegaCollection) 
-
-![wargames 1983](https://www.originalfilmart.com/cdn/shop/products/Wargames_1983_40x60_original_film_art_5000x.webp?v=1681149717)
-
-<video controls preload="none" preload="none"   width="100%" height="auto" poster="https://ia600204.us.archive.org/12/items/ComputerHackingDocumentriesMegaCollection/Hackers.0%20-%20%5B1983%5D%20WarGames.gif">
-
-  <source src="https://archive.org/download/ComputerHackingDocumentriesMegaCollection/Hackers.0%20-%20%5B1983%5D%20WarGames.mp4" type="video/mp4" />
-
-  <source src="https://archive.org/download/ComputerHackingDocumentriesMegaCollection/Hackers.0%20-%20%5B1983%5D%20WarGames.mp4" type="video/mp4" />
-
-  Download the
-  or
-  <a href="https://archive.org/download/ComputerHackingDocumentriesMegaCollection/Hackers.0%20-%20%5B1983%5D%20WarGames.mp4">MP4</a>
-  video.
-</video>
+In late 2023, the hybrid antenna downlinked data from 20 million miles (32 million kilometers) away at a rate of 15.63 megabits per second – about 40 times faster than radio frequency communications at that distance. On Jan. 1, 2024, the antenna downlinked a team photograph that had been uploaded to DSOC before Psyche’s launch. [ReadMorE](https://www.nasa.gov/technology/space-comms/deep-space-network/nasas-new-experimental-antenna-tracks-deep-space-laser/) 
 
 
 ![LapTop](https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/page/franchise/latitude/laptop-latitude-family-franchise-page-module-3-1920x1440.png)
