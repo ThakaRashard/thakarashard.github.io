@@ -1,6 +1,11 @@
 # Currently Compiling
 
-
+![GAvin NEWSOM](https://pbs.twimg.com/media/GkhrgsCXcAAMsGx?format=jpg&name=medium)
+California Gov Gavin Newsom has asked Congress to approve nearly $40 bn in aid to help LA recover from Jan’s devastating wildfires. Estimates of the Total economic loss from firestorm have been estimated to surpass $250 bn [The South Asian Times on X](https://x.com/TheSATimes/status/1893882483772358798) [WorldWideWeb-The SouthAsianTimes](https://www.thesouthasiantimes.info/)
+[Mountains On Fire - CALiFORNiA 2025](https://x.com/selamolurm/status/1884319173649785335) [Video of #mandevillecanyon Jan31](https://x.com/BobRusbuldt/status/1885347275615944973)
+![h](https://pbs.twimg.com/media/GkrAkPQXgAA8Q1k?format=jpg&name=large)
+[Water-HOLLYWOOD_RESiViOR](https://x.com/RicoThaka/status/1894538435429634256)
+![TheWave JAn92025](https://pbs.twimg.com/media/GhSTJruasAAKFpe?format=png&name=4096x4096)
 
 [Future-Space Cadets Prod By Zaytoven](https://youtu.be/sYeHfBQktec?si=YPx9gkE1m9veEqTL) [Hollywood Resivior-kcal news climate data](https://youtu.be/vHrRy0elIj0?si=BmrQfvaqqTtnG0Bw) @nasa
 
