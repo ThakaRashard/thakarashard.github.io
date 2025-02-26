@@ -1,4 +1,21 @@
 # Currently Compiling
+
+## sonta "Your Mistake" [OfficialVideo](https://youtu.be/FiGAkDE7s7o?si=R5PbUm03gx7dEhC-)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FiGAkDE7s7o?si=9cMFvv5XYiplegKD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Soil Moisture Visualizer - AirMOSS](https://airmoss.ornl.gov/visualize/)
+
+
+[National Water Dashboard](https://dashboard.waterdata.usgs.gov/app/nwd/en/) [Related Tweet](https://x.com/RicoThaka/status/1893818593155899603)
+![water data dashboard](https://pbs.twimg.com/media/GkgxSekaEAATA7B?format=jpg&name=medium) 
+[Hollywood Resivior-kcal news climate data](https://youtu.be/vHrRy0elIj0?si=BmrQfvaqqTtnG0Bw) @nasa
+## Los Angeles Plaza 1869
+![Los Angeles Plaza](https://upload.wikimedia.org/wikipedia/commons/b/bc/LosAngeles-Plaza-1869.jpg)
+
+## Groundwater Declines in the U.S. Southwest
+![Groundwater Declines in the U.S. Southwest](https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152970/groundwater_grace_2023_lrg.jpg)
+
 @nasa @blackgirlscode @nasa-jpl @whitehouse 
 alot of new data an redesign
 [ricothaka](https://ricothaka.github.io/) an i made [NORMANi](https://ricothaka.github.io/normanikordei) a  page. [RashardLEarD](https://ricothaka.github.io/rashardlearned/) is similar to [My MarsWorkBlog](https://ricothaka.github.io/rashardmro/) but im playing with a tile layout im calling [Tupperware](https://codepen.io/ricoThaka/pen/JoPRWdr) its actually a [CSS FLeXBoX Container](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox). im really overwhelmed right now as the truth unflods on [HOT107.9fm ATLATA](https://hotspotatl.com/listen-live/)
@@ -8,11 +25,23 @@ alot of new data an redesign
 ![MarsPano](https://pbs.twimg.com/media/GigDa_2a4AAEdzj?format=jpg&name=large)
 [RelatedTweeT](https://x.com/RicoThaka/status/1884760551156510720)
 
+![SCabSheet](https://pbs.twimg.com/media/GXjT0hmXAAA75Lt?format=png&name=4096x4096)
+[![Twitter Follow](https://img.shields.io/badge/Social-iss_research_-blue?style=social&logo=X)](https://twitter.com/iss_research) '
+[![Twitter Follow](https://img.shields.io/badge/Social-space_station_-blue?style=social&logo=X)](https://twitter.com/space_station) 
+### [EcoStress DataUpdate](https://x.com/RicoThaka/status/1893454797858050098) [RelatedTweet](https://x.com/RicoThaka/status/1893453710568648891) [Elon Musk Calls For SpaceStationDeorbiting](https://x.com/ABC/status/1893441128776581220) [2cents](https://x.com/RicoThaka/status/1893452333113319826)
+![ecoStress](https://pbs.twimg.com/media/Gkbm_y1boAACZfw?format=jpg&name=large)
+![ECOSTRESS @usgs](https://pbs.twimg.com/media/Gkbl3sfWkAUC3Xz?format=jpg&name=large)
+![ECoSTRESS](https://pbs.twimg.com/media/GkbkxS4XUAECq2M?format=jpg&name=large)
+[![Twitter Follow](https://img.shields.io/badge/Social-Power106LA__-blue?style=social&logo=X)](https://twitter.com/Power106LA) 
+
+
 # Listen to NASA’s Ingenuity Mars Helicopter in Flight
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1044556651&color=%238c9265&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/listen-to-nasas-ingenuity-helicopter-as-it-flies-on-mars" title="Listen to NASA’s Ingenuity Mars Helicopter in Flight" target="_blank" style="color: #cccccc; text-decoration: none;">Listen to NASA’s Ingenuity Mars Helicopter in Flight</a></div>
 
 # [Portrait of June Christy, 1947 or 1948]
 ![JunEChrisTy](https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-10441:0001/full/pct:50.0/0/default.jpg)
+
+[map or dams to resiovior chlorophyll map](https://x.com/RicoThaka/status/1893413192308576517) ::::[2025FEB21-CHLOROPHYLL_REPORT](https://worldview.earthdata.nasa.gov/?v=-185.26971653659623,-37.948590897592716,-44.25825883432569,100.85956277807986&l=Reference_Labels_15m,Coastlines_15m,GRanD_Dams,GRanD_Reservoirs,OCI_PACE_Chlorophyll_a,OCI_PACE_True_Color&lg=true&t=2025-02-21-T00%3A00%3A00Z) ill make the [google earth wrap later](https://x.com/RicoThaka/status/1893414846802141388) 
 
 # El Niño: A NASA Perspective
 Steven Pawson discussed how NASA uses computer models to build up a complete three-dimensional picture of El Niño in the ocean and atmosphere. [WATCH](https://www.loc.gov/item/2021690074/)
