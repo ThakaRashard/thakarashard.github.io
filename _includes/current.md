@@ -1,5 +1,8 @@
 # Currently Compiling
 
+[LANDSLiDE](https://x.com/RicoThaka/status/1885859077340979253)
+# Los Angeles Fire Data
+[Palisades](https://x.com/RicoThaka/status/1881101168954532251)
 
 ![RED_EYE_MOB](https://pbs.twimg.com/media/GhCM6FcbgAAEZrw?format=jpg&name=large)
 [RelatedTweet](https://x.com/RicoThaka/status/1878152678494089716)
