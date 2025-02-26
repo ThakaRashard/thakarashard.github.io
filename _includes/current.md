@@ -2,6 +2,24 @@
 
 ![GAvin NEWSOM](https://pbs.twimg.com/media/GkhrgsCXcAAMsGx?format=jpg&name=medium)
 California Gov Gavin Newsom has asked Congress to approve nearly $40 bn in aid to help LA recover from Jan’s devastating wildfires. Estimates of the Total economic loss from firestorm have been estimated to surpass $250 bn [The South Asian Times on X](https://x.com/TheSATimes/status/1893882483772358798) [WorldWideWeb-The SouthAsianTimes](https://www.thesouthasiantimes.info/)
+
+![EATON CANYON FiRMS TiMEBASED](https://pbs.twimg.com/media/Gg4PJykaMAAA5tg?format=jpg&name=large)
+![NYtimesjan92025](https://pbs.twimg.com/media/GhSTLeOaoAANDoB?format=png&name=4096x4096)
+![SANTAMONiCA](https://pbs.twimg.com/media/GguVa4Aa0AAM_4r?format=jpg&name=large) [photoG - @yesmam47 on X](https://x.com/yesmam47/status/1876758277637165094) [TiMEBASED](https://x.com/RicoThaka/status/1877455333557187005)
+![EATONCANYON](https://pbs.twimg.com/media/GhR9ohKbgAAWX35?format=jpg&name=large)
+[Global Human Built-up And Settlement Extent (HBASE) Dataset From Landsat](https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-ulandsat-hbase-v1-1.00)
+[EatonCanyonFam](https://x.com/OC_Scanner/status/1878298424417689892)
+![JPL_EVACUATiON](https://pbs.twimg.com/media/GhSTNU5bsAAlbSd?format=png&name=small)
+[Rashards Fire Report from the wildFire era 2025](https://x.com/RicoThaka/status/1881776470907076747)
+![RASHARD](https://pbs.twimg.com/media/GhmX2EaaQAA7sTN?format=jpg&name=large)
+![LAtimes](https://pbs.twimg.com/media/GhSTKXibYAA0Wz3?format=png&name=4096x4096) [Related](https://x.com/RicoThaka/status/1879288922599231571) [MEETiNG](https://x.com/RicoThaka/status/1879252141736702153)
+![Palisades](https://pbs.twimg.com/media/Ggv0mFyXEAA0gs-?format=jpg&name=medium)
+
+photo -[@JackQuillinTV](https://x.com/JackQuillinTV)
+
+![PALiSADES_AREA](https://pbs.twimg.com/media/GjEDTfUbsAAmo3X?format=jpg&name=large) [RelatedTweet-BLACKBARBiES](https://x.com/RicoThaka/status/1887293510275244375)
+![NOAA](https://pbs.twimg.com/media/GhRxnXkbEAAWXiS?format=jpg&name=large)
+
 [Mountains On Fire - CALiFORNiA 2025](https://x.com/selamolurm/status/1884319173649785335) [Video of #mandevillecanyon Jan31](https://x.com/BobRusbuldt/status/1885347275615944973)
 ![h](https://pbs.twimg.com/media/GkrAkPQXgAA8Q1k?format=jpg&name=large)
 [Water-HOLLYWOOD_RESiViOR](https://x.com/RicoThaka/status/1894538435429634256)
