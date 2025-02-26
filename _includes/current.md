@@ -1,8 +1,14 @@
 # Currently Compiling
 
+
+![RED_EYE_MOB](https://pbs.twimg.com/media/GhCM6FcbgAAEZrw?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1878152678494089716)
+
 ### I Dream of Jeannie (unaired pilot)
 <iframe src="https://archive.org/embed/01theladyinthebottleunairedpilot" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+[Archive - JiGGAHBOOCarToonS](https://x.com/RicoThaka/status/1893645892701630467) 
+![jiggabooCartoons](https://pbs.twimg.com/media/GkeU5PFW8AAX5p5?format=jpg&name=medium)
 # The Los Angeles River
 [Lariver Rushing Water - TedSoquiPhoto on X](https://x.com/TedSoquiPhoto/status/1754581432390103442) [SAMEDAY ricothaka on X](https://x.com/RicoThaka/status/1887200958259540046) [ALinE](https://x.com/RicoThaka/status/1888729717618213080) [RiverRacing](https://x.com/alisonmartino/status/1427476270468591616)
 
