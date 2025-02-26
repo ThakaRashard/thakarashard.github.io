@@ -1,10 +1,44 @@
 # Currently Compiling
 
+
+
+[Future-Space Cadets Prod By Zaytoven](https://youtu.be/sYeHfBQktec?si=YPx9gkE1m9veEqTL) 
+
 ## sonta "Your Mistake" [OfficialVideo](https://youtu.be/FiGAkDE7s7o?si=R5PbUm03gx7dEhC-)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FiGAkDE7s7o?si=9cMFvv5XYiplegKD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[Soil Moisture Visualizer - AirMOSS](https://airmoss.ornl.gov/visualize/)
+[Soil Moisture Visualizer - AirMOSS](https://airmoss.ornl.gov/visualize/) [CityClerk](https://x.com/RicoThaka/status/1729339063151611927)
+[FoodLine-DTLA](https://x.com/BubbleGumPop626/status/1743039251963658565) [Private Security on The rise](https://x.com/BubbleGumPop626/status/1757580894725124594) [atlantaFamilyDrama](https://x.com/BubbleGumPop626/status/1750663365285040364) [Anti Trump-Musk protest](https://x.com/FrancisLozano7/status/1891625655017574775) [DarkEnerGyCamera](https://x.com/BubbleGumPop626/status/1849916504269328469) [OnlyFans on 60min](https://x.com/BubbleGumPop626/status/1794117625137750222) [WW2 in Color](https://x.com/RicoThaka/status/1891922920869404698) [AfricanAmericansDuringWW2](https://x.com/RicoThaka/status/1891924067055464871) 
+
+
+
+# [KD Diary](https://soundcloud.com/kashdoll/sets/stacked-5) - [KashDoLL](https://archive.org/details/Kash_Doll_-_The_Vault-2018)
+@blackgirlscode idk if Normani is Kashdoll or They sisters but they / it has been my friend above all an i want her to get an audience that is really into hearing a story like a magazine you pick up. That will protect her from predators. Its a pattern for you all
+<iframe width="560" height="315" src="https://www.youtube.com/embed/25VCq8iHTVo?si=wgvL6NeJh8AnGalu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Summer of '67 - how Detroit changed forever in 5 days](https://www.youtube.com/watch?v=kn1gcdgiLac)
+[Detroit Classic - The Rise and Fall of Detroit's Black Bottom"](https://www.youtube.com/watch?v=iSVgOCiT93Y) [Kash Doll On Drake, Kendrick Lamar, Chief Keef, Detroit, Men, Relationships & Performs!](https://youtu.be/SpvgXZ9_pTs?si=-XmrTIRWR2gg5M_H) [Kash Doll Opens Up About Home Invasion Involving Shootout With Tracy T](https://power1051.iheart.com/content/2024-08-19-kash-doll-opens-up-about-home-invasion-involving-shootout-with-tracy-t/) [Kash Doll Says She Was Robbed of $500,000 Worth of Jewelry](https://www.complex.com/music/a/mack/kash-doll-robbed-500000-jewelry) [Kash Doll Reveals There Were Multiple Arrests Following Attempted Home Robbery - HollywoodUnlocked](https://hollywoodunlocked.com/kash-doll-reveals-there-were-multiple-arrests-following-attempted-home-robbery/) 
+[RAPPER KASH DOLL CLAIMS SHE LOST $500K IN CAR BURGLARY While Shooting Music Vid!!! - TMZ](https://www.tmz.com/2021/05/15/rapper-kash-doll-car-burglary-la-music-video/) [Mar 14, 2018 — To celebrate her birthday, Detroit rapper and rising hip-hop starlet Kash Doll drops a new mixtape entitled Brat Mail](https://www.the360mag.com/kash-doll-drops-brat-mail/)
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/471718506&color=%23ed90c7&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kashdoll" title="Kash Doll" target="_blank" style="color: #cccccc; text-decoration: none;">Kash Doll</a> · <a href="https://soundcloud.com/kashdoll/sets/brat-mail" title="Brat Mail (Mixtape)" target="_blank" style="color: #cccccc; text-decoration: none;">Brat Mail (Mixtape)</a></div>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1881608747&color=%23ed90c7&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kashdoll" title="Kash Doll" target="_blank" style="color: #cccccc; text-decoration: none;">Kash Doll</a> · <a href="https://soundcloud.com/kashdoll/sets/the-last-doll-1" title="The Last Doll" target="_blank" style="color: #cccccc; text-decoration: none;">The Last Doll</a></div>
+
+# [PrivateSnafu](https://en.wikipedia.org/wiki/Private_Snafu): [Rumors](https://www.youtube.com/watch?v=nL2_x5sO7xI) [(1943)](https://www.loc.gov/search/?dates=1943/1943)
+https://svs.gsfc.nasa.gov/31309/
+
+<video controls poster="https://pbs.twimg.com/media/GXngg4PagAABGUm?format=jpg&name=large">
+  <source src="https://ia801302.us.archive.org/22/items/private-snafu_202401/Private%20Snafu%20Golden%20Classics%20%281943%E2%80%931946%29%20%281080p%20BluRay%20x265%20HEVC%2010bit%20AC3%202.0%20Garshasp%29/8%20-%20Rumors%20%281943%29%20%281080p%20BluRay%20x265%20Garshasp%29.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
+
+
+[GoogleEarthMobile](https://x.com/RicoThaka/status/1891939731786621138) [LA_RiVER_BOOK](https://x.com/RicoThaka/status/1785830607354040693)
+[RabbitHeadHistoryRelife](https://x.com/RicoThaka/status/1785829012025332081)
+[FavoriteRadio](https://hotspotatl.com/listen-live/)
+[Manasseh Warner, NCC](https://www.linkedin.com/in/manasseh-warner-ncc-764259143/) [HollywoodBae?](https://x.com/RicoThaka/status/1891287707352994054) [DAM_LiST](https://x.com/RicoThaka/status/1887227109619474919) [LA_SNOW](https://x.com/RicoThaka/status/1891286555844567506)
 
 
 [National Water Dashboard](https://dashboard.waterdata.usgs.gov/app/nwd/en/) [Related Tweet](https://x.com/RicoThaka/status/1893818593155899603)
