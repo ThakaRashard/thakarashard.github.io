@@ -1,4 +1,6 @@
 # Currently Compiling
+# The Los Angeles River
+[Lariver Rushing Water - TedSoquiPhoto on X](https://x.com/TedSoquiPhoto/status/1754581432390103442) [SAMEDAY ricothaka on X](https://x.com/RicoThaka/status/1887200958259540046) [ALinE](https://x.com/RicoThaka/status/1888729717618213080) [RiverRacing](https://x.com/alisonmartino/status/1427476270468591616)
 
 ![GAvin NEWSOM](https://pbs.twimg.com/media/GkhrgsCXcAAMsGx?format=jpg&name=medium)
 California Gov Gavin Newsom has asked Congress to approve nearly $40 bn in aid to help LA recover from Jan’s devastating wildfires. Estimates of the Total economic loss from firestorm have been estimated to surpass $250 bn [The South Asian Times on X](https://x.com/TheSATimes/status/1893882483772358798) [WorldWideWeb-The SouthAsianTimes](https://www.thesouthasiantimes.info/)
