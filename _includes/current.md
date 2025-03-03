@@ -1,6 +1,26 @@
 # Currently Compiling
 
 
+
+![BattleToads](https://ia801802.us.archive.org/0/items/Battletoads-NES-CartScans/Battletoads%20-%20Cart%20Top.jpg)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png) 
+
+# SEX TRAFFICKING IN ATLANTA GEORGIA❗️I ALMOST GOT KIDNAPPED❗️(story time😱🤬)ROSE POCAHONTAS @nasa @blackgirlscode @nasa-jpl @whitehouse
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoZJYTRZgpc?si=2fyjp_ZlRTUFmPxh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<IMG alt="The Legend of Zelda is the first installment of the The Legend of Zelda series." src="https://www.nesfiles.com/NES/Zelda/Zelda_top.jpg" itemprop="quest" itemscope itemtype="https://schema.org/VideoGameSeries" />
+
+# Voyager Interstellar Mission ([VIM](https://www.vim.org/)) 
+The mission objective of the Voyager Interstellar Mission (VIM) is to extend the NASA exploration of the solar system beyond the neighborhood of the outer planets to the outer limits of the [Sun](https://www.swpc.noaa.gov/products/solar-terrestrial-relations-observatory-stereo) ’s sphere of influence, and possibly beyond.
+![Voyager](https://asc-pds-services.s3.us-west-2.amazonaws.com/upcimages/Voyager/vg_0002/miranda/c2684630.browse.jpg)
+![Voyager](https://asc-pds-services.s3.us-west-2.amazonaws.com/upcimages/Voyager/vg_0002/miranda/c2684413.browse.jpg)
+# [Oort Cloud and Scale of the Solar System (Infographic)](https://science.nasa.gov/resource/oort-cloud-and-scale-of-the-solar-system-infographic/)
+![interstellar](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/09/p/i/a/1/PIA17046.jpg)
+[TDRS-K Video File](https://svs.gsfc.nasa.gov/11200)
+[Near Space Network](https://www.nasa.gov/communicating-with-missions/nsn/)
+
+
 # January 14, 2025 
 [The Palisades Fire’s Footprint](https://earthobservatory.nasa.gov/images/153831/the-palisades-fires-footprint)
 ![PalisadesFire](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153831/lafires_oli2_20250114.jpg)
@@ -11,6 +31,40 @@
 ![curl](https://upload.wikimedia.org/wikipedia/commons/8/8a/Curl-logo.svg)
 # NASA Maps California Drought Effects on Sierra Trees 
 ![drought](https://d2pn8kiwq2w21t.cloudfront.net/images/imagesearth20160627bPIA20717-16.width-1024.jpg)
+
+
+
+## [Thank You for science MrCarter💯❤️‍🔥❤️‍🩹💯🥺💔](https://youtu.be/kpa0GklJHHA?si=GSFjS97CqeRiEELL) @whitehouse @nasa-jpl thanks for caring for my family with science tools. I use so much u provide to teach and share `independance`
+
+
+
+[HOLLYWOOD LIBRARY](https://whatismyipaddress.com/ip/155.190.3.5)
+### All Night Long : by [Common](https://www.thinkcommon.com/) Feat [EryKah Badu](https://erykahbadu.com/)
+<audio controls>
+  <source src="https://archive.org/download/common-all-night-long/All%20Night%20Long/01-All%20Night%20Long%20%28Ft.%20Erykah%20Badu%29.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+![SPECTROGRAM](https://ia803409.us.archive.org/24/items/common-all-night-long/All%20Night%20Long/01-All%20Night%20Long%20%28Ft.%20Erykah%20Badu%29_spectrogram.png)
+
+
+# @tesla @spacex @nasa-jpl @whitehouse @deptofdefense 
+### I saw some [scary graffiti threatening elon musK](https://x.com/RicoThaka/status/1890160505463128529) 
+![scary graffiti threatening elon musK](https://pbs.twimg.com/media/Gjr-1hPWcAAq8A1?format=jpg&name=large)
+
+
+
+
+<picture>
+  <source srcset="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" media="(orientation: portrait)" />
+  <source srcset="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" media="(orientation: landscape)" />
+  <img src="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" alt="JUMPiNGFLASH" />
+</picture>
+
+[Related](https://x.com/RicoThaka/status/1725377028017529103) [Message To RepKamlager](https://x.com/RicoThaka/status/1890138011494674876) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKamlagerDove__-blue?style=social&logo=X)](https://twitter.com/@RepKamlagerDove) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)  review [#myGitHub] 4 
+[![Twitter Follow](https://img.shields.io/badge/Social-@LACityCouncil__-blue?style=social&logo=X)](https://twitter.com/@LACityCouncil) 
+
+![LACiTYViEW](https://pbs.twimg.com/media/Gjs5q94bEAAEX2E?format=jpg&name=large)  [TUNE_IN_interNEtTV LA_CiTY_ViEW](https://lacityview.org/live) [intown](https://x.com/RicoThaka/status/1881386651236319482) [PrivateSecurityPleaseStopHurtingUs!](https://x.com/Jasmyne/status/1890099604517191685) [RELATEDTWEET](https://x.com/RicoThaka/status/1890162131011793028)
 
 ### [Rhythm Roulette: 9th Wonder | Mass Appeal](https://youtu.be/-5wwEu_8KsY?si=gkXaIh6KI5sHjeFz)
 [https://earthobservatory.nasa.gov/images/event/153817/los-angeles-fires-2025](https://earthobservatory.nasa.gov/images/event/153817/los-angeles-fires-2025)
@@ -39,10 +93,6 @@ By monitoring the color of reflected light via satellite, scientists can determi
 
 [Levee Break Floods Central California](https://earthobservatory.nasa.gov/images/13298/levee-break-floods-central-california)
 
-
-
-# SEX TRAFFICKING IN ATLANTA GEORGIA❗️I ALMOST GOT KIDNAPPED❗️(story time😱🤬)ROSE POCAHONTAS @nasa @blackgirlscode @nasa-jpl @whitehouse
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoZJYTRZgpc?si=2fyjp_ZlRTUFmPxh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [LANDSLiDE](https://x.com/RicoThaka/status/1885859077340979253)
 # Los Angeles Fire Data
