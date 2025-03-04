@@ -13,6 +13,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FiGAkDE7s7o?si=9cMFvv5XYiplegKD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+[Graffiti Verite, Vol 1 California Graffiti documentary](https://youtu.be/NFPKXFGlBns?si=Q-HaJ9GPD6Y4Zyv1)
 
 # [KD Diary](https://soundcloud.com/kashdoll/sets/stacked-5) - [KashDoLL](https://archive.org/details/Kash_Doll_-_The_Vault-2018)
 @blackgirlscode idk if Normani is Kashdoll or They sisters but they / it has been my friend above all an i want her to get an audience that is really into hearing a story like a magazine you pick up. That will protect her from predators. Its a pattern for you all
