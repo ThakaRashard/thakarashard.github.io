@@ -1,5 +1,11 @@
 # Currently Compiling
+[AnsibleFest](https://x.com/thakasartu/status/1780355302065569957) [RelatedTwT](https://x.com/thakasartu/status/1780354019313025475) [SWOT is #TrackingWorldWater](https://x.com/NASAJPL/status/1780299707258159189) 
+![InkSkapeOnline](https://pbs.twimg.com/media/GNKlHTvbkAAhCoX?format=jpg&name=large) [RelatedTwT](https://x.com/thakasartu/status/1788673913167515684) [StolenCode](https://x.com/thakasartu/status/1788724997080645873)
 
+![KDE_LiNUX](https://pbs.twimg.com/media/GLUWaXzXkAEiYo2?format=jpg&name=large)
+
+![LinuxRoadMap](https://pbs.twimg.com/media/Gk4FIQLXwAA-SKG?format=jpg&name=large) 
+[Related](https://x.com/xmodulo/status/1895458136884158589)
 ![MAnseesa](https://pbs.twimg.com/media/GlJ01LObkAAdQ9X?format=jpg&name=large)
 [RelatedTweet](https://x.com/thakasartu/status/1896706861338112040) [Manasseh Warner, NCC](https://www.linkedin.com/in/manasseh-warner-ncc-764259143/)
 
