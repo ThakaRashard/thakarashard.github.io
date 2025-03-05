@@ -1,4 +1,5 @@
 # Currently Compiling
+[Determine Image File Size](https://myfreeonlinetools.com/get-image-size-and-dimensions/#google_vignette)
 [AnsibleFest](https://x.com/thakasartu/status/1780355302065569957) [RelatedTwT](https://x.com/thakasartu/status/1780354019313025475) [SWOT is #TrackingWorldWater](https://x.com/NASAJPL/status/1780299707258159189) 
 ![InkSkapeOnline](https://pbs.twimg.com/media/GNKlHTvbkAAhCoX?format=jpg&name=large) [RelatedTwT](https://x.com/thakasartu/status/1788673913167515684) [StolenCode](https://x.com/thakasartu/status/1788724997080645873) [WatchList](https://x.com/thakasartu/status/1865469733367320956)
 
