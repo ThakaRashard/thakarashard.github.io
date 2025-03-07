@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-
+{% include series.md %}
 {% include current.md %}
 {% include coral.md %}
 
