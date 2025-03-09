@@ -2,8 +2,9 @@
 layout: default
 ---
 
+[Parris Island, S.C., barrage balloon -Loc](https://loc.gov/pictures/resource/fsac.1a35101/)
 
-{% include series.md %}
+![π](https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35100/1a35101v.jpg)
 {% include current.md %}
 {% include coral.md %}
 
