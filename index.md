@@ -1,8 +1,58 @@
 ---
 layout: default
 ---
+# Black On Both Sides
+by [Mos Def](https://x.com/mosdefofficial?lang=en)
+<iframe src="https://archive.org/embed/mos-def-black-on-both-sides" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# Europa Clipper Camera Passes First Test in Space
+Soon after NASA's Europa Clipper spacecraft launched toward Jupiter's icy moon on Oct. 14, 2024, the mission team powered on each of the science instruments for a series of test or "checkout" activities. The Europa Imaging System – with its narrow-angle and wide-angle cameras – underwent its first checkouts in December 2024.
+
+Each camera has a cover to protect its sensitive detectors from the Sun while the spacecraft moves through the inner solar sys...[ReadMORE @nasa-jpl](https://www.jpl.nasa.gov/images/pia26564-europa-clipper-camera-passes-first-test-in-space/) @whitehouse @tesla 
+![Europa Clipper Camera Passes First Test in Space](https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26564.width-1024.jpg)
+
+
+
+# NASA’s Europa Clipper Spacecraft Separates From Falcon Heavy Second Stage
+<video controls preload="none" 
+  src="https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm.720p.vp9.webm"
+  poster="https://blogs.nasa.gov/europaclipper/wp-content/uploads/sites/378/2024/10/Screenshot-2024-10-14-13-05-50_result.jpg?resize=768,432">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm.720p.vp9.webm">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+# Europa Clipper separates from Falcon Heavy's Second Stage after deployment
+NASA’s Europa Clipper has embarked on its long voyage to Jupiter, where it will investigate Europa, a moon with an enormous subsurface ocean that may have conditions to support life. The spacecraft launched Oct. 14, 2024, from NASA’s Kennedy Space Center in [Florida.](https://blogs.nasa.gov/europaclipper/2024/10/14/nasas-europa-clipper-spacecraft-separates-from-falcon-heavy-second-stage/) [Europa Clipper Instrument Summaries](https://europa.nasa.gov/internal_resources/379/ScienceInstruments_031422_Public.pdf) 
+
+
+
+[wiki](https://en.wikipedia.org/wiki/Europa_Clipper#:~:text=It%20was%20launched%20on%20October,while%20in%20orbit%20around%20Jupiter.)
+
+![AViRiS](https://avirisng.jpl.nasa.gov/img/banner130213.png)
+
+
+[<IMG src="https://github.com/ricoThaka/rashardmro/blob/master/assets/pl0ts/AV320250123t202047_006_L1B_RDN_3f4aef90_RDN_BROWSE.jpg?raw=true" alt="AVIRIS-3 L1b Radiance Data Related to California Fires Now Available" />](https://github.com/ricoThaka/rashardmro/blob/master/assets/pl0ts/AV320250123t202047_006_L1B_RDN_3f4aef90_RDN_BROWSE.jpg?raw=true)
+
+[Twitter Follow](https://img.shields.io/badge/Social-@MAyorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLA) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) 
+
+![Ci_MESSAGE:NO_STATUS](https://pbs.twimg.com/media/GlsonxqbsAA_JKq?format=jpg&name=large) [#RelatedTweet](https://x.com/RicoThaka/status/1899156619084300541) @github 
+[grep, awk and sed – three VERY useful command-line utilities Matt Probert, Uni of York ](https://www-users.york.ac.uk/~mijp1/teaching/2nd_year_Comp_Lab/guides/grep_awk_sed.pdf)
+[Sed - An Introduction and Tutorial by Bruce Barnett](https://www.grymoire.com/Unix/Sed.html)
+[LapDLiveFeeD](https://www.youtube.com/live/w-ml4vis_Uo?si=Nf1zech1NTUjjxD6) [Life story Africa](https://youtu.be/Oa0iuAFYBfQ?si=fAMtHtIAdkMEZAu6)
+
+[Windows 95 Launch](https://youtu.be/_JzfROUDsK0?si=b4ZYt8XQYfFFnRR3) 
+[GoodTweeT](https://x.com/BubbleGumPop510/status/1899643422371352993) <~ @blackgirlscode @normani 
+[Recent California Precipitation maP](https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=state-ca&view=%7B%22basemap%22%3A%22EsriTopo%22%2C%22bounds%22%3A%22-131.74955003553436%2C12.39074881083234%2C-97.12361341020858%2C66.32571775472586%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C10%2C11%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.4%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A3%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D) 
+[1930s-40s in Color](https://www.flickr.com/photos/8623220@N02/albums/72157603671370361/)
+
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml)
+![NoSTaTus Ci Badge](https://private-user-images.githubusercontent.com/134652418/421639076-b76de780-be17-48db-908b-83f63e1b6364.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE3NDY3ODksIm5iZiI6MTc0MTc0NjQ4OSwicGF0aCI6Ii8xMzQ2NTI0MTgvNDIxNjM5MDc2LWI3NmRlNzgwLWJlMTctNDhkYi05MDhiLTgzZjYzZTFiNjM2NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMxMlQwMjI4MDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NGUyZDM2Mjc3NTk0OTQwNTNhYzM1OGFmZDg2M2I1MDY4NmRjNTAzNDEyYzNmZDc3ZDZjMjAyNzUyMGExYTJjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.S3ov36jTZyGEOChMO_P3zskDozJiHNCLAFQvsCLzUto)
 
 [Parris Island, S.C., barrage balloon -Loc](https://loc.gov/pictures/resource/fsac.1a35101/)
+
+[The impact of COVID19 pandemic and government enforced lockdowns on levels of attendance and context of sexual assaults reported at Saint Marys Sexual Assault Referral Centre](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10245237/pdf/main.pdf)
 
 ![π](https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35100/1a35101v.jpg)
 {% include current.md %}
