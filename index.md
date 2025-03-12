@@ -5,6 +5,8 @@ layout: default
 by [Mos Def](https://x.com/mosdefofficial?lang=en)
 <iframe src="https://archive.org/embed/mos-def-black-on-both-sides" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+[Flooding](https://worldview.earthdata.nasa.gov/?v=102.16593272929055,9.03858537138986,107.78896502357696,14.04074118318215&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m,MODIS_Combined_Flood_2-Day(hidden,disabled=3-4),MODIS_Combined_Flood_3-Day(disabled=2-3-4),MODIS_Terra_CorrectedReflectance_Bands721,MODIS_Aqua_CorrectedReflectance_Bands721(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&tr=flood-product&t=2022-11-02-T00%3A00%3A00Z)
+
 # Europa Clipper Camera Passes First Test in Space
 Soon after NASA's Europa Clipper spacecraft launched toward Jupiter's icy moon on Oct. 14, 2024, the mission team powered on each of the science instruments for a series of test or "checkout" activities. The Europa Imaging System – with its narrow-angle and wide-angle cameras – underwent its first checkouts in December 2024.
 
