@@ -1,5 +1,12 @@
 # Currently Compiling
 
+
+New page on [dev](https://ricothaka.github.io/) titled `[me](https://ricothaka.github.io/Me)` im putting past jobsearch infor and categorizing other things to make my [cv](https://ricothaka.github.io/cv/) synonomous with [MyBlogging](https://thakarashard.github.io/compiling/) 
+![ME](https://pbs.twimg.com/media/GmBDmzHbcAMKR6A?format=jpg&name=large)
+
+I created a few [.md](https://www.lifewire.com/md-file-4143558) files to start organizing what i know today for [M_R_O](https://www.jpl.nasa.gov/missions/mars-reconnaissance-orbiter-mro/). [Computers](https://ricothaka.github.io/Computing) are a big part of staying work Ready as new projects get launched into outer space but theres protocol to learn for [NonTechnicalPeople](https://x.com/RicoThaka/status/1907172490969030917)
+### Coral Sample found in [LongBeach](https://www.longbeach.gov/officials/)
+![coralSample](https://pbs.twimg.com/media/GmqthODa0AAeuyF?format=jpg&name=large) [RelatedTweet](https://x.com/RicoThaka/status/1903524754499510302)
  ElNino and other things im learning how to map with [Nasa WorldView](https://worldview.earthdata.nasa.gov/?v=-248.06956668783653,-155.73219077305305,35.635836808033844,156.50774463511874&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2025-03-30-T20%3A43%3A02Z)
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="qme" dir="ltr"><a href="https://twitter.com/hashtag/elnino?src=hash&amp;ref_src=twsrc%5Etfw">#elnino</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> <a href="https://twitter.com/RealHWAtlanta?ref_src=twsrc%5Etfw">@RealHWAtlanta</a> <a href="https://twitter.com/realDonaldTrump?ref_src=twsrc%5Etfw">@realDonaldTrump</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://t.co/JXuedfs2zJ">pic.twitter.com/JXuedfs2zJ</a></p>&mdash; ThakaSartu KellySelassie (@thakasartu) <a href="https://twitter.com/thakasartu/status/1884810330934771866?ref_src=twsrc%5Etfw">January 30, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
