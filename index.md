@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+
+
+ ElNino and other things im learning how to map with [Nasa WorldView](https://worldview.earthdata.nasa.gov/?v=-248.06956668783653,-155.73219077305305,35.635836808033844,156.50774463511874&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2025-03-30-T20%3A43%3A02Z)
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="qme" dir="ltr"><a href="https://twitter.com/hashtag/elnino?src=hash&amp;ref_src=twsrc%5Etfw">#elnino</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> <a href="https://twitter.com/RealHWAtlanta?ref_src=twsrc%5Etfw">@RealHWAtlanta</a> <a href="https://twitter.com/realDonaldTrump?ref_src=twsrc%5Etfw">@realDonaldTrump</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://t.co/JXuedfs2zJ">pic.twitter.com/JXuedfs2zJ</a></p>&mdash; ThakaSartu KellySelassie (@thakasartu) <a href="https://twitter.com/thakasartu/status/1884810330934771866?ref_src=twsrc%5Etfw">January 30, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Black On Both Sides
 by [Mos Def](https://x.com/mosdefofficial?lang=en)
 <iframe src="https://archive.org/embed/mos-def-black-on-both-sides" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
