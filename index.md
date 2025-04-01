@@ -6,7 +6,7 @@ layout: default
 
 {% include current.md %}
 {% include coral.md %}
-
+{% include README.md %}
 
 
 

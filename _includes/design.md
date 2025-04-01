@@ -4,8 +4,7 @@
 ![ATLiEN](https://pbs.twimg.com/media/GILodwkaMAASXdr?format=jpg&name=4096x4096)
 
 
-[DeKAy_FReeAGEnTS FlipTheScript](https://youtu.be/Zg9H7urB3kk)
-[Thats_when_Ya_Lost_RMX_Souls_of_mischief](https://youtu.be/yp-g_iwGKww?si=OOINwd6rVrMkjviC)
+
 
 <h3><span id="Main_heading">Main heading</span></h3>
 <h2><span id="Subheading">Subheading</span></h2>
