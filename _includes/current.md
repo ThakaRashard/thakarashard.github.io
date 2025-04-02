@@ -7,8 +7,30 @@ New page on [dev](https://ricothaka.github.io/) titled `[me](https://ricothaka.g
 I created a few [.md](https://www.lifewire.com/md-file-4143558) files to start organizing what i know today for [M_R_O](https://www.jpl.nasa.gov/missions/mars-reconnaissance-orbiter-mro/). [Computers](https://ricothaka.github.io/Computing) are a big part of staying work Ready as new projects get launched into outer space but theres protocol to learn for [NonTechnicalPeople](https://x.com/RicoThaka/status/1907172490969030917) @nasa-jpl i have to make notes about `<picture>`! it takes multiple sources an can be used as a tool in our troubleshooting and [alerting matrix](https://www.earthdata.nasa.gov/data/alerts-outages)
 ### Coral Sample found in [LongBeach](https://www.longbeach.gov/officials/)
 ![coralSample](https://pbs.twimg.com/media/GmqthODa0AAeuyF?format=jpg&name=large) [RelatedTweet](https://x.com/RicoThaka/status/1903524754499510302)
- ElNino and other things im learning how to map with [Nasa WorldView](https://worldview.earthdata.nasa.gov/?v=-248.06956668783653,-155.73219077305305,35.635836808033844,156.50774463511874&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2025-03-30-T20%3A43%3A02Z)
+
+
+
+[‘The Forgotten Holocaust’: 27 Tragic Photos From The Rape Of Nanking](https://allthatsinteresting.com/rape-of-nanking-massacre) [Nanjing Massacre - History_dOT_COM](https://www.history.com/articles/nanjing-massacre) [Holocaust and Genocide Research Guide @unolibraries](https://libguides.unomaha.edu/c.php?g=100469&p=7908011) [RelatedTweet](https://x.com/BubbleGumPop510/status/1907216950327177621) [Penal Code 315 PC - Keeping or Living in a House of Prostitution in California](https://www.cronisraelsandstark.com/house-of-prostitution-penal-code-315-pc) [RelatedTweet](https://x.com/BubbleGumPop510/status/1907217783169122773) [The rape of Nanking : the forgotten holocaust of World War II](https://tripod.brynmawr.edu/discovery/fulldisplay/alma991009373089704921/01TRI_INST:BMC) [The Forgotten Holocaust of World War II](https://lapl.overdrive.com/media/767511) [Reddit](https://www.reddit.com/r/wikipedia/comments/16w4vez/the_japanese_wikipedia_article_for_the_1937/?rdt=59333)
+# December 1937 
+
+![BLAUPUNKT Madrid 200 BT](https://static01.galaxus.com/productimages/3/0/3/6/1/5/9/7/6/9/0/1/2/9/0/1/5/0/8/2d4086af-956d-4d9a-8574-01153932828f_cropped.jpg_1000.avif) @blackgirlscode hi
+<iframe src="https://archive.org/embed/super-cat-don-dada" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+Don Dada
+
+by Super Cat [1992 on `WaxPoetics`](https://magazine.waxpoetics.com/article/the-making-of-don-dada-and-the-many-lives-of-super-cat-the-wild-apache/) [Super Cat - Ghetto Red Hot - Video](https://www.youtube.com/watch?v=KS6bVTYRh-w&ab_channel=SuperCatVEVO)
+
+![4PageLEtter @blackgirlscode @normani](https://pbs.twimg.com/media/GmXEpMha8AUfoyw?format=png&name=360x360)
+
+<audio controls>
+  <source src="https://dn720305.ca.archive.org/0/items/aaliyah-one-in-a-million/Album/08-4%20Page%20Letter.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+ElNino and other things im learning how to map with [Nasa WorldView](https://worldview.earthdata.nasa.gov/?v=-248.06956668783653,-155.73219077305305,35.635836808033844,156.50774463511874&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2025-03-30-T20%3A43%3A02Z)
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="qme" dir="ltr"><a href="https://twitter.com/hashtag/elnino?src=hash&amp;ref_src=twsrc%5Etfw">#elnino</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> <a href="https://twitter.com/RealHWAtlanta?ref_src=twsrc%5Etfw">@RealHWAtlanta</a> <a href="https://twitter.com/realDonaldTrump?ref_src=twsrc%5Etfw">@realDonaldTrump</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://t.co/JXuedfs2zJ">pic.twitter.com/JXuedfs2zJ</a></p>&mdash; ThakaSartu KellySelassie (@thakasartu) <a href="https://twitter.com/thakasartu/status/1884810330934771866?ref_src=twsrc%5Etfw">January 30, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 [DeKAy_FReeAGEnTS FlipTheScript](https://youtu.be/Zg9H7urB3kk)
 [Thats_when_Ya_Lost_RMX_Souls_of_mischief](https://youtu.be/yp-g_iwGKww?si=OOINwd6rVrMkjviC)
