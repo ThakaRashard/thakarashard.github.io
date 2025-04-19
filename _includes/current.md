@@ -1,7 +1,19 @@
 # Currently Compiling
 
-
+![CLEMENTiNE](https://planetarydata.jpl.nasa.gov/img/data/clem1-l-h-5-dim-mosaic-v1.0/cl_6001/clemlogo.gif)
 New page on [dev](https://ricothaka.github.io/) titled `[me](https://ricothaka.github.io/Me)` im putting past jobsearch infor and categorizing other things to make my [cv](https://ricothaka.github.io/cv/) synonomous with [MyBlogging](https://thakarashard.github.io/compiling/) 
+
+ # [Ranger](https://www.jpl.nasa.gov/missions/ranger-1/) 9 
+ NASA's Ranger 9 was the last in a series of spacecraft launched in the 1960s to explore the Moon. It was designed to take images as it descended to the lunar surface for impact.
+<video  controls >
+  <source src="https://d2pn8kiwq2w21t.cloudfront.net/media/videosrangerVideo-Ranger-9-impact-020423.webm" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
+### [The_Ranger_Program](https://science.nasa.gov/mission/lunar-rangers-and-surveyors/) : [WikiTalkPage @nasa](https://en.wikipedia.org/wiki/Talk:Ranger_program) @nasa-jpl 
+![The_Ranger_Program](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/09/a/as12-48-7134.jpg?w=6515&h=6515&fit=clip&crop=faces%2Cfocalpoint) [svgDiagram](https://upload.wikimedia.org/wikipedia/commons/5/50/Ranger_6789.svg)
+
 ![ME](https://pbs.twimg.com/media/GmBDmzHbcAMKR6A?format=jpg&name=large)
 
 I created a few [.md](https://www.lifewire.com/md-file-4143558) files to start organizing what i know today for [M_R_O](https://www.jpl.nasa.gov/missions/mars-reconnaissance-orbiter-mro/). [Computers](https://ricothaka.github.io/Computing) are a big part of staying work Ready as new projects get launched into outer space but theres protocol to learn for [NonTechnicalPeople](https://x.com/RicoThaka/status/1907172490969030917) @nasa-jpl i have to make notes about `<picture>`! it takes multiple sources an can be used as a tool in our troubleshooting and [alerting matrix](https://www.earthdata.nasa.gov/data/alerts-outages)
