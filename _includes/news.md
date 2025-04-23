@@ -58,7 +58,22 @@ here are some scans i pused to [Archive.ORG](https://archive.org/details/@thakas
 <iframe src="https://archive.org/embed/image-07_202504" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
-###
+### Annie
+<iframe src="https://archive.org/embed/annie8" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+### Eric Adams
+<iframe src="https://archive.org/embed/ERiC_ADAMS202504" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# MArs Interviews
+<iframe src="https://archive.org/embed/image-01_202504" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+# Housing
+<iframe src="https://archive.org/embed/image-07_202504" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+### MeetingNotes : `OPeNDAP`
+<iframe src="https://archive.org/embed/screenshot-2025-04-23-11.21.06-am" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 
 ![@noaa](https://ia601509.us.archive.org/20/items/noaa_fundingwide/noaa_funding.jpg)
 
