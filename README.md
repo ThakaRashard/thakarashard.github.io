@@ -3,7 +3,7 @@
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 
 # THAKARASHARD = Rashard's HomePAge
-Thaka is my given name, Rasahrd is my Government name, i only trust my governemt name... My preffered name is Rashard. My friend name me thaka before she died. its time for it to rest... i am [rashard](https://www.tumblr.com/bubblegumpoptt/712258852722294784) [![Twitter Follow](https://img.shields.io/badge/Social-ricoThaka__-blue?style=social&logo=X)](https://twitter.com/ricothaka) 
+Thaka is my given name, [Rashard is my Government](https://about.me/thaka) name, i only trust my governemt name... My preffered name is Rashard. My friend name me thaka before she died. its time for it to rest... i am [rashard](https://www.tumblr.com/bubblegumpoptt/712258852722294784) [![Twitter Follow](https://img.shields.io/badge/Social-ricoThaka__-blue?style=social&logo=X)](https://twitter.com/ricothaka) 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)](https://badge.fury.io/rb/jekyll-theme-hacker)
 # Rashard iMan(Thaka) Kelly NasaJpl MRO JUNO iSS
 
