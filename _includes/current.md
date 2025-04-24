@@ -1,8 +1,29 @@
 # Currently Compiling
 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/THATMEETiNGWASAMAZiNG?src=hash&amp;ref_src=twsrc%5Etfw">#THATMEETiNGWASAMAZiNG</a>!<a href="https://t.co/CjISu0k7c3">https://t.co/CjISu0k7c3</a><a href="https://twitter.com/BlackGirlsCode?ref_src=twsrc%5Etfw">@BlackGirlsCode</a> <a href="https://twitter.com/TheAscendCo?ref_src=twsrc%5Etfw">@TheAscendCo</a> try <a href="https://t.co/3CGCDpDqJo">https://t.co/3CGCDpDqJo</a> you can import <a href="https://twitter.com/hashtag/Git_repos?src=hash&amp;ref_src=twsrc%5Etfw">#Git_repos</a> and work with the data in <a href="https://twitter.com/ProjectJupyter?ref_src=twsrc%5Etfw">@ProjectJupyter</a> <a href="https://twitter.com/hashtag/JupyterNotebooks?src=hash&amp;ref_src=twsrc%5Etfw">#JupyterNotebooks</a> <a href="https://twitter.com/Zoeapie?ref_src=twsrc%5Etfw">@zoeapie</a> I can start working with <a href="https://twitter.com/hashtag/ECOSTRESS_DATA?src=hash&amp;ref_src=twsrc%5Etfw">#ECOSTRESS_DATA</a> soon <a href="https://twitter.com/ISS_Research?ref_src=twsrc%5Etfw">@ISS_Research</a> <a href="https://twitter.com/hashtag/RASHARD?src=hash&amp;ref_src=twsrc%5Etfw">#RASHARD</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1915120950137516391?ref_src=twsrc%5Etfw">April 23, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+![ME](https://pbs.twimg.com/media/GmBDmzHbcAMKR6A?format=jpg&name=large)
+[OPENDAP](https://x.com/RicoThaka/status/1915120950137516391)
+![Build @nasa-jpl @whitehouse @nasa](https://pbs.twimg.com/media/GpP9qW6bYAQWaRi?format=jpg&name=large)
+[Niel TYson page @noaa](https://x.com/RicoThaka/status/1915147545954967772)
+
+[Related](https://x.com/RicoThaka/status/1915153824660283507)
+[RelatedTwt](https://x.com/RicoThaka/status/1915222937180991864) [NOAA-TWT](https://x.com/RicoThaka/status/1915216598782382524)
+![ECOSTRESS](https://dn721704.ca.archive.org/0/items/screenshot-2025-04-23-11.21.06-am/Screenshot%202025-04-23%2011.20.07%20AM.png) [RANDOMLOCAL](https://x.com/RicoThaka/status/1915209709814243591)
+![openDap](https://dn721704.ca.archive.org/0/items/screenshot-2025-04-23-11.21.06-am/Screenshot%202025-04-23%2011.09.19%20AM.png)
+![RECENT](https://ia800507.us.archive.org/7/items/screenshot-2025-04-23-11.21.06-am/Screenshot%202025-04-23%2010.59.55%20AM.png)
+![EARTHDATA OPENDAP](https://ia800507.us.archive.org/7/items/screenshot-2025-04-23-11.21.06-am/Screenshot%202025-04-23%2011.04.14%20AM.png)
+![NEWS](https://pbs.twimg.com/media/GpQc9UJbcAAIrQP?format=jpg&name=small)
+[NEWS_dOt_mD](https://thakarashard.github.io/news)
+[DeKAy_FReeAGEnTS FlipTheScript](https://youtu.be/Zg9H7urB3kk)
+![me](https://ia800507.us.archive.org/7/items/screenshot-2025-04-23-11.21.06-am/Screenshot%202025-04-23%2010.49.25%20AM.png)
+# EarthDay 
+![EARTHDAY](https://pbs.twimg.com/media/GpP3PWXaUAE3MXg?format=jpg&name=large)
+[EarthDay on Rashard's MROBLOG](https://thakarashard.github.io/rashardmro/2025/04/18/NOAA.html)
 ![CLEMENTiNE](https://planetarydata.jpl.nasa.gov/img/data/clem1-l-h-5-dim-mosaic-v1.0/cl_6001/clemlogo.gif)
 New page on [dev](https://ricothaka.github.io/) titled `[me](https://ricothaka.github.io/Me)` im putting past jobsearch infor and categorizing other things to make my [cv](https://ricothaka.github.io/cv/) synonomous with [MyBlogging](https://thakarashard.github.io/compiling/) 
-
+[OPENDAPCLASS](https://x.com/RicoThaka/status/1915121645809000675) [Blocked](https://x.com/RicoThaka/status/1915122219019387001)
  # [Ranger](https://www.jpl.nasa.gov/missions/ranger-1/) 9 
  NASA's Ranger 9 was the last in a series of spacecraft launched in the 1960s to explore the Moon. It was designed to take images as it descended to the lunar surface for impact.
 <video  controls >
@@ -14,7 +35,7 @@ New page on [dev](https://ricothaka.github.io/) titled `[me](https://ricothaka.g
 ### [The_Ranger_Program](https://science.nasa.gov/mission/lunar-rangers-and-surveyors/) : [WikiTalkPage @nasa](https://en.wikipedia.org/wiki/Talk:Ranger_program) @nasa-jpl 
 ![The_Ranger_Program](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/09/a/as12-48-7134.jpg?w=6515&h=6515&fit=clip&crop=faces%2Cfocalpoint) [svgDiagram](https://upload.wikimedia.org/wikipedia/commons/5/50/Ranger_6789.svg)
 
-![ME](https://pbs.twimg.com/media/GmBDmzHbcAMKR6A?format=jpg&name=large)
+
 
 I created a few [.md](https://www.lifewire.com/md-file-4143558) files to start organizing what i know today for [M_R_O](https://www.jpl.nasa.gov/missions/mars-reconnaissance-orbiter-mro/). [Computers](https://ricothaka.github.io/Computing) are a big part of staying work Ready as new projects get launched into outer space but theres protocol to learn for [NonTechnicalPeople](https://x.com/RicoThaka/status/1907172490969030917) @nasa-jpl i have to make notes about `<picture>`! it takes multiple sources an can be used as a tool in our troubleshooting and [alerting matrix](https://www.earthdata.nasa.gov/data/alerts-outages)
 ### Coral Sample found in [LongBeach](https://www.longbeach.gov/officials/)
