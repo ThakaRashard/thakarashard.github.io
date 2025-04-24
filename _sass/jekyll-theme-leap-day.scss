@@ -293,7 +293,7 @@ blockquote { font-style: italic }
 
 section img {
   max-height: auto;
-  width: min-content;
+  max-width: 100%;
 }
 .floatright img:nth-child(odd) {
   float: right;
