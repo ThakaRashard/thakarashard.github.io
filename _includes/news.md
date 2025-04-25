@@ -1,4 +1,88 @@
 # News
+Updated Font on Dev to [Comfortaa](https://fonts.google.com/specimen/Comfortaa) [RikoThaka:HoleToanotherUniverse](https://ricothaka.github.io/) [Comfortaa looking for opinions : r/typography : reddit](https://www.reddit.com/r/typography/comments/kpls87/comfortaa_looking_for_opinions/?rdt=57381)
+![COMFORTAA](https://www.dafont.com/img/illustration/c/o/comfortaa.png)
+[Pope’s Mourners See His Death as Crossroads for Catholic Church](https://www.wsj.com/world/europe/popes-mourners-see-his-death-as-crossroads-for-catholic-church-ea483a15) [Pope Francis, the Misunderstood Pontiff](https://www.wsj.com/opinion/the-misunderstood-pontiff-pope-francis-death-legacy-79ce7689) He was hailed as a progressive reformer and also attacked as a revolutionary. [Pope Francis : r/wikipedia:Reddit](https://www.reddit.com/r/wikipedia/comments/1k48d0z/pope_francis/) [Talk:Pope Francis - wikipedia_dOt_cOm](https://en.wikipedia.org/wiki/Talk:Pope_Francis) [Most popes are buried beneath the Vatican—but Francis is breaking tradition @natgeosociety](https://www.nationalgeographic.com/history/article/pope-francis-funeral-vatican-catacombs-crypts) @vatican-news @nasa-jpl [vatican-news/who-is-the-new-pope](https://github.com/vatican-news/who-is-the-new-pope) [Pope Francis’ Death Triggers Succession Process @wsj](https://www.wsj.com/world/pope-francis-dead-9155495e) [PopeFrancis Yandex Search](https://yandex.com/search/?text=pope+francis&lr=200&search_source=yacom_desktop_common)
+ 
+<div class="tupperware">
+
+<a href="https://ia801905.us.archive.org/27/items/pope-5/pope-1.png"><img src="https://ia801905.us.archive.org/27/items/pope-5/pope-1.png" alt="Pope Francis[b] (born Jorge Mario Bergoglio;[c] 17 December 1936 – 21 April 2025) was the head of the Catholic Church and sovereign of the Vatican City State from 2013 until his death in 2025. He was the first Jesuit pope, the first Latin American, the first from the Americas, the first from the Southern Hemisphere, and the first born or raised outside of Europe since the 8th-century Syrian pope Gregory III." /></a>
+<a href="https://ia801905.us.archive.org/27/items/pope-5/pope-2.png"><img src="https://ia801905.us.archive.org/27/items/pope-5/pope-2.png" alt="Born in Buenos Aires, Argentina, to a family of Italian origin, Bergoglio was inspired to join the Jesuits in 1958 after recovering from a severe illness. He was ordained a Catholic priest in 1969, and from 1973 to 1979 he was the Jesuit provincial superior in Argentina. He became the archbishop of Buenos Aires in 1998 and was created a cardinal in 2001 by Pope John Paul II." /></a>
+<a href="https://ia601905.us.archive.org/27/items/pope-5/pope-4.png"><img src="https://ia601905.us.archive.org/27/items/pope-5/pope-4.png" alt="Following the resignation of Pope Benedict XVI on 28 February 2013, a papal conclave elected Bergoglio as his successor on 13 March. He chose Francis as his papal name in honour of Saint Francis of Assisi. Throughout his public life, Francis was noted for his humility, emphasis on God's mercy, international visibility as pope, concern for the poor, and commitment to interreligious dialogue. He was known for having a less formal approach to the papacy than his predecessors by, for instance, choosing to reside in the Domus Sanctae Marthae guesthouse rather than in the papal apartments of the Apostolic Palace used by previous popes. In addition, due to both his Jesuit and Ignatian aesthetic, he was known for favoring simpler vestments void of ornamentation, including refusing the traditional papal mozzetta cape upon his election, choosing silver instead of gold for his piscatory ring, and keeping the same pectoral cross he had as cardinal.[2] Francis made women full members of dicasteries in the Roman Curia.[3][4]" /></a>
+<a href="https://archive.org/download/pope-5/pope-5.png"><img src="https://archive.org/download/pope-5/pope-5.png" alt="Francis believed that the Catholic Church should be more inclusive regarding LGBTQ people, and stated that although blessings of same-sex unions are not permitted, the individuals in a same-sex relationship can be blessed as long as the blessing is not given in a liturgical context.[5] Francis was a critic of trickle-down economics, consumerism, and overdevelopment;[6] he made action on climate change a leading focus of his papacy.[7] He viewed the death penalty as inadmissible in all cases,[8] and committed the Catholic Church to its worldwide abolition.[9] In international diplomacy, Francis criticized the rise of right-wing populism, called for the decriminalization of homosexuality,[10] helped to restore full diplomatic relations between the United States and Cuba, negotiated a deal with the People's Republic of China to define Communist Party influence in appointing Chinese bishops, and supported the cause of refugees. He encouraged peace between Israel and Palestinians, signed the Vatican's first treaty with the State of Palestine and condemned Israel's military operations in Gaza, calling for investigations of war crimes. He called protection of migrants a duty of civilization and criticized anti-immigration politics, including those of US president Donald Trump.[11] In 2022, he apologized for the Churchs role in the cultural genocide of Canadian Indigenous peoples in residential schools.[12] Francis convened the Synod on Synodality, which was described as the culmination of his papacy and the most important event in the Catholic Church since the Second Vatican Council.[4][13][14]" /></a>
+
+
+<a href="https://ia601905.us.archive.org/27/items/pope-5/pope-6.png"><img src="https://ia601905.us.archive.org/27/items/pope-5/pope-6.png" alt="Francis died at the age of 88 in the early morning of 21 April 2025, on Easter Monday, after suffering a stroke, which led to a coma and cardiac arrest. He had made his last public appearance the day before, on Easter Sunday.[15][16]" /></a>
+
+
+</div>
+
+
+![openDAP](https://earthdata.nasa.gov/s3fs-public/styles/hds_large/public/2025-04/OPeNDAP_banner_final.png?VersionId=MEsX9pz8FAetXTjWPC3wtEZ15INU16YZ&itok=Rb6Ia-6s)
+
+
+
+`Nagin Cox grew up hearing that girls were "worthless"-so she set her sights on NASA and never looked back.` - [ReadHerStory](https://www.jpl.nasa.gov/news/fight-and-flight-one-womans-fearless-journey-to-the-stars/) [MAliBuTimEs](https://malibutimes.com/scientist-engineer-nagin-cox-shares-journey-to-mars-for-the-malibu-library-speaker-series)
+[Nagin Cox](https://www.nagincox.org/about) in [`All About Space`](https://onlineobservatory.eu/wp-content/uploads/2021/03/TheHuntForMartianLife.pdf) [MRO 10Year Anniversary Issue](https://onlineobservatory.eu/wp-content/uploads/2021/03/MarsReconnaissanceOrbiter.pdf)
+
+
+![Curiosity](https://upload.wikimedia.org/wikipedia/commons/6/6f/Perseverance_rover_design.png)
+
+<div class="tupperware" markdown="1">
+<figure>
+ <a href="https://dn721804.ca.archive.org/0/items/image-01_202504/image-01.png" > 
+ <img src="https://dn721804.ca.archive.org/0/items/image-01_202504/image-01.png" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> NAgin Cox: Livin Like A Rover</a></figcaption>
+</figure>
+  
+ <figure>
+ <a href="https://dn721804.ca.archive.org/0/items/image-01_202504/image-02.png" > 
+ <img src="https://dn721804.ca.archive.org/0/items/image-01_202504/image-02.png" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> NAgin Cox: Livin Like A Rover</a></figcaption>
+</figure>
+
+  <figure>
+ <a href="https://dn721804.ca.archive.org/0/items/image-01_202504/image-04.png" > 
+ <img src="https://dn721804.ca.archive.org/0/items/image-01_202504/image-04.png" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> Curiosity: The First10years</a></figcaption>
+</figure>
+
+  <figure>
+ <a href="https://dn721804.ca.archive.org/0/items/image-01_202504/image-05.png" > 
+ <img src="https://dn721804.ca.archive.org/0/items/image-01_202504/image-05.png" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=0&mission=msl"> Curiosity: The First10years</a></figcaption>
+</figure>
+ 
+</div>
+
+[The Curious Life of a Mars Rover  @natgeosociety Live](https://youtu.be/7zpojhD4hpI?si=-UDj3QaGPCAkNXIV)
+![MESSENGER Mercury Surface, Space Environment, Geochemistry and Ranging](https://messenger.jhuapl.edu/images/template/messenger_logo.png)
+[nasa.gov - MESSENGER](https://science.nasa.gov/mission/messenger/) [MErcury](https://photojournal.jpl.nasa.gov/targetFamily/mercury) Surface, Space ENvironment, GEochemistry, and Ranging [Wiki - @JHUAPL](https://en.wikipedia.org/wiki/Talk:MESSENGER) [MESSENGER – From Setbacks to Success](https://www.nasa.gov/history/messenger-from-setbacks-to-success/) Explore the surface of Mercury, investigate named craters and other features, see featured MESSENGER images, and take guided tours of the latest Mercury research in the [Google Earth interface](https://messenger.jhuapl.edu/Explore/Mercury-Google-Earth.html).
+
+
+<object data="https://epic.gsfc.nasa.gov/" type="text/html" width="100%" height=600px ></object>
+
+[EXPLORER1](https://explorer1.jpl.nasa.gov/) <~ @StateOfCalifornia
+![world](https://explorer1.jpl.nasa.gov/assets/images/galleries/1965_TIROS9_NOAA_lib.jpeg) 
+![Earth](https://explorer1.jpl.nasa.gov/assets/images/galleries/1966_LOIRP_289764main_GPN-2000-001588_full.jpeg)
+![EARTH](https://explorer1.jpl.nasa.gov/assets/images/galleries/1947_316209main_smallsteps-v2_full.jpeg)
+![EARTH @nasa](https://www.nasa.gov/wp-content/uploads/2025/04/2025-nasa-earth-day-poster-30x15-print-resolution.jpg)
+## Earth Rotation from Galileo Imagery: 3600 x Real-Time [JPL](https://www.jpl.nasa.gov/galileo/index.html)
+This animation is one in a series created to show an accurate representation of the Earth's rotation at different temporal resolutions. The animation is created from images taken by the Galileo spacecraft during a close pass of the Earth on December 11-12, 1990
+<video controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001372/a001372.00095_print.png" >
+  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001375/a001375.webmhd.webm" type="video/webm" />
+
+  Download the
+
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001375/a001375.webmhd.webm" type="video/webm" >
+webm</a>
+  video.
+</video>
+
+
+
+
+
 ## [https://www.billboard.com/music/rb-hip-hop/nicki-minaj-target-swatting-attack-1235943632/](https://www.billboard.com/music/rb-hip-hop/nicki-minaj-target-swatting-attack-1235943632/) 
 Someone allegedly called the LAPD and claimed the [rapper](https://www.billboard.com/author/mcummingsgrady/) had been shot [![Twitter Follow](https://img.shields.io/badge/Social-mcummingsgrady__-blue?style=social&logo=X)](https://twitter.com/mcummingsgrady) 
 ![NickiMinaj @datadesk](https://ca-times.brightspotcdn.com/dims4/default/6856c52/2147483647/strip/true/crop/2048x1392+0+0/resize/1024x696!/format/webp/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa3%2F05%2Fd6f64c858ed0527be4b2e25b2532%2Fla-et-mg-nicki-minaj-laguardia-high-school-rej-001)
