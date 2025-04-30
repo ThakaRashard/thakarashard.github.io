@@ -1,4 +1,8 @@
 # News
+
+[LongBeachPAPERScan](https://archive.org/details/longbeachpapers-10)
+[MyArchive - Rashard](https://archive.org/details/@thakaserika_selassie_kelly)
+<iframe src="https://archive.org/embed/longbeachpapers-10" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 Updated Font on Dev to [Comfortaa](https://fonts.google.com/specimen/Comfortaa) [RikoThaka:HoleToanotherUniverse](https://ricothaka.github.io/)
 ![HTAU](https://pbs.twimg.com/media/Gpagr59bEAM7l_l?format=jpg&name=large)
 [Comfortaa looking for opinions : r/typography : reddit](https://www.reddit.com/r/typography/comments/kpls87/comfortaa_looking_for_opinions/?rdt=57381)
