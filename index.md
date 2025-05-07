@@ -2,6 +2,12 @@
 layout: default
 ---
 
+[@datadesk/california-coronavirus-data DOCKEiNSTANCE on #JUPYTERHUB](https://hub.2i2c.mybinder.org/user/moonlover404-ca-oronavirus-data-2ej0b15o/lab/workspaces/auto-I)
+<div class="github-card" data-user="thakarashard"></div>
+<script src="https://cdn.jsdelivr.net/gh/thakarashard/github-cards@latest/jsdelivr/widget.js"></script>
+
+<div class="github-card" data-user="thakarashard" data-repo="github-cards"></div>
+<script src="https://cdn.jsdelivr.net/gh/ThakaRashard/rashardmro/github-cards@latest/jsdelivr/widget.js"></script>
 
 
 {% include current.md %}
