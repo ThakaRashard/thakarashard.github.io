@@ -2,7 +2,43 @@
 layout: default
 ---
 
+# AT&T Archives: The Far Sound 
+### A History of Long and Longer Distance Communications, from 1961
+This film, The Far Sound, examines how technologies invented at Bell Laboratories and developed by the Bell System contributed to making direct-dial, long-distance telephone service possible
+<iframe width="960" height="540" src="https://www.youtube.com/embed/SS5X5BkIKpM" title="AT&amp;T Archives: The Far Sound, a History of Long and Longer Distance Communications, from 1961" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [@datadesk/california-coronavirus-data DOCKEiNSTANCE on #JUPYTERHUB](https://hub.2i2c.mybinder.org/user/moonlover404-ca-oronavirus-data-2ej0b15o/lab/workspaces/auto-I)
+## Ossoff probe into Georgia’s child welfare agency reveals 20% of missing children were likely victims of sex trafficking
+- [ROSS WILLIAMS](https://georgiarecorder.com/author/ross-williams/) on [X](https://x.com/ReporterRossW) [📧](rwilliams@georgiarecorder.com)
+More than 20% of children who went missing while in custody of the Georgia Division of Family and Children between 2018 and 2022 were likely victims of child sex trafficking, according to Samantha Sahl, supervisor of the child sex trafficking recovery services Team for the National Center for Missing and Exploited Children.
+
+Speaking at a U.S. Senate Human Rights Subcommittee hearing in Atlanta Monday, Sahl said children in foster care have often already experienced significant trauma.
+
+“When children are then placed in foster homes or group homes that don’t have the resources, training, or support necessary to meet their needs for love, belonging, and self-exploration, running away from these placements often becomes their effort to problem solve to meet these needs,” Sahl said.
+
+“This creates a perfect storm that traffickers are skilled at taking advantage of,” she added. “We know we have an urgent issue when children feel better on the streets or with a trafficker than they do in their foster care placements.”
+
+Sahl said 410 children out of 1,790 were likely trafficked.
+
+Monday’s hearing at Georgia State University College of Law was the latest in a string of public meetings and press conferences led by Georgia Democratic U.S. Sen. Jon Ossoff about the state Department of Human Services division. The Senate subcommittee launched an investigation in February after media outlets reported allegations of serious abuse and neglect at DFCS. Ossoff and Tennessee Republican Sen. Marsha Blackburn are leading the effort.
+
+Previous hearings have discussed DFCS reportedly failing to meet risk assessment and safety obligations in 84% of cases and experiencing hundreds of reports of children going missing from care.
+
+In an Oct, 31 open letter to Ossoff and Blackburn, lawyers representing DFCS rejected some of the committee’s findings.
+
+“The misstatements, omissions, and failure of the Subcommittee to request relevant information or responses from the Department in advance of its publicized hearings and press conferences leave the unfortunate impression that the goals of this investigation are political,” the letter reads.
+
+The attorneys note that DFCS has a 14-page memo detailing policy for missing children, a dedicated missing children’s unit and a lower rate of missing foster care children than in neighboring Tennessee, Alabama and South Carolina and less than half the rate of several other states, citing a May 2022 report from the Office of the Inspector General.
+
+Fulton County Deputy District Attorney Earnelle Winfrey said she’s seen firsthand how devastating trafficking can be on victims’ spirits, but all too often they are retraumatized while in state care and treated like criminals instead of victims.
+
+“If they’re running away from care, what are they running from?” she said. “You must take time to listen to their backstory. Why don’t we train caregivers to look forward and understand the trauma they suffered prior to entering into care? Can we get past the perception of foster youth as unwanted throwaways? How will we address the underlying trauma and the root causes so that these children may heal?”
+
+Tiffani McLean-Camp, 19, said she entered foster care in Georgia when she was 15 and experienced abuse, neglect, sexual assault and trafficking while in care.
+
+She fought back tears when describing living in a homeless shelter with her premature infant son and having to wait six months to receive treatment for complications from giving birth.
+
+“From the time of being 15 to now, I have got no help from you guys,” she said during her testimony. “I got no help. I haven’t got help when it comes to life skills, medical, mentally, help with support and skills. I have got no help from you. From the time of 15 to 18 being in that care, I had to learn everything on my own. I had to teach myself. I had to go around and ask people, how do you do this and this? How do you fill out a housing application? How do you fill out a job application? How do you do this and do this? It was a lot.” - [ROSS WILLIAMS](https://georgiarecorder.com/author/ross-williams/) on [X](https://x.com/ReporterRossW) [📧](rwilliams@georgiarecorder.com)
+
 <div class="github-card" data-user="thakarashard"></div>
 <script src="https://cdn.jsdelivr.net/gh/thakarashard/github-cards@latest/jsdelivr/widget.js"></script>
 
