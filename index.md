@@ -134,7 +134,19 @@ layout: default
 
   </HGROUP>
 
+
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1824372994391016%2F&show_text=true&width=560&t=0" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CiU3vIEdRMI?si=I9xi5agsPLk9Wn4P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![ZELOt](https://www.graffiti.org/boston/zealot_aves_mise_tint_boston_2006.jpg)
+![TEMPT](https://www.graffiti.org/tempt/1998c_tempt.jpg) 
+
+Tempt One
+Artwork is © copyright 2017 Tempt, from Los Angeles, USA. Please send questions to Art Crimes at yo@graffiti.org and mention Tempt. Contact the artist at [Tempt One's blog](https://temptone.wordpress.com/) or [Tempt One's Facebook](https://www.facebook.com/tempt1ne/) and check out [Tempt One on Flickr](https://www.flickr.com/photos/temptone/).
+TEMPT1 is a Los Angeles-based artist, activist and publisher. In his 25+ year career, he has curated art shows, done commission work for Tribal Gear and Third Rail clothing, mentored youth, spoken at the United Nations and created an international publication on street and urban art, called Big Time.
+
+
 
 # AT&T Archives: The Far Sound 
 ### A History of Long and Longer Distance Communications, from 1961
