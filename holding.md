@@ -1,10 +1,37 @@
 
-  <footer>
+
+# OLD STREAMS
+
+
+
+# Watch Live: Growing protests against ICE raids in LA and Orange Counties [![Twitter Follow](https://img.shields.io/badge/Social-@kcalnews__-blue?style=social&logo=X)](https://twitter.com/@kcalnews)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WGlxx8mfmZs?si=jfXmXiTEc1uRmRrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Watch Live: Growing protests against ICE raids in LA and Orange Counties](https://www.youtube.com/watch?v=WGlxx8mfmZs)  
+
+### Live: Police respond to anti-ICE protests in LA as Trump sends in Marines [News2Share](https://www.youtube.com/@N2SReports) [![Twitter Follow](https://img.shields.io/badge/Social-@lacitycouncil__-blue?style=social&logo=X)](https://twitter.com/@lacitycouncil)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sFwO4ZYWLe0?si=7YM_MxbrpV74oYTW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+# LIVE: Protesters gather in downtown LA @thomsonreuters 
+[![Twitter Follow](https://img.shields.io/badge/Social-@Reuters__-blue?style=social&logo=X)](https://twitter.com/@Reuters)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nZHPX0Qq5XI?si=Wp4X8OM6tBDBjZL_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# L.A. Protests: Live KTLA Team Coverage (Monday PM)
+[https://iptv-org.github.io/ :iP_TV](https://iptv-org.github.io/) [![Twitter Follow](https://img.shields.io/badge/Social-@KTLA__-blue?style=social&logo=X)](https://twitter.com/@KTLA)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sNXM2jj67NY?si=VopkUYwmkh_xES3_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+[Time Machine - Mind in a Spin](https://www.youtube.com/watch?v=HWwCVqWmgro&ab_channel=dirtydreads)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HWwCVqWmgro?si=LG2-sYxJnl9Q6fXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<footer>
         {% if site.github.is_project_page %}
           <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         
-      </footer>
+ </footer>
 
 [Graffiti Verite, Vol 1 California Graffiti documentary](https://youtu.be/NFPKXFGlBns?si=Q-HaJ9GPD6Y4Zyv1) [OJ Da Juiceman TONKA](https://youtu.be/vFUYBiufBFc?si=81a7IVp0aIcQg_ZU) [OJ Da Juiceman - Bouldercrest Day](https://youtu.be/Qf46uyMoFuY?si=QPF-ldj4XYgALFoz) [Bombing L.A. 1989 Original Full Length Entire Documentary](https://www.youtube.com/watch?v=1D9oSFLa4IQ) [Graffiti Verite Part 2](https://www.youtube.com/watch?v=9GWg-Hm6OhM) [Brand Nubian - All For One](https://youtu.be/u6n7ZXxGbio?si=6Ut6YMrmv6GUMjaB) [Blahzay Blahzay - Danger](https://youtu.be/x7uJzdu7Pak?si=FIWBbg8gqlcUoLks) [Illegal Business - Boogie Down Productions](https://youtu.be/yHeBotnrwEI?si=d1On7aJKibbpsiBx)[2nd Childhood](https://youtu.be/A5nM66F903I?si=hrqXLu-CYPuteESs) [Criminal Minded Boogie Down Productions](https://youtu.be/HmcInEeV1TE?si=kCxht5bF1LfT__ok) [Ice-T 6'in the Morning](https://youtu.be/Ud4hgJwA0wY?si=qg0GJkdZy8p62SvK)[Ice-T - I'm Your Pusher](https://youtu.be/0f4TLU2oScE?si=qwyMVJzymiXWVSnR) [Ice-T - Bitches 2](https://youtu.be/aEhRM-JmXSk?si=Hr40gGCDZR-Ek5Pu) [Black Girl Lost - Nas #ost](https://youtu.be/ZMAoZrJVQKI?si=C7cWL5UU0rnIABEx)
 [Wild Wild West - Kool Moe Dee (willow+jaden `shade`)](https://youtu.be/auhwI00iKWg?si=XuzbjGWAtmM5KbF_) [Black Girl Lost - Nas #ost](https://youtu.be/ZMAoZrJVQKI?si=C7cWL5UU0rnIABEx) [Trapped in the Closet: Chapters 1-12](https://youtu.be/pb7ot4NQ3sQ?si=g6rEbpBn3mMSmA5n) [Krush Groove](https://www.youtube.com/watch?v=GwK47zAL3eM) [‘FX CREW’ (Graffiti Writers Crew) New York, 1998 [RARE full graff art VHS documentary archive]](https://www.youtube.com/watch?v=Jv7ECeiD1p4) [Sly Artistic City - Philly graffiti history](https://youtu.be/xIVuaS08C3c?si=xniU3SCI9Lhz3iHO) [Piece By Piece : San Francisco Graffiti Documentary](https://youtu.be/7Ub8uRFzUCQ?si=SqBO4EvU5m0qK6yF) [Shepard Fairey Street Basics - FULL VIDEO](https://youtu.be/DJfeAvP8xTo?si=ZhruZyyW7wFs_g69) 
