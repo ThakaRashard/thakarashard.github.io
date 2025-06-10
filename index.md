@@ -8,6 +8,17 @@ layout: default
 [![Twitter Follow](https://img.shields.io/badge/Social-@ABC7__-blue?style=social&logo=X)](https://twitter.com/@ABC7)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s3iVFJoxrYc?si=cOpXOvk_ab2c2JgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<blockquote class="reddit-embed-bq" style="height:240px" data-embed-height="240"><a href="https://www.reddit.com/r/AskReddit/comments/1l7f6rt/how_do_you_feel_about_700_marines_being_deployed/">How do you feel about 700 Marines being deployed to LA?</a><br> by<a href="https://www.reddit.com/user/Dense_Literature_199/">u/Dense_Literature_199</a> in<a href="https://www.reddit.com/r/AskReddit/">AskReddit</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+![image](https://github.com/user-attachments/assets/5238e2fb-554f-4961-8e32-d7c439aec2c0)
+![reply](https://github.com/user-attachments/assets/3a2bb17c-436d-45e9-bbbb-cb64b34d3850)
+
+i hope they are finling thier taxes at nasajpl and submitting to pornography background checks... or investigating the right kind of graffiti "ICE AGENTS WILL BE DOXXED" with a smiley face... ppll already overly focused on graffiti!!!!!!!!!!!!!!!!!!! [its strange theres 400 missing children from georgia!!!!!!!!!!](https://www.ossoff.senate.gov/press-releases/news-sen-ossoffs-bipartisan-probe-uncovers-1790-children-in-georgia-dfcs-care-were-reported-missing-between-2018-and-2022/) rumored to be sex slaves from an atlanta perspective
+What is Doxing?
+Doxing (or doxxing) is the [action](https://www.thefire.org/research-learn/doxxing-free-speech-and-first-amendment) or process of collecting and disseminating someone’s personal information in order to shame, embarrass, expose or intimidate them. This information can come from private sources but is often obtained from public records. The term derives from the phrase “dropping dox (documents)” and describes a tactic that has evolved into a form of online harassment that can escalate into stalking or other criminal conduct. [Doxing: The Resource Guide - CUNY @CUNYTechPrep](https://www.cuny.edu/about/administration/offices/transformation/diversity-equity-and-inclusion-hub/doxing/#:~:text=Doxing%20(or%20doxxing)%20is%20the,often%20obtained%20from%20public%20records.) this shit gonna take gavin and karen out, not graffiti [What Is California Penal Code 653.2 About?](https://www.simmrinlawgroup.com/california-penal-code-section-653-2/) [H.R.6478 - To amend title 18, United States Code, to provide criminal and civil remedies for publication of personally identifiable information with the intent to do harm.](https://www.congress.gov/bill/114th-congress/house-bill/6478)
+
+@stateofcalifornia @cityoflosangeles 
+[![Twitter Follow](https://img.shields.io/badge/Social-@BlackGirlsCode__-blue?style=social&logo=X)](https://twitter.com/@BlackGirlsCode) [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) [![Twitter Follow](https://img.shields.io/badge/Social-@nasajpl__-blue?style=social&logo=X)](https://twitter.com/@nasajpl)
 <div class="tupperware" >
 <img src="https://github.com/user-attachments/assets/998622ea-e70c-4f2b-9893-68a36a1073e7" alt="SimpleScanStation20250609191450-1" />
 <img src="https://github.com/user-attachments/assets/8a075c5d-38a9-44cd-86ef-f0c0fca8ebec" alt="SimpleScanStation20250609191450-1" />
@@ -33,7 +44,8 @@ layout: default
 ![FLORORED](https://ia600706.us.archive.org/18/items/canscann-29/canscann-13.png)
 [QUERY](https://www.youtube.com/results?search_query=rashard+kelly+graffiti) )
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1824372994391016%2F&show_text=true&width=560&t=0" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+![erika](https://github.com/user-attachments/assets/10157116-c781-4ef8-8848-02dff69c02eb)
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CiU3vIEdRMI?si=I9xi5agsPLk9Wn4P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
