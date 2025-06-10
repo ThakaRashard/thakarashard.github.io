@@ -1,9 +1,14 @@
 ---
 layout: default
 ---
+# LIVE: Protesters gather in downtown LA @thomsonreuters [![Twitter Follow](https://img.shields.io/badge/Social-@Reuters__-blue?style=social&logo=X)](https://twitter.com/@Reuters)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nZHPX0Qq5XI?si=Wp4X8OM6tBDBjZL_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Watch Live: Growing protests against ICE raids in LA and Orange Counties
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WGlxx8mfmZs?si=jfXmXiTEc1uRmRrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Watch Live: Growing protests against ICE raids in LA and Orange Counties](https://www.youtube.com/watch?v=WGlxx8mfmZs)  @stateofcalifornia @cityoflosangeles 
+[Watch Live: Growing protests against ICE raids in LA and Orange Counties](https://www.youtube.com/watch?v=WGlxx8mfmZs)  
+
+@stateofcalifornia @cityoflosangeles 
 [![Twitter Follow](https://img.shields.io/badge/Social-@BlackGirlsCode__-blue?style=social&logo=X)](https://twitter.com/@BlackGirlsCode) [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) [![Twitter Follow](https://img.shields.io/badge/Social-@nasajpl__-blue?style=social&logo=X)](https://twitter.com/@nasajpl)
 
 ### Live: Police respond to anti-ICE protests in LA as Trump sends in Marines [News2Share](https://www.youtube.com/@N2SReports) [![Twitter Follow](https://img.shields.io/badge/Social-@lacitycouncil__-blue?style=social&logo=X)](https://twitter.com/@lacitycouncil)
