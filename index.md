@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+# Watch Live: Growing protests against ICE raids in LA and Orange Counties
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WGlxx8mfmZs?si=jfXmXiTEc1uRmRrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Watch Live: Growing protests against ICE raids in LA and Orange Counties](https://www.youtube.com/watch?v=WGlxx8mfmZs)  @stateofcalifornia @cityoflosangeles 
+[![Twitter Follow](https://img.shields.io/badge/Social-@BlackGirlsCode__-blue?style=social&logo=X)](https://twitter.com/@BlackGirlsCode) [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) [![Twitter Follow](https://img.shields.io/badge/Social-@nasajpl__-blue?style=social&logo=X)](https://twitter.com/@nasajpl)
 
 [OUTKAST IN ATLANTA GA 6/3/2025 DjWho478_TV](https://youtu.be/v9JpLmP4zos) [Another bill again-Tony Rebel](https://youtu.be/U9ZLAgyn2-Q?si=edanJb7aZeVbTl00)
 ![FLORORED](https://ia600706.us.archive.org/18/items/canscann-29/canscann-13.png)
