@@ -4,8 +4,13 @@ layout: default
 
 # Compiling~
 
+# L.A. Protests: Live KTLA Team Coverage (Monday PM)
+[https://iptv-org.github.io/ :iP_TV](https://iptv-org.github.io/) [![Twitter Follow](https://img.shields.io/badge/Social-@KTLA__-blue?style=social&logo=X)](https://twitter.com/@KTLA)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sNXM2jj67NY?si=VopkUYwmkh_xES3_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### Live: Police respond to anti-ICE protests in LA as Trump sends in Marines [News2Share](https://www.youtube.com/@N2SReports) [![Twitter Follow](https://img.shields.io/badge/Social-@lacitycouncil__-blue?style=social&logo=X)](https://twitter.com/@lacitycouncil)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sFwO4ZYWLe0?si=7YM_MxbrpV74oYTW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <div class="tupperware" >
 <img src="https://github.com/user-attachments/assets/998622ea-e70c-4f2b-9893-68a36a1073e7" alt="SimpleScanStation20250609191450-1" />
@@ -21,10 +26,7 @@ layout: default
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s3iVFJoxrYc?si=cOpXOvk_ab2c2JgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-# L.A. Protests: Live KTLA Team Coverage (Monday PM)
-[https://iptv-org.github.io/ :iP_TV](https://iptv-org.github.io/) [![Twitter Follow](https://img.shields.io/badge/Social-@KTLA__-blue?style=social&logo=X)](https://twitter.com/@KTLA)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sNXM2jj67NY?si=VopkUYwmkh_xES3_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # LIVE: Protesters gather in downtown LA @thomsonreuters 
 [![Twitter Follow](https://img.shields.io/badge/Social-@Reuters__-blue?style=social&logo=X)](https://twitter.com/@Reuters)
@@ -39,8 +41,7 @@ layout: default
 @stateofcalifornia @cityoflosangeles 
 [![Twitter Follow](https://img.shields.io/badge/Social-@BlackGirlsCode__-blue?style=social&logo=X)](https://twitter.com/@BlackGirlsCode) [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) [![Twitter Follow](https://img.shields.io/badge/Social-@nasajpl__-blue?style=social&logo=X)](https://twitter.com/@nasajpl)
 
-### Live: Police respond to anti-ICE protests in LA as Trump sends in Marines [News2Share](https://www.youtube.com/@N2SReports) [![Twitter Follow](https://img.shields.io/badge/Social-@lacitycouncil__-blue?style=social&logo=X)](https://twitter.com/@lacitycouncil)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sFwO4ZYWLe0?si=7YM_MxbrpV74oYTW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 [OUTKAST IN ATLANTA GA 6/3/2025 DjWho478_TV](https://youtu.be/v9JpLmP4zos) [Another bill again-Tony Rebel](https://youtu.be/U9ZLAgyn2-Q?si=edanJb7aZeVbTl00)
 
