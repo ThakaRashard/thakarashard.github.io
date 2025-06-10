@@ -5,14 +5,12 @@ layout: default
 # Compiling~
 
 
-# LIVE: ABCNewsLive
-[![Twitter Follow](https://img.shields.io/badge/Social-@ABCNewsLive__-blue?style=social&logo=X)](https://twitter.com/@ABCNewsLive)
-<iframe width="640" height="360" src="https://abcnews.go.com/video/embed?id=abc_live11" allowfullscreen frameborder="0"></iframe>
 
-<div class="tupperware" markdown="1">
 
-![SimpleScanStation20250609191450-2](https://github.com/user-attachments/assets/998622ea-e70c-4f2b-9893-68a36a1073e7)
-![SimpleScanStation20250609191450-1](https://github.com/user-attachments/assets/8a075c5d-38a9-44cd-86ef-f0c0fca8ebec)
+<div class="tupperware" >
+<img src="https://github.com/user-attachments/assets/998622ea-e70c-4f2b-9893-68a36a1073e7" alt="SimpleScanStation20250609191450-1" />
+<img src="https://github.com/user-attachments/assets/8a075c5d-38a9-44cd-86ef-f0c0fca8ebec" alt="SimpleScanStation20250609191450-1" />
+
 
 
 </div>
@@ -45,6 +43,12 @@ layout: default
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sFwO4ZYWLe0?si=7YM_MxbrpV74oYTW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [OUTKAST IN ATLANTA GA 6/3/2025 DjWho478_TV](https://youtu.be/v9JpLmP4zos) [Another bill again-Tony Rebel](https://youtu.be/U9ZLAgyn2-Q?si=edanJb7aZeVbTl00)
+
+# LIVE: ABCNewsLive
+[![Twitter Follow](https://img.shields.io/badge/Social-@ABCNewsLive__-blue?style=social&logo=X)](https://twitter.com/@ABCNewsLive)
+
+<iframe width="640" height="360" src="https://abcnews.go.com/video/embed?id=abc_live11" allowfullscreen frameborder="0"></iframe>
+
 ![FLORORED](https://ia600706.us.archive.org/18/items/canscann-29/canscann-13.png)
 [QUERY](https://www.youtube.com/results?search_query=rashard+kelly+graffiti) )
 
