@@ -624,6 +624,7 @@ small {
   float: left;
   }
 
+
 .tupperware > * {
   border: 1px solid #c9ff23;
   border-radius: 1px;
@@ -651,7 +652,7 @@ small {
   flex-flow: row wrap; 
   padding: 1px;
   gap: 1px;
-  height: auto;
+  height: 400px;
 }
 
 .tupperware img {
@@ -665,7 +666,6 @@ small {
   padding: 3px;
   text-align: center;
 }
-
 
 /* nav start */
 nav {
