@@ -132,6 +132,8 @@ This film, The Far Sound, examines how technologies invented at Bell Laboratorie
 - [ROSS WILLIAMS](https://georgiarecorder.com/author/ross-williams/) on [X](https://x.com/ReporterRossW) [📧](rwilliams@georgiarecorder.com)
 More than 20% of children who went missing while in custody of the Georgia Division of Family and Children between 2018 and 2022 were likely victims of child sex trafficking, according to Samantha Sahl, supervisor of the child sex trafficking recovery services Team for the National Center for Missing and Exploited Children.
 
+![image](https://github.com/user-attachments/assets/66497e77-4225-4c87-ad40-b4a02d3e28f5)
+
 Speaking at a U.S. Senate Human Rights Subcommittee hearing in Atlanta Monday, Sahl said children in foster care have often already experienced significant trauma.
 
 “When children are then placed in foster homes or group homes that don’t have the resources, training, or support necessary to meet their needs for love, belonging, and self-exploration, running away from these placements often becomes their effort to problem solve to meet these needs,” Sahl said.
@@ -157,6 +159,8 @@ Fulton County Deputy District Attorney Earnelle Winfrey said she’s seen firsth
 Tiffani McLean-Camp, 19, said she entered foster care in Georgia when she was 15 and experienced abuse, neglect, sexual assault and trafficking while in care.
 
 She fought back tears when describing living in a homeless shelter with her premature infant son and having to wait six months to receive treatment for complications from giving birth.
+
+![image](https://github.com/user-attachments/assets/d04aee62-ea6a-4cd9-8998-ed20082f222f)
 
 “From the time of being 15 to now, I have got no help from you guys,” she said during her testimony. “I got no help. I haven’t got help when it comes to life skills, medical, mentally, help with support and skills. I have got no help from you. From the time of 15 to 18 being in that care, I had to learn everything on my own. I had to teach myself. I had to go around and ask people, how do you do this and this? How do you fill out a housing application? How do you fill out a job application? How do you do this and do this? It was a lot.” - [ROSS WILLIAMS](https://georgiarecorder.com/author/ross-williams/) on [X](https://x.com/ReporterRossW) [📧](rwilliams@georgiarecorder.com)
 
