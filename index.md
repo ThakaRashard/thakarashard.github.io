@@ -7,15 +7,16 @@ layout: default
 [![Twitter Follow](https://img.shields.io/badge/Social-@ABC7__-blue?style=social&logo=X)](https://twitter.com/@ABC7)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s3iVFJoxrYc?si=cOpXOvk_ab2c2JgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![reply](https://github.com/user-attachments/assets/3a2bb17c-436d-45e9-bbbb-cb64b34d3850)
+![image](https://github.com/user-attachments/assets/c591ed8c-13ae-4268-a5b2-8320d015f445)
+Im being excluded via Cellular Policies here and on X f.k.a. Twitter [#ThakaSartu](https://vsco.co/rashardsartu/media/656958d91847923fee000003) aka #rashard_sartu #FultonCounty_GEORGiA NASAJPL $doll `Confirm your identity with a video selfie To make sure you’re a real person, we need you to record a video selfie`
 <blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/facebook/comments/1l9xwig/im_being_excluded_via_cellular_policies_here_and/">Im being excluded via Cellular Policies here and on X f.k.a. Twitter #ThakaSartu aka #rashard_sartu #FultonCounty_GEORGiA NASAJPL $doll `Confirm your identity with a video selfieTo make sure you’re a real person, we need you to record a video selfie`</a><br> by<a href="https://www.reddit.com/user/Dizzy-Decision-2115/">u/Dizzy-Decision-2115</a> in<a href="https://www.reddit.com/r/facebook/">facebook</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 
 ![image](https://github.com/user-attachments/assets/5238e2fb-554f-4961-8e32-d7c439aec2c0)
 
 trello for MAyor Bass @cityoflosangeles [MyTrello](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass)
-![image](https://github.com/user-attachments/assets/c591ed8c-13ae-4268-a5b2-8320d015f445)
-![Capture](https://github.com/user-attachments/assets/1c740303-c666-4e39-b0ed-444f64e18501)
 
+![Capture](https://github.com/user-attachments/assets/1c740303-c666-4e39-b0ed-444f64e18501)
+![reply](https://github.com/user-attachments/assets/3a2bb17c-436d-45e9-bbbb-cb64b34d3850)
 # HELP [@meta @nasa @nasa-jpl @github @cityoflosangeles @blackgirlscode @stateofcalifornia ](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf)
 # @blackgirlscode [THAKASARTU](https://www.youtube.com/channel/UCDXc0A0MkDlDrs_tzXjwmeA) on @meta was disabled see [Pull:Update SECURITY.md #33521](https://github.com/facebook/react/pull/33521)
 Watch Live: Homeland Security Secretary Kristi Noem in Los Angeles to discuss ICE raids @dhs-gov
