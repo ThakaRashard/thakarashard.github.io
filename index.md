@@ -3,16 +3,77 @@ layout: default
 ---
 
 # Compiling~
-
 # LIVE: ABC7 Eyewitness News
 [![Twitter Follow](https://img.shields.io/badge/Social-@ABC7__-blue?style=social&logo=X)](https://twitter.com/@ABC7)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s3iVFJoxrYc?si=cOpXOvk_ab2c2JgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-trello for MAyor Bass @cityoflosangeles [MyTrello](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass)
-<blockquote class="reddit-embed-bq" style="height:240px" data-embed-height="240"><a href="https://www.reddit.com/r/AskReddit/comments/1l7f6rt/how_do_you_feel_about_700_marines_being_deployed/">How do you feel about 700 Marines being deployed to LA?</a><br> by<a href="https://www.reddit.com/user/Dense_Literature_199/">u/Dense_Literature_199</a> in<a href="https://www.reddit.com/r/AskReddit/">AskReddit</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 
 ![image](https://github.com/user-attachments/assets/5238e2fb-554f-4961-8e32-d7c439aec2c0)
 ![reply](https://github.com/user-attachments/assets/3a2bb17c-436d-45e9-bbbb-cb64b34d3850)
+trello for MAyor Bass @cityoflosangeles [MyTrello](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass)
+![image](https://github.com/user-attachments/assets/c591ed8c-13ae-4268-a5b2-8320d015f445)
+![Capture](https://github.com/user-attachments/assets/1c740303-c666-4e39-b0ed-444f64e18501)
+
+# HELP [@meta @nasa @nasa-jpl @github @cityoflosangeles @blackgirlscode @stateofcalifornia ](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf)
+# @blackgirlscode [THAKASARTU](https://www.youtube.com/channel/UCDXc0A0MkDlDrs_tzXjwmeA) on @meta was disabled see [Pull:Update SECURITY.md #33521](https://github.com/facebook/react/pull/33521)
+Watch Live: Homeland Security Secretary Kristi Noem in Los Angeles to discuss ICE raids @dhs-gov
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dNmIfvsf2ng?si=GjXodMhGH-a4i9Xv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+`oks like the webpage at https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1824372994391016%2F&show_text=true&width=560&t=0 might be having issues, or it may have moved permanently to a new web ad` 
+<blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/facebook/comments/1l65vqj/mass_meta_account_shut_down_i_was_reviewed_and/">Mass Meta account shut down. I was reviewed and disabled. My FB account &amp;</a><br> by<a href="https://www.reddit.com/user/Mysterious-Belt-2992/">u/Mysterious-Belt-2992</a> in<a href="https://www.reddit.com/r/facebook/">facebook</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+'''shell
+Palo Alto 155.190.2.33
+active
+Last accessed on Jun 11, 2025
+Seen in U
+Palo Alto 155.190.2.33
+Last accessed on Jun 11, 2025
+Seen in US
+Device:
+Chrome on Chrome OS
+
+Last location:
+Palo Alto, California, United States
+
+Signed in:
+June 11, 2025
+Palo Alto, California, United States
+@nasa @nasa-jpl @cityoflosangeles @meta @dod-ccpo
+![image](https://github.com/user-attachments/assets/c8cdb4c4-3d0d-4d85-8435-04116577b3f1)
+
+
+# HELP [@meta @nasa @nasa-jpl @github @cityoflosangeles @blackgirlscode @stateofcalifornia ](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf)
+@blackgirlscode [THAKASARTU](https://www.youtube.com/channel/UCDXc0A0MkDlDrs_tzXjwmeA) on @meta was disabled see [Pull:Update SECURITY.md #33521](https://github.com/facebook/react/pull/33521) @facebook @stateofcalifornia @City-of-Long-Beach-Public does not have anythiglike taht i can use to access my account @blackgirlscode i need normani to explain the name thaka stat! ppl about to start going to jail with those [FuckIce](https://www.ice.gov) ppl if i cant get my taxes done and verified!!!!!!!!!!!!!!!!!!!!!!!
+![image](https://github.com/user-attachments/assets/47047575-6c6e-4a7c-801c-3396acffd235)
+
+![image](https://github.com/user-attachments/assets/9512054f-b4c5-430d-a020-22b5101b6591)
+
+![image](https://github.com/user-attachments/assets/983ca3c5-1b70-45ec-8ea8-a5be28dbee45)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5YMYrB0dqoU?si=CyMyDdC_pfNdgjkB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# Presidents Day working in la. River review VID 20250217 120844
+@nasa @nasa-jpl @cityoflosangeles @stateofcalifornia  
+<iframe src="https://archive.org/embed/vid-20250217-120844" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# Federal lawmakers accuse Ga. child welfare of ‘systematically failing’
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo2He3Qg6cA?si=ZNQ-8fKMK4xhe6sc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+# Thakarashard.github.io 
+LA_RiOTS:LiVE_NEWS:DEMO
+
+
+<iframe src="https://archive.org/embed/screen-recording-2025-06-09-7.25.08-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<div class="tupperware" markdown="1">
+
+![SimpleScanStation20250609191450-2](https://github.com/user-attachments/assets/998622ea-e70c-4f2b-9893-68a36a1073e7)
+![SimpleScanStation20250609191450-1](https://github.com/user-attachments/assets/8a075c5d-38a9-44cd-86ef-f0c0fca8ebec)
+
+
+</div>
+
+<blockquote class="reddit-embed-bq" style="height:240px" data-embed-height="240"><a href="https://www.reddit.com/r/AskReddit/comments/1l7f6rt/how_do_you_feel_about_700_marines_being_deployed/">How do you feel about 700 Marines being deployed to LA?</a><br> by<a href="https://www.reddit.com/user/Dense_Literature_199/">u/Dense_Literature_199</a> in<a href="https://www.reddit.com/r/AskReddit/">AskReddit</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
 
 i hope they are finling thier taxes at nasajpl and submitting to pornography background checks... or investigating the right kind of graffiti "ICE AGENTS WILL BE DOXXED" with a smiley face... ppll already overly focused on graffiti!!!!!!!!!!!!!!!!!!! [its strange theres 400 missing children from georgia!!!!!!!!!!](https://www.ossoff.senate.gov/press-releases/news-sen-ossoffs-bipartisan-probe-uncovers-1790-children-in-georgia-dfcs-care-were-reported-missing-between-2018-and-2022/) rumored to be sex slaves from an atlanta perspective
 What is Doxing?
