@@ -3,16 +3,27 @@ layout: default
 ---
 
 # Compiling~
-[Launch Complex 39A at Kennedy Space Center in Florida](https://issnationallab.org/news-and-events/) 
-[@blackgirlscode be careful](https://youtu.be/UMsAb9P7gSQ?si=z-np_j3tE9E0zlMi) if u walk in cali this is scary! TheGHaurd at the library told That astronaught lady to get out and they flying to the space stationtoday... my lower chin is burning ...
-[Live overagehttpsissnlusfb](https://issnl.us/fb) `Video unavailable This video is private`
-[NASA, Axiom Space Delay Axiom Mission 4 Launch to Space Station](https://www.nasa.gov/blogs/spacestation/2025/06/12/nasa-axiom-space-delay-axiom-mission-4-launch-to-space-station/) @nasa 
-{% include feeds.md %}
+
 
 
 # LIVE: ABC7 Eyewitness News
 [![Twitter Follow](https://img.shields.io/badge/Social-@ABC7__-blue?style=social&logo=X)](https://twitter.com/@ABC7)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s3iVFJoxrYc?si=cOpXOvk_ab2c2JgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![1749850159579-6f32ba29-b379-45a1-9b36-13ca436701ef_1](https://github.com/user-attachments/assets/1b008682-7151-41ee-9f31-9af6ffc5cb32)
+
+
+[Launch Complex 39A at Kennedy Space Center in Florida](https://issnationallab.org/news-and-events/) 
+[@blackgirlscode be careful](https://youtu.be/UMsAb9P7gSQ?si=z-np_j3tE9E0zlMi) if u walk in cali this is scary! TheGHaurd at the library told That astronaught lady to get out and they flying to the space stationtoday... my lower chin is burning ...
+[Live overagehttpsissnlusfb](https://issnl.us/fb) `Video unavailable This video is private`
+[NASA, Axiom Space Delay Axiom Mission 4 Launch to Space Station](https://www.nasa.gov/blogs/spacestation/2025/06/12/nasa-axiom-space-delay-axiom-mission-4-launch-to-space-station/) @nasa 
+![Screenshot 2025-06-13 12 28 54 PM](https://github.com/user-attachments/assets/b9c1e36c-221c-43f9-b7e7-44c1d5bde37e)
+![Screenshot 2025-06-13 12 28 46 PM](https://github.com/user-attachments/assets/f7848e80-a074-4ba8-b188-450b5607ebf2)
+
+![Screenshot 2025-06-13 12 28 54 PM](https://github.com/user-attachments/assets/4b54e950-fd01-48e8-ac75-573c65b5c71d)
+![Screenshot 2025-06-13 10 22 23 AM](https://github.com/user-attachments/assets/d84353c8-e7d2-4991-bde2-42481abb5ca8)
+![Screenshot 2025-06-13 10 33 22 AM](https://github.com/user-attachments/assets/1b0d0839-e658-4734-9cc9-879403fc7a59)
+{% include feeds.md %}
 
 ![image](https://github.com/user-attachments/assets/c591ed8c-13ae-4268-a5b2-8320d015f445)
 Im being excluded via Cellular Policies here and on X f.k.a. Twitter [#ThakaSartu](https://vsco.co/rashardsartu/media/656958d91847923fee000003) aka #rashard_sartu #FultonCounty_GEORGiA NASAJPL $doll `Confirm your identity with a video selfie To make sure you’re a real person, we need you to record a video selfie`
