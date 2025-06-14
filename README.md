@@ -8,14 +8,18 @@
 Thaka is my given name, [Rashard is my Government name, i only trust my governemt name](https://about.me/thaka)... My preffered name is Rashard. My friend name me thaka before she died. its time for it to rest... i am [rashard](https://www.tumblr.com/bubblegumpoptt/712258852722294784) [![Twitter Follow](https://img.shields.io/badge/Social-ricoThaka__-blue?style=social&logo=X)](https://twitter.com/ricothaka) 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)](https://badge.fury.io/rb/jekyll-theme-hacker)
 # Rashard iMan(Thaka) Kelly NasaJpl MRO JUNO iSS
-[Samurai Shodown IV - Amakusa's Revenge / Samurai Spirits - Amakusa Kourin (NGM-222)(NGH-222)](https://www.retrogames.cc/arcade-games/samurai-shodown-iv-amakusas-revenge-samurai-spirits-amakusa-kourin-ngm-222-ngh-222.html)
-![image](https://github.com/user-attachments/assets/4c8571e2-45ff-487d-885b-7badfddfbcdd)
 
 
 
 
 
 ![Thumbnail of Rashard](https://pbs.twimg.com/media/GYBdj5Eb0AI5dIy?format=jpg&name=large)
+[Super Street Fighter II Turbo (Super Street Fighter 2 X 940323 USA)](https://www.retrogames.cc/arcade-games/super-street-fighter-ii-turbo-super-street-fighter-2-x-940323-usa.html)
+![image](https://github.com/user-attachments/assets/5d0ed709-ca89-42a7-8c28-cab9d73b0d23)
+
+[Samurai Shodown IV - Amakusa's Revenge / Samurai Spirits - Amakusa Kourin (NGM-222)(NGH-222)](https://www.retrogames.cc/arcade-games/samurai-shodown-iv-amakusas-revenge-samurai-spirits-amakusa-kourin-ngm-222-ngh-222.html)
+![image](https://github.com/user-attachments/assets/4c8571e2-45ff-487d-885b-7badfddfbcdd)
+
 ![ECOSTRESS](https://pbs.twimg.com/media/GY5293NaQAAn_vO?format=png&name=4096x4096)
 ![WifeyNormaniPretty](https://pbs.twimg.com/media/GY6BllZbAAAr0wb?format=jpg&name=large)
 ![Normani Trophy](https://pbs.twimg.com/media/GYmIBnBasAMiZZD?format=jpg&name=large)
