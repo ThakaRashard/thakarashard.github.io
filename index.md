@@ -34,6 +34,7 @@ Once construction of Phase 1 was complete, the Construction Authority transferre
 Researchers at NASA's Jet Propulsion Laboratory in Southern California used data from an airborne radar to measure the movement of the slow-moving landslides on the Palos Verdes Peninsula in Los Angeles County. The analysis determined that, during a period of four weeks in the fall of 2024, land in the residential area slid toward the ocean by as much as 4 inches (10 centimeters) per week. [READMORE](https://photojournal.jpl.nasa.gov/catalog/PIA26495)
 ![PIA26495: NASA Radar Looks at Palos Verdes Landslides](https://photojournal.jpl.nasa.gov/jpeg/PIA26495.jpg)
 
+![image](https://github.com/user-attachments/assets/f2782d91-a76d-4239-9bc9-d46e2097a71f)
 
 
 ### Los Angeles Protest LIVE: ‘No Kings’ Protests Planned Across L.A. Amid ICE Raid | US Marines | N18G
