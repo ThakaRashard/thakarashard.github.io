@@ -3,7 +3,33 @@ layout: default
 ---
 
 # Compiling~
+### The Internet - Girl (Official Video) ft. KAYTRANADA
+<object width="560" height="315" data="https://www.youtube.com/embed/zmY8mG4_3j4?si=FhJ_faB1EGdj_Dfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></object>
+@nasa-jpl @hackforla thats @blackgirlscode in atlanta! they were amazing in the neighborhood just to vibe off after work @ajc 
+# @usgs @nasa-jpl, i dont trust caps man...
 
+I was riding [north to azusa](https://foothillgoldline.org/cities_stations/azusa-alameda1/) on the @cityoflosangeles @LACMTA A_Line while downtown cooled off from the [artriots](https://github.com/user-attachments/assets/1b008682-7151-41ee-9f31-9af6ffc5cb32) And as i passed over a part of the [Santa Fe Dam](https://parks.lacounty.gov/santa-fe-dam-recreational-area/) water rushed wildy! The last time I saw that was our last big mountain snow about 18months ago.... Im trying to learn how to use [@USGS WATERDASHBOARD]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-117.97091%2C34.11077%2C-117.96576%2C34.11497%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-117.97091245651247%2C34.1107696932379%2C-117.96576261520387%2C34.11496680320642%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C10%2C18%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D ) to figure out the anomoly... But Im overwhelmed atm [@caltech LAurie](https://www.jpl.nasa.gov/who-we-are/executive-council/laurie-leshin-director-of-jpl/) @dblodgett-usgs i hate to bug you... But I have no idea how to get this thing working theres a data falloff at some point and I really dont know what to do to get the data flowing again bc [@cityoflosangeles MAyr KAren from HouseFloor @whitehouse Congress](https://www.congress.gov/member/karen-bass/B001270) and it could bite her cabinit in the rear bc [Pabst]() got a brewery there an the graffiti gossip is going to hurt me bad and i hope not her, but it was bc of the CovidFreakin
+
+[Drought]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=default&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-108.43215579956905%2C20.024215980551563%2C-74.16525782829038%2C47.54124440355219%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C16%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D ) + [U.S. Drought Monitor](https://droughtmonitor.unl.edu/CurrentMap/StateDroughtMonitor.aspx?CA)
+![image](https://github.com/user-attachments/assets/2d59d18c-0445-45b0-af6b-ab06542023f4)
+
+[San Gabriel R BL Santa FE Dam NR Baldwin PK CA - 11085000](https://waterdata.usgs.gov/monitoring-location/11085000/#dataTypeId=daily-00060-0&startDT=2025-06-14&endDT=2025-06-15)
+![image](https://github.com/user-attachments/assets/866beee9-166b-4034-a11c-9187b02f8996)
+
+![image](https://github.com/user-attachments/assets/2a4f1ada-1ce4-4970-906e-d7db0382faed)
+
+[The Hydro Network-Linked Data Index](https://waterdata.usgs.gov/blog/nldi-intro/) 
+@nasa-jpl @usgs pleas protect this domain [foothilgoldline.org](https://foothillgoldline.org/construction_phases/los_angeles_to_pasadena/) Theres the plans to build in this doc `The Gold Line Phase 1 was the first segment of the light rail line to complete construction and consists of 13 stations, each with unique design and public art elements. The 13.7-mile segment was completed on-time and under-budget by the Construction Authority in 2003 and connects the cities of Los Angeles, South Pasadena and Pasadena.*
+
+Once construction of Phase 1 was complete, the Construction Authority transferred the segment to Metro to operate. Operations began on July 26, 2003.` 
+![image](https://github.com/user-attachments/assets/b6755c45-bc1a-455b-9d9b-31c263344ad2)
+
+
+![SimpleScanStation20250615161309_0](https://github.com/user-attachments/assets/e5117169-a151-4e0a-98c9-b06c933ec5b1)
+
+![SimpleScanStation20250615161309_1](https://github.com/user-attachments/assets/40f31ebb-e47a-4f53-b19d-895c70fae6d9)
+
+[Queen Latifah - Just Another Day... (Official Music Video)](https://youtu.be/FLYu4jT5Ez4?si=DvG4S5L3AiQ-CdH1)
 ### Los Angeles Protest LIVE: ‘No Kings’ Protests Planned Across L.A. Amid ICE Raid | US Marines | N18G
 <object width="560" height="315" data="https://www.youtube.com/embed/Xk1Mma3ukiU?si=Mrr9tAetSkmn31bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></object>
 @nasa @nasa-jpl @stateofcalifornia : @blackgirlscode  @cityoflosangeles [RiotCoverage @cityoflosangeles](https://ricothakarashard.github.io/GraffShit) [JANET_PETRO trello card from rashard](https://trello.com/c/ebEEhaFo/26-janet-petroacting-nasa-administrator) [@trello for @cityoflosangeles MAyorKarenBass @nasa-jpl](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass) @whitehouse @deptofdefense
