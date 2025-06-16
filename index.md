@@ -27,7 +27,10 @@ and visitors with the digital services they expect from
 a leading global city.
 ```
 - [Information Technology Agency (ITA) about @cityoflosangeles @stateofcalifornia](https://ita.lacity.gov/about/ita)
-- 
+
+### [CALiFORNiALiNUX:#CHECKiNG_iN_WiTH_NASAJPL](https://archive.org/details/CHECKiNG_iN_WiTH_NASAJPL)
+<iframe src="https://archive.org/embed/CHECKiNG_iN_WiTH_NASAJPL" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ### The Internet - Girl (Official Video) ft. KAYTRANADA
 <object width="560" height="315" data="https://www.youtube.com/embed/zmY8mG4_3j4?si=FhJ_faB1EGdj_Dfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></object>
 @nasa-jpl @hackforla thats @blackgirlscode in atlanta! they were amazing in the neighborhood just to vibe off after work @ajc 
