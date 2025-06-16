@@ -15,6 +15,19 @@ I love turntablism, ppl that [`write graffiti` in my group are often scratch djs
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7JvwCXVFUto?si=c05KCHPs36aK4cCd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1574733757&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/caveman89" title="Caveman Music + Mixes" target="_blank" style="color: #cccccc; text-decoration: none;">Caveman Music + Mixes</a> · <a href="https://soundcloud.com/caveman89/the-shiggar-fraggar-show-vol-1" title="THE SHIGGAR FRAGGAR SHOW! VOL 1" target="_blank" style="color: #cccccc; text-decoration: none;">THE SHIGGAR FRAGGAR SHOW! VOL 1</a></div>
 
+![ita](https://ita.lacity.gov/sites/g/files/wph1626/files/202409_STRY0023274_ITA_WebLogo_v1_400x120.svg)
+```
+About ITA
+Under the leadership of Mayor Karen Bass,
+the Information Technology Agency (ITA) works
+with agencies and departments across the City of Los Angeles
+ to develop world-class IT infrastructure and
+applications that provide our citizens, businesses,
+and visitors with the digital services they expect from
+a leading global city.
+```
+- [Information Technology Agency (ITA) about @cityoflosangeles @stateofcalifornia](https://ita.lacity.gov/about/ita)
+- 
 ### The Internet - Girl (Official Video) ft. KAYTRANADA
 <object width="560" height="315" data="https://www.youtube.com/embed/zmY8mG4_3j4?si=FhJ_faB1EGdj_Dfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></object>
 @nasa-jpl @hackforla thats @blackgirlscode in atlanta! they were amazing in the neighborhood just to vibe off after work @ajc 
