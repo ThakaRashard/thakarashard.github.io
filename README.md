@@ -9,7 +9,10 @@ Thaka is my given name, [Rashard is my Government name, i only trust my governem
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)](https://badge.fury.io/rb/jekyll-theme-hacker)
 # Rashard iMan(Thaka) Kelly NasaJpl MRO JUNO iSS
 
+![image](https://github.com/user-attachments/assets/5620c3f5-0f68-4ad4-9721-fdc3680b9175)
 
+![image](https://github.com/user-attachments/assets/bbf5baec-a883-4805-bd38-d55c3043d798)
+![image](https://github.com/user-attachments/assets/2c348d5b-f0d1-4e6f-9942-3ee48a40dbc0)
 
 
 
