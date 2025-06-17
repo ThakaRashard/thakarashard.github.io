@@ -63,4 +63,4 @@ Thaka is my given name, [Rashard is my Government name, i only trust my governem
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
 
-![@cityoflosangeles @blackgirlscode @nasa-jpl was luke ever fulfilled?](https://ia600108.us.archive.org/6/items/03return.of.the.jedi.4k83.2160p.uhd.35mm.x265v1.0/Return.of.the.Jedi.4K83.2160p.UHD.35mm.x265-v1.0/03-Return.of.the.Jedi.4K83.2160p.UHD.35mm.x265-v1.0.jpg)
+[@cityoflosangeles @blackgirlscode @nasa-jpl was luke ever fulfilled?](https://ia600108.us.archive.org/6/items/03return.of.the.jedi.4k83.2160p.uhd.35mm.x265v1.0/Return.of.the.Jedi.4K83.2160p.UHD.35mm.x265-v1.0/03-Return.of.the.Jedi.4K83.2160p.UHD.35mm.x265-v1.0.jpg) 
