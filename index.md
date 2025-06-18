@@ -4,8 +4,8 @@ layout: default
 
 # Compiling~
 
-[Rhyme & Reason [Original Soundtrack] 1997](https://youtu.be/VKXLGeWeGTA?t=184) [2Pac Links on ../mybinder](https://moonlover404.github.io/mybinder/) 
-
+[Rhyme & Reason [Original Soundtrack] 1997](https://youtu.be/VKXLGeWeGTA?t=184) [2Pac Links on ../mybinder](https://moonlover404.github.io/mybinder/) [ATLANTA CHILD MURDERS: "THE CANDYMAN"(1980)](https://youtu.be/XzVyYb48g8E)
+[Hezakya Newz & Films](https://www.youtube.com/@HezakyaNewz)
 # Daytona USA [(Revision A)](https://www.retrogames.cc/arcade-games/daytona-usa-revision-a.html)
 
 on [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/iframe) i may have to add a [poster](https://developer.mozilla.org/en-US/docs/Web/API/HTMLVideoElement/poster) attribute manually like with the [`<video>`](https://en.wikipedia.org/wiki/HTML_video) tag
