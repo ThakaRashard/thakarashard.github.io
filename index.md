@@ -3,6 +3,9 @@ layout: default
 ---
 
 # Compiling~
+### NewsPaperSandComics
+<iframe src="https://archive.org/embed/image_20250428_2325" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 [DAVE Gallager](https://trello.com/c/k8bMJNy4/118-dave-gallagher-named-11th-director-of-jpl) 
 [1980 SPECIAL REPORT: "BALTIMORE STRIP CLUBS"](https://youtu.be/44GsZHAiQsE?t=21) [Rhyme & Reason [Original Soundtrack] 1997](https://youtu.be/VKXLGeWeGTA?t=184) [2Pac Links on ../mybinder](https://moonlover404.github.io/mybinder/) [ATLANTA CHILD MURDERS: "THE CANDYMAN"(1980)](https://youtu.be/XzVyYb48g8E)
 [Hezakya Newz & Films](https://www.youtube.com/@HezakyaNewz) 
