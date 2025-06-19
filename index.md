@@ -2,10 +2,6 @@
 layout: default
 ---
 
-# Compiling~
-
-[1980 SPECIAL REPORT: "BALTIMORE STRIP CLUBS"](https://youtu.be/44GsZHAiQsE?t=21) [Rhyme & Reason [Original Soundtrack] 1997](https://youtu.be/VKXLGeWeGTA?t=184) [2Pac Links on ../mybinder](https://moonlover404.github.io/mybinder/) [ATLANTA CHILD MURDERS: "THE CANDYMAN"(1980)](https://youtu.be/XzVyYb48g8E)
-[Hezakya Newz & Films](https://www.youtube.com/@HezakyaNewz) 
 # Daytona USA [(Revision A)](https://www.retrogames.cc/arcade-games/daytona-usa-revision-a.html)
 
 on [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/iframe) i may have to add a [poster](https://developer.mozilla.org/en-US/docs/Web/API/HTMLVideoElement/poster) attribute manually like with the [`<video>`](https://en.wikipedia.org/wiki/HTML_video) tag
@@ -17,6 +13,12 @@ on [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Element
 
 ![image](https://github.com/user-attachments/assets/04ee9f7a-2c1b-484a-b931-4da2162ba35e)
 
+# Compiling~
+[DAVE Gallager](https://trello.com/c/k8bMJNy4/118-dave-gallagher-named-11th-director-of-jpl) 
+[1980 SPECIAL REPORT: "BALTIMORE STRIP CLUBS"](https://youtu.be/44GsZHAiQsE?t=21) [Rhyme & Reason [Original Soundtrack] 1997](https://youtu.be/VKXLGeWeGTA?t=184) [2Pac Links on ../mybinder](https://moonlover404.github.io/mybinder/) [ATLANTA CHILD MURDERS: "THE CANDYMAN"(1980)](https://youtu.be/XzVyYb48g8E)
+[Hezakya Newz & Films](https://www.youtube.com/@HezakyaNewz) 
+@stateofcalifornia @cityoflosangeles 
+[![Twitter Follow](https://img.shields.io/badge/Social-@BlackGirlsCode__-blue?style=social&logo=X)](https://twitter.com/@BlackGirlsCode) [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) [![Twitter Follow](https://img.shields.io/badge/Social-@nasajpl__-blue?style=social&logo=X)](https://twitter.com/@nasajpl)
 # Abt My Hobbies
 I love turntablism, ppl that [`write graffiti` in my group are often scratch djs](https://www.youtube.com/watch?v=iLRlTfC8uAU) [The Shiggar Fraggar Show](https://www.youtube.com/watch?v=4YkitEPUCu0) with [DjQbert](https://www.djqbert.com/) was a Bay Area pirate broadcast that got sold in hiphop stores online in the latte 90s and I was a fan and follower and did the tutorials they gave to scratch like a [DMC](https://youtu.be/qQQex1BNpO0?si=LK_zfh_ZUJpAIy9y) champ and win the golden turntables. They would stay in my bedroom. Its like a personal trumpet... I lost it. But shared the skills with a [few people](https://ameyawdebrah.com/ciara-x-teyana-taylor-x-normani-team-up-for-ecstasy-remix/)  and see techniques and timings on local broadcast bc those girls work in the media at differing levels. I was afraid of the girls sexuality, so [i taught coral](https://youtu.be/CsM4jNSAm4A?si=Z_WjxJDIhESCmL96) and hope she is not being mistreated or hurt ovber it, so many child performers out there [Mayor Karen](https://www.congress.gov/member/karen-bass/B001270) please see the [@trello @jira Card](https://trello.com/c/k8bMJNy4/118-dave-gallagher-named-11th-director-of-jpl) i made for [Dave Gallager](https://www.jpl.nasa.gov/news/dave-gallagher-named-11th-director-of-jpl-as-laurie-leshin-steps-down/) 
 @nasa-jpl @blackgirlscode @stateofcalifornia @cityoflosangeles 
@@ -186,6 +188,7 @@ Doxing (or doxxing) is the [action](https://www.thefire.org/research-learn/doxxi
 
 @stateofcalifornia @cityoflosangeles 
 [![Twitter Follow](https://img.shields.io/badge/Social-@BlackGirlsCode__-blue?style=social&logo=X)](https://twitter.com/@BlackGirlsCode) [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) [![Twitter Follow](https://img.shields.io/badge/Social-@nasajpl__-blue?style=social&logo=X)](https://twitter.com/@nasajpl)
+
 <div class="tupperware" >
 <img src="https://github.com/user-attachments/assets/998622ea-e70c-4f2b-9893-68a36a1073e7" alt="SimpleScanStation20250609191450-1" />
 <img src="https://github.com/user-attachments/assets/8a075c5d-38a9-44cd-86ef-f0c0fca8ebec" alt="SimpleScanStation20250609191450-1" />
