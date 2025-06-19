@@ -4,6 +4,11 @@ layout: default
 
 # Compiling~
 
+
+### My Vinyl Weighs A Ton
+>by Peanut Butter Wolf
+<object data="https://archive.org/embed/peanut-butter-wolf-my-vinyl-weighs-a-ton" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
+
 # Captain America 1944
 <iframe src="https://archive.org/embed/CaptainAmerica1944Serial1" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
