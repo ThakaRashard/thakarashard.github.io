@@ -3,10 +3,12 @@ layout: default
 ---
 
 # Compiling~
+
 ## African Americans In Losangeles
 [FrancisGoldwyn](https://www.latimes.com/archives/la-xpm-1986-08-24-me-17401-story.html) display case featured [African Americans](https://en.wikipedia.org/wiki/History_of_African_Americans_in_Los_Angeles) in [Los Angeles](https://www.pbssocal.org/history-society/the-great-migration-creating-a-new-black-identity-in-los-angeles) from [Arcadia Publishing](https://www.arcadiapublishing.com/products/9780738580944?srsltid=AfmBOopapyWBAhT0q2ZXawkBEiMqkYHA6GUfWyltXxR6V7MaYmOk3_GJ). @stateofcalifornia @cityoflosangeles [Karen The Mayor Bass](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass) 
 
 <div class="tupperware">
+    
 {% for image in site.static_files %}
     {% if image.path contains 'assets/images/gallery-africanamericansinlosangeles' %}
         <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
@@ -14,6 +16,7 @@ layout: default
         </a>
     {% endif %}
 {% endfor %}
+
 </div>
 
 # Pee-Wee's Big Adventure (1985) 
