@@ -5,7 +5,7 @@ layout: default
 # Compiling~
 
 ### Pee-Wee's Big Adventure (1985) 
-@nasa-jpl good morning i was at the [summer of resistance](https://utla.net/event/summer-of-resistance-wellness-wednesdays/2025-06-25/) and let @USMC know [Dwayne Gooden](https://liprospect.com/person/Dwayne-Gooden-IT-System-Manager-Ionic-Security-(acquired-by-Twilio)-67d438a727dcdb264a0b5330) of @marinecoders might be iussuing bad orders protecting [MagicCity](https://youtu.be/UFDjErlbkEc?si=v4MjnPpwyKaJri0J) @blackgirlscode hi i hope yall doing ok, poeple calling me ice and doing hurtful things atm 
+@nasa-jpl good morning i was at the [summer of resistance](https://utla.net/event/summer-of-resistance-wellness-wednesdays/2025-06-25/) and let @USMC know [Dwayne Gooden](https://liprospect.com/person/Dwayne-Gooden-IT-System-Manager-Ionic-Security-(acquired-by-Twilio)-67d438a727dcdb264a0b5330) of @marinecoders might be issuing bad orders protecting [MagicCity](https://youtu.be/UFDjErlbkEc?si=v4MjnPpwyKaJri0J) @blackgirlscode hi i hope yall doing ok, poeple calling me ice and doing hurtful things atm 
 <iframe src="https://archive.org/embed/format-screen-logo" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 Soul Food: Instrumentals
