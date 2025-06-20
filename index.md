@@ -4,6 +4,14 @@ layout: default
 
 # Compiling~
 
+
+![PIA26520: Perseverance and SHERLOC's Calibration Target](https://github.com/user-attachments/assets/a23aaf70-300c-4ff4-be3b-4b07dd2914fa)
+At left is NASA's Perseverance Mars rover. The annotation shows where spacesuit materials can be found attached to a calibration target for SHERLOC (Scanning Habitable Environments with Raman & Luminescence for Organics and Chemicals), one of the rover's instruments. At right is a close-up of the calibration target. Scientists rely on calibration targets to fine-tune instrument settings using materials with known properties. In the case of SHERLOC's calibration target, they are also studying how the five swatches of spacesuit materials arranged along the bottom row degrade in the Martian environment. [READMORE](https://photojournal.jpl.nasa.gov/catalog/PIA26520) [NASA\JPL](https://www.jpl.nasa.gov/news/) @nasa-jpl , i heard [mori](https://moriassociates.com/) hurt our access to the facilities all over the county... @nasa @whitehouse @USnavy
+<blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/NASAJobs/comments/1lfxymm/what_are_you_all_at_goddard_planning_on_doing/">What are you all at Goddard planning on doing?</a><br> by<a href="https://www.reddit.com/user/CurrentPudding9331/">u/CurrentPudding9331</a> in<a href="https://www.reddit.com/r/NASAJobs/">NASAJobs</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+>[Keep up with Cat files](https://www.reddit.com/r/NASAJobs/comments/1lfxymm/comment/myvsq3d/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)!
+
+[https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) thats mine from [M_R_O](https://science.nasa.gov/mars/stories/), then you find the chain of command, thats how u know u still approved! Figure out how to get to a meeting, [ECOSTRESS](https://ecostress.jpl.nasa.gov/) got me a badge! I was struggling and still am being called [ICE by some protestors in Los Angeles](https://thakarashard.github.io/compiling/Summer-Of-Resistance-LosAngeles)... I had the NasaInsight file but cant find it... I have no leads but doanld golover
+
 ## African Americans In Losangeles
 [FrancisGoldwyn](https://www.latimes.com/archives/la-xpm-1986-08-24-me-17401-story.html) display case featured [African Americans](https://en.wikipedia.org/wiki/History_of_African_Americans_in_Los_Angeles) in [Los Angeles](https://www.pbssocal.org/history-society/the-great-migration-creating-a-new-black-identity-in-los-angeles) from [Arcadia Publishing](https://www.arcadiapublishing.com/products/9780738580944?srsltid=AfmBOopapyWBAhT0q2ZXawkBEiMqkYHA6GUfWyltXxR6V7MaYmOk3_GJ). @stateofcalifornia @cityoflosangeles [Karen The Mayor Bass](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass) 
 
