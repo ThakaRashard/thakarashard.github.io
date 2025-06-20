@@ -3,6 +3,18 @@ layout: default
 ---
 
 # Compiling~
+### African Americans In Losangeles
+[FrancisGoldwyn](https://www.latimes.com/archives/la-xpm-1986-08-24-me-17401-story.html) display case featured [African Americans](https://en.wikipedia.org/wiki/History_of_African_Americans_in_Los_Angeles) in [Los Angeles](https://www.pbssocal.org/history-society/the-great-migration-creating-a-new-black-identity-in-los-angeles) from [Arcadia Publishing](https://www.arcadiapublishing.com/products/9780738580944?srsltid=AfmBOopapyWBAhT0q2ZXawkBEiMqkYHA6GUfWyltXxR6V7MaYmOk3_GJ). @stateofcalifornia @cityoflosangeles [Karen The Mayor Bass](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass) 
+
+<div class="tupperware">
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-2' %}
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+</div>
 
 ### Pee-Wee's Big Adventure (1985) 
 @nasa-jpl good morning i was at the [summer of resistance](https://utla.net/event/summer-of-resistance-wellness-wednesdays/2025-06-25/) and let @USMC know [Dwayne Gooden](https://liprospect.com/person/Dwayne-Gooden-IT-System-Manager-Ionic-Security-(acquired-by-Twilio)-67d438a727dcdb264a0b5330) of @marinecoders might be issuing bad orders protecting [MagicCity](https://youtu.be/UFDjErlbkEc?si=v4MjnPpwyKaJri0J) @blackgirlscode hi i hope yall doing ok, poeple calling me ice and doing hurtful things atm 
