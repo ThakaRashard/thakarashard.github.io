@@ -4,6 +4,10 @@ layout: default
 
 # Compiling~
 
+# Vorbis @soundcloud
+I never looked at a codec b4 i looked at a few config files in the [JupyterNotebook/binder](https://hub.gesis.mybinder.org/user/thakarashard-vorbis-q1fes1l9/lab) i dont know if its a Jupoyter Notebook if u not running [ipykernel](https://pypi.org/project/ipykernel/) and making fancy charts [wiki](https://en.wikipedia.org/wiki/Vorbis) @soundcloud your fork is old [thisfresh](https://github.com/ThakaRashard/vorbis_)
+![image](https://github.com/user-attachments/assets/363242bd-67de-42be-be2a-defff43c585d) [@xiph .Org Foundation](https://xiph.org/) s a non-profit corporation dedicated to protecting the foundations of Internet multimedia from control by private interests. Our purpose is to support and develop free, open protocols and software to serve the public, developer and business markets. @nasa-jpl @blackgirlscode @whitehouse, i dont know if @stateofcalifornia @cityoflosangeles needs to fork codecs, we supposed to help you with those things @deptofdefense @nasa @nasa-jpl 
+![Screenshot 2025-06-21 10 48 51 AM](https://github.com/user-attachments/assets/a3d393c9-a70e-4682-9572-461859d71c4e)
 
 ![PIA26520: Perseverance and SHERLOC's Calibration Target](https://github.com/user-attachments/assets/a23aaf70-300c-4ff4-be3b-4b07dd2914fa)
 At left is NASA's Perseverance Mars rover. The annotation shows where spacesuit materials can be found attached to a calibration target for SHERLOC (Scanning Habitable Environments with Raman & Luminescence for Organics and Chemicals), one of the rover's instruments. At right is a close-up of the calibration target. Scientists rely on calibration targets to fine-tune instrument settings using materials with known properties. In the case of SHERLOC's calibration target, they are also studying how the five swatches of spacesuit materials arranged along the bottom row degrade in the Martian environment. [READMORE](https://photojournal.jpl.nasa.gov/catalog/PIA26520) [NASA\JPL](https://www.jpl.nasa.gov/news/) @nasa-jpl , i heard [mori](https://moriassociates.com/) hurt our access to the facilities all over the county... @nasa @whitehouse @USnavy
