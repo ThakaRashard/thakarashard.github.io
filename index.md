@@ -2,7 +2,154 @@
 layout: default
 ---
 
+
+<style>
+  
+  /* This is the primary nave container color  */
+  .navbar {
+     display:flex;
+    overflow: hidden;
+    background-color: #33333350;
+    border-radius: 3px;
+      font-family: "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
+  font-size: 1rem;
+    transition: all 300ms ease-in-out;
+  }
+  
+  .navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 10x 10px;
+    text-decoration: none;
+  }
+  
+  .dropdown {
+    display:flex;
+    overflow: hidden;
+  }
+  /* This is the tex that is in the main display navbar no hover but only a dropdown heading   */
+  .dropdown .dropbtn {
+    font-size: 16px;  
+    border: none;
+    outline: none;
+    color: #44F281;
+    padding: 11px 11px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+  /* this is when the mous is over the Heading*/
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: #446FF250;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #3E38F225;
+    text-shadow:
+  1px 1px 2px black,
+  0 0 1em brown,
+  0 0 0.2em brown;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,20,20,1.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    float: none;
+    color: white;
+    padding: 1px 1px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+  }
+  
+  .dropdown-content a:hover {
+    background-color: #44F28150;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  </style>
+  
+
+
+
+  
+
+
+
+
+<img src="https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/default/public/2023-04/Tri_Color_Ribbon_6000x75_v2.png.webp" itemscope itemprop="workExample" itemtype="https://schema.org/WebPage" itemid="{{ site.url }}{{ site.baseurl }}" />
+
+<article class="navbar" role="navigation" itemscope itemtype="https://schema.org/SiteNavigationElement">
+        
+
+ <a href="{{ site.url }}{{ site.baseurl }}">...</a>
+      
+    
+        <div class="dropdown">
+        <button class="dropbtn">Compiling 
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          
+          <a href="{{ site.url }}{{ site.baseurl }}/rashardmro" itemscope itemtype="https://schema.org/Person" itemprop="name">RashardMRO</a>
+          <a href="{{ site.url }}{{ site.baseurl }}/compiling/">Compiling</a>
+          <a href="{{ site.url }}{{ site.baseurl }}/astronomy">AstronomY</a>
+
+           <a href="https://thakarashard.github.io/">ThakaRashard</a>
+           <a href="{{ site.url }}{{ site.baseurl }}/twitters">TwitterS</a>
+           <a href="{{ site.url }}{{ site.baseurl }}/cv">curriculum vitae</a>
+           <a href="{{ site.url }}{{ site.baseurl }}/learned">RashardLearned</a>
+           <a href="https://moonlov3r.wordpress.com/blog-feed/">moonlov3r - WP</a>
+           <a href="https://bubblegumpop01.tumblr.com/">BubbleGumPop01</a>
+           <a href="https://bubblegumfm01.tumblr.com/">BubbleGumFM</a>
+           <a href="https://thakarashard.github.io/">ThakaRashard</a>
+          <a href="{{ site.url }}{{ site.baseurl }}/rashardlearned/">RashardLearned</a>
+          <a href="{{ site.url }}{{ site.baseurl }}/astronomy">AstronomY</a>
+        </div>
+      </div> 
+    
+    
+    
+      <div class="dropdown">
+        <button class="dropbtn">AtThisTimE! 
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="{{ site.url }}{{ site.baseurl }}/linux">linux</a>
+          <a href="{{ site.url }}{{ site.baseurl }}/mybinder">mYBinder</a>
+          <a href="{{ site.url }}{{ site.baseurl }}/rashardlearned">RashardLearned</a>
+          <a href="{{ site.url }}{{ site.baseurl }}/thakarashard">ThakaRashard</a>
+          <a href="{{ site.url }}{{ site.baseurl }}/rashardmro">RashardMRO</a>
+          <a href="{{ site.url }}{{ site.baseurl }}/compiling">./CompilingBlog=></a>
+<a href="https://rashardmro.tumblr.com/">rashardmro🌌</a>
+<a href="https://rashardmro.tumblr.com/">rashardsmaps🌌</a>
+       <a href="https://rashardlanasa.tumblr.com/">rashard_la_nasa🌌</a>    
+        </div>
+      </div> 
+      
+</article>  
+
+
+
+
+ 
 # Compiling~
+<img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Sewer_Shark_Coverart.jpg" alt="Sewer Shark - Wikipedia"/>
+
+[SEGA CDSewer Shark](https://www.retrogames.cc/segacd-games/sewer-shark.html)
+
+`"Sewer Shark was the only game i owned for my SegaCD"` -[U/natehinxman](https://www.reddit.com/r/RG35XX_Plus/comments/1bqu38q/sewer_shark_sega_cd/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+I knew so many [SegaCD_Owners]() Like that @blackgirlscode, however I feel guilt for working, I worked lawncare adHoc as a kid to buy games and im older with my money bc at the end of the day everything on the market is a [radio signal](https://nationaldefensenetwork.com/radio-show/) piped to you or an array of loops and echos to play the same concept -Rashard, i wonder if GHOST or whatever the characters name is on SewerShark is the big dude at [HollywoodFoodCoalition](https://hofoco.org/) :[[Linkedin]](https://www.linkedin.com/company/hofoco)? [imdb](https://www.imdb.com/title/tt0278701/) [Sewer Shark (3DO) Playthrough -NintendoCOMPLETEon@youtube](https://youtu.be/HrCHYjSFA9I) [sega16](https://www.sega-16.com/2008/08/sewer-shark/)  [GOOGLE_Ai](https://www.google.com/search?q=sewershark+review&sa=X&sca_esv=137efc39dde293df&rlz=1CASLJZ_enUS1167&udm=50&fbs=AIIjpHyXkckd7Il21lobbVJc1XW8UWqx1w2L_HS4glko4E1W2IeeIZvHkM4DWoJRZaDIWj-19PEa5EIwXyC_8gqy8sSg0YuGujPNov0Y-glAntJwAaUTSCsp6ryI_IVbPAgoByVKwXIZKeaCyoJYKwuW6FpLqoEWYlA9tCSUT3Vy3c5chzomaQ7uR2M-4sx5nof53OCU9lnlQDMSKFNvnz6tTmmYKwrlq8-VNKPoPeVSI9ebEV8f8aw&aep=1&ntc=1&ved=2ahUKEwiB6_G7mYaOAxUjHkQIHfdzAGUQ2J8OegQIERAC&mstk=AUtExfB3sosAzo0JRpEiSM64OpEyVRb5a0mVPiYk36YSszf8kO1DwC6xlmqdIFB9sK-jM_khOnwGt9J1dTN_cONshDz4kCEF_zHdakNwkucfRE2DPfoxuBv4GBxQEW4DdqqMNtRZPWxIaOx9W-yn4RxfrYnysY350ROBRzs&csuir=1&biw=945&bih=945&dpr=1) [スーワーシャーク](https://segaretro.org/Sewer_Shark)
+[Introduction to Turing Mesh Shaders - developer.@nvidia.com](https://developer.nvidia.com/blog/introduction-turing-mesh-shaders/)
+# #CAliFORNiALiNUX:South Pasadena Public library FirstVisit
+<iframe src="https://archive.org/embed/SouthPasadenaPubliclibrary" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 # Vorbis @soundcloud
 I never looked at a codec b4 i looked at a few config files in the [JupyterNotebook/binder](https://hub.gesis.mybinder.org/user/thakarashard-vorbis-q1fes1l9/lab) i dont know if its a Jupoyter Notebook if u not running [ipykernel](https://pypi.org/project/ipykernel/) and making fancy charts [wiki](https://en.wikipedia.org/wiki/Vorbis) @soundcloud your fork is old [thisfresh](https://github.com/ThakaRashard/vorbis_)
