@@ -3,6 +3,25 @@ layout: default
 ---
 {% include nav.html %}
 
+
+
+![image](https://www.chirla.org/wp-content/uploads/2020/07/chirla-logo-ko.png)
+[@chirlavideos on youtube](https://www.youtube.com/channel/UCkpuw8C5tb4RL8IwI-liMsA)
+[Live from the Adelanto ICE Processing Center 🚨 Six legal representatives, community members, and immigrant rights leaders f](https://www.facebook.com/chirlausa/videos/-live-from-the-adelanto-ice-processing-center-six-legal-representatives-communit/2022658185205727) [LIVE NOW: Hope in Action, Strength in Unity ✊🏽✨ Join LA labor and immigrant rights groups as they launch the Summer of Resistance — 30 days](https://www.facebook.com/chirlausa/videos/live-now-hope-in-action-strength-in-unity-join-la-labor-and-immigrant-rights-gro/752074910503154)
+[DomesticWorkers @blackgirlscod](https://youtu.be/i2UGcbtQphU?si=KNI6rA-bsdfMBt_x)
+[Immigrant rights groups launch 'Summer of Resistance,' calling for end to ICE raids, deportations](https://abc7.com/post/los-angeles-immigrant-rights-groups-launch-summer-resistance-campaign-denouncing-ice-raids-deportations/16744793/)
+<picture>
+  <source
+    srcset="https://github.com/user-attachments/assets/6a1b4d35-a082-4439-9103-c524aa71a6a6"
+    />
+<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/workprotesticerescanSimpleScanStation20250623103342-01.png" alt="item image #50"/>
+</picture>
+
+<img src="https://github.com/user-attachments/assets/08321ff7-8bac-41db-b40a-033aa34e0200" alt="item image #50"/>
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/833119711&color=%23667e6c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/josh-calhoun-330633673" title="josh calhoun" target="_blank" style="color: #cccccc; text-decoration: none;">josh calhoun</a> · <a href="https://soundcloud.com/josh-calhoun-330633673/eric-b-rakim-paid-in-full-1987-my-free-mp3scom" title="Eric B. &amp; Rakim - Paid In Full (1987) full album" target="_blank" style="color: #cccccc; text-decoration: none;">Eric B. &amp; Rakim - Paid In Full (1987) full album</a></div>
+
+
 ### My painting carries with it the message of pain. - [Frida Kahlo](https://www.fridakahlo.org/)
 [Museo Frida Kahlo](https://www.museofridakahlo.org.mx/?lang=en) [Faces of Frida - artsandculture.google.com](https://artsandculture.google.com/project/frida-kahlo) [Frida Kahlo - frida-kahlo-foundation.org](https://frida-kahlo-foundation.org/)
 
@@ -13,18 +32,8 @@ layout: default
 <img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/freidaimpleScanStation20250622161418-1.png" alt="item image #43"/>
 </picture>
 
-<picture>
-  <source
-    srcset="https://github.com/user-attachments/assets/6a1b4d35-a082-4439-9103-c524aa71a6a6"
-    />
-<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/workprotesticerescanSimpleScanStation20250623103342-01.png" alt="item image #50"/>
-</picture>
 
 
-  ![image]()
-
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/833119711&color=%23667e6c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/josh-calhoun-330633673" title="josh calhoun" target="_blank" style="color: #cccccc; text-decoration: none;">josh calhoun</a> · <a href="https://soundcloud.com/josh-calhoun-330633673/eric-b-rakim-paid-in-full-1987-my-free-mp3scom" title="Eric B. &amp; Rakim - Paid In Full (1987) full album" target="_blank" style="color: #cccccc; text-decoration: none;">Eric B. &amp; Rakim - Paid In Full (1987) full album</a></div>
 
 
   
