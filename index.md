@@ -4,7 +4,7 @@ layout: default
 {% include nav.html %}
 
 
-
+[Dancing Stage Euro Mix (G*936 VER. EAA)](https://archive.org/details/arcade_dsem)
   [Sonic CD (USA)](https://www.retrogames.cc/segacd-games/sonic-cd.html)
 # No_Kings_Protest_Papers_n_Posters
 feat. [`<picture>`: The Picture element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/picture)
