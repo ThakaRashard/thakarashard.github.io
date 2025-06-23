@@ -10,7 +10,7 @@ layout: default
 feat. [`<picture>`: The Picture element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/picture)
 The `<picture>` HTML element contains zero or more `<source>` elements and one `<img>` element to offer alternative versions of an image for different display/device scenarios. @nasa-jpl @cityoflosangeles
 
-<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/ammosamples.png" alt="item image #38"/>
+<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/ammosamples.png" alt="item image #38" />
 
 [Archive.ORG](https://archive.org/details/No_Kings_Protest_Papers_n_Posters/1_6_20summerofresistanceSimpleScanStation20250620100012-31.png) @nasa @stateofcalifornia 
 <iframe src="https://archive.org/embed/No_Kings_Protest_Papers_n_Posters" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
