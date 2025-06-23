@@ -10,6 +10,7 @@ layout: default
 [Live from the Adelanto ICE Processing Center 🚨 Six legal representatives, community members, and immigrant rights leaders f](https://www.facebook.com/chirlausa/videos/-live-from-the-adelanto-ice-processing-center-six-legal-representatives-communit/2022658185205727) [LIVE NOW: Hope in Action, Strength in Unity ✊🏽✨ Join LA labor and immigrant rights groups as they launch the Summer of Resistance — 30 days](https://www.facebook.com/chirlausa/videos/live-now-hope-in-action-strength-in-unity-join-la-labor-and-immigrant-rights-gro/752074910503154)
 [DomesticWorkers @blackgirlscod](https://youtu.be/i2UGcbtQphU?si=KNI6rA-bsdfMBt_x)
 [Immigrant rights groups launch 'Summer of Resistance,' calling for end to ICE raids, deportations](https://abc7.com/post/los-angeles-immigrant-rights-groups-launch-summer-resistance-campaign-denouncing-ice-raids-deportations/16744793/)
+
 <picture>
   <source
     srcset="https://github.com/user-attachments/assets/6a1b4d35-a082-4439-9103-c524aa71a6a6"
@@ -17,7 +18,7 @@ layout: default
 <img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/workprotesticerescanSimpleScanStation20250623103342-01.png" alt="item image #50"/>
 </picture>
 
-<img src="https://github.com/user-attachments/assets/08321ff7-8bac-41db-b40a-033aa34e0200" alt="item image #50"/>
+
 
 <div class="tupperware" markdown="1">
 
