@@ -39,12 +39,12 @@ layout: default
 
 
 
-### My painting carries with it the message of pain. - [Frida Kahlo](https://www.fridakahlo.org/)
+My painting carries with it the message of pain. - [Frida Kahlo](https://www.fridakahlo.org/)
 [Museo Frida Kahlo](https://www.museofridakahlo.org.mx/?lang=en) [Faces of Frida - artsandculture.google.com](https://artsandculture.google.com/project/frida-kahlo) [Frida Kahlo - frida-kahlo-foundation.org](https://frida-kahlo-foundation.org/)
 
 <picture>
   <source
-    srcset="https://github.com/user-attachments/assets/3791bc2d-39d7-4543-9943-1aee6d0796e8"
+    source="https://github.com/user-attachments/assets/3791bc2d-39d7-4543-9943-1aee6d0796e8"
     />
 <img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/freidaimpleScanStation20250622161418-1.png" alt="item image #43"/>
 </picture>
