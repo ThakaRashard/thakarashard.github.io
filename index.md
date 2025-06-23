@@ -2,14 +2,17 @@
 layout: default
 ---
 
-# {% nav.html %}
+# {% include nav.html %}
   
 
 
 
   
+# No_Kings_Protest_Papers_n_Posters
+[Archive.ORG](https://archive.org/details/No_Kings_Protest_Papers_n_Posters/1_6_20summerofresistanceSimpleScanStation20250620100012-31.png) @nasa @stateofcalifornia 
+<iframe src="https://archive.org/embed/No_Kings_Protest_Papers_n_Posters" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-[adult_EntertainmentZoning_LOS_ANGELES.pdf](https://archive.org/download/image_20250428_2325/1_adult_EntertainmentZoning_LOS_ANGELES.pdf) [FucK_ICE_RiOTs](https://ia601809.us.archive.org/19/items/image_20250428_2325/1_fuck_ICE_riots_dtla_SimpleScanStation20250611102307.pdf)  [MARIJUANA_LEGALIZATION_Prop64.pdf](https://archive.org/download/image_20250428_2325/MARIJUANA_LEGALIZATION_Prop64.pdf) [diddy](https://archive.org/download/image_20250428_2325/diddy_usa_today.pdf) [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) [![Twitter Follow](https://img.shields.io/badge/Social-@nasajpl__-blue?style=social&logo=X)](https://twitter.com/@nasajpl) [![Twitter Follow](https://img.shields.io/badge/Social-@LAPDCentral__-blue?style=social&logo=X)](https://twitter.com/@LAPDCentral) [![Twitter Follow](https://img.shields.io/badge/Social-@YungMiami305__-blue?style=social&logo=X)](https://twitter.com/@YungMiami305)   [frieda](https://ia801809.us.archive.org/19/items/image_20250428_2325/freidaimpleScanStation20250622161418.pdf) [RiotGraffNotes](https://ia801809.us.archive.org/19/items/image_20250428_2325/lariotgrafffworknotesandimpersonationnotes.pdf) @whitehouse [![Twitter Follow](https://img.shields.io/badge/Social-@secdef__-blue?style=social&logo=X)](https://twitter.com/@secdef) [LA_PROTEST_25](https://ia601809.us.archive.org/19/items/image_20250428_2325/workprotesticerescanSimpleScanStation20250623103342.pdf) 
+[adult_EntertainmentZoning_LOS_ANGELES.pdf](https://archive.org/download/image_20250428_2325/1_adult_EntertainmentZoning_LOS_ANGELES.pdf) [![Twitter Follow](https://img.shields.io/badge/Social-@gavinnewsom__-blue?style=social&logo=X)](https://twitter.com/@gavinnewsom) [FucK_ICE_RiOTs](https://ia601809.us.archive.org/19/items/image_20250428_2325/1_fuck_ICE_riots_dtla_SimpleScanStation20250611102307.pdf)  [MARIJUANA_LEGALIZATION_Prop64.pdf](https://archive.org/download/image_20250428_2325/MARIJUANA_LEGALIZATION_Prop64.pdf) [diddy](https://archive.org/download/image_20250428_2325/diddy_usa_today.pdf) [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) [![Twitter Follow](https://img.shields.io/badge/Social-@nasajpl__-blue?style=social&logo=X)](https://twitter.com/@nasajpl) [![Twitter Follow](https://img.shields.io/badge/Social-@LAPDCentral__-blue?style=social&logo=X)](https://twitter.com/@LAPDCentral) [![Twitter Follow](https://img.shields.io/badge/Social-@YungMiami305__-blue?style=social&logo=X)](https://twitter.com/@YungMiami305) [![Twitter Follow](https://img.shields.io/badge/Social-@blackgirlscode__-blue?style=social&logo=X)](https://twitter.com/@blackgirlscode) [![Twitter Follow](https://img.shields.io/badge/Social-@6gems__-blue?style=social&logo=X)](https://twitter.com/@6gems)   [frieda](https://ia801809.us.archive.org/19/items/image_20250428_2325/freidaimpleScanStation20250622161418.pdf) [RiotGraffNotes](https://ia801809.us.archive.org/19/items/image_20250428_2325/lariotgrafffworknotesandimpersonationnotes.pdf) @whitehouse [![Twitter Follow](https://img.shields.io/badge/Social-@secdef__-blue?style=social&logo=X)](https://twitter.com/@secdef) [LA_PROTEST_25](https://ia601809.us.archive.org/19/items/image_20250428_2325/workprotesticerescanSimpleScanStation20250623103342.pdf) 
 
 
 
