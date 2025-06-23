@@ -1,14 +1,67 @@
 ---
 layout: default
 ---
+{% include nav.html %}
 
-# {% include nav.html %}
-  
+### My painting carries with it the message of pain. - [Frida Kahlo](https://www.fridakahlo.org/)
+<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/freidaimpleScanStation20250622161418-1.png" alt="item image #43"/>![image](https://github.com/user-attachments/assets/3791bc2d-39d7-4543-9943-1aee6d0796e8)
+
+
+  <img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/workprotesticerescanSimpleScanStation20250623103342-01.png" alt="item image #50"/>![image](https://github.com/user-attachments/assets/6a1b4d35-a082-4439-9103-c524aa71a6a6)
+
+
 
 
 
   
 # No_Kings_Protest_Papers_n_Posters
+feat. [`<picture>`: The Picture element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/picture)
+The <picture> HTML element contains zero or more <source> elements and one <img> element to offer alternative versions of an image for different display/device scenarios. @nasa-jpl @cityoflosangeles
+
+<div class="tupperware">
+
+
+
+<picture>
+  <source
+    srcset="https://github.com/user-attachments/assets/0a03e07a-c7fa-41d7-94e6-3b3ed0e3d4b6"
+    />
+<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/workprotesticerescanSimpleScanStation20250623103342-05.png" alt="item image #54 ICE OUT OF LA"/>
+</picture>
+
+
+<picture>
+  <source
+    srcset="https://github.com/user-attachments/assets/a9b4397e-00f5-4ae0-85e2-46b4ec45d1b7"
+    />
+<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/workprotesticerescanSimpleScanStation20250623103342-04.png" alt="item image #53 icecubes ice out of la"/>
+</picture>
+
+
+<picture>
+  <source
+    srcset="https://github.com/user-attachments/assets/12bf2657-58ff-401c-a9e0-64721aab5890"
+    />
+<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/workprotesticerescanSimpleScanStation20250623103342-03.png" alt="item image #52 Military out of our Streets"/>
+</picture>
+
+
+<picture>
+  <source
+    srcset="https://github.com/user-attachments/assets/2b1513e7-cd10-46da-a8c3-4d92e2eeecd0"
+    />
+<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/workprotesticerescanSimpleScanStation20250623103342-02.png" alt="item image #51"/>
+</picture>
+
+
+
+
+<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/ammosamples.png" alt="item image #38"/>
+
+<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/SimpleScanStation20250615161309_0.png" alt="item image #37"/>
+
+</div>
+
 [Archive.ORG](https://archive.org/details/No_Kings_Protest_Papers_n_Posters/1_6_20summerofresistanceSimpleScanStation20250620100012-31.png) @nasa @stateofcalifornia 
 <iframe src="https://archive.org/embed/No_Kings_Protest_Papers_n_Posters" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
@@ -27,6 +80,9 @@ layout: default
 
 mirror  : [ROUJIN Z - Full Movie HD English Subs (1991) 老人Z](https://www.youtube.com/watch?v=X5i0JU_NsZU) [Roujin Z (English Dubbed) VHS](https://www.youtube.com/watch?v=itg4zKaUMgY) [Wiki](https://en.wikipedia.org/wiki/Roujin_Z) 
 ![image](https://github.com/user-attachments/assets/b8824336-79c1-4f59-930f-b2b90bfd78af) [imdb](https://www.imdb.com/title/tt0102812/) @blackgirlscode [subtitles](https://www.subtitlecat.com/subs/4/Roujin.Z.1991.720p.BluRay.H264.AAC-RARBGEng.html)
+
+<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/workprotesticerescanSimpleScanStation20250623103342-16.png" alt="item image #65"/> 
+<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/workprotesticerescanSimpleScanStation20250623103342-18.png" alt="item image #67"/> 
 
 @nasa-jpl I found some more protest posters @cityoflosangeles, i am going to try and drop the bundle off at the police dept headquaters... The scene of the incident... (@) [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) [![Twitter Follow](https://img.shields.io/badge/Social-@nasajpl__-blue?style=social&logo=X)](https://twitter.com/@nasajpl) [![Twitter Follow](https://img.shields.io/badge/Social-@LAPDCentral__-blue?style=social&logo=X)](https://twitter.com/@LAPDCentral) ...@stateofcalifornia -rashard @nasa [EarthData](https://visibleearth.nasa.gov/) [Mars](https://science.nasa.gov/planetary-science/programs/mars-exploration/)
 
@@ -58,6 +114,9 @@ I knew so many [SegaCD_Owners]() Like that @blackgirlscode, however I feel guilt
 [Introduction to Turing Mesh Shaders - developer.@nvidia.com](https://developer.nvidia.com/blog/introduction-turing-mesh-shaders/)
 # #CAliFORNiALiNUX:South Pasadena Public library FirstVisit
 <iframe src="https://archive.org/embed/SouthPasadenaPubliclibrary" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/c8SimpleScanStation20250621140351_2.jpg" alt="item image #42"/>
+
 
 # Vorbis @soundcloud
 I never looked at a codec b4 i looked at a few config files in the [JupyterNotebook/binder](https://hub.gesis.mybinder.org/user/thakarashard-vorbis-q1fes1l9/lab) i dont know if its a Jupoyter Notebook if u not running [ipykernel](https://pypi.org/project/ipykernel/) and making fancy charts [wiki](https://en.wikipedia.org/wiki/Vorbis) @soundcloud your fork is old [thisfresh](https://github.com/ThakaRashard/vorbis_)
