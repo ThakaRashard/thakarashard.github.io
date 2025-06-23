@@ -3,7 +3,9 @@ layout: default
 ---
 {% include nav.html %}
 
-
+## Sol 4578: Mars Hand Lens Imager (MAHLI)
+[MoreInfo](https://mars.nasa.gov/raw_images/1479961/?site=msl)
+![image](https://github.com/user-attachments/assets/0ab47441-6d76-438b-8d16-4c9f030a8f99)
 
 
 [@chirlavideos on youtube](https://www.youtube.com/channel/UCkpuw8C5tb4RL8IwI-liMsA)
@@ -35,8 +37,6 @@ layout: default
 
 </div>
 
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/833119711&color=%23667e6c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/josh-calhoun-330633673" title="josh calhoun" target="_blank" style="color: #cccccc; text-decoration: none;">josh calhoun</a> · <a href="https://soundcloud.com/josh-calhoun-330633673/eric-b-rakim-paid-in-full-1987-my-free-mp3scom" title="Eric B. &amp; Rakim - Paid In Full (1987) full album" target="_blank" style="color: #cccccc; text-decoration: none;">Eric B. &amp; Rakim - Paid In Full (1987) full album</a></div>
 
 
 ### My painting carries with it the message of pain. - [Frida Kahlo](https://www.fridakahlo.org/)
