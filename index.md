@@ -5,7 +5,7 @@ layout: default
 
 
 
-![image](https://www.chirla.org/wp-content/uploads/2020/07/chirla-logo-ko.png)
+
 [@chirlavideos on youtube](https://www.youtube.com/channel/UCkpuw8C5tb4RL8IwI-liMsA)
 [Live from the Adelanto ICE Processing Center 🚨 Six legal representatives, community members, and immigrant rights leaders f](https://www.facebook.com/chirlausa/videos/-live-from-the-adelanto-ice-processing-center-six-legal-representatives-communit/2022658185205727) [LIVE NOW: Hope in Action, Strength in Unity ✊🏽✨ Join LA labor and immigrant rights groups as they launch the Summer of Resistance — 30 days](https://www.facebook.com/chirlausa/videos/live-now-hope-in-action-strength-in-unity-join-la-labor-and-immigrant-rights-gro/752074910503154)
 [DomesticWorkers @blackgirlscod](https://youtu.be/i2UGcbtQphU?si=KNI6rA-bsdfMBt_x)
