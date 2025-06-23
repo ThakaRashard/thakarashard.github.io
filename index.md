@@ -4,6 +4,10 @@ layout: default
 {% include nav.html %}
 
 
+# Ace Driver: Victory Lap (Rev. ADV2, World)
+<iframe src="https://archive.org/embed/arcade_victlapw" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[No sound when embedding archive.org game - STACKOVERFLOW](https://stackoverflow.com/questions/72756413/no-sound-when-embedding-archive-org-game)
 [Dancing Stage Euro Mix (G*936 VER. EAA)](https://archive.org/details/arcade_dsem)
   [Sonic CD (USA)](https://www.retrogames.cc/segacd-games/sonic-cd.html) [Tekken Tag Tournament (World TEG2-VER.C1 set 1)](https://archive.org/details/arcade_tektagt)
 # No_Kings_Protest_Papers_n_Posters
