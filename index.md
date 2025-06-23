@@ -70,13 +70,8 @@ mirror  : [ROUJIN Z - Full Movie HD English Subs (1991) 老人Z](https://www.you
 My painting carries with it the message of pain. - [Frida Kahlo](https://www.fridakahlo.org/)
 [Museo Frida Kahlo](https://www.museofridakahlo.org.mx/?lang=en) [Faces of Frida - artsandculture.google.com](https://artsandculture.google.com/project/frida-kahlo) [Frida Kahlo - frida-kahlo-foundation.org](https://frida-kahlo-foundation.org/)
 
-<picture>
-  <source
-    source="https://github.com/user-attachments/assets/3791bc2d-39d7-4543-9943-1aee6d0796e8"
-    />
-<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/freidaimpleScanStation20250622161418-1.png" alt="item image #43"/>
-</picture>
 
+<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/freidaimpleScanStation20250622161418-1.png" alt="item image #43"/>
 
 
 
@@ -123,12 +118,8 @@ The <picture> HTML element contains zero or more <source> elements and one <img>
 
 
 
-
-
-
-
-
 </div>
+
 <img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/SimpleScanStation20250615161309_0.png" alt="item image #37"/>
 
  
