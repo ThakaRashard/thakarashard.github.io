@@ -22,37 +22,21 @@ The `<picture>` HTML element contains zero or more `<source>` elements and one `
 
 
 
-<picture>
-  <source
-    source="https://github.com/user-attachments/assets/0a03e07a-c7fa-41d7-94e6-3b3ed0e3d4b6"
-    />
+
+
 <img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/workprotesticerescanSimpleScanStation20250623103342-05.png" alt="item image #54 ICE OUT OF LA"/>
-</picture>
 
 
-<picture>
-  <source
-    source="https://github.com/user-attachments/assets/a9b4397e-00f5-4ae0-85e2-46b4ec45d1b7"
-    />
+
 <img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/workprotesticerescanSimpleScanStation20250623103342-04.png" alt="item image #53 icecubes ice out of la" />
-</picture>
 
 
-<picture>
-  <source
-    source="https://github.com/user-attachments/assets/12bf2657-58ff-401c-a9e0-64721aab5890"
-    />
+
 <img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/workprotesticerescanSimpleScanStation20250623103342-03.png" alt="item image #52 Military out of our Streets" />
-</picture>
 
 
-<picture>
-  <source
-    source="https://github.com/user-attachments/assets/2b1513e7-cd10-46da-a8c3-4d92e2eeecd0"
-    />
+
 <img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/workprotesticerescanSimpleScanStation20250623103342-02.png" alt="item image #51" />
-</picture>
-
 
 
 </div>
