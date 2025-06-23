@@ -2,20 +2,19 @@
 layout: default
 ---
 
-{% nav.html %}
+# {% nav.html %}
   
 
 
 
   
 
-
-
+[adult_EntertainmentZoning_LOS_ANGELES.pdf](https://archive.org/download/image_20250428_2325/1_adult_EntertainmentZoning_LOS_ANGELES.pdf) [FucK_ICE_RiOTs](https://ia601809.us.archive.org/19/items/image_20250428_2325/1_fuck_ICE_riots_dtla_SimpleScanStation20250611102307.pdf)  [MARIJUANA_LEGALIZATION_Prop64.pdf](https://archive.org/download/image_20250428_2325/MARIJUANA_LEGALIZATION_Prop64.pdf) [diddy](https://archive.org/download/image_20250428_2325/diddy_usa_today.pdf) [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) [![Twitter Follow](https://img.shields.io/badge/Social-@nasajpl__-blue?style=social&logo=X)](https://twitter.com/@nasajpl) [![Twitter Follow](https://img.shields.io/badge/Social-@LAPDCentral__-blue?style=social&logo=X)](https://twitter.com/@LAPDCentral) [![Twitter Follow](https://img.shields.io/badge/Social-@YungMiami305__-blue?style=social&logo=X)](https://twitter.com/@YungMiami305)   [frieda](https://ia801809.us.archive.org/19/items/image_20250428_2325/freidaimpleScanStation20250622161418.pdf) [RiotGraffNotes](https://ia801809.us.archive.org/19/items/image_20250428_2325/lariotgrafffworknotesandimpersonationnotes.pdf) @whitehouse [![Twitter Follow](https://img.shields.io/badge/Social-@secdef__-blue?style=social&logo=X)](https://twitter.com/@secdef) [LA_PROTEST_25](https://ia601809.us.archive.org/19/items/image_20250428_2325/workprotesticerescanSimpleScanStation20250623103342.pdf) 
 
 
 
  
-# Compiling~
+
 [Roujin Z (1991)](https://archive.org/details/roujin-z-1991_202401/Roujin+Z+(1991)+(Dual+Audio+-+sxales).mkv)
 
 
@@ -26,6 +25,23 @@ mirror  : [ROUJIN Z - Full Movie HD English Subs (1991) 老人Z](https://www.you
 ![image](https://github.com/user-attachments/assets/b8824336-79c1-4f59-930f-b2b90bfd78af) [imdb](https://www.imdb.com/title/tt0102812/) @blackgirlscode [subtitles](https://www.subtitlecat.com/subs/4/Roujin.Z.1991.720p.BluRay.H264.AAC-RARBGEng.html)
 
 @nasa-jpl I found some more protest posters @cityoflosangeles, i am going to try and drop the bundle off at the police dept headquaters... The scene of the incident... (@) [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) [![Twitter Follow](https://img.shields.io/badge/Social-@nasajpl__-blue?style=social&logo=X)](https://twitter.com/@nasajpl) [![Twitter Follow](https://img.shields.io/badge/Social-@LAPDCentral__-blue?style=social&logo=X)](https://twitter.com/@LAPDCentral) ...@stateofcalifornia -rashard @nasa [EarthData](https://visibleearth.nasa.gov/) [Mars](https://science.nasa.gov/planetary-science/programs/mars-exploration/)
+
+
+# LIVE: ABC7 Eyewitness News
+[![Twitter Follow](https://img.shields.io/badge/Social-@ABC7__-blue?style=social&logo=X)](https://twitter.com/@ABC7)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s3iVFJoxrYc?si=cOpXOvk_ab2c2JgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[![1749850159579-6f32ba29-b379-45a1-9b36-13ca436701ef_1](https://github.com/user-attachments/assets/1b008682-7151-41ee-9f31-9af6ffc5cb32)](https://www.ice.gov/history)
+### Los Angeles Protest LIVE: ‘No Kings’ Protests Planned Across L.A. Amid ICE Raid | US Marines | N18G
+<object width="560" height="315" data="https://www.youtube.com/embed/Xk1Mma3ukiU?si=Mrr9tAetSkmn31bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></object>
+@nasa @nasa-jpl @stateofcalifornia : @blackgirlscode  @cityoflosangeles [RiotCoverage @cityoflosangeles](https://ricothakarashard.github.io/GraffShit) [JANET_PETRO trello card from rashard](https://trello.com/c/ebEEhaFo/26-janet-petroacting-nasa-administrator) [@trello for @cityoflosangeles MAyorKarenBass @nasa-jpl](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass) @whitehouse @deptofdefense
+<object width="640" height="360" data="https://abc7.com/video/embed/?pid=11064936" allowfullscreen frameborder="0"></object>
+[RashardsBinder](https://rashardmro.github.io/mybinder/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oo3xuSfCBbY?si=IRYpJ4RYjQLPjTaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[WATCH LIVE: Large police presence in response to 'No Kings' protest in DeKalb County](https://youtu.be/n96hPSTWujE?t=207) [WATCH: Mayor Bass and Los Angeles leaders speak out against ICE raids that sparked protests](https://www.youtube.com/watch?v=v0IH7T8qzLg)
+
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="240"><a href="https://www.reddit.com/r/Georgia/comments/1lbgkyn/no_kings_day_rallies_in_protest_of_trump_taking/">'No Kings' Day rallies in protest of Trump taking place across metro Atlanta</a><br> by<a href="https://www.reddit.com/user/Dizzy-Decision-2115/">u/Dizzy-Decision-2115</a> in<a href="https://www.reddit.com/r/Georgia/">Georgia</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 
 <blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="546"><a href="https://www.reddit.com/r/fullforeignmovies/comments/tjo6os/roujin_z_1991_japanese_english_subtitles/">Roujin Z (1991) [Japanese] [English Subtitles]</a><br> by<a href="https://www.reddit.com/user/smilysmilysmooch/">u/smilysmilysmooch</a> in<a href="https://www.reddit.com/r/fullforeignmovies/">fullforeignmovies</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 
@@ -168,17 +184,6 @@ Researchers at NASA's Jet Propulsion Laboratory in Southern California used data
 
 ![image](https://github.com/user-attachments/assets/f2782d91-a76d-4239-9bc9-d46e2097a71f)
 
-
-### Los Angeles Protest LIVE: ‘No Kings’ Protests Planned Across L.A. Amid ICE Raid | US Marines | N18G
-<object width="560" height="315" data="https://www.youtube.com/embed/Xk1Mma3ukiU?si=Mrr9tAetSkmn31bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></object>
-@nasa @nasa-jpl @stateofcalifornia : @blackgirlscode  @cityoflosangeles [RiotCoverage @cityoflosangeles](https://ricothakarashard.github.io/GraffShit) [JANET_PETRO trello card from rashard](https://trello.com/c/ebEEhaFo/26-janet-petroacting-nasa-administrator) [@trello for @cityoflosangeles MAyorKarenBass @nasa-jpl](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass) @whitehouse @deptofdefense
-<object width="640" height="360" data="https://abc7.com/video/embed/?pid=11064936" allowfullscreen frameborder="0"></object>
-[RashardsBinder](https://rashardmro.github.io/mybinder/)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Oo3xuSfCBbY?si=IRYpJ4RYjQLPjTaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[WATCH LIVE: Large police presence in response to 'No Kings' protest in DeKalb County](https://youtu.be/n96hPSTWujE?t=207) [WATCH: Mayor Bass and Los Angeles leaders speak out against ICE raids that sparked protests](https://www.youtube.com/watch?v=v0IH7T8qzLg)
-
-<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="240"><a href="https://www.reddit.com/r/Georgia/comments/1lbgkyn/no_kings_day_rallies_in_protest_of_trump_taking/">'No Kings' Day rallies in protest of Trump taking place across metro Atlanta</a><br> by<a href="https://www.reddit.com/user/Dizzy-Decision-2115/">u/Dizzy-Decision-2115</a> in<a href="https://www.reddit.com/r/Georgia/">Georgia</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 
 # LIVE: ABC7 Eyewitness News
 [![Twitter Follow](https://img.shields.io/badge/Social-@ABC7__-blue?style=social&logo=X)](https://twitter.com/@ABC7)
