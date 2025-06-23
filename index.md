@@ -3,6 +3,10 @@ layout: default
 ---
 {% include nav.html %}
 
+@nasa-jpl  given my experiances and the [abestos](https://www.facebook.com/PPSLeakdetectionltd/videos/asbestos-asbestos-redneck-instagood-instafunny-instafun-instadaily-instagram-tik/1942348392588727/) im going to see what it means to work at [NASAJPL]() in 2025... I think [LibraryoFcOngress](https://newsroom.loc.gov/nasa-poet-laureate-library-collaboration/a/2ee560b4-5175-4f1f-85da-56fb4000ac6a) is us, no we are us, but still a library, how do i get access... This is a thriller @blackgirlscode  [![Twitter Follow](https://img.shields.io/badge/Social-@Essence__-blue?style=social&logo=X)](https://twitter.com/@Essence) [Pasadena Public Library](https://www.cityofpasadena.net/library/)
+![image](https://github.com/user-attachments/assets/c52dd03f-cbbb-4346-8ade-d32b5a8fc3f6)
+![image](https://github.com/user-attachments/assets/27fec404-9835-4da5-b2e8-e5c5fd533059)
+
 
 [Roujin Z (1991)](https://archive.org/details/roujin-z-1991_202401/Roujin+Z+(1991)+(Dual+Audio+-+sxales).mkv)
 
@@ -46,6 +50,7 @@ mirror  : [ROUJIN Z - Full Movie HD English Subs (1991) 老人Z](https://www.you
     srcset="https://github.com/user-attachments/assets/6a1b4d35-a082-4439-9103-c524aa71a6a6"
     />
 <img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/workprotesticerescanSimpleScanStation20250623103342-01.png" alt="item image #50"/>
+  
 </picture>
 
 
