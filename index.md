@@ -5,7 +5,7 @@ layout: default
 
 
 
-  
+  [Sonic CD (USA)](https://www.retrogames.cc/segacd-games/sonic-cd.html)
 # No_Kings_Protest_Papers_n_Posters
 feat. [`<picture>`: The Picture element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/picture)
 The `<picture>` HTML element contains zero or more `<source>` elements and one `<img>` element to offer alternative versions of an image for different display/device scenarios. @nasa-jpl @cityoflosangeles
