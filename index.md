@@ -141,6 +141,19 @@ layout: default
 
  
 # Compiling~
+[Roujin Z (1991)](https://archive.org/details/roujin-z-1991_202401/Roujin+Z+(1991)+(Dual+Audio+-+sxales).mkv)
+
+
+
+<iframe src="https://archive.org/embed/roujin-z-1991_202401" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+mirror  : [ROUJIN Z - Full Movie HD English Subs (1991) 老人Z](https://www.youtube.com/watch?v=X5i0JU_NsZU) [Roujin Z (English Dubbed) VHS](https://www.youtube.com/watch?v=itg4zKaUMgY) [Wiki](https://en.wikipedia.org/wiki/Roujin_Z) 
+![image](https://github.com/user-attachments/assets/b8824336-79c1-4f59-930f-b2b90bfd78af) [imdb](https://www.imdb.com/title/tt0102812/) @blackgirlscode [subtitles](https://www.subtitlecat.com/subs/4/Roujin.Z.1991.720p.BluRay.H264.AAC-RARBGEng.html)
+
+@nasa-jpl I found some more protest posters @cityoflosangeles, i am going to try and drop the bundle off at the police dept headquaters... The scene of the incident... (@) [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) [![Twitter Follow](https://img.shields.io/badge/Social-@nasajpl__-blue?style=social&logo=X)](https://twitter.com/@nasajpl) [![Twitter Follow](https://img.shields.io/badge/Social-@LAPDCentral__-blue?style=social&logo=X)](https://twitter.com/@LAPDCentral) ...@stateofcalifornia -rashard @nasa [EarthData](https://visibleearth.nasa.gov/) [Mars](https://science.nasa.gov/planetary-science/programs/mars-exploration/)
+
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="546"><a href="https://www.reddit.com/r/fullforeignmovies/comments/tjo6os/roujin_z_1991_japanese_english_subtitles/">Roujin Z (1991) [Japanese] [English Subtitles]</a><br> by<a href="https://www.reddit.com/user/smilysmilysmooch/">u/smilysmilysmooch</a> in<a href="https://www.reddit.com/r/fullforeignmovies/">fullforeignmovies</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
 <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Sewer_Shark_Coverart.jpg" alt="Sewer Shark - Wikipedia"/>
 
 [SEGA CDSewer Shark](https://www.retrogames.cc/segacd-games/sewer-shark.html)
@@ -204,7 +217,8 @@ by Goodie Mob
 [1980 SPECIAL REPORT: "BALTIMORE STRIP CLUBS"](https://youtu.be/44GsZHAiQsE?t=21) [Rhyme & Reason [Original Soundtrack] 1997](https://youtu.be/VKXLGeWeGTA?t=184) [2Pac Links on ../mybinder](https://moonlover404.github.io/mybinder/) [ATLANTA CHILD MURDERS: "THE CANDYMAN"(1980)](https://youtu.be/XzVyYb48g8E)
 [Hezakya Newz & Films](https://www.youtube.com/@HezakyaNewz) 
 @stateofcalifornia @cityoflosangeles 
-[![Twitter Follow](https://img.shields.io/badge/Social-@BlackGirlsCode__-blue?style=social&logo=X)](https://twitter.com/@BlackGirlsCode) [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) [![Twitter Follow](https://img.shields.io/badge/Social-@nasajpl__-blue?style=social&logo=X)](https://twitter.com/@nasajpl)
+[![Twitter Follow](https://img.shields.io/badge/Social-@BlackGirlsCode__-blue?style=social&logo=X)](https://twitter.com/@BlackGirlsCode) 
+
 # Daytona USA [(Revision A)](https://www.retrogames.cc/arcade-games/daytona-usa-revision-a.html)
 
 on [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/iframe) i may have to add a [poster](https://developer.mozilla.org/en-US/docs/Web/API/HTMLVideoElement/poster) attribute manually like with the [`<video>`](https://en.wikipedia.org/wiki/HTML_video) tag
