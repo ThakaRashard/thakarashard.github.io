@@ -19,6 +19,22 @@ layout: default
 
 <img src="https://github.com/user-attachments/assets/08321ff7-8bac-41db-b40a-033aa34e0200" alt="item image #50"/>
 
+<div class="tupperware" markdown="1">
+
+![image](https://github.com/user-attachments/assets/ff7e48a2-c52a-492f-9578-0e174dad9fda)
+
+![image](https://github.com/user-attachments/assets/fd23c74a-31eb-447f-acf7-f50a58a1264a)
+
+![image](https://github.com/user-attachments/assets/25b7ad12-cca1-4425-8cf3-43cc971ff4ae)
+
+![image](https://github.com/user-attachments/assets/38a50b92-5022-46aa-9d3a-c866466995aa)
+
+![image](https://github.com/user-attachments/assets/46d432fc-c6b3-4436-bd60-55db8662fce9)
+
+
+</div>
+
+
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/833119711&color=%23667e6c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/josh-calhoun-330633673" title="josh calhoun" target="_blank" style="color: #cccccc; text-decoration: none;">josh calhoun</a> · <a href="https://soundcloud.com/josh-calhoun-330633673/eric-b-rakim-paid-in-full-1987-my-free-mp3scom" title="Eric B. &amp; Rakim - Paid In Full (1987) full album" target="_blank" style="color: #cccccc; text-decoration: none;">Eric B. &amp; Rakim - Paid In Full (1987) full album</a></div>
 
 
