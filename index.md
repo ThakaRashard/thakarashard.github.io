@@ -3,79 +3,17 @@ layout: default
 ---
 {% include nav.html %}
 
-@nasa-jpl  given my experiances and the [abestos](https://www.facebook.com/PPSLeakdetectionltd/videos/asbestos-asbestos-redneck-instagood-instafunny-instafun-instadaily-instagram-tik/1942348392588727/) im going to see what it means to work at [NASAJPL]() in 2025... I think [LibraryoFcOngress](https://newsroom.loc.gov/nasa-poet-laureate-library-collaboration/a/2ee560b4-5175-4f1f-85da-56fb4000ac6a) is us, no we are us, but still a library, how do i get access... This is a thriller @blackgirlscode  [![Twitter Follow](https://img.shields.io/badge/Social-@Essence__-blue?style=social&logo=X)](https://twitter.com/@Essence) [Pasadena Public Library](https://www.cityofpasadena.net/library/)
-![image](https://github.com/user-attachments/assets/c52dd03f-cbbb-4346-8ade-d32b5a8fc3f6)
-![image](https://github.com/user-attachments/assets/27fec404-9835-4da5-b2e8-e5c5fd533059)
-
-
-[Roujin Z (1991)](https://archive.org/details/roujin-z-1991_202401/Roujin+Z+(1991)+(Dual+Audio+-+sxales).mkv)
-
-
-
-<iframe src="https://archive.org/embed/roujin-z-1991_202401" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-mirror  : [ROUJIN Z - Full Movie HD English Subs (1991) 老人Z](https://www.youtube.com/watch?v=X5i0JU_NsZU) [Roujin Z (English Dubbed) VHS](https://www.youtube.com/watch?v=itg4zKaUMgY) [Wiki](https://en.wikipedia.org/wiki/Roujin_Z) 
-![image](https://github.com/user-attachments/assets/b8824336-79c1-4f59-930f-b2b90bfd78af) [imdb](https://www.imdb.com/title/tt0102812/) @blackgirlscode [subtitles](https://www.subtitlecat.com/subs/4/Roujin.Z.1991.720p.BluRay.H264.AAC-RARBGEng.html)
-
-<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/workprotesticerescanSimpleScanStation20250623103342-16.png" alt="item image #65"/> 
-<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/workprotesticerescanSimpleScanStation20250623103342-18.png" alt="item image #67"/> 
-
-@nasa-jpl I found some more protest posters @cityoflosangeles, i am going to try and drop the bundle off at the police dept headquaters... The scene of the incident... (@) [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) [![Twitter Follow](https://img.shields.io/badge/Social-@nasajpl__-blue?style=social&logo=X)](https://twitter.com/@nasajpl) [![Twitter Follow](https://img.shields.io/badge/Social-@LAPDCentral__-blue?style=social&logo=X)](https://twitter.com/@LAPDCentral) ...@stateofcalifornia -rashard @nasa [EarthData](https://visibleearth.nasa.gov/) [Mars](https://science.nasa.gov/planetary-science/programs/mars-exploration/)
-
-[![1749850159579-6f32ba29-b379-45a1-9b36-13ca436701ef_1](https://github.com/user-attachments/assets/1b008682-7151-41ee-9f31-9af6ffc5cb32)](https://www.ice.gov/history)
-
-
-## Sol 4578: Mars Hand Lens Imager (MAHLI)
-[MoreInfo](https://mars.nasa.gov/raw_images/1479961/?site=msl)
-![image](https://github.com/user-attachments/assets/0ab47441-6d76-438b-8d16-4c9f030a8f99)
-
-
-<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/ammosamples.png" alt="item image #38"/>
-
-[Archive.ORG](https://archive.org/details/No_Kings_Protest_Papers_n_Posters/1_6_20summerofresistanceSimpleScanStation20250620100012-31.png) @nasa @stateofcalifornia 
-<iframe src="https://archive.org/embed/No_Kings_Protest_Papers_n_Posters" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-[White slave traffic act, approved June 25, 1910](https://www.loc.gov/item/10036085/)
-[adult_EntertainmentZoning_LOS_ANGELES.pdf](https://archive.org/download/image_20250428_2325/1_adult_EntertainmentZoning_LOS_ANGELES.pdf) [![Twitter Follow](https://img.shields.io/badge/Social-@gavinnewsom__-blue?style=social&logo=X)](https://twitter.com/@gavinnewsom) [FucK_ICE_RiOTs](https://ia601809.us.archive.org/19/items/image_20250428_2325/1_fuck_ICE_riots_dtla_SimpleScanStation20250611102307.pdf)  [MARIJUANA_LEGALIZATION_Prop64.pdf](https://slper.senate.ca.gov/sites/slper.senate.ca.gov/files/Background%20Supplemental%20-%20Prop%2064%20Text.pdf) [PROPOSITION 64 – ADULT USE OF MARIJUANA ACT AND CALIFORNIA POST SELECTION STANDARDS ](https://post.ca.gov/Portals/0/post_docs/resources/proposition-64/Proposition-64-and-POST-Selection-Standards.pdf) [diddy](https://archive.org/download/image_20250428_2325/diddy_usa_today.pdf) [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) [![Twitter Follow](https://img.shields.io/badge/Social-@nasajpl__-blue?style=social&logo=X)](https://twitter.com/@nasajpl) [![Twitter Follow](https://img.shields.io/badge/Social-@LAPDCentral__-blue?style=social&logo=X)](https://twitter.com/@LAPDCentral) [![Twitter Follow](https://img.shields.io/badge/Social-@YungMiami305__-blue?style=social&logo=X)](https://twitter.com/@YungMiami305) [![Twitter Follow](https://img.shields.io/badge/Social-@blackgirlscode__-blue?style=social&logo=X)](https://twitter.com/@blackgirlscode) [![Twitter Follow](https://img.shields.io/badge/Social-@6gems__-blue?style=social&logo=X)](https://twitter.com/@6gems)   [frieda](https://ia801809.us.archive.org/19/items/image_20250428_2325/freidaimpleScanStation20250622161418.pdf) [RiotGraffNotes](https://ia801809.us.archive.org/19/items/image_20250428_2325/lariotgrafffworknotesandimpersonationnotes.pdf) @whitehouse [![Twitter Follow](https://img.shields.io/badge/Social-@secdef__-blue?style=social&logo=X)](https://twitter.com/@secdef) [LA_PROTEST_25](https://ia601809.us.archive.org/19/items/image_20250428_2325/workprotesticerescanSimpleScanStation20250623103342.pdf) 
-
-
-
-[@chirlavideos on youtube](https://www.youtube.com/channel/UCkpuw8C5tb4RL8IwI-liMsA)
-[Live from the Adelanto ICE Processing Center 🚨 Six legal representatives, community members, and immigrant rights leaders f](https://www.facebook.com/chirlausa/videos/-live-from-the-adelanto-ice-processing-center-six-legal-representatives-communit/2022658185205727) [LIVE NOW: Hope in Action, Strength in Unity ✊🏽✨ Join LA labor and immigrant rights groups as they launch the Summer of Resistance — 30 days](https://www.facebook.com/chirlausa/videos/live-now-hope-in-action-strength-in-unity-join-la-labor-and-immigrant-rights-gro/752074910503154)
-[DomesticWorkers @blackgirlscod](https://youtu.be/i2UGcbtQphU?si=KNI6rA-bsdfMBt_x)
-[Immigrant rights groups launch 'Summer of Resistance,' calling for end to ICE raids, deportations](https://abc7.com/post/los-angeles-immigrant-rights-groups-launch-summer-resistance-campaign-denouncing-ice-raids-deportations/16744793/)
-
-<picture>
-  <source
-    srcset="https://github.com/user-attachments/assets/6a1b4d35-a082-4439-9103-c524aa71a6a6"
-    />
-<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/workprotesticerescanSimpleScanStation20250623103342-01.png" alt="item image #50"/>
-  
-</picture>
-
-
-
-<div class="tupperware" markdown="1">
-
-![image](https://github.com/user-attachments/assets/ff7e48a2-c52a-492f-9578-0e174dad9fda)
-
-![image](https://github.com/user-attachments/assets/fd23c74a-31eb-447f-acf7-f50a58a1264a)
-
-![image](https://github.com/user-attachments/assets/25b7ad12-cca1-4425-8cf3-43cc971ff4ae)
-
-![image](https://github.com/user-attachments/assets/38a50b92-5022-46aa-9d3a-c866466995aa)
-
-![image](https://github.com/user-attachments/assets/46d432fc-c6b3-4436-bd60-55db8662fce9)
-
-
-</div>
-
 
 
   
 # No_Kings_Protest_Papers_n_Posters
 feat. [`<picture>`: The Picture element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/picture)
-The <picture> HTML element contains zero or more <source> elements and one <img> element to offer alternative versions of an image for different display/device scenarios. @nasa-jpl @cityoflosangeles
+The `<picture>` HTML element contains zero or more `<source>` elements and one `<img>` element to offer alternative versions of an image for different display/device scenarios. @nasa-jpl @cityoflosangeles
+
+<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/ammosamples.png" alt="item image #38"/>
+
+[Archive.ORG](https://archive.org/details/No_Kings_Protest_Papers_n_Posters/1_6_20summerofresistanceSimpleScanStation20250620100012-31.png) @nasa @stateofcalifornia 
+<iframe src="https://archive.org/embed/No_Kings_Protest_Papers_n_Posters" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <div class="tupperware">
 
@@ -117,6 +55,72 @@ The <picture> HTML element contains zero or more <source> elements and one <img>
 </div>
 
 <img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/SimpleScanStation20250615161309_0.png" alt="item image #37"/>
+
+
+@nasa-jpl  given my experiances and the [abestos](https://www.facebook.com/PPSLeakdetectionltd/videos/asbestos-asbestos-redneck-instagood-instafunny-instafun-instadaily-instagram-tik/1942348392588727/) im going to see what it means to work at [NASAJPL]() in 2025... I think [LibraryoFcOngress](https://newsroom.loc.gov/nasa-poet-laureate-library-collaboration/a/2ee560b4-5175-4f1f-85da-56fb4000ac6a) is us, no we are us, but still a library, how do i get access... This is a thriller @blackgirlscode  [![Twitter Follow](https://img.shields.io/badge/Social-@Essence__-blue?style=social&logo=X)](https://twitter.com/@Essence) [Pasadena Public Library](https://www.cityofpasadena.net/library/)
+![image](https://github.com/user-attachments/assets/c52dd03f-cbbb-4346-8ade-d32b5a8fc3f6)
+![image](https://github.com/user-attachments/assets/27fec404-9835-4da5-b2e8-e5c5fd533059)
+
+
+[Roujin Z (1991)](https://archive.org/details/roujin-z-1991_202401/Roujin+Z+(1991)+(Dual+Audio+-+sxales).mkv)
+
+
+
+<iframe src="https://archive.org/embed/roujin-z-1991_202401" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+mirror  : [ROUJIN Z - Full Movie HD English Subs (1991) 老人Z](https://www.youtube.com/watch?v=X5i0JU_NsZU) [Roujin Z (English Dubbed) VHS](https://www.youtube.com/watch?v=itg4zKaUMgY) [Wiki](https://en.wikipedia.org/wiki/Roujin_Z) 
+![image](https://github.com/user-attachments/assets/b8824336-79c1-4f59-930f-b2b90bfd78af) [imdb](https://www.imdb.com/title/tt0102812/) @blackgirlscode [subtitles](https://www.subtitlecat.com/subs/4/Roujin.Z.1991.720p.BluRay.H264.AAC-RARBGEng.html)
+
+<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/workprotesticerescanSimpleScanStation20250623103342-16.png" alt="item image #65"/> 
+<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/workprotesticerescanSimpleScanStation20250623103342-18.png" alt="item image #67"/> 
+
+@nasa-jpl I found some more protest posters @cityoflosangeles, i am going to try and drop the bundle off at the police dept headquaters... The scene of the incident... (@) [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) [![Twitter Follow](https://img.shields.io/badge/Social-@nasajpl__-blue?style=social&logo=X)](https://twitter.com/@nasajpl) [![Twitter Follow](https://img.shields.io/badge/Social-@LAPDCentral__-blue?style=social&logo=X)](https://twitter.com/@LAPDCentral) ...@stateofcalifornia -rashard @nasa [EarthData](https://visibleearth.nasa.gov/) [Mars](https://science.nasa.gov/planetary-science/programs/mars-exploration/)
+
+[![1749850159579-6f32ba29-b379-45a1-9b36-13ca436701ef_1](https://github.com/user-attachments/assets/1b008682-7151-41ee-9f31-9af6ffc5cb32)](https://www.ice.gov/history)
+
+
+## Sol 4578: Mars Hand Lens Imager (MAHLI)
+[MoreInfo](https://mars.nasa.gov/raw_images/1479961/?site=msl)
+![image](https://github.com/user-attachments/assets/0ab47441-6d76-438b-8d16-4c9f030a8f99)
+
+
+
+[White slave traffic act, approved June 25, 1910](https://www.loc.gov/item/10036085/)
+[adult_EntertainmentZoning_LOS_ANGELES.pdf](https://archive.org/download/image_20250428_2325/1_adult_EntertainmentZoning_LOS_ANGELES.pdf) [![Twitter Follow](https://img.shields.io/badge/Social-@gavinnewsom__-blue?style=social&logo=X)](https://twitter.com/@gavinnewsom) [FucK_ICE_RiOTs](https://ia601809.us.archive.org/19/items/image_20250428_2325/1_fuck_ICE_riots_dtla_SimpleScanStation20250611102307.pdf)  [MARIJUANA_LEGALIZATION_Prop64.pdf](https://slper.senate.ca.gov/sites/slper.senate.ca.gov/files/Background%20Supplemental%20-%20Prop%2064%20Text.pdf) [PROPOSITION 64 – ADULT USE OF MARIJUANA ACT AND CALIFORNIA POST SELECTION STANDARDS ](https://post.ca.gov/Portals/0/post_docs/resources/proposition-64/Proposition-64-and-POST-Selection-Standards.pdf) [diddy](https://archive.org/download/image_20250428_2325/diddy_usa_today.pdf) [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) [![Twitter Follow](https://img.shields.io/badge/Social-@nasajpl__-blue?style=social&logo=X)](https://twitter.com/@nasajpl) [![Twitter Follow](https://img.shields.io/badge/Social-@LAPDCentral__-blue?style=social&logo=X)](https://twitter.com/@LAPDCentral) [![Twitter Follow](https://img.shields.io/badge/Social-@YungMiami305__-blue?style=social&logo=X)](https://twitter.com/@YungMiami305) [![Twitter Follow](https://img.shields.io/badge/Social-@blackgirlscode__-blue?style=social&logo=X)](https://twitter.com/@blackgirlscode) [![Twitter Follow](https://img.shields.io/badge/Social-@6gems__-blue?style=social&logo=X)](https://twitter.com/@6gems)   [frieda](https://ia801809.us.archive.org/19/items/image_20250428_2325/freidaimpleScanStation20250622161418.pdf) [RiotGraffNotes](https://ia801809.us.archive.org/19/items/image_20250428_2325/lariotgrafffworknotesandimpersonationnotes.pdf) @whitehouse [![Twitter Follow](https://img.shields.io/badge/Social-@secdef__-blue?style=social&logo=X)](https://twitter.com/@secdef) [LA_PROTEST_25](https://ia601809.us.archive.org/19/items/image_20250428_2325/workprotesticerescanSimpleScanStation20250623103342.pdf) 
+
+
+
+[@chirlavideos on youtube](https://www.youtube.com/channel/UCkpuw8C5tb4RL8IwI-liMsA)
+[Live from the Adelanto ICE Processing Center 🚨 Six legal representatives, community members, and immigrant rights leaders f](https://www.facebook.com/chirlausa/videos/-live-from-the-adelanto-ice-processing-center-six-legal-representatives-communit/2022658185205727) [LIVE NOW: Hope in Action, Strength in Unity ✊🏽✨ Join LA labor and immigrant rights groups as they launch the Summer of Resistance — 30 days](https://www.facebook.com/chirlausa/videos/live-now-hope-in-action-strength-in-unity-join-la-labor-and-immigrant-rights-gro/752074910503154)
+[DomesticWorkers @blackgirlscod](https://youtu.be/i2UGcbtQphU?si=KNI6rA-bsdfMBt_x)
+[Immigrant rights groups launch 'Summer of Resistance,' calling for end to ICE raids, deportations](https://abc7.com/post/los-angeles-immigrant-rights-groups-launch-summer-resistance-campaign-denouncing-ice-raids-deportations/16744793/)
+
+<picture>
+  <source
+    srcset="https://github.com/user-attachments/assets/6a1b4d35-a082-4439-9103-c524aa71a6a6"
+    />
+<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/workprotesticerescanSimpleScanStation20250623103342-01.png" alt="item image #50"/>
+  
+</picture>
+
+
+
+<div class="tupperware" markdown="1">
+
+![image](https://github.com/user-attachments/assets/ff7e48a2-c52a-492f-9578-0e174dad9fda)
+
+![image](https://github.com/user-attachments/assets/fd23c74a-31eb-447f-acf7-f50a58a1264a)
+
+![image](https://github.com/user-attachments/assets/25b7ad12-cca1-4425-8cf3-43cc971ff4ae)
+
+![image](https://github.com/user-attachments/assets/38a50b92-5022-46aa-9d3a-c866466995aa)
+
+![image](https://github.com/user-attachments/assets/46d432fc-c6b3-4436-bd60-55db8662fce9)
+
+
+</div>
+
+
 
  
 
