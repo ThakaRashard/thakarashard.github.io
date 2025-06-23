@@ -72,15 +72,6 @@ mirror  : [ROUJIN Z - Full Movie HD English Subs (1991) 老人Z](https://www.you
 
 
 
-My painting carries with it the message of pain. - [Frida Kahlo](https://www.fridakahlo.org/)
-[Museo Frida Kahlo](https://www.museofridakahlo.org.mx/?lang=en) [Faces of Frida - artsandculture.google.com](https://artsandculture.google.com/project/frida-kahlo) [Frida Kahlo - frida-kahlo-foundation.org](https://frida-kahlo-foundation.org/)
-
-
-<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/freidaimpleScanStation20250622161418-1.png" alt="item image #43"/>
-
-
-
-
   
 # No_Kings_Protest_Papers_n_Posters
 feat. [`<picture>`: The Picture element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/picture)
