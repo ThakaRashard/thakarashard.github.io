@@ -15,6 +15,9 @@ The `<picture>` HTML element contains zero or more `<source>` elements and one `
 [Archive.ORG](https://archive.org/details/No_Kings_Protest_Papers_n_Posters/1_6_20summerofresistanceSimpleScanStation20250620100012-31.png) @nasa @stateofcalifornia 
 <iframe src="https://archive.org/embed/No_Kings_Protest_Papers_n_Posters" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+![image](https://github.com/user-attachments/assets/2aa61bc9-61f7-4195-b20a-1d4eee58ce9c)
+
+
 <div class="tupperware">
 
 
@@ -31,7 +34,7 @@ The `<picture>` HTML element contains zero or more `<source>` elements and one `
   <source
     source="https://github.com/user-attachments/assets/a9b4397e-00f5-4ae0-85e2-46b4ec45d1b7"
     />
-<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/workprotesticerescanSimpleScanStation20250623103342-04.png" alt="item image #53 icecubes ice out of la"/>
+<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/workprotesticerescanSimpleScanStation20250623103342-04.png" alt="item image #53 icecubes ice out of la" />
 </picture>
 
 
@@ -39,7 +42,7 @@ The `<picture>` HTML element contains zero or more `<source>` elements and one `
   <source
     source="https://github.com/user-attachments/assets/12bf2657-58ff-401c-a9e0-64721aab5890"
     />
-<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/workprotesticerescanSimpleScanStation20250623103342-03.png" alt="item image #52 Military out of our Streets"/>
+<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/workprotesticerescanSimpleScanStation20250623103342-03.png" alt="item image #52 Military out of our Streets" />
 </picture>
 
 
@@ -47,7 +50,7 @@ The `<picture>` HTML element contains zero or more `<source>` elements and one `
   <source
     source="https://github.com/user-attachments/assets/2b1513e7-cd10-46da-a8c3-4d92e2eeecd0"
     />
-<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/workprotesticerescanSimpleScanStation20250623103342-02.png" alt="item image #51"/>
+<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/workprotesticerescanSimpleScanStation20250623103342-02.png" alt="item image #51" />
 </picture>
 
 
