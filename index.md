@@ -4,9 +4,9 @@ layout: default
 {% include nav.html %}
 
 # Dear Tamron Hall [![Twitter Follow](https://img.shields.io/badge/Social-@TamronHallShow__-blue?style=social&logo=X)](https://twitter.com/TamronHallShow)
-
+id like you to try out my page [newsstand](https://thakarashard.github.io/rashardmro/2025/06/13/newsstand.html) [`alt`](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-06-13-newsstand.md) it has a great recent post about [EmbeddableContent](https://www.w3.org/TR/2014/REC-html5-20141028/embedded-content-0.html) - [Rashard Iman Kelly @nasa-jpl](https://rashardmro.github.io/2025/02/11/AboutRashard.html)
 ![tamronhallshow](https://github.com/user-attachments/assets/c9e61e82-acd0-4de1-a48f-f218d203c235)
-id like you to try out my page [newsstand](https://thakarashard.github.io/rashardmro/2025/06/13/newsstand.html) [`alt`](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-06-13-newsstand.md) it has a great recent post about [EmbeddableContent](https://www.w3.org/TR/2014/REC-html5-20141028/embedded-content-0.html)
+
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Here’s the big reveal… <a href="https://twitter.com/tamronhall?ref_src=twsrc%5Etfw">@tamronhall</a> is dressed as <a href="https://twitter.com/iamcardib?ref_src=twsrc%5Etfw">@iamcardib</a>!!! 🧡✨🎃 <a href="https://t.co/HhWxWJDdSw">pic.twitter.com/HhWxWJDdSw</a></p>&mdash; Tamron Hall Show (@TamronHallShow) <a href="https://twitter.com/TamronHallShow/status/1454089314124566534?ref_src=twsrc%5Etfw">October 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
