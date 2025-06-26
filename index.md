@@ -8,9 +8,13 @@ layout: default
 # Comix Zone
 <iframe src="https://archive.org/embed/sg_Comix_Zone_1995_Sega_US" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-# ソニック・ザ・ヘッジホッグ [archive](https://archive.org/details/sg_Sonic_the_Hedgehog_Rev_1_1991_Sega_JP-KR_en) [Allsonicgames](https://www.allsonicgames.net/)
+# ソニック・ザ・ヘッジホッグ [archive](https://archive.org/details/sg_Sonic_the_Hedgehog_Rev_1_1991_Sega_JP-KR_en) [Allsonicgames](https://www.allsonicgames.net/) [Retrogames](Sonic The Hedgehog USA, Europe) 
+
 ![image](https://github.com/user-attachments/assets/86a71485-4cbb-492e-ae4e-753801f1b145)
+
 <iframe src="https://archive.org/embed/sg_Sonic_the_Hedgehog_Rev_1_1991_Sega_JP-KR_en" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[1991 Sonic the Hedgehog 'The hot new game from Genesis games' commercial](https://youtu.be/8DNyH45M7PI)
 
 [No sound when embedding archive.org game - STACKOVERFLOW](https://stackoverflow.com/questions/72756413/no-sound-when-embedding-archive-org-game)
 [Dancing Stage Euro Mix (G*936 VER. EAA)](https://archive.org/details/arcade_dsem)
