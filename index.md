@@ -3,6 +3,9 @@ layout: default
 ---
 {% include nav.html %}
 
+
+![tamronhallshow](https://github.com/user-attachments/assets/c9e61e82-acd0-4de1-a48f-f218d203c235)
+
 [Another bill again-Tony Rebel](https://youtu.be/U9ZLAgyn2-Q?list=RDU9ZLAgyn2-Q) @blackgirlscode [Single Parent - Buju Banton](https://youtu.be/Ogf7D1QscWk?si=MyURQiqsYuX20XAo)
 
 # Comix Zone
