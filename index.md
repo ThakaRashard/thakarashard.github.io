@@ -9,8 +9,20 @@ The Department of State is responsible for the export and temporary import of de
 
 ![image](https://github.com/user-attachments/assets/e774714a-09b5-4425-8aca-35a93410401f)
 
+## Barista
+🎯 Hawthorne, CA
+SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling [human life](https://www.spacex.com/humanspaceflight/mars/) on [Mars](https://eyes.nasa.gov/apps/mrn/).
 
-Los Angeles 155.190.3.7
+BARISTA
+
+The barista role is a team-oriented role for individuals who are familiar with [basic](https://www.facebook.com/watch/?v=1179919305818596) customer service principles and have [a firm understanding](https://en.wikipedia.org/wiki/History_of_coffee) of all basic food and beverage safety principles. A barista should have the ability to [identify](https://coffeehunter.com/our-origins/ethiopia/) and utilize food service equipment including but not limited to, [manual espress](https://www.youtube.com/watch?v=1mu7Tfl9YxU) machines, drip coffee brewers, coffee bean grinders, frozen yogurt machines, and serving utensils.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YOpLGLAL1zg?si=8Cb2wAvKZw2H1HwN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5r0JjR2C5v4?si=UtzhNdF8VFTwmzXr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Los Angeles](https://rashardgds.github.io/ricothaka/la) 155.190.3.7
 active
 Your current session
 Seen in US
