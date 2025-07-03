@@ -3,6 +3,29 @@ layout: default
 ---
 {% include nav.html %}
 
+### The International Traffic in Arms Regulations (ITAR)
+The Department of State is responsible for the export and temporary import of defense articles and services governed by 22 U.S.C. 2778 of the Arms Export Control Act (AECA) and Executive Order 13637. That section of the AECA is implemented by the International Traffic in Arms Regulations (ITAR," 22 CFR parts 120-130). The ITAR is available from the Government Printing Office (GPO) as an annual hardcopy or e-document publication as part of the Code of Federal Regulations (CFR) and as an updated e-document. [Definition @deptofdefense @nasa @whitehouse](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-M/part-120) [FederalRegister](https://www.federalregister.gov/) 
+>I discovered this dept ment from a [@r-spacex -Hawthorne Barista](https://job-boards.greenhouse.io/spacex/jobs/7994111002?gh_jid=7994111002) application... They are not moving forward 
+
+![image](https://github.com/user-attachments/assets/e774714a-09b5-4425-8aca-35a93410401f)
+
+
+Los Angeles 155.190.3.7
+active
+Your current session
+Seen in US
+Long Beach 205.154.246.88
+active
+Last accessed on Jul 03, 2025
+Seen in US
+Long Beach 205.154.246.88
+active
+Last accessed on Jul 03, 2025
+Seen in US
+
+![image](https://github.com/user-attachments/assets/7c6f96c2-5361-4505-9268-848f6943d0ec)
+
+
 Los Angeles 155.190.3.7
 active
 Your current session
