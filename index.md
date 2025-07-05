@@ -3,6 +3,10 @@ layout: default
 ---
 {% include nav.html %}
 
+[CALiFORNiA_LiNUX:My Git Hub Journey](https://archive.org/details/my-git-hub-journey-to-the-web-interface-rashard-iman-kelly-nasa-m-r-o-i-s-s-ecostress-swot) To The Web Interface RASHARD IMAN KELLY NASA M R O I S S ECOSTRESS SWOT
+<iframe src="https://archive.org/embed/my-git-hub-journey-to-the-web-interface-rashard-iman-kelly-nasa-m-r-o-i-s-s-ecostress-swot" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/mayor-1_losangeles_gov" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> @stateofcalifornia @nasa @whitehouse @nasa-jpl @cityoflosangeles 
+
 ### The International Traffic in Arms Regulations (ITAR)
 The Department of State is responsible for the export and temporary import of defense articles and services governed by 22 U.S.C. 2778 of the Arms Export Control Act (AECA) and Executive Order 13637. That section of the AECA is implemented by the International Traffic in Arms Regulations (ITAR," 22 CFR parts 120-130). The ITAR is available from the Government Printing Office (GPO) as an annual hardcopy or e-document publication as part of the Code of Federal Regulations (CFR) and as an updated e-document. [Definition @deptofdefense @nasa @whitehouse](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-M/part-120) [FederalRegister](https://www.federalregister.gov/) 
 >I discovered this dept ment from a [@r-spacex -Hawthorne Barista](https://job-boards.greenhouse.io/spacex/jobs/7994111002?gh_jid=7994111002) application... They are not moving forward 
