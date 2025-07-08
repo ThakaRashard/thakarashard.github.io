@@ -3,6 +3,13 @@ layout: default
 ---
 {% include nav.html %}
 
+[KOLA 99.9](https://www.kolafm.com/) 
+is a commercial FM radio station licensed to [Redlands](https://www.cityofredlands.org/), [California](https://www.google.com/search?sca_esv=b7953b605ea5985e&rlz=1CASLJZ_enUS1170&sxsrf=AE3TifM6z9PzBccRJMcZEA4e1mixTnhMyg:1752004504978&q=redland+california&tbm=nws&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZMLQ4RPdPjLPmOakFCN7X8EE7njRrb2FMGWExx-5ARS2dDjUqH8P7GJI3gXZTNa1ewV-CLv5ZT6fd_dbJFn0Njuz_e0Wu8_7yRkIN2Hnn3CAfH2L-S7a8qDrs-1gsjyM8Z0amfVSgtxyeHYqukoLI3D0Zmnhhn-5vvvmaIzjmG6rQIfOyt7B-TolXJ2CsS93wxGt2JQ&sa=X&sqi=2&ved=2ahUKEwjC6Kexha6OAxWmJ0QIHetYFj0Q0pQJKAN6BAgiEAE&biw=960&bih=945&dpr=1), and airs a classic hits radio format.
+- [listenlive.co/42241](https://player.listenlive.co/42241)
+[https://archive.org/details/screen-recording-2025-07-07-123028](https://archive.org/details/screen-recording-2025-07-07-123028)
+[Video @nasa](https://ia600906.us.archive.org/35/items/screen-recording-2025-07-07-123028/screen-20250708-045854.mp4)
+![image](https://github.com/user-attachments/assets/4e167691-fcdc-495b-b740-4a2aa68402c1)
+
 # Fat Joe - Don Cartagena (Feat. Puff Daddy)
 [link](https://youtu.be/KsUCWtxvBis?list=RDKsUCWtxvBis)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KsUCWtxvBis?si=AWtqd-vZK2UIYWbB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
