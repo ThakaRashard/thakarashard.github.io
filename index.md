@@ -3,6 +3,12 @@ layout: default
 ---
 {% include nav.html %}
 
+
+![ABOUT MARQUEECE HARRIS-DAWSON https://cd8.lacity.gov/about/marqueece-harris-dawson](https://cd8.lacity.gov/sites/g/files/wph2111/files/new_logo4.png)
+![image](https://github.com/user-attachments/assets/0ca10286-0881-4f6e-a48e-eeec79ac6964)
+
+<object data="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FLACity%2Fposts%2Fpfbid02ALHrHQxKGBsYTvZY8CCtt1onfXuCfDZSScGXa697UbQfD5HTzx9PDtnCUPKHgxmil&show_text=true&width=500" width="500" height="456" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></object>
+
 [CALiFORNiA_LiNUX:My Git Hub Journey](https://archive.org/details/my-git-hub-journey-to-the-web-interface-rashard-iman-kelly-nasa-m-r-o-i-s-s-ecostress-swot) To The Web Interface RASHARD IMAN KELLY NASA M R O I S S ECOSTRESS SWOT
 <iframe src="https://archive.org/embed/my-git-hub-journey-to-the-web-interface-rashard-iman-kelly-nasa-m-r-o-i-s-s-ecostress-swot" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <iframe src="https://archive.org/embed/mayor-1_losangeles_gov" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> @stateofcalifornia @nasa @whitehouse @nasa-jpl @cityoflosangeles 
