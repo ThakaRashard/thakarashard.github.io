@@ -10,6 +10,20 @@ is a commercial FM radio station licensed to [Redlands](https://www.cityofredlan
 [Video @nasa](https://ia600906.us.archive.org/35/items/screen-recording-2025-07-07-123028/screen-20250708-045854.mp4)
 ![image](https://github.com/user-attachments/assets/4e167691-fcdc-495b-b740-4a2aa68402c1)
 
+
+# Likeable ? 
+[`Eric Garcetti's voice`](https://en.wikipedia.org/wiki/File:Opening_Statement_of_former_Los_Angeles_Mayor_Eric_M._Garcetti_at_his_Confirmation_Hearing_to_be_Ambassador_to_India.ogg)
+Garcetti's opening statement at his confirmation hearing to be United States ambassador to India
+Recorded December 14, 2021
+<audio controls>
+  <source src="https://en.wikipedia.org/wiki/File:Opening_Statement_of_former_Los_Angeles_Mayor_Eric_M._Garcetti_at_his_Confirmation_Hearing_to_be_Ambassador_to_India.ogg" type="audio/ogg">
+  
+  Your browser does not support the audio tag.
+</audio>
+
+![image](https://github.com/user-attachments/assets/90fd2340-8be9-4b71-ab91-f862703fd105)
+
+
 @cityoflosangeles im at [FrancisGoldwyn](https://maps.app.goo.gl/k5bwaf96Sk5NkAjEA) but @github thinks im in [TheBayArea](https://earth.google.com/web/@37.42564993,-122.13534436,7.24363611a,14781.28147402d,35y,360h,0t,0r/data=CgRCAggBMikKJwolCiExVFdRaElyTFd1dUg5UzNuX3dwOWFIWGxZOFllOHRzV28gAToDCgEwQgIIAEoICM2g6_wFEAE) @stateofcalifornia [Karen Bass](https://en.wikipedia.org/wiki/Eric_Garcetti) .. .@stanford can you guys look ? [RashardKelly](https://rashardiman.github.io/Rashard-GDS)
 ```
  IP: 155.190.2.33
