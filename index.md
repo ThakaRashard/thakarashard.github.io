@@ -3,6 +3,13 @@ layout: default
 ---
 {% include nav.html %}
 
+
+# #RedHAt RCSA Practice 
+@redhatofficial @nasa @nasa-jpl @podaac @cityoflosangeles @stateofcalifornia 
+<iframe src="https://archive.org/embed/screen-recording-2025-07-08-7.01.20-pm" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
+
+![image](https://github.com/user-attachments/assets/71fc200c-ff1d-4c73-9d18-7e026217aefb)
+
 ###  [LACiTY.gov or org](https://lacity.org/)
 ![image](https://github.com/user-attachments/assets/c20d44eb-27df-4039-97e9-2876ed98beb5)
 [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/repkarenbass)  [![Twitter Follow](https://img.shields.io/badge/Social-@blackgirlscode__-blue?style=social&logo=X)](https://twitter.com/blackgirlscode) [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/NASAJPL) [![Twitter Follow](https://img.shields.io/badge/Social-@iamcardib__-blue?style=social&logo=X)](https://twitter.com/iamcardib)
