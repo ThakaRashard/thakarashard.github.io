@@ -3,6 +3,10 @@ layout: default
 ---
 {% include nav.html %}
 
+
+![image](https://github.com/user-attachments/assets/b12d5ac3-882b-4f59-8d9f-7fe7cf1e8677)
+@nasa @nasa-jpl @stateofcalifornia : @blackgirlscode  @cityoflosangeles [RiotCoverage @cityoflosangeles](https://ricothakarashard.github.io/GraffShit) [JANET_PETRO trello card from rashard](https://trello.com/c/ebEEhaFo/26-janet-petroacting-nasa-administrator) [@trello for @cityoflosangeles MAyorKarenBass @nasa-jpl](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass) @whitehouse @deptofdefense
+
 ![image](https://github.com/user-attachments/assets/e9756d0e-e3cf-4166-8720-592414d2d4a2)
 
 [https://medium.com/@brysongracias/how-to-send-email-from-terminal-in-rhel9-40a900ad506a](https://medium.com/@brysongracias/how-to-send-email-from-terminal-in-rhel9-40a900ad506a)
