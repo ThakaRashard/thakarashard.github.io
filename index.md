@@ -3,6 +3,43 @@ layout: default
 ---
 {% include nav.html %}
 
+# Current 
+[@stateofcalifornia](https://firms.modaps.eosdis.nasa.gov/map/#t:tsd;d:24hrs,24hrs;l:fires_all,countries,landsat_human,noaa21_crtc,earth;@-118.8,36.0,7.4z) @nasa-jpl
+
+https://landweb.modaps.eosdis.nasa.gov/
+![image](https://github.com/user-attachments/assets/6cd17919-fcc7-4ea9-aa40-f67309f4215a)
+
+# California Linux: DeepSpaceNet,uptime, LEarning About Northrop
+[Documenting system uptime in Linux](https://www.redhat.com/en/blog/system-uptime-linux) @nasa-jpl @redhatofficial @cityoflosangeles @ajc [CourseWork](https://www.jpl.nasa.gov/go/parts-engineering-school/programs/curriculum/)
+<iframe src="https://archive.org/embed/screen-recording-2025-07-09-122807" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[LDOPE](https://landweb.modaps.eosdis.nasa.gov/)
+[NASA
+Work Breakdown
+Structure (WBS)
+Handbook](https://www.nasa.gov/wp-content/uploads/2023/08/nasa-work-breakdown-structure-handbook.pdf)
+
+[Viirs @noaa](https://landweb.modaps.eosdis.nasa.gov/browse?sensor=VIIRS) : [DataAlert](https://www.earthdata.nasa.gov/data/alerts-outages?page=%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C1)
+`SNPP Fairbanks Network Outage` 
+![AS5200 OPS VNP02MOD-D A2025185_icon](https://github.com/user-attachments/assets/87c2bd92-4a46-4f3f-8858-8f4e5678dfa6)
+
+# What is Load Average in Linux?
+- [DigitalOcean](https://www.digitalocean.com/community/tutorials/load-average-in-linux) @digitalocean issa wordcloud, so i hope i find some goodies so i can comprehend how to make my [frameratessmoother](https://www.reddit.com/r/RetroArch/comments/ql83sr/how_can_i_tell_if_i_am_getting_full_speed/) [What Is Linux Average Load?](https://phoenixnap.com/kb/linux-average-load)
+- 
+  ![image](https://github.com/user-attachments/assets/fb534ba1-865c-4665-b154-3b6f20d6f26a)
+
+@nasa-jpl @podaac
+last night's flyover
+<iframe src="https://archive.org/embed/screen-20250708-213751" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+https://novalauncher.com/
+D[ownload the latest Beta APK](https://teslacoilapps.com/tesladirect/download.pl?packageName=com.teslacoilsw.launcher&betaType=public)
+
+Download the Stable APK
+## AnduinOS – a Linux distro for Windows users, developed by a Microsoft engineer
+[Link -https://www.thurrott.com/forums](https://www.thurrott.com/forums/general-discussion/linux/thread/anduinos-a-linux-distro-for-windows-users-developed-by-a-microsoft-engineer) [DistroWatch](https://distrowatch.com/table.php?distribution=anduin)
 
 [Android OS Documentation](https://source.android.com/docs)
 # About the International Space Station
