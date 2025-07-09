@@ -3,6 +3,7 @@ layout: default
 ---
 {% include nav.html %}
 
+![image](https://github.com/user-attachments/assets/e9756d0e-e3cf-4166-8720-592414d2d4a2)
 
 [https://medium.com/@brysongracias/how-to-send-email-from-terminal-in-rhel9-40a900ad506a](https://medium.com/@brysongracias/how-to-send-email-from-terminal-in-rhel9-40a900ad506a)
 
