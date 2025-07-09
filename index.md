@@ -2,7 +2,18 @@
 layout: default
 ---
 {% include nav.html %}
+
+
+[https://medium.com/@brysongracias/how-to-send-email-from-terminal-in-rhel9-40a900ad506a](https://medium.com/@brysongracias/how-to-send-email-from-terminal-in-rhel9-40a900ad506a)
+
  <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/787985818989051905" data-did="4d83895ad8ac33ca6d3176f453516257a496356e"><a href="https://rashardmro.tumblr.com/post/787985818989051905/southern-california-wildfires-jan-2025-nasa">https://rashardmro.tumblr.com/post/787985818989051905/southern-california-wildfires-jan-2025-nasa</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+ 
+[DAVE Gallager](https://trello.com/c/k8bMJNy4/118-dave-gallagher-named-11th-director-of-jpl) 
+[1980 SPECIAL REPORT: "BALTIMORE STRIP CLUBS"](https://youtu.be/44GsZHAiQsE?t=21) [Rhyme & Reason [Original Soundtrack] 1997](https://youtu.be/VKXLGeWeGTA?t=184) [2Pac Links on ../mybinder](https://moonlover404.github.io/mybinder/) [ATLANTA CHILD MURDERS: "THE CANDYMAN"(1980)](https://youtu.be/XzVyYb48g8E)
+[Hezakya Newz & Films](https://www.youtube.com/@HezakyaNewz) 
+@stateofcalifornia @cityoflosangeles 
+[![Twitter Follow](https://img.shields.io/badge/Social-@BlackGirlsCode__-blue?style=social&logo=X)](https://twitter.com/@BlackGirlsCode) 
+
 [KOLA 99.9](https://www.kolafm.com/) 
 is a commercial FM radio station licensed to [Redlands](https://www.cityofredlands.org/), [California](https://www.google.com/search?sca_esv=b7953b605ea5985e&rlz=1CASLJZ_enUS1170&sxsrf=AE3TifM6z9PzBccRJMcZEA4e1mixTnhMyg:1752004504978&q=redland+california&tbm=nws&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZMLQ4RPdPjLPmOakFCN7X8EE7njRrb2FMGWExx-5ARS2dDjUqH8P7GJI3gXZTNa1ewV-CLv5ZT6fd_dbJFn0Njuz_e0Wu8_7yRkIN2Hnn3CAfH2L-S7a8qDrs-1gsjyM8Z0amfVSgtxyeHYqukoLI3D0Zmnhhn-5vvvmaIzjmG6rQIfOyt7B-TolXJ2CsS93wxGt2JQ&sa=X&sqi=2&ved=2ahUKEwjC6Kexha6OAxWmJ0QIHetYFj0Q0pQJKAN6BAgiEAE&biw=960&bih=945&dpr=1), and airs a classic hits radio format.
 - [listenlive.co/42241](https://player.listenlive.co/42241)
