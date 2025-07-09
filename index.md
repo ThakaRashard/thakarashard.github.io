@@ -3,6 +3,43 @@ layout: default
 ---
 {% include nav.html %}
 
+
+# Compiling
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/787625417714630656" data-did="bcc936f1436f59c84aab2eee8833291294306588"><a href="https://rashardmro.tumblr.com/post/787625417714630656">https://rashardmro.tumblr.com/post/787625417714630656</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+  <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/783645610108764160" data-did="f32e6c3ee19da9c765e998d7560dadacdf797d76"><a href="https://rashardmro.tumblr.com/post/783645610108764160/sedacsocioeconomic-data-and-applications">https://rashardmro.tumblr.com/post/783645610108764160/sedacsocioeconomic-data-and-applications</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+# Global Human Built-up And Settlement Extent (HBASE) [Dataset](https://www.earthdata.nasa.gov/data/catalog/esdis-ciesin-sedac-ulandsat-hbase-v1-1.0) From Landsat
+[SEDAC](https://sedac.ciesin.columbia.edu/maps/gallery/search#) 
+
+
+[Current @ajc @datadesk @nasa @nasa-jpl](https://firms.modaps.eosdis.nasa.gov/map/#t:tsd;d:24hrs,24hrs;l:fires_all,countries,landsat_human,aqua_crc,earth;@-82.5,30.7,7.4z) 
+
+![image](https://github.com/user-attachments/assets/74ffc323-c036-4121-869c-f5fc9d58533e)
+
+![image](https://github.com/user-attachments/assets/47b532f3-e762-4210-b7fd-e779c2453fb4)
+
+# [flyover](https://isstracker.pl/en) @nasa-jpl [![Twitter Follow](https://img.shields.io/badge/Social-@ISS_Research__-blue?style=social&logo=X)](https://twitter.com/ISS_Research)
+
+<iframe src="https://archive.org/embed/screen-20250708-213751" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[flyover](https://isstracker.pl/en) @nasa-jpl [![Twitter Follow](https://img.shields.io/badge/Social-@ISS_Research__-blue?style=social&logo=X)](https://twitter.com/ISS_Research)
+
+
+<div class="tupperware">
+<video preload="auto" width="auto" height="500px" controls> 
+<source src="https://ia600906.us.archive.org/35/items/screen-recording-2025-07-07-123028/screen-20250708-045854.mp4" type="video/mp4">         
+</video> 
+
+<video preload="auto" width="auto" height="400px" controls> 
+<source src="https://ia600906.us.archive.org/35/items/screen-recording-2025-07-07-123028/screen-20250708-042800.mp4" type="video/mp4">         
+      
+</video> 
+</div>
+
+[Subscribe to Patch Mailing Lists @redhatofficial](https://docs.redhat.com/en/documentation/red_hat_jboss_data_virtualization/6.2/html/security_guide/subscribe_to_patch_mailing_lists)
+
+
 # Current 
 [@stateofcalifornia](https://firms.modaps.eosdis.nasa.gov/map/#t:tsd;d:24hrs,24hrs;l:fires_all,countries,landsat_human,noaa21_crtc,earth;@-118.8,36.0,7.4z) @nasa-jpl
 
