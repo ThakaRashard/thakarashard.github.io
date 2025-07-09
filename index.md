@@ -2,7 +2,7 @@
 layout: default
 ---
 {% include nav.html %}
-
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/787985818989051905" data-did="4d83895ad8ac33ca6d3176f453516257a496356e"><a href="https://rashardmro.tumblr.com/post/787985818989051905/southern-california-wildfires-jan-2025-nasa">https://rashardmro.tumblr.com/post/787985818989051905/southern-california-wildfires-jan-2025-nasa</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
 [KOLA 99.9](https://www.kolafm.com/) 
 is a commercial FM radio station licensed to [Redlands](https://www.cityofredlands.org/), [California](https://www.google.com/search?sca_esv=b7953b605ea5985e&rlz=1CASLJZ_enUS1170&sxsrf=AE3TifM6z9PzBccRJMcZEA4e1mixTnhMyg:1752004504978&q=redland+california&tbm=nws&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZMLQ4RPdPjLPmOakFCN7X8EE7njRrb2FMGWExx-5ARS2dDjUqH8P7GJI3gXZTNa1ewV-CLv5ZT6fd_dbJFn0Njuz_e0Wu8_7yRkIN2Hnn3CAfH2L-S7a8qDrs-1gsjyM8Z0amfVSgtxyeHYqukoLI3D0Zmnhhn-5vvvmaIzjmG6rQIfOyt7B-TolXJ2CsS93wxGt2JQ&sa=X&sqi=2&ved=2ahUKEwjC6Kexha6OAxWmJ0QIHetYFj0Q0pQJKAN6BAgiEAE&biw=960&bih=945&dpr=1), and airs a classic hits radio format.
 - [listenlive.co/42241](https://player.listenlive.co/42241)
