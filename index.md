@@ -8,6 +8,7 @@ layout: default
 @redhatofficial @nasa @nasa-jpl @podaac @cityoflosangeles @stateofcalifornia 
 <iframe src="https://archive.org/embed/screen-recording-2025-07-08-7.01.20-pm" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
 
+[https://phoenixnap.com/kb/linux-mail-command](https://phoenixnap.com/kb/linux-mail-command)
 ![image](https://github.com/user-attachments/assets/71fc200c-ff1d-4c73-9d18-7e026217aefb)
 
 ###  [LACiTY.gov or org](https://lacity.org/)
