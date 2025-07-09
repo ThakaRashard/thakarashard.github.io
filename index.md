@@ -6,7 +6,8 @@ layout: default
 # Current 
 [@stateofcalifornia](https://firms.modaps.eosdis.nasa.gov/map/#t:tsd;d:24hrs,24hrs;l:fires_all,countries,landsat_human,noaa21_crtc,earth;@-118.8,36.0,7.4z) @nasa-jpl
 
-https://landweb.modaps.eosdis.nasa.gov/
+[π](https://landweb.modaps.eosdis.nasa.gov/)
+
 ![image](https://github.com/user-attachments/assets/6cd17919-fcc7-4ea9-aa40-f67309f4215a)
 
 # California Linux: DeepSpaceNet,uptime, LEarning About Northrop
@@ -30,6 +31,7 @@ Handbook](https://www.nasa.gov/wp-content/uploads/2023/08/nasa-work-breakdown-st
 
 @nasa-jpl @podaac
 last night's flyover
+
 <iframe src="https://archive.org/embed/screen-20250708-213751" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
