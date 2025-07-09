@@ -3,7 +3,9 @@ layout: default
 ---
 {% include nav.html %}
 
-
+###  [LACiTY.gov or org]
+![image](https://github.com/user-attachments/assets/c20d44eb-27df-4039-97e9-2876ed98beb5)
+[![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/repkarenbass)  [![Twitter Follow](https://img.shields.io/badge/Social-@blackgirlscode__-blue?style=social&logo=X)](https://twitter.com/blackgirlscode) [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/NASAJPL) [![Twitter Follow](https://img.shields.io/badge/Social-@iamcardib__-blue?style=social&logo=X)](https://twitter.com/iamcardib)
 ![image](https://github.com/user-attachments/assets/b12d5ac3-882b-4f59-8d9f-7fe7cf1e8677)
 @nasa @nasa-jpl @stateofcalifornia : @blackgirlscode  @cityoflosangeles [RiotCoverage @cityoflosangeles](https://ricothakarashard.github.io/GraffShit) [JANET_PETRO trello card from rashard](https://trello.com/c/ebEEhaFo/26-janet-petroacting-nasa-administrator) [@trello for @cityoflosangeles MAyorKarenBass @nasa-jpl](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass) @whitehouse @deptofdefense
 
