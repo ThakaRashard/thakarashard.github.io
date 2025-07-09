@@ -4,6 +4,19 @@ layout: default
 {% include nav.html %}
 
 
+[Android OS Documentation](https://source.android.com/docs)
+# About the International Space Station
+The station was designed between 1984 and 1993. Elements of the station were in construction throughout the US, Canada, Japan, and Europe beginning in the late 1980s. [ReadMore](https://www.nasa.gov/international-space-station/)
+
+
+<img src="https://raw.githubusercontent.com/rashardiman/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62900-62978u.jpg" alt="image" />      
+<img src="https://raw.githubusercontent.com/rashardgds/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62900-62981u.jpg" alt="image" />
+<img src="https://raw.githubusercontent.com/rashard-ecostress-jpl-iss/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-63400-63497u.jpg" alt="image" />
+<img src="https://raw.githubusercontent.com/rashardiman/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-63500-63504u.jpg" alt="image" />
+<img src="https://raw.githubusercontent.com/kellyrashardiman/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62600-62669u.jpg" alt="image" />
+
+![SpaceWalk](https://www.nasa.gov/wp-content/uploads/2022/12/51476067951-e10dfb6875-o-1.jpg)
+
 # #RedHAt RCSA Practice 
 @redhatofficial @nasa @nasa-jpl @podaac @cityoflosangeles @stateofcalifornia 
 <iframe src="https://archive.org/embed/screen-recording-2025-07-08-7.01.20-pm" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
