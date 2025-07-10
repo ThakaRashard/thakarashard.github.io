@@ -3,6 +3,12 @@ layout: default
 ---
 {% include nav.html %}
 
+<embed src="https://bubblegumpop01.tumblr.com/" style="width:100%; height: 300px;">
+
+[htau](https://rashardci.github.io/holetoanotheruniverse/) [RicoThaka:Rashard](https://rashardci.github.io/holetoanotheruniverse/) has been my handle since [covidlockdown @nasa-jpl](https://gov.georgia.gov/press-releases/2020-03-16/kemp-declares-public-health-state-emergency) 
+ppl went crazy idolizing people [diy projects](https://youtu.be/gbzhR5z1T1g?si=rrnEU0fjpwETn2zq) 
+![image](https://github.com/user-attachments/assets/81d251d5-637c-452a-a184-67685a1113b7)
+![image](https://github.com/user-attachments/assets/f54ac1d9-a032-4e2c-a7a0-d0fd857c125a)
 
 # Compiling
  <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/787625417714630656" data-did="bcc936f1436f59c84aab2eee8833291294306588"><a href="https://rashardmro.tumblr.com/post/787625417714630656">https://rashardmro.tumblr.com/post/787625417714630656</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
