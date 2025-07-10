@@ -468,7 +468,7 @@ Two 2001 images from the Mars Orbiter Camera on NASA's Mars Global Surveyor orbi
 <video controls preload="none" width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
 
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" />    
-<source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
+<source src="https://github.com/rashardiman/rashardiman.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
       
         Download the
         or
@@ -617,7 +617,7 @@ In de jaren veertig verklaarden de Verenigde Staten insecten de oorlog. Helemaal
 <video controls preload="none" width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
 
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" />    
-<source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
+<source src="https://github.com/rashardiman/rashardiman.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
       
         Download the
         or
@@ -647,9 +647,11 @@ ARTICLE 19 works for a world where all people everywhere can freely express them
 ```
 
 if we get them to #Mayor_Karen with the california constitution who knows whats possible to free us from the censorship torture!</p>
+
 <h1>Mars Lithograph</h1>
 <img src="https://science.nasa.gov/wp-content/uploads/2024/03/22078_Mars_20130814-web.jpg?w=2048&format=webp" />
 <a href="https://science.nasa.gov/wp-content/uploads/2024/03/42141_Mars_20130814.pdf?emrc=665e50cc1c76c">Mars Lithograph</a>
+
 <h1>Rover Components</h1>
 <p>The Mars 2020 rover, Perseverance, is based on the Mars Science Laboratory's Curiosity rover configuration, with an added science and technology toolbox. An important difference is that Perseverance can sample and cache minerals.</p>
 
@@ -676,10 +678,10 @@ NASA/JPL-Caltech</p>
 </div>
  <video controls preload="none" width="100%" height="auto" poster="https://i.discogs.com/SJqj4bzMUsGALvmzeVDf3WL0lDXS2pWWICXywvmEgFc/rs:fit/g:sm/q:90/h:500/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTEy/My0xMTU5MTI3NTEx/LmpwZWc.jpeg">
     
-<source src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/Audio/QueenLatifah_WrathofMyMadnessSoulshockRemix.mp4" type="video/mp4" />
+<source src="https://raw.githubusercontent.com/rashardiman/rashardiman.github.io/master/assets/Audio/QueenLatifah_WrathofMyMadnessSoulshockRemix.mp4" type="video/mp4" />
          Download the
         or
-<a href="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4">MP4</a>
+<a href="https://github.com/rashardiman/rashardiman.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4">MP4</a>
         video.
 </video>    
 
@@ -691,7 +693,7 @@ NASA/JPL-Caltech</p>
 <video controls preload="none" width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
 
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" />    
-<source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
+<source src="https://github.com/rashardiman/rashardiman.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
       
         Download the
         or
@@ -724,10 +726,10 @@ NASA/JPL-Caltech</p>
 ###### sub-sub-sub-sub-subheading
 
 ![Pages Error](https://pbs.twimg.com/media/GQ3Q770bwAI-S6b?format=jpg&name=large)
- <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/BoardingPass_MyNameOnFutureMission.png" />
+ <img src="https://raw.githubusercontent.com/rashardiman/rashardiman.github.io/master/assets/images/BoardingPass_MyNameOnFutureMission.png" />
      Future i got in trouble with them male dancers an im really distracted about the scope... can i use this instumental someday for a #NasaMars presentation im working on?  ? ? (Thugga)
  <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/633670590&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/alilmilk" title="alilmilk" target="_blank" style="color: #cccccc; text-decoration: none;">alilmilk</a> · <a href="https://soundcloud.com/alilmilk/future-red-carpet-feat-young-thug-prod-by-wheezy" title="Future - Red Carpet (feat. Young Thug) [Prod. By Wheezy]" target="_blank" style="color: #cccccc; text-decoration: none;">Future - Red Carpet (feat. Young Thug) [Prod. By Wheezy]</a></div>
-<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/BoardingPass_MyNameOnFutureMission%20(1).png" />
+<img src="https://raw.githubusercontent.com/rashardiman/rashardiman.github.io/master/assets/images/BoardingPass_MyNameOnFutureMission%20(1).png" />
          <img src="https://mars.nasa.gov/system/internal_resources/details/original/1004_PIA24489-1-ncamFLWheel-800px.gif" />
 
     Hi hun, i dont want u to feel like rentpath wherever we make it to the lab. Help me accept you for all you are - #Shaadi  
@@ -773,7 +775,7 @@ NASA/JPL-Caltech</p>
 
 
 
-<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/normaniswatch.PNG" alt="Normani">
+<img src="https://raw.githubusercontent.com/rashardiman/rashardiman.github.io/master/assets/images/normaniswatch.PNG" alt="Normani">
 <div class="normani">
     <div></div>
     <div></div>
@@ -870,7 +872,7 @@ Longitude-118.259588 °
 Worldview lets users browse more than 1,000 satellite imagery layers, create visualizations, and download the underlying datasets. [ Marshall Space Flight Center Earth Science Office](https://weather.ndc.nasa.gov/)
 
 ![Tabletop Mountain](https://pbs.twimg.com/media/GRwbIWPasAEVFpa?format=jpg&name=large)
-[Table Top Mountain NaSAJPL LOCATion](https://tmf.jpl.nasa.gov/tmf-lidar/about_us/personnel.htm) [Local LA](https://www.recreation.gov/camping/campgrounds/233735) [Table Mountain Campground](https://www.fs.usda.gov/recarea/angeles/recarea/?recid=41684) [Table Moutain Facility](https://tmf.jpl.nasa.gov/) [Table Mountain Observatory](https://en.wikipedia.org/wiki/Table_Mountain_Observatory) [Griffith Zoo to Observatory Loop](https://www.alltrails.com/trail/us/california/griffith-zoo-to-observatory-loop) [Gangstarr - Moment_0f_Truth FULL ALBUM](https://youtu.be/b1EbbT7Xrgs?si=bM1BGbtQnU9YUgSc) [Shaakira_Gathers_iLoveu](https://ricothaka.github.io/) [Twitters](https://thakarashard.github.io/twitters/) is a [repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories) I made with some tweet where i talked about people effected by the [coviDrape](https://bristoluniversitypressdigital.com/view/journals/jgbv/6/2/article-p242.xml) of [east atlanta](https://sfi.usc.edu/collections/nanjing-massacre)
+[Table Top Mountain NaSAJPL LOCATion](https://tmf.jpl.nasa.gov/tmf-lidar/about_us/personnel.htm) [Local LA](https://www.recreation.gov/camping/campgrounds/233735) [Table Mountain Campground](https://www.fs.usda.gov/recarea/angeles/recarea/?recid=41684) [Table Moutain Facility](https://tmf.jpl.nasa.gov/) [Table Mountain Observatory](https://en.wikipedia.org/wiki/Table_Mountain_Observatory) [Griffith Zoo to Observatory Loop](https://www.alltrails.com/trail/us/california/griffith-zoo-to-observatory-loop) [Gangstarr - Moment_0f_Truth FULL ALBUM](https://youtu.be/b1EbbT7Xrgs?si=bM1BGbtQnU9YUgSc) [Shaakira_Gathers_iLoveu](https://rashardiman.github.io/) [Twitters](https://thakarashard.github.io/twitters/) is a [repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories) I made with some tweet where i talked about people effected by the [coviDrape](https://bristoluniversitypressdigital.com/view/journals/jgbv/6/2/article-p242.xml) of [east atlanta](https://sfi.usc.edu/collections/nanjing-massacre)
 > 23% increase of sexual and psychological violence reported in a survey of 13,786 people in Spain
 [The impact of COVID19 pandemic and government enforced lockdowns on levels of attendance and context of sexual assaults reported at Saint Marys Sexual Assault Referral Centre](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10245237/#:~:text=Reports%20of%20intimate%20partner%20violence,in%20Peru%20increased%20by%2048%25) [A Second, Silent Pandemic: Sexual Violence in the time of COVID-19](https://info.primarycare.hms.harvard.edu/perspectives/articles/sexual-violence-and-covid)
 
@@ -882,7 +884,7 @@ Effective November 9, 2016, Proposition 64 legalizes specified personal use and 
 
 [DOWNLOAD~MARIJUANA LEGALIZATION. INITIATIVE STATUTE Proposition64](https://slper.senate.ca.gov/sites/slper.senate.ca.gov/files/Background%20Supplemental%20-%20Prop%2064%20Text.pdf)
 
-[Gangstarr - Moment_0f_Truth FULL ALBUM](https://youtu.be/b1EbbT7Xrgs?si=bM1BGbtQnU9YUgSc) [Shaakira_Gathers_iLoveu](https://ricothaka.github.io/)
+[Gangstarr - Moment_0f_Truth FULL ALBUM](https://youtu.be/b1EbbT7Xrgs?si=bM1BGbtQnU9YUgSc) [Shaakira_Gathers_iLoveu](https://rashardiman.github.io/)
 
 [Heath cliff and the Cadillac cats episodes + Heathcliff (animated flick)](https://archive.org/details/HeathcliffanimatedFlick)
 
@@ -987,7 +989,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 
 
 ![a+](https://raw.githubusercontent.com/ThakaSartu/thaka/master/assets/images/a-certification-logo-comptia-a-1636574.png)
-[Street Fighter II' Turbo - Hyper Fighting (street fighter 2' T 921209 Japan)](retrogames.cc/arcade-games/street-fighter-ii-turbo-hyper-fighting-street-fighter-2-t-921209-japan.html) [SaveState](ricothaka.github.io/sf2hfj.save)
+[Street Fighter II' Turbo - Hyper Fighting (street fighter 2' T 921209 Japan)](retrogames.cc/arcade-games/street-fighter-ii-turbo-hyper-fighting-street-fighter-2-t-921209-japan.html) [SaveState](rashardiman.github.io/sf2hfj.save)
 [ Source Code Viewer](https://iplocation.io/view-html-source-code)
 # Good Afternoon Cafeteria 
 im working on a little something cool. Its like that wrist watch flavor on any screen! I think i can make the tweets tile like tumblrs often do with [CSS3 Multi-Column Layout](https://dev.opera.com/articles/css3-multi-column-layout/) ! If thats not the case its still really usable for newspaper style layout for that type of reading ! [csstricksarticle](https://css-tricks.com/techniques-for-a-newspaper-layout-with-css-grid-and-border-lines-between-elements/) 
@@ -1057,9 +1059,9 @@ By default, flex items will all try to fit onto one line. You can change that an
   flex-wrap: nowrap | wrap | wrap-reverse;
 }
 ```
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="OJYxwWw" data-pen-title="flex-wrap demp @css-tricks im following from your article" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/OJYxwWw">
-  flex-wrap demp @css-tricks im following from your article</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="OJYxwWw" data-pen-title="flex-wrap demp @css-tricks im following from your article" data-user="rashardiman" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/rashardiman/pen/OJYxwWw">
+  flex-wrap demp @css-tricks im following from your article</a> by rashardiman (<a href="https://codepen.io/rashardiman">@rashardiman</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 
@@ -1236,7 +1238,7 @@ Two 2001 images from the Mars Orbiter Camera on NASA's Mars Global Surveyor orbi
 <video controls preload="none" width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
 
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" />    
-<source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
+<source src="https://github.com/rashardiman/rashardiman.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
       
         Download the
         or
@@ -1385,7 +1387,7 @@ In de jaren veertig verklaarden de Verenigde Staten insecten de oorlog. Helemaal
 <video controls preload="none" width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
 
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" />    
-<source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
+<source src="https://github.com/rashardiman/rashardiman.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
       
         Download the
         or
@@ -1443,10 +1445,10 @@ NASA/JPL-Caltech</p>
 </div>
  <video controls preload="none" width="100%" height="auto" poster="https://i.discogs.com/SJqj4bzMUsGALvmzeVDf3WL0lDXS2pWWICXywvmEgFc/rs:fit/g:sm/q:90/h:500/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTEy/My0xMTU5MTI3NTEx/LmpwZWc.jpeg">
     
-<source src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/Audio/QueenLatifah_WrathofMyMadnessSoulshockRemix.mp4" type="video/mp4" />
+<source src="https://raw.githubusercontent.com/rashardiman/rashardiman.github.io/master/assets/Audio/QueenLatifah_WrathofMyMadnessSoulshockRemix.mp4" type="video/mp4" />
          Download the
         or
-<a href="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4">MP4</a>
+<a href="https://github.com/rashardiman/rashardiman.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4">MP4</a>
         video.
 </video>    
 
@@ -1458,7 +1460,7 @@ NASA/JPL-Caltech</p>
 <video controls preload="none" width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
 
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" />    
-<source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
+<source src="https://github.com/rashardiman/rashardiman.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
       
         Download the
         or
@@ -1491,10 +1493,10 @@ NASA/JPL-Caltech</p>
     <h5><span id="sub-sub-sub-subheading">sub-sub-sub-subheading</span></h5>
     <h6><span id="sub-sub-sub-sub-subheading">sub-sub-sub-sub-subheading</span></h6>
     
- <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/BoardingPass_MyNameOnFutureMission.png" />
+ <img src="https://raw.githubusercontent.com/rashardiman/rashardiman.github.io/master/assets/images/BoardingPass_MyNameOnFutureMission.png" />
      Future i got in trouble with them male dancers an im really distracted about the scope... can i use this instumental someday for a #NasaMars presentation im working on?  ? ? (Thugga)
  <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/633670590&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/alilmilk" title="alilmilk" target="_blank" style="color: #cccccc; text-decoration: none;">alilmilk</a> · <a href="https://soundcloud.com/alilmilk/future-red-carpet-feat-young-thug-prod-by-wheezy" title="Future - Red Carpet (feat. Young Thug) [Prod. By Wheezy]" target="_blank" style="color: #cccccc; text-decoration: none;">Future - Red Carpet (feat. Young Thug) [Prod. By Wheezy]</a></div>
-<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/BoardingPass_MyNameOnFutureMission%20(1).png" />
+<img src="https://raw.githubusercontent.com/rashardiman/rashardiman.github.io/master/assets/images/BoardingPass_MyNameOnFutureMission%20(1).png" />
          <img src="https://mars.nasa.gov/system/internal_resources/details/original/1004_PIA24489-1-ncamFLWheel-800px.gif" />
 
     Hi hun, i dont want u to feel like rentpath wherever we make it to the lab. Help me accept you for all you are - #Shaadi  
@@ -1540,7 +1542,7 @@ NASA/JPL-Caltech</p>
 
 
 
-<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/normaniswatch.PNG" alt="Normani">
+<img src="https://raw.githubusercontent.com/rashardiman/rashardiman.github.io/master/assets/images/normaniswatch.PNG" alt="Normani">
 <div class="normani">
     <div></div>
     <div></div>
