@@ -6,7 +6,7 @@ layout: default
 <embed src="https://bubblegumpop01.tumblr.com/" style="width:100%; height: 300px;">
 
 [htau](https://rashardci.github.io/holetoanotheruniverse/) [RicoThaka:Rashard](https://rashardci.github.io/holetoanotheruniverse/) has been my handle since [covidlockdown @nasa-jpl](https://gov.georgia.gov/press-releases/2020-03-16/kemp-declares-public-health-state-emergency) 
-ppl went crazy idolizing people [diy projects](https://youtu.be/gbzhR5z1T1g?si=rrnEU0fjpwETn2zq) 
+ppl went crazy idolizing people [diy projects](https://youtu.be/gbzhR5z1T1g?si=rrnEU0fjpwETn2zq) [i started taking notes] on [losAngelesInFrastructure](https://github.com/ThakaRashard/thakarashard.github.io/blob/master/civic.md) 
 ![image](https://github.com/user-attachments/assets/81d251d5-637c-452a-a184-67685a1113b7)
 ![image](https://github.com/user-attachments/assets/f54ac1d9-a032-4e2c-a7a0-d0fd857c125a)
 
