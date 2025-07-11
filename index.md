@@ -3,6 +3,374 @@ layout: default
 ---
 {% include nav.html %}
 
+<img alt="image" src="https://github.com/user-attachments/assets/751d102f-4255-4641-a743-4a6eec063595" />
+<img alt="image" src="https://github.com/user-attachments/assets/32c31690-ac42-4a89-96d3-64d34d1375a2" />
+
+
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) {% include nav.html %}
+
+<div class="box">
+{% for post in site.posts %}
+   
+  <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+   
+{% endfor %}
+ 
+</div>
+
+# Compiling
+
+
+
+@nasa-jpl @podaac im at the [SouthPasadenaPublicLibrary](https://www.southpasadenaca.gov/Your-Government/Department-Service-Areas/Library/About-the-Library) and i posted the new [DoD FrameWork Requirements](https://public.cyber.mil/policy-guidance/dodi-8510-01/) on [my Linux Blog](https://rashard-ecostress-jpl-iss.github.io/linux/), which is in my [ci](http://images.itrevolution.com/documents/DevOps_Handbook_Intro_Part1_Part2.pdf) path [RashardCi](https://hub.docker.com/repositories/rashardthakakelly) and [the pdf](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf) will not display in browser[.](http://images.itrevolution.com/documents/DevOps_Handbook_Intro_Part1_Part2.pdf) . I translated the source ip of the PDF `23.33.42.140` and it looks like the document itself is blocked in between [https://www.esd.whs.mil/](https://www.esd.whs.mil/), its insurrection behavior, a man in the middle attack. I was told during my tenure at [Georgia Tech Research Institute](https://www.gtri.gatech.edu/) that we were military. I was [gently transferred](https://bubblegumpop01.tumblr.com/post/721548426405396480) from [Jehovahs Witnesses](https://www.jw.org/en/) ... Now i see a whole dept with the same exact name in Washington an they are having a problem that affects us and since @Nasa is a [SpaceForceCrew](https://www.spaceforce.mil/Portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf) I still work for those people and they still work @caltech [@blackgirlscode](https://bubblegumpop01.tumblr.com/post/737714874194542594/baby-i-love-you-i-heard-u-crying-on-the) ... some sort of [migration occured](https://youtu.be/rvmSm9-wrf8)!
+
+<img alt="image" src="https://github.com/user-attachments/assets/b804350b-9f01-403e-86b1-86c383227e1b" />
+
+
+
+```
+<h1>D OD I NSTRUCTION 8510.01
+RISK MANAGEMENT F RAMEWORK FOR D OD S YSTEMS</h1>
+<object data="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf" type="application/pdf" width="550" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf">download the PDF file.</a></p></object>
+
+<h1>Los Angeles Emergency Operations Plan </h1>
+<object data="https://emergency.lacity.gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf" width="550" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://emergency.lacity.gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf">download the PDF file.</a></p></object>
+```
+<img alt="image" src="https://github.com/user-attachments/assets/cd83fdf1-064c-42b7-a0ae-d20e92625685" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e14a323b-827d-4109-9f46-c4f7227147e3" />
+
+[`The U.S. Space Force was established on Dec. 20, 2019`](https://www.defense.gov/News/News-Stories/article/article/2046035/trump-signs-law-establishing-us-space-force/), creating the first new branch of the armed services since 1947
+
+
+[![Twitter Follow](https://img.shields.io/badge/Social-@realDonaldTrump__-blue?style=social&logo=X)](https://twitter.com/repkarenbass)  [![Twitter Follow](https://img.shields.io/badge/Social-@blackgirlscode__-blue?style=social&logo=X)](https://twitter.com/blackgirlscode) [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/NASAJPL) [![Twitter Follow](https://img.shields.io/badge/Social-@POTUS__-blue?style=social&logo=X)](https://twitter.com/POTUS)
+
+[Software Acquisition Pathway Integration with Risk ... - DoD CIO](https://dodcio.defense.gov/Portals/0/Documents/Library/SWAPathwayIntegration-RMF.PDF)
+The Software Acquisition Pathway (SWP) enables organizations to execute rapid and iterative
+delivery of software capabilities by using modern software development practices and active
+  [user engagement](https://rashard-ecostress-jpl-iss.github.io/) [DoD Instruction 5000.82, "Requirements for the Acquisition ...](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500082p.pdf) [DoDI 5000.87, "Operation of the Software Acquisition ...](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500087p.PDF) [Cybersecurity for DoD Acquisition Program Execution](https://www.acq.osd.mil/asda/pwpm/docs/dau/Cybersecurity_Best_Practice_Guidebook_Version_1-24Nov2021.pdf)
+
+![2024_R_Vuchatu1](https://github.com/user-attachments/assets/ad747502-1a2a-46c7-8e8f-6f032ed34a43)
+<dl itemscope itemtype="https://schema.org/EducationalOccupationalCredential">
+  <dt itemprop="name">Raj Vuchatu</dt>
+  <dd itemprop="description">Chief Information Officer </dd>
+</dl>
+
+
+[Software Acquisition Pathway Integration with Risk ... - DoD CIO](https://dodcio.defense.gov/Portals/0/Documents/Library/SWAPathwayIntegration-RMF.PDF)
+The Software Acquisition Pathway (SWP) enables organizations to execute rapid and iterative
+delivery of software capabilities by using modern software development practices and active
+  [user engagement](https://rashard-ecostress-jpl-iss.github.io/) [DoD Instruction 5000.82, "Requirements for the Acquisition ...](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500082p.pdf) [DoDI 5000.87, "Operation of the Software Acquisition ...](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500087p.PDF) [Cybersecurity for DoD Acquisition Program Execution](https://www.acq.osd.mil/asda/pwpm/docs/dau/Cybersecurity_Best_Practice_Guidebook_Version_1-24Nov2021.pdf)
+
+```shell
+
+Microsoft Windows [Version 10.0.22621.3880]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\terminal16>tracert 23.33.42.140
+
+Tracing route to a23-33-42-140.deploy.static.akamaitechnologies.com [23.33.42.140]
+over a maximum of 30 hops:
+
+  1     2 ms    <1 ms     1 ms  my.meraki.net [192.168.168.1]
+  2     2 ms     1 ms     1 ms  lib-06-subnet-65.rdns.cenic.net [205.155.237.65]
+  3     3 ms     3 ms     4 ms  tust1-agg-01--spsdlib-cpe-01--1g--01.cenic.net [137.164.7.154]
+  4     5 ms     4 ms     4 ms  losa4-agg-01--tust1-agg-01--800g--01.cenic.net [137.164.11.82]
+  5     4 ms     4 ms     4 ms  lax-agg10--losa4-agg-01--400g--01.cenic.net [137.164.11.110]
+  6     4 ms     4 ms     4 ms  lag-105-90.ear2.LosAngeles1.Level3.net [4.35.156.65]
+  7     *        *        *     Request timed out.
+  8     4 ms     4 ms     4 ms  4.59.55.2
+  9     4 ms     4 ms     4 ms  ae11.r21.lax01.icn.netarch.akamai.com [23.207.234.38]
+ 10    54 ms    54 ms    54 ms  ae29.r01.ord01.icn.netarch.akamai.com [23.32.62.121]
+ 11    72 ms    72 ms    72 ms  ae21.r02.lga01.icn.netarch.akamai.com [23.193.112.245]
+ 12    72 ms    73 ms    72 ms  ae2.r01.lga01.ien.netarch.akamai.com [23.203.156.39]
+ 13    73 ms    73 ms    73 ms  ae38.r03.border101.ewr03.fab.netarch.akamai.com [23.203.156.29]
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17    75 ms    75 ms    75 ms  a23-33-42-140.deploy.static.akamaitechnologies.com [23.33.42.140]
+
+Trace complete.
+
+C:\Users\terminal16>ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : SPASPUBLIC004
+   Primary Dns Suffix  . . . . . . . :
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection (17) I219-LM
+   Physical Address. . . . . . . . . : 20-88-10-60-8D-6A
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::20fe:4049:b2c4:97c0%14(Preferred)
+   IPv4 Address. . . . . . . . . . . : 192.168.168.103(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Friday, July 11, 2025 1:27:56 PM
+   Lease Expires . . . . . . . . . . : Saturday, July 12, 2025 1:27:56 PM
+   Default Gateway . . . . . . . . . : 192.168.168.1
+   DHCP Server . . . . . . . . . . . : 192.168.168.1
+   DHCPv6 IAID . . . . . . . . . . . : 102795280
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2C-BA-59-E5-20-88-10-60-8D-6A
+   DNS Servers . . . . . . . . . . . : 192.168.168.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+C:\Users\terminal16>
+
+
+```
+
+
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2d582304-29d8-4ee7-9aef-247dcfb98f66" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/bd3b4955-f1a9-420c-8885-4dcd981cf8f0" />
+@nasa-jpl @ajc
+
+<img alt="image" src="https://github.com/user-attachments/assets/7f4227a2-8cda-4c24-ade5-aad8f1257097" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/45e13914-9f3b-4ec8-80c0-e8c9e672b166" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ab49d7ac-b1dc-4fdc-85f7-e52244e9b304" />
+
+# Dear_M_R_O,
+
+I have been researching SpaceForce and  [![Twitter Follow](https://img.shields.io/badge/Social-@realDonaldTrump__-blue?style=social&logo=X)](https://twitter.com/@realDonaldTrump) in this speech said SpaceForce is the 6th branch of the US_GOVERNMENT [![Twitter Follow](https://img.shields.io/badge/Social-@KamalaHarris__-blue?style=social&logo=X)](https://twitter.com/@KamalaHarris) So i found this flickr stream with [The insight Landing](https://www.flickr.com/photos/nasahqphoto/with/45152099075) an [![Twitter Follow](https://img.shields.io/badge/Social-@realDonaldTrump__-blue?style=social&logo=X)](https://twitter.com/@realDonaldTrump)  talking about money, an [![Twitter Follow](https://img.shields.io/badge/Social-@SenBillNelson__-blue?style=social&logo=X)](https://twitter.com/@SenBillNelson) is jumping for exotic levels of JOY on NASDAQ an i wanna know if we a scary company like [SKYNET](https://terminator.fandom.com/wiki/Skynet)... And not the defense dept... ill keep reaserching bc in the old days we reported to [![Twitter Follow](https://img.shields.io/badge/Social-@Secdef__-blue?style=social&logo=X)](https://twitter.com/@Secdef). President Trump signed [S.1215 - National Defense Authorization Act for Fiscal Year 2020 ](https://www.congress.gov/bill/116th-congress/senate-bill/1215/text) in 2019. That was the year [Muna Died](https://www.wagesfuneralhome.com/obituaries/Muna-Ahmed/obituary). So I am a Widower. but her sister was at this church in Hollywood, im scared man , i got set up for some shit and all them girls from the dance classes started vanishing around the [landing of insight](https://www.jpl.nasa.gov/missions/insight/), [i need to play a game to cool off](https://www.smbgames.be/mario-world-2-yoshis-island.php) 
+
+
+<video controls preload="none" width="100%" height="auto" poster="https://media.defense.gov/2019/Dec/26/2002229051/1920/1080/0/191220-F-AP370-9819.JPG">
+
+<source src="https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4" />    
+<source src="https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4" />
+      
+        Download the
+        or
+  <a href="https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4">MP4</a>
+        video.
+</video>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="zxx" dir="ltr"><a href="https://t.co/2OYrMFlw46">https://t.co/2OYrMFlw46</a></p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1936603680805097741?ref_src=twsrc%5Etfw">June 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+# Sunday Oct. 13 2024
+## Dear_*,
+I forgot what other lil girl at Dance411 was helpinmg me with this. But I have to track how im computing the news. A lot of ppl that Left [Cults](https://youtu.be/eAM9diyVRiM) get mislead politically and sometimes endup in crime. NASAJPL human man, and this new SpaceforcE awareness makes me apt to share my views openly an that can help keep shit stable when them ppl lying. I wanted to test in_browser ruby programming that put standard out on the screen but i was too distracted with the #HollyWoodSessionJackiNGs [The National Aeronautics and Space Administration (NASA /ˈnæsə/) ](https://en.wikipedia.org/wiki/NASA)
+
+[Game Type · Intelligent Hoodlum](https://www.youtube.com/watch?v=CU_LYy4cnE0)
+![WorkLog Kamala+EuropaClipper](https://pbs.twimg.com/media/GZzXGX5bAAAgFvu?format=jpg&name=large)
+![SpaceForce+nasa](https://pbs.twimg.com/media/GZzDZdyaoAA53jT?format=jpg&name=medium)
+![SpaceForceNasa](https://pbs.twimg.com/media/GZzC8yCagAAPT3f?format=png&name=small)
+![SpaceForce](https://pbs.twimg.com/media/GZzDdA3a4AAI0dC?format=png&name=small)
+![WORKLOG LROC](https://pbs.twimg.com/media/GZzSfl7awAA0cSa?format=jpg&name=large)
+
+
+![Nasa](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/NASA_seal.svg/800px-NASA_seal.svg.png)
+
+
+[Remarks by President Trump at Signing Ceremony for S.1790, National Defense Authorization Act for Fiscal Year 2020](https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-signing-ceremony-s-1790-national-defense-authorization-act-fiscal-year-2020/) [Trump Signs Law Establishing U.S. Space Force](https://www.defense.gov/News/News-Stories/article/article/2046035/trump-signs-law-establishing-us-space-force/)
+
+```
+W3C CSS Validator results for https://rashardci.github.io/ (CSS level 3 + SVG)
+Sorry! We found the following errors (9)
+URI : https://rashardci.github.io/htau.css
+10 	html 	Property font-optical-sizing doesn't exist : auto
+60 	.tupperware > * 	Parse Error &:hover { flex-grow: 9.3; }
+227 	#footer 	right is not a align-self value : right
+237 	#footer 	break-all is not a overflow-wrap value : break-all
+327 	img 	Value Error : max-height auto is not a max-height value : auto
+709 	.track figure figcaption 	Too many values or values are not recognized : 0 0 0 1px hsl(0 9% 1% / 0.3) outset 0 0.5em 1em rgb(0, 0, 0, 0.1)
+URI : https://rashardci.github.io/
+2 		File not found: https://rashardci.github.io/rouge-base16-dark: Not Found
+16 	.navbar a 	Value Error : padding 10x is not a padding value : 10x 10px
+2 		Parse Error [ [images to fill container](https://www.w3schools.com/css/css_rwd_images.asp) ]
+```
+
+I have to [clean up my css](https://github.com/user-attachments/assets/e5a38093-5bbd-4eea-b23b-4c36fa87ec6f), i dont know how to do the `&:hover` rule and pass clean, ill get to it later, im debugging [DoD_Censorship @nasa-jpl @deptofdefense](https://en.wikipedia.org/wiki/Talk:U.S._Department_of_Defense_censorship_of_DEI-connected_material)
+
+
+
+# California_LiNUX:#La_River
+[files @nasa @cityoflosangeles @stateofcalifornia @nasa-jpl @blackgirlscode `of age` @whitehouse @atfweb @dhs-gov](https://archive.org/download/Delalmoriverearthdatabiomass)
+<iframe src="https://archive.org/embed/Delalmoriverearthdatabiomass" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+related : [a-river-runs-through-los-angeles - 99percentinvisible.org](https://99percentinvisible.org/episode/a-river-runs-through-los-angeles/) [The LA River: From Concrete Ditch to an Oasis in the City](https://www.pbs.org/video/studio-socal-la-river-concrete-ditch-oasis-city/) [chapman.edu archives tags `LA_RiVER`](https://blogs.chapman.edu/huell-howser-archives/tag/l-a-river/) [The Natural and Un-natural History of the LA River](https://youtu.be/7kk-KKa7hf8)
+Transforming Defense operations: [The DOD needs automation](https://www.redhat.com/en/blog/transforming-defense-operations) [Red Hat solutions support DoD](https://redhat.com/en/solutions/public-sector/dod) [Red Hat helps DoD standardized, automate workﬂows with DevSecOps](https://federalnewsnetwork.com/open-first/2021/02/trusted-software-supply-chain-helps-dod-standardized-automate-workflows-with-devsecops/)
+[DOWNLOAD_PDF](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf)
+
+<object data="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf" type="application/pdf" width="550" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf">download the PDF file.</a></p></object>
+
+<img width="555" height="370" alt="image" src="https://github.com/user-attachments/assets/d6958959-732d-4f11-9b41-27630d1ed8ef" />
+
+
+[Android OS Documentation](https://source.android.com/docs)
+
+# About the International Space Station
+The station was designed between 1984 and 1993. Elements of the station were in construction throughout the US, Canada, Japan, and Europe beginning in the late 1980s. [ReadMore](https://www.nasa.gov/international-space-station/)
+
+
+<img src="https://raw.githubusercontent.com/rashardiman/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62900-62978u.jpg" alt="image" />      
+<img src="https://raw.githubusercontent.com/rashardgds/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62900-62981u.jpg" alt="image" />
+<img src="https://raw.githubusercontent.com/rashard-ecostress-jpl-iss/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-63400-63497u.jpg" alt="image" />
+<img src="https://raw.githubusercontent.com/rashardiman/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-63500-63504u.jpg" alt="image" />
+<img src="https://raw.githubusercontent.com/kellyrashardiman/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62600-62669u.jpg" alt="image" />
+
+![SpaceWalk](https://www.nasa.gov/wp-content/uploads/2022/12/51476067951-e10dfb6875-o-1.jpg)
+
+
+
+--- 
+
+# Discovering [`FindHub`](https://www.google.com/android/find/people)
+
+<video preload="auto" width="auto" height="500px" controls> 
+	<source src="https://ia601400.us.archive.org/24/items/GIOVANNIFindhub/findhub.ia.mp4" type="video/mp4">	 
+	<source src="https://ia801400.us.archive.org/24/items/GIOVANNIFindhub/findhub.ia.mp4" type="video/mp4">	 
+</video> 
+
+# TraceRoute
+
+@redhatofficial @nasa @nasa-jpl @podaac @cityoflosangeles @stateofcalifornia its the last part of the vid ~ 27min ~>
+<iframe src="https://archive.org/embed/screen-recording-2025-07-08-7.01.20-pm" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
+
+
+<video preload="auto" width="auto" height="500px" controls> 
+	<source src="https://ia600904.us.archive.org/14/items/screen-20250705-235856/screen-20250706-205654.mp4" type="video/mp4">	 
+</video> 
+
+<div class="tupperware">
+
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia800904.us.archive.org/14/items/screen-20250705-235856/VID_20250706_071024.ia.mp4" type="video/mp4">	 
+</video> 
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia800904.us.archive.org/14/items/screen-20250705-235856/VID_20250706_223711.mp4" type="video/mp4">	 
+</video> 
+</div>
+
+@redhatofficial @nasa @nasa-jpl @podaac @cityoflosangeles @stateofcalifornia 
+
+<iframe src="https://archive.org/embed/screen-recording-2025-07-08-7.01.20-pm" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
+
+
+[https://phoenixnap.com/kb/linux-mail-command](https://phoenixnap.com/kb/linux-mail-command) 
+[https://medium.com/@brysongracias/how-to-send-email-from-terminal-in-rhel9-40a900ad506a](https://medium.com/@brysongracias/how-to-send-email-from-terminal-in-rhel9-40a900ad506a)
+
+![image](https://github.com/user-attachments/assets/71fc200c-ff1d-4c73-9d18-7e026217aefb)
+
+###  [LACiTY.gov or org](https://lacity.org/)
+![image](https://github.com/user-attachments/assets/c20d44eb-27df-4039-97e9-2876ed98beb5)
+[![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/repkarenbass)  [![Twitter Follow](https://img.shields.io/badge/Social-@blackgirlscode__-blue?style=social&logo=X)](https://twitter.com/blackgirlscode) [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/NASAJPL) [![Twitter Follow](https://img.shields.io/badge/Social-@iamcardib__-blue?style=social&logo=X)](https://twitter.com/iamcardib)
+![image](https://github.com/user-attachments/assets/b12d5ac3-882b-4f59-8d9f-7fe7cf1e8677)
+@nasa @nasa-jpl @stateofcalifornia : @blackgirlscode  @cityoflosangeles [RiotCoverage @cityoflosangeles](https://ricothakarashard.github.io/GraffShit) [JANET_PETRO trello card from rashard](https://trello.com/c/ebEEhaFo/26-janet-petroacting-nasa-administrator) [@trello for @cityoflosangeles MAyorKarenBass @nasa-jpl](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass) @whitehouse @deptofdefense
+
+![image](https://github.com/user-attachments/assets/e9756d0e-e3cf-4166-8720-592414d2d4a2)
+
+
+# What is Load Average in Linux?
+- [DigitalOcean](https://www.digitalocean.com/community/tutorials/load-average-in-linux) @digitalocean issa wordcloud, so i hope i find some goodies so i can comprehend how to make my [frameratessmoother](https://www.reddit.com/r/RetroArch/comments/ql83sr/how_can_i_tell_if_i_am_getting_full_speed/) [What Is Linux Average Load?](https://phoenixnap.com/kb/linux-average-load)
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia801206.us.archive.org/17/items/screen-recording-2025-07-09-122807/screen-20250709-090622.mp4" type="video/mp4">	 
+	<source src="https://ia601206.us.archive.org/17/items/screen-recording-2025-07-09-122807/screen-20250709-090622.mp4" type="video/mp4">	
+</video> 
+
+[https://en.wikipedia.org/wiki/Talk:La_Ca%C3%B1ada_Flintridge,_California](https://en.wikipedia.org/wiki/Talk:La_Ca%C3%B1ada_Flintridge,_California)
+
+![image](https://github.com/user-attachments/assets/fb534ba1-865c-4665-b154-3b6f20d6f26a)
+
+@nasa-jpl @podaac
+last night's flyover
+
+<iframe src="https://archive.org/embed/screen-20250708-213751" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# California Linux: DeepSpaceNet,uptime, LEarning About Northrop
+[Documenting system uptime in Linux](https://www.redhat.com/en/blog/system-uptime-linux) @nasa-jpl @redhatofficial @cityoflosangeles @ajc [CourseWork](https://www.jpl.nasa.gov/go/parts-engineering-school/programs/curriculum/)
+<iframe src="https://archive.org/embed/screen-recording-2025-07-09-122807" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[NASA
+Work Breakdown
+Structure (WBS)
+Handbook](https://www.nasa.gov/wp-content/uploads/2023/08/nasa-work-breakdown-structure-handbook.pdf)
+
+
+[DOWNLOAD:PDF](https://github.com/rashardgds/linux/blob/master/Documentation/1_july4postgriffithSimpleScanStation20250705100835.pdf)
+
+[CodeBaseHQ](https://github.com/BKWLD/codebasehq) 
+Git Instructions to import and work quickly
+
+_Tell Git your name and e-mail address — this ensures all commits you make are owned by you._
+```shell
+$ git config --global user.name "UserNAme"
+$ git config --global user.email username@gmail.com
+```
+### Create and push a new repository
+Enter the directory which you wish to import
+```shell
+$ cd path/to/local/folder
+```
+
+Initialise the folder as a Git repository
+```shell
+$ git init
+Initialized empty Git repository in path/to/local/folder
+```
+
+Add all files and commit for the first time
+```shell
+$ git add .
+$ git commit -m "initial commit"
+[master (root-commit) 5cc0002] initial commit
+0 files changed, 0 insertions(+), 0 deletions(-)
+create mode 100644 README
+```
+Add a remote reference for your new Codebase repository and push all changes to the new reference ('origin').
+```shell
+$ git remote add origin git@svn Provider.com:project_account_name/account/repo.git
+$ git push -u origin master
+Counting objects: 3, done.
+Writing objects: 100% (3/3), 205 bytes, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To git@svn Provider.com:project_account_name/account/repo.git
+* [new branch]      master -> master
+```
+### Push an existing local repository
+If you already have a repository and simply wish to push this to Codebase, you can follow the steps below after entering the directory for the existing repository.
+
+Setup the remote reference for the new Codebase repository and push all branches to the remote
+```shell
+$ git remote add origin git@svn Provider.com:project_account_name/account/repo.git
+$ git push origin --mirror
+Counting objects: 3, done.
+Writing objects: 100% (3/3), 205 bytes, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To git@svn Provider.com:project_account_name/account/repo.git
+* [new branch]      master -> master
+* [new branch]      devel -> devel
+```
+
+[CommandLineGit git started codebaseHQ instructions]
+[generating ssh keys](https://support.codebasehq.com/articles/getting-started/getting-started)
+[Regular City Council - 7/1/25](https://www.youtube.com/watch?v=l-m9wvbe0rM&ab_channel=LACityClerk)
+
+
+
+
+
+
+
 <embed src="https://bubblegumpop01.tumblr.com/" style="width:100%; height: 300px;">
 
 [htau](https://rashardci.github.io/holetoanotheruniverse/) [RicoThaka:Rashard](https://rashardci.github.io/holetoanotheruniverse/) has been my handle since [covidlockdown @nasa-jpl](https://gov.georgia.gov/press-releases/2020-03-16/kemp-declares-public-health-state-emergency) 
