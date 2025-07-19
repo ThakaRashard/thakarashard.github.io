@@ -3,8 +3,20 @@ layout: default
 ---
 {% include nav.html %}
 
+<img  alt="image" src="https://github.com/user-attachments/assets/3dd43a97-6c02-4f2f-a8e2-458abc65ddc3" />
+
+[ebay](https://www.ebay.com/itm/326590457486) [PLAY](https://www.retrogames.cc/arcade-games/run-and-gun-ver-eaa-1993-10-8.html)
+
 [Lethal Enforcers II: Gun Fighters (ver EAA)](https://www.retrogames.cc/arcade-games/lethal-enforcers-ii-gun-fighters-ver-eaa.html) [wiki](https://en.wikipedia.org/wiki/Lethal_Enforcers_II:_Gun_Fighters)
 <img alt="image" src="https://github.com/user-attachments/assets/bad7b4f5-27b7-43f3-8eed-a219ee9cbb87" />
+
+![](https://www.arcade-museum.com/images-game/51/lethal-enforcers-ii-gunfighters-51367.jpg)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/846d5731-1e51-475d-911d-c3a809b307ce" />
+
+[play](https://www.retrogames.cc/arcade-games/teenage-mutant-ninja-turtles-japan-2-players.html) : [build](https://www.neostore.com/Teenage-Mutant-Ninja-Turtles-Konami-1989-JAMMA-PCB-p/1413.htm)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e8857415-ee1c-4970-9956-fe482a21ad21" />
 
 [1](https://rashardmro.tumblr.com/) [2](https://rashardsmaps.tumblr.com/) @nasa-jpl @nasa @atfweb 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/789538237412687872/v2" data-did="2d2b010aa5d29bfe783969392cee393c4b9015aa"  ><a href="https://www.tumblr.com/rashardmro/789538237412687872">https://www.tumblr.com/rashardmro/789538237412687872</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
