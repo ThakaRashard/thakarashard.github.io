@@ -3,6 +3,9 @@ layout: default
 ---
 {% include nav.html %}
 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c3186499-2d74-46a0-b902-d631ff976e73" />
+
 [CurrentFire @noaa @nasa-jpl @stateofcalifornia](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fires_all,active-ca,active-usa,fire-perimeter,countries,aqua_crc,earth;@-112.1,45.2,6.1z)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/cf50f91d-ed72-405f-951e-0bcfdc46ddb9" />
