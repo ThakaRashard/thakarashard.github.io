@@ -3,6 +3,10 @@ layout: default
 ---
 {% include nav.html %}
 
+
+![yu](https://www.escapepodonline.com/cdn/shop/products/ww_360x.jpg?v=1669652306)
+[escapePod](https://www.escapepodonline.com/products/teenage-mutant-ninja-turtles-tmnt-konami-jamma-arcade-pcb-tested-working?srsltid=AfmBOoqvFHmBxDpuAwzQ28wxXh-_2BR6K9jOa3jsLr3eNqLPp_Vhv4Kp) [ninjaturtles](https://www.retrogames.cc/arcade-games/teenage-mutant-ninja-turtles-japan-2-players.html)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/9c46bc28-45df-44b4-9ea0-c854a9c7dcbe" />
 
 
