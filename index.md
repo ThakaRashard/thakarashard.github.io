@@ -3,6 +3,10 @@ layout: default
 ---
 {% include nav.html %}
 
+[CurrentFire @noaa @nasa-jpl @stateofcalifornia](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fires_all,active-ca,active-usa,fire-perimeter,countries,aqua_crc,earth;@-112.1,45.2,6.1z)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/cf50f91d-ed72-405f-951e-0bcfdc46ddb9" />
+
 
 [@nasa-jpl @cityoflosangles Veronica/Janet/Karen/Laurie](https://rashardmro.tumblr.com/post/789538237412687872/long-beach-20515424688activeyour-current) this is my work log for [thakarashard.github.io](https://thakarashard.github.io/) i have a blank year because i was using the account [ricothaka](https://archive.org/details/screen-recording-2025-05-10-11.47.48-am) to work from 
 @podaac i have the evidence vid that i was working here [ricothaka on x . . .- archive.org](https://archive.org/details/screen-recording-2025-05-10-11.47.48-am)
