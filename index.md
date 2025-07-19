@@ -4,6 +4,10 @@ layout: default
 {% include nav.html %}
 
 
+[@nasa-jpl @cityoflosangles Veronica/Janet/Karen/Laurie](https://rashardmro.tumblr.com/post/789538237412687872/long-beach-20515424688activeyour-current) this is my work log for [thakarashard.github.io](https://thakarashard.github.io/) i have a blank year because i was using the account [ricothaka](https://archive.org/details/screen-recording-2025-05-10-11.47.48-am) to work from 
+@podaac i have the evidence vid that i was working here [ricothaka on x . . .- archive.org](https://archive.org/details/screen-recording-2025-05-10-11.47.48-am)
+<img alt="image" src="https://github.com/user-attachments/assets/88c09bfe-0596-4022-9b36-2d0f07424e6d" />
+
 ![yu](https://www.escapepodonline.com/cdn/shop/products/ww_360x.jpg?v=1669652306)
 [escapePod](https://www.escapepodonline.com/products/teenage-mutant-ninja-turtles-tmnt-konami-jamma-arcade-pcb-tested-working?srsltid=AfmBOoqvFHmBxDpuAwzQ28wxXh-_2BR6K9jOa3jsLr3eNqLPp_Vhv4Kp) [ninjaturtles](https://www.retrogames.cc/arcade-games/teenage-mutant-ninja-turtles-japan-2-players.html)
 
