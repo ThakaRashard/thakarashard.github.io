@@ -4,6 +4,13 @@ layout: default
 {% include nav.html %}
 
 
+# CALiFORNiA_Linux RASHARD IMAN KELLY NASA JPL DOXXED!!!!!!!!!!!!!
+
+<iframe src="https://archive.org/embed/CALiFORNiA_Linux_RASHARD_IMAN_KELLY_M_R_O_NASA_JPL_DOXXED" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+<iframe src="https://archive.org/embed/doxxing-nasa-ice-fed" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 
 <img alt="image" src="https://github.com/user-attachments/assets/751d102f-4255-4641-a743-4a6eec063595" />
 <img alt="image" src="https://github.com/user-attachments/assets/32c31690-ac42-4a89-96d3-64d34d1375a2" />
