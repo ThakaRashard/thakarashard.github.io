@@ -3,6 +3,8 @@ layout: default
 ---
 {% include nav.html %}
 
+<img  alt="image" src="https://github.com/user-attachments/assets/8bd37232-599b-44eb-bbd7-5872c564b10f" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/3dd43a97-6c02-4f2f-a8e2-458abc65ddc3" />
 
 [ebay](https://www.ebay.com/itm/326590457486) [PLAY](https://www.retrogames.cc/arcade-games/run-and-gun-ver-eaa-1993-10-8.html)
