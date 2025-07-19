@@ -4,6 +4,10 @@ layout: default
 {% include nav.html %}
 
 
+
+@blackgirlscode can u tell someone theres fire in [northern @stateofcalifornia](https://github.com/ThakaRashard/thakarashard.github.io/blob/master/assets/images/20252001906-20252002306-GOES18-GLM-PSW-EXTENT3-600x600.gif) ? [[@noaa goes cluster](https://www.star.nesdis.noaa.gov/goes/sector.php?sat=G18&sector=psw)
+
+
 <img  alt="image" src="https://github.com/user-attachments/assets/c3186499-2d74-46a0-b902-d631ff976e73" />
 
 [CurrentFire @noaa @nasa-jpl @stateofcalifornia](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fires_all,active-ca,active-usa,fire-perimeter,countries,aqua_crc,earth;@-112.1,45.2,6.1z)
