@@ -4,6 +4,137 @@ layout: default
 {% include nav.html %}
 
 
+### Check out [LROC](https://lroc.im-ldi.com/)
+<img   alt="image" src="https://github.com/user-attachments/assets/6fd05625-bdf7-482f-8ba8-725b0e811da8" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/89c4cb40-5b63-40bc-83cb-e21ad7a325ee" />
+
+# Compiling
+### wildfire @noaa [@nasa](https://ia601001.us.archive.org/20/items/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED/Dear%20Team%20at%20Nasa%20Mars.pdf) @stateofcalifornia @cityoflosangeles @nasa-jpl [@newshour](https://dn721308.ca.archive.org/0/items/1newsstndupdate-simple-scan-station-20250721144640/1newsstndupdateSimpleScanStation20250721144640.pdf)  [@nasa-jpl @cityoflosangeles :: LosAngelesCountyFireDAtA on @nasa-jpl rashardGDS.github.io](https://rashardgds.github.io/rashardmro/2025/03/29/Los-Angeles-County-Fire_Data.html)
+[NOAA from /compiling](https://thakarashard.github.io/compiling/Noaa-and-Climate_JPL) 
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5451f606-f2eb-458d-a6bd-8b98e7cd54c2" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/47dae6fd-adb3-484e-a837-b8c8046dd0e9" />
+
+
+<div class="tupperware" markdown="1">
+
+<video controls  width="auto" height="400">
+   <source src="https://ia801001.us.archive.org/20/items/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED/VID_20250721_114248.mp4" type="video/mp4" />
+
+  <source src="https://ia601001.us.archive.org/20/items/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED/VID_20250721_114248.mp4" type="video/mp4" />
+
+
+</video>
+
+<video controls  width="auto" height="400">
+   <source src="https://ia601001.us.archive.org/20/items/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED/Marble_fire_Cal_fire_REPKAREN_GAVin_COOUTNyi.mp4" type="video/mp4" />
+
+  <source src="https://ia601001.us.archive.org/20/items/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED/Marble_fire_Cal_fire_REPKAREN_GAVin_COOUTNyi.mp4" type="video/mp4" />
+
+
+</video>
+
+</div>
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:14gJtxoOvHwVbrjwtr6x5A/789733577929768960/v2" data-did="35bd1f1ccbb1c7268e2d4f8f2138776763c07365"  ><a href="https://www.tumblr.com/santamonicashaadi/789733577929768960/palisadesfire-jan7">https://www.tumblr.com/santamonicashaadi/789733577929768960/palisadesfire-jan7</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
+
+<img src="https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/large_hero_image_192_53_992x274_/public/2022-12/52538848189_f852a5947e_o.jpg.webp?itok=MTOI3GWmg" alt="KAren Bass"/> 
+
+<img src="https://eoimages.gsfc.nasa.gov/images/imagerecords/40000/40110/lafires_ali_2009246_swir.jpg" alt="2009"/> 
+
+
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr">📸 Kandidat za 🌐 fotografiju godine 2️⃣0️⃣2️⃣5️⃣.<a href="https://twitter.com/hashtag/photooftheyear?src=hash&amp;ref_src=twsrc%5Etfw">#photooftheyear</a> <a href="https://twitter.com/hashtag/picoftheyear?src=hash&amp;ref_src=twsrc%5Etfw">#picoftheyear</a> <a href="https://twitter.com/hashtag/wildfires?src=hash&amp;ref_src=twsrc%5Etfw">#wildfires</a> <a href="https://twitter.com/hashtag/California?src=hash&amp;ref_src=twsrc%5Etfw">#California</a> <a href="https://twitter.com/hashtag/USA?src=hash&amp;ref_src=twsrc%5Etfw">#USA</a> <a href="https://twitter.com/hashtag/palisadesfires?src=hash&amp;ref_src=twsrc%5Etfw">#palisadesfires</a> <a href="https://twitter.com/hashtag/LosAngelesFire?src=hash&amp;ref_src=twsrc%5Etfw">#LosAngelesFire</a> <a href="https://t.co/6TMNyi8RQP">pic.twitter.com/6TMNyi8RQP</a></p>&mdash; Uroš Pribićević 🇷🇸 (@PribicevicU) <a href="https://twitter.com/PribicevicU/status/1878539382887428451?ref_src=twsrc%5Etfw">January 12, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2133033627&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/djlordsear" title="Dj Lord Sear - The Lord Sear Special" target="_blank" style="color: #cccccc; text-decoration: none;">Dj Lord Sear - The Lord Sear Special</a> · <a href="https://soundcloud.com/djlordsear/lsear-thursday-7-17-25-oldrap-throwback-jonits" title="L.SEAR THURSDAY 7-17-25 OLDRAP - THROWBACK JONITS!" target="_blank" style="color: #cccccc; text-decoration: none;">L.SEAR THURSDAY 7-17-25 OLDRAP - THROWBACK JONITS!</a></div>
+
+[TEXACOSHAWDAY](https://archive.org/download/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED/04-OJ%20Da%20Juiceman-It%20Is%20What%20It%20Is-MF.mp3) [PDF::CURRENTBOOKSinTEREST](https://ia801001.us.archive.org/20/items/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED/1computingUPDATESimpleScanStation20250711102008.pdf)
+
+### # California_LinuX_rashard-ci-cd_DOXXED #DOS making notes for my manager - RAshardKelly @NASAJPL 
+
+<iframe src="https://archive.org/embed/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+# California_Linux:SANTADENAWATERWAYS
+
+@nasa-jpl i hope this made it through. its a [WeatherReport on @codepen @TheSpaceDevs](https://codepen.io/RashardKElly/pen/YPyXNBa) @TheSpaceDevs The archive [California_Morning; Monday July 14](https://archive.org/details/vid-20250714-084801) has a zip with [NasaGiovanni](https://giovanni.gsfc.nasa.gov/giovanni/) _ [plots](https://github.com/ThakaRashard/rashardmro/tree/master/assets/pl0ts)
+[splashDOWNWEATHER](https://archive.org/download/vid-20250714-084801)
+<object data="https://archive.org/embed/California_Linux_SANTADENAWATERWAYS" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
+
+![image](https://github.com/user-attachments/assets/0e0e98d2-b3c5-4093-a842-9ea7a32baa6e)
+
+![Username rashardkelly](https://github.com/user-attachments/assets/c4d81f0e-2f26-478d-8353-6a685167fe8e)
+
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
+## Weaving the Dark Web: Legitimacy on Freenet, Tor, and I2P
+[Doc @nasa-jpl](https://ieeexplore.ieee.org/book/8544149)
+## Being Legit on a Dark Web social Network
+[Doc @nasa](https://ieeexplore.ieee.org/document/8544235) 
+
+
+### WebSite Analytics [rashard_mro @nasa @whitehouse @google @nasa-jpl @deptofdefense @atfweb @dhs-gov @stateofcalifornia good morning + @blackgirlscode](https://analytics.google.com/analytics/web/#/p460744555/reports/explorer?r=all-pages-and-screens&params=_u..nav%3Dmaui%26_r.explorerCard..seldim%3D%5B%22unifiedPagePathScreen%22,%22firstTouchDate%22%5D%26_r.explorerCard..sortKey%3Dd-1&ruid=4a625d4a-811d-4a18-8023-7e8d72ec8f81&collectionId=11116098727)
+@google my analytics super bad after the last attack @podaac @CityoflosAngeles @stateofcalifornia
+<img alt="https://analytics.google.com/analytics/web/#/p460744555/reports/intelligenthome" src="https://github.com/user-attachments/assets/94ea86b9-86fb-438c-bc59-62adafa390fe" />
+<img alt="image" src="https://github.com/user-attachments/assets/3430e185-98e9-4ef0-8f99-0edf18a78fea" />
+<img alt="image" src="https://github.com/user-attachments/assets/bb395cf2-1c8c-42d5-a5b5-06e3fc7a117d" />
+<img alt="Top pages/screens" src="https://github.com/user-attachments/assets/30f3549a-fadd-4e5c-a8b4-0955d3edd10d" />
+<img alt="///" src="https://github.com/user-attachments/assets/c73f3107-6b97-4c57-b5e9-e00401bd8681" />
+<img alt="Landing page: Landing page" src="https://github.com/user-attachments/assets/dc62681b-61f4-47fd-a846-f1cb66fcd107" />
+<img alt="image" src="https://github.com/user-attachments/assets/e97eac0e-bbaf-438e-8b14-d4301d3479bb" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/36f1414f-f442-444d-968f-badba21d0ef3" />
+<img alt="image" src="https://github.com/user-attachments/assets/cdd53b3c-03fc-48fa-ba7d-1e28cdd0a049" />
+
+
+## 7 Facebook and the Dark Web: A Collision 
+[Doc @nasa-jpl](https://ieeexplore.ieee.org/document/8544232)
+
+### Summary of how NASA is getting affected ? - [r/NASAJobs/+u/ethicallobotomy/](https://www.reddit.com/user/ethicallobotomy/)
+Hello!
+
+Would someone be able to summarize how NASA is being affected by this administration and how uncertain its future is? I’m having a hard time explaining to my family how science is essentially being attacked right now. I’m so sorry to all the employees being affected by the govt. also, yall have all my love.
+
+<blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/NASAJobs/comments/1lynylu/summary_of_how_nasa_is_getting_affected/">Summary of how NASA is getting affected</a><br> by<a href="https://www.reddit.com/user/ethicallobotomy/">u/ethicallobotomy</a> in<a href="https://www.reddit.com/r/NASAJobs/">NASAJobs</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+you are looking at it the wrong way! We have a lot of [equipment to maintain](https://www.nas.nasa.gov/hecc/about/hecc_user_success.html#LA_fires)! here in [LosAngelesCounty](https://lacounty.gov/) u/Nasa #jpl theres [old work](https://eyes.nasa.gov/apps/mrn/#/mars) turing out new [results](https://ieeexplore.ieee.org/document/10521332/) all the time! https://www.axiomspace.com/mission-blog/ax4-splashes-down the axiom mission was still built on ranger9! and that crashed but voyager did not! And the hardware is still producing results, radio is forever, at least until it smashes into a rock https://www.nas.nasa.gov/  + https://eyes.nasa.gov/apps/dsn-now/ = alot of work for someone humble enough not to touch anything! Im an engineer by EastCoast Corporate definition but Helpdesk here and i love it, its like spaceforce where you are challeneged to work the community using the equipment to get a paycheck recommended... no felatio involved! #iLOVEiT! -Rashardkelly NAsaMars #GROUNDDATASYSTEMS iss_Research_ECOSTRESS!+[#SWOT! https://swot.jpl.nasa.gov/](https://swot.jpl.nasa.gov/mission/overview/) /] https://pace.gsfc.nasa.gov/
+
+`ping -c 2 whitehouse.gov`
+
+ [bash -x lbc.sh commit b558e5d3ee1b63c9fffd98518be291df94ee8676](https://github.com/ThakaRashard/ricothaka/pull/33/commits/b558e5d3ee1b63c9fffd98518be291df94ee8676)  @whitehouse 
+
+[@blackgirlscode](https://open.spotify.com/track/1aALf03O95C49gY3eti3Fd?si=4ILYkEKTRNiFwORRNARR2g)
+
+### Weaving the Dark Web: Legitimacy on Freenet, Tor, and I2P
+[Doc @nasa-jpl](https://ieeexplore.ieee.org/book/8544149)
+### Being Legit on a Dark Web social Network
+[Doc @nasa](https://ieeexplore.ieee.org/document/8544235) 
+
+### 7 Facebook and the Dark Web: A Collision 
+[Doc @nasa-jpl](https://ieeexplore.ieee.org/document/8544232)
+
+### [Heavy Metal - 1981](https://archive.org/details/heavy.-metal.-1981.1080p.-blu-ray.x-264.-yify) 
+[4later](https://svs.gsfc.nasa.gov/20405/)
+
+<iframe src="https://archive.org/embed/heavy.-metal.-1981.1080p.-blu-ray.x-264.-yify" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# Summary of how NAsA is getting affected ? - [r/NASAJobs/+u/ethicallobotomy/](https://www.reddit.com/user/ethicallobotomy/)
+Hello!
+
+Would someone be able to summarize how NASA is being affected by this administration and how uncertain its future is? I’m having a hard time explaining to my family how science is essentially being attacked right now. I’m so sorry to all the employees being affected by the govt. also, yall have all my love.
+
+<blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/NASAJobs/comments/1lynylu/summary_of_how_nasa_is_getting_affected/">Summary of how NASA is getting affected</a><br> by<a href="https://www.reddit.com/user/ethicallobotomy/">u/ethicallobotomy</a> in<a href="https://www.reddit.com/r/NASAJobs/">NASAJobs</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+you are looking at it the wrong way! We have a lot of [equipment to maintain](https://www.nas.nasa.gov/hecc/about/hecc_user_success.html#LA_fires)! here in [LosAngelesCounty](https://lacounty.gov/) u/Nasa #jpl theres [old work](https://eyes.nasa.gov/apps/mrn/#/mars) turing out new [results](https://ieeexplore.ieee.org/document/10521332/) all the time! https://www.axiomspace.com/mission-blog/ax4-splashes-down the axiom mission was still built on ranger9! and that crashed but voyager did not! And the hardware is still producing results, radio is forever, at least until it smashes into a rock https://www.nas.nasa.gov/  + https://eyes.nasa.gov/apps/dsn-now/ = alot of work for someone humble enough not to touch anything! Im an engineer by EastCoast Corporate definition but Helpdesk here and i love it, its like spaceforce where you are challeneged to work the community using the equipment to get a paycheck recommended... no felatio involved! #iLOVEiT! -Rashardkelly NAsaMars #GROUNDDATASYSTEMS iss_Research_ECOSTRESS!+[#SWOT! https://swot.jpl.nasa.gov/](https://swot.jpl.nasa.gov/mission/overview/) /] https://pace.gsfc.nasa.gov/
+
+`ping -c 2 whitehouse.gov`
+
+ [bash -x lbc.sh commit b558e5d3ee1b63c9fffd98518be291df94ee8676](https://github.com/ThakaRashard/ricothaka/pull/33/commits/b558e5d3ee1b63c9fffd98518be291df94ee8676)  @whitehouse 
+
 
 @blackgirlscode can u tell someone theres fire in [northern @stateofcalifornia](https://github.com/ThakaRashard/thakarashard.github.io/blob/master/assets/images/20252001906-20252002306-GOES18-GLM-PSW-EXTENT3-600x600.gif) ? [[@noaa goes cluster](https://www.star.nesdis.noaa.gov/goes/sector.php?sat=G18&sector=psw)
 
