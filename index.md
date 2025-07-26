@@ -4,7 +4,8 @@ layout: default
 {% include nav.html %}
 
 
-# CALiFORNiA_LiNUX: USGSWATERDASHBOARDDEMO Mr OBAMA CLEANENERGY TRUMP NEVERSUCKED LAS VEGAS I LOVEHi M I N LA @nasa @nasa-jpl @whitehouse 
+#### CALiFORNiA_LiNUX: USGSWATERDASHBOARDDEMO 
+Mr OBAMA CLEANENERGY TRUMP NEVERSUCKED LAS VEGAS I LOVEHi M I N LA @nasa @nasa-jpl @whitehouse 
 
 <iframe src="https://archive.org/embed/USGSWATERDASHBOARDDEMO" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
@@ -19,8 +20,8 @@ layout: default
 
 <img alt="image" src="https://github.com/user-attachments/assets/89c4cb40-5b63-40bc-83cb-e21ad7a325ee" />
 
-# Compiling
-### wildfire @noaa [@nasa](https://ia601001.us.archive.org/20/items/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED/Dear%20Team%20at%20Nasa%20Mars.pdf) @stateofcalifornia @cityoflosangeles @nasa-jpl [@newshour](https://dn721308.ca.archive.org/0/items/1newsstndupdate-simple-scan-station-20250721144640/1newsstndupdateSimpleScanStation20250721144640.pdf)  [@nasa-jpl @cityoflosangeles :: LosAngelesCountyFireDAtA on @nasa-jpl rashardGDS.github.io](https://rashardgds.github.io/rashardmro/2025/03/29/Los-Angeles-County-Fire_Data.html)
+### Compiling
+#### wildfire @noaa [@nasa](https://ia601001.us.archive.org/20/items/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED/Dear%20Team%20at%20Nasa%20Mars.pdf) @stateofcalifornia @cityoflosangeles @nasa-jpl [@newshour](https://dn721308.ca.archive.org/0/items/1newsstndupdate-simple-scan-station-20250721144640/1newsstndupdateSimpleScanStation20250721144640.pdf)  [@nasa-jpl @cityoflosangeles :: LosAngelesCountyFireDAtA on @nasa-jpl rashardGDS.github.io](https://rashardgds.github.io/rashardmro/2025/03/29/Los-Angeles-County-Fire_Data.html)
 [NOAA from /compiling](https://thakarashard.github.io/compiling/Noaa-and-Climate_JPL) 
 
 
