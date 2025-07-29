@@ -4,6 +4,20 @@ layout: default
 {% include nav.html %}
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xSq6TpTz40E?si=KvsqiBcNKgrKYRGb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+capsule descnet @cityoflosangeles 
+@nasa-jpl @podaac @stateofcalifornia 
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/790370130902368256" data-did="ae4a23acf1ade36c4cb6d6fdd40254c6ef5447df"><a href="https://rashardmro.tumblr.com/post/790370130902368256">https://rashardmro.tumblr.com/post/790370130902368256</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/790370371672080384" data-did="d3e96dd04ea768df11509a619891942d60184d2a"><a href="https://rashardmro.tumblr.com/post/790370371672080384/helvetica-2007-watch-free-documentaries-online">https://rashardmro.tumblr.com/post/790370371672080384/helvetica-2007-watch-free-documentaries-online</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+ 
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/790409249206534144" data-did="c675611c93433f625ef22e6955462a9d436715e6"><a href="https://rashardmro.tumblr.com/post/790409249206534144/nasa-spacex-crew-11-launch-live-countdown-with">https://rashardmro.tumblr.com/post/790409249206534144/nasa-spacex-crew-11-launch-live-countdown-with</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/790429731500736512" data-did="34080b73d7b2d61c4fef941cf998e6f80b45874e"><a href="https://rashardmro.tumblr.com/post/790429731500736512/7-years-ago-first-flight-of-the-falcon-heavy">https://rashardmro.tumblr.com/post/790429731500736512/7-years-ago-first-flight-of-the-falcon-heavy</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/790429408705052672" data-did="da5af1a735d880f0986af0ba246757743d36985a"><a href="https://rashardmro.tumblr.com/post/790429408705052672/heavy-metal-1981-1080p-free-download">https://rashardmro.tumblr.com/post/790429408705052672/heavy-metal-1981-1080p-free-download</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
 #### CALiFORNiA_LiNUX: USGSWATERDASHBOARDDEMO 
 Mr OBAMA CLEANENERGY TRUMP NEVERSUCKED LAS VEGAS I LOVEHi M I N LA @nasa @nasa-jpl @whitehouse 
 
