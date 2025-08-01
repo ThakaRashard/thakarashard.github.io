@@ -4,6 +4,19 @@ layout: default
 {% include nav.html %}
 
 
+saturnsRings2005
+by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
+<iframe src="https://archive.org/embed/saturnsRings2005" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/790535110911000576" data-did="c6706043b2c80590bb9bd0bb4baa1b0cdcd59989"><a href="https://rashardmro.tumblr.com/post/790535110911000576">https://rashardmro.tumblr.com/post/790535110911000576</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+
+@blackgirlscode @whitehouse @nasa @nasa-jpl
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/790632997630214146" data-did="f579a43ffe60a3d04eaeee84511ea03880e1e8ba"><a href="https://rashardmro.tumblr.com/post/790632997630214146/rashardsbash">https://rashardmro.tumblr.com/post/790632997630214146/rashardsbash</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/790532526949236736" data-did="d18d8bb7d0758ed30a2e6e42550a313e24db15e7"><a href="https://rashardmro.tumblr.com/post/790532526949236736/nisar-launch">https://rashardmro.tumblr.com/post/790532526949236736/nisar-launch</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+ 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xSq6TpTz40E?si=KvsqiBcNKgrKYRGb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 capsule descnet @cityoflosangeles 
 @nasa-jpl @podaac @stateofcalifornia 
@@ -72,6 +85,7 @@ Mr OBAMA CLEANENERGY TRUMP NEVERSUCKED LAS VEGAS I LOVEHi M I N LA @nasa @nasa-j
 
 
 <blockquote class="twitter-tweet"><p lang="und" dir="ltr">📸 Kandidat za 🌐 fotografiju godine 2️⃣0️⃣2️⃣5️⃣.<a href="https://twitter.com/hashtag/photooftheyear?src=hash&amp;ref_src=twsrc%5Etfw">#photooftheyear</a> <a href="https://twitter.com/hashtag/picoftheyear?src=hash&amp;ref_src=twsrc%5Etfw">#picoftheyear</a> <a href="https://twitter.com/hashtag/wildfires?src=hash&amp;ref_src=twsrc%5Etfw">#wildfires</a> <a href="https://twitter.com/hashtag/California?src=hash&amp;ref_src=twsrc%5Etfw">#California</a> <a href="https://twitter.com/hashtag/USA?src=hash&amp;ref_src=twsrc%5Etfw">#USA</a> <a href="https://twitter.com/hashtag/palisadesfires?src=hash&amp;ref_src=twsrc%5Etfw">#palisadesfires</a> <a href="https://twitter.com/hashtag/LosAngelesFire?src=hash&amp;ref_src=twsrc%5Etfw">#LosAngelesFire</a> <a href="https://t.co/6TMNyi8RQP">pic.twitter.com/6TMNyi8RQP</a></p>&mdash; Uroš Pribićević 🇷🇸 (@PribicevicU) <a href="https://twitter.com/PribicevicU/status/1878539382887428451?ref_src=twsrc%5Etfw">January 12, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2133033627&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/djlordsear" title="Dj Lord Sear - The Lord Sear Special" target="_blank" style="color: #cccccc; text-decoration: none;">Dj Lord Sear - The Lord Sear Special</a> · <a href="https://soundcloud.com/djlordsear/lsear-thursday-7-17-25-oldrap-throwback-jonits" title="L.SEAR THURSDAY 7-17-25 OLDRAP - THROWBACK JONITS!" target="_blank" style="color: #cccccc; text-decoration: none;">L.SEAR THURSDAY 7-17-25 OLDRAP - THROWBACK JONITS!</a></div>
