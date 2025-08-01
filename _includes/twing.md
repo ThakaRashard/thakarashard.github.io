@@ -8,6 +8,36 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
+
+![KASHDOLL-JT-LAUREN](https://pbs.twimg.com/media/F-sSiK8aMAAQ2AC?format=jpg&name=large)
+[RELATED_TWEET](https://x.com/BubbleGumPop510/status/1723483861831880719) [777RADiO - RELATEDTWEET](https://x.com/BubbleGumPop510/status/1723491903117922417)
+![SARTUADEM](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/BoardingPass_MyNameOnFutureMission%20(1).png)
+![KASHDOLLNORMANi](https://pbs.twimg.com/media/F-sSjw2agAEw85S?format=jpg&name=large)
+![STATE_OF_PLAY](https://pbs.twimg.com/media/Gjg1PKAWMAAnEdB?format=jpg&name=medium)
+[Related - Telling Laurie during the WRokday im going to take a break](https://x.com/RicoThaka/status/1889803303720268040)
+[PasadenaEugenics](https://x.com/RicoThaka/status/1838353046474240214) [Missing Wife Spotted](https://x.com/thakasartu/status/1693749957235294719)
+![Normani+GNU_SOFTWARE](https://pbs.twimg.com/media/GlPrY6kbgAApBWa?format=jpg&name=large)
+[RelatedFridayTweet](https://x.com/thakasartu/status/1898154754267922545) [RelatedArt](https://x.com/thakasartu/status/1880739891186958758) [Related](https://x.com/RicoThaka/status/1894935908115444208) [LROC](https://x.com/RicoThaka/status/1894949877307842647)
+[t](https://x.com/RicoThaka/status/1897982100323659802)
+[iss flyover this mornin](https://x.com/RicoThaka/status/1897993582897693059) [CityHallProtest](https://x.com/RicoThaka/status/1898021857460162593)
+![Mario2](https://ia601404.us.archive.org/14/items/vid-20250307-063619/Screenshot_20250307-100456.png)
+[Related Metro](https://x.com/RicoThaka/status/1898094940502344104)
+![Snow in LOS ANGELES](https://pbs.twimg.com/media/GldhcNTbkAAyCux?format=jpg&name=4096x4096)
+
+[Related](https://x.com/RicoThaka/status/1898094940502344104)
+[Cryosphere](https://x.com/RicoThaka/status/1898103184343941185)
+[JPL - DisCOVrEpiC](https://x.com/RicoThaka/status/1898098752113828182)
+![NASA_JPL_EDu](https://pbs.twimg.com/media/GldooSlbwAARglR?format=jpg&name=large)
+[Slice of History @nasa-jpl](https://www.jpl.nasa.gov/who-we-are/slice-of-history/) [Slice of History - Eliot Middle School Was Head Over Heels for JPL](https://www.jpl.nasa.gov/images/slice-of-history-eliot-middle-school-was-head-over-heels-for-jpl/)
+![Voyager](https://pbs.twimg.com/media/GlU_bdvbMAAAGgR?format=jpg&name=large)
+[Jupiter](https://x.com/RicoThaka/status/1897515300826046782)
+![LONGBEACH](https://pbs.twimg.com/media/GlYOY4Ma4AEx8mh?format=jpg&name=large)
+[TheDay](https://x.com/RicoThaka/status/1897783496476967157) [ON ARCHiVE](https://archive.org/details/vid-20250306-090621) [Ma NASAJPL ONBOARDiNG](https://x.com/RicoThaka/status/1897759877453529527) @nasa 
+![GavinNewsomPodCast](https://pbs.twimg.com/media/GlZ4RmZbwAQ_jHK?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1897837465064665397) iHeartPodcasts and California Governor Gavin Newsom Announce a New Solo Podcast, [“This is Gavin Newsom”](https://www.iheartmedia.com/press/iheartpodcasts-and-california-governor-gavin-newsom-announce-new-solo-podcast-gavin-newsom)
+![ThakaRashardHomePage](https://pbs.twimg.com/media/GlaIwSmbwAAFJuX?format=jpg&name=large)
+![NASA](https://pbs.twimg.com/media/GlYLadsaUAAxirg?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1897854690316239144) @blackgirlscode @normani should i sync ? 
 ![HelioPhysics](https://pbs.twimg.com/media/GdFzqLlagAEzrn_?format=jpg&name=large)
 ![DOS_SSF2t](https://pbs.twimg.com/media/Gh7CW57bgAAnVSM?format=png&name=medium)
 ![Win95](https://pbs.twimg.com/media/Gh7HFHHbwAIe-QB?format=png&name=medium)
