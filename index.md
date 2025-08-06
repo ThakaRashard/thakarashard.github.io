@@ -3,6 +3,18 @@ layout: default
 ---
 {% include nav.html %}
 
+[BlackCarbon](https://x.com/RicoThaka/status/1893786791787831600)
+
+[California Drought Visual from NASASVS](https://archive.org/details/conus-la-no-2-comp-v-0086-1080p-60)
+<iframe src="https://archive.org/embed/conus-la-no-2-comp-v-0086-1080p-60" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# Climate Plotting with @google earth @nassa-jpl 
+[vlog](https://archive.org/details/vid-20250309-133824/VID_20250309_145929.mp4)
+<video width="400px" height="auto" controls> 
+	<source src="https://ia800809.us.archive.org/8/items/vid-20250309-133824/VID_20250309_145929.mp4" type="video/mp4">	 
+
+</video> 
+
 [NASA76 - BiCENTENNiALREPORT @nasa](https://spinoff.nasa.gov/back_issues_archives/1976.pdf)
 
 <img alt="image" src="https://github.com/user-attachments/assets/ea909063-7d37-40d4-accc-60ac8db12d22" />
