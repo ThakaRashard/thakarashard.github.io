@@ -3,10 +3,12 @@ layout: default
 ---
 {% include nav.html %}
 
-[BlackCarbon](https://x.com/RicoThaka/status/1893786791787831600)
 
-[California Drought Visual from NASASVS](https://archive.org/details/conus-la-no-2-comp-v-0086-1080p-60)
-<iframe src="https://archive.org/embed/conus-la-no-2-comp-v-0086-1080p-60" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+# About One-third of Malibu Burned In The Palisades Fire. Where Does It Go From Here?
+@nasa-jpl [Latimes @datadesk](https://github.com/datadesk) made a doc @nasa its great firedata!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0zsMg7gkC6Y?si=rU9ah5V22lcxwE6W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 # Climate Plotting with @google earth @nasa-jpl 
 [vlog](https://archive.org/details/vid-20250309-133824/VID_20250309_145929.mp4)
