@@ -4,18 +4,19 @@ layout: default
 {% include nav.html %}
 
 
-<picture itemprop="productionCompany" itemscope itemtype="https://schema.org/Organization">
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   <source src="https://www.jpl.nasa.gov/site/jsgt/wp-content/uploads/2022/05/Tribrand_ColorWhite_rgb_16x3_160601-344x96.webp" type="image/png" />
   <source src="https://www.jpl.nasa.gov/virtual-tour/skin/jpllogoimage.png" type="image/png" />
-    <img itemprop="countryOfOrigin" itemscope itemtype="https://schema.org/Country" src="https://pds-imaging.jpl.nasa.gov/search/images/jpl-nasa.png" alt="NASA JET PROPULSiON LABORATORY" />
+    <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" src="https://pds-imaging.jpl.nasa.gov/search/images/jpl-nasa.png" alt="NASA JET PROPULSiON LABORATORY" />
 </picture>
-<p>Country: <span itemprop="name" content="USA">United States</span><p>
+
 	
-### [Phoenix:planetarydata.jpl.nasa.gov/img/data/phoenix](https://planetarydata.jpl.nasa.gov/)
-<div class="tupperware">
+[Phoenix:planetarydata.jpl.nasa.gov/img/data/phoenix](https://planetarydata.jpl.nasa.gov/)
+
+<div class="tupperware ic">
  <img alt="image" src="https://github.com/user-attachments/assets/72934cde-b607-412f-80b6-f019eb1e3799" />
  <img alt="image" src="https://github.com/user-attachments/assets/b5cd7b38-ed02-456e-a71b-d374455ca68c" />
-	<img  alt="image" src="https://github.com/user-attachments/assets/d5c2d1c0-2ef7-4ad2-8e69-aebde1e90249" />
+<img alt="image" src="https://github.com/user-attachments/assets/d5c2d1c0-2ef7-4ad2-8e69-aebde1e90249" />
  <img alt="image" src="https://github.com/user-attachments/assets/b5786da4-4cad-4480-a732-719201f78343" />
 
 
