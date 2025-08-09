@@ -3,7 +3,7 @@ layout: default
 ---
 {% include nav.html %}
 
-![NASA JET PROPULSiON LABORATORY](https://upload.wikimedia.org/wikipedia/commons/e/e0/NASA_JPL_Meatball_Logo.webp)
+![NASA JET PROPULSiON LABORATORY](https://www.jpl.nasa.gov/site/jsgt/wp-content/uploads/2022/05/Tribrand_ColorWhite_rgb_16x3_160601-344x96.webp)
 ![Hunter Army Airfield](https://home.army.mil/stewart/thumbnails/large/1417/3568/4503/Hunter_Banner.jpg)
 [Andy C - Drum & Bass Arena (2003)](https://youtu.be/SRKLNgwuDuw?si=RRyOSGsE0gf5dOsS)
 
