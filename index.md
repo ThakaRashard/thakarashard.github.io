@@ -12,7 +12,7 @@ layout: default
 
 	
 [Phoenix:planetarydata.jpl.nasa.gov/img/data/phoenix](https://planetarydata.jpl.nasa.gov/)
-[Interview with Carol Stoker from Planetary Systems Branch- nasa.gov](https://www.nasa.gov/general/interview-with-carol-stoker-from-planetary-systems-branch/) [Scientist at center of Mars flap speaks out @nbcnews](https://www.nbcnews.com/id/wbna7261407) [Carol Stoker - NASA Ames Research Center (ARC)](https://www.nasa.gov/people/carol-stoker/)
+[Interview with Carol Stoker from Planetary Systems Branch- nasa.gov](https://www.nasa.gov/general/interview-with-carol-stoker-from-planetary-systems-branch/) [Scientist at center of Mars flap speaks out @nbcnews](https://www.nbcnews.com/id/wbna7261407) [Carol Stoker - NASA Ames Research Center (ARC)](https://www.nasa.gov/people/carol-stoker/) [Mars-The Red Planet: NASA Scientist Carol Stoker talks about her research-PW072](https://planetwatchradio.com/mars-the-red-planet-nasa-scientist-carol-stoker-talks-about-her-research-pw072/)
 
 <div class="tupperware ic">
  <img alt="image" src="https://github.com/user-attachments/assets/72934cde-b607-412f-80b6-f019eb1e3799" />
