@@ -10,6 +10,9 @@ layout: default
     <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" src="https://pds-imaging.jpl.nasa.gov/search/images/jpl-nasa.png" alt="NASA JET PROPULSiON LABORATORY" />
 </picture>
 
+
+<iframe src="https://archive.org/embed/interviewwith-dr-carol-stoker" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ![G18_sector_wus_DayNightCloudMicroCombo_24fr_20250809-2008](https://github.com/user-attachments/assets/acdf0f66-9f8f-4d41-84ad-a0ebbd439d72)
 
 @cityoflosangeles @nasa-jpl @stateofcalifornia 
