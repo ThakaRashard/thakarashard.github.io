@@ -11,6 +11,13 @@ layout: default
 </picture>
 
 
+@cityoflosangeles @nasa-jpl @stateofcalifornia 
+GOES-West - Sector view: U.S. Pacific Coast - Fire Temperature
+
+<div class="tupperware">
+<img alt="image" src="https://github.com/user-attachments/assets/874e11a9-da23-4898-8454-258c4af6c498" />
+<img  alt="image" src="https://github.com/user-attachments/assets/472b7684-6e21-4451-99a7-aefeb37ddc83" />
+</div>
 
 	
 [Phoenix:planetarydata.jpl.nasa.gov/img/data/phoenix](https://planetarydata.jpl.nasa.gov/)
@@ -18,13 +25,14 @@ layout: default
 [FACEBOOK:::https://www.facebook.com/mars.phoenix/videos/1006087682781 @meta Interview with Carol Stoker @nasa-jpl](https://www.facebook.com/mars.phoenix/videos/1006087682781)
 
 [Interview with Carol Stoker from Planetary Systems Branch- nasa.gov](https://www.nasa.gov/general/interview-with-carol-stoker-from-planetary-systems-branch/) [Scientist at center of Mars flap speaks out @nbcnews](https://www.nbcnews.com/id/wbna7261407) [Carol Stoker - NASA Ames Research Center (ARC)](https://www.nasa.gov/people/carol-stoker/) [Mars-The Red Planet: NASA Scientist Carol Stoker talks about her research-PW072](https://planetwatchradio.com/mars-the-red-planet-nasa-scientist-carol-stoker-talks-about-her-research-pw072/)
+
 <div class="tupperware">
 <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/5e3998b0-c07e-4e2f-9690-b261d1bc654b" />
 <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/8af35aa4-3027-4e64-9e5c-312f56fa5697" />
 <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/4d739a64-b3bb-4835-a7a1-c3587593e7c5" />
 <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/45f24be0-39bb-4d1f-a265-7c7683ab3a2a" />
-
 </div>
+
 <div class="tupperware">
  <img alt="image" src="https://github.com/user-attachments/assets/72934cde-b607-412f-80b6-f019eb1e3799" />
  <img alt="image" src="https://github.com/user-attachments/assets/b5cd7b38-ed02-456e-a71b-d374455ca68c" />
