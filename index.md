@@ -11,26 +11,21 @@ layout: default
 </picture>
 
 
-<div class="tupperware ic">
- <img   alt="image" src="https://github.com/user-attachments/assets/5e3998b0-c07e-4e2f-9690-b261d1bc654b" />
-<img alt="image" src="https://github.com/user-attachments/assets/8af35aa4-3027-4e64-9e5c-312f56fa5697" />
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/4d739a64-b3bb-4835-a7a1-c3587593e7c5" />
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/45f24be0-39bb-4d1f-a265-7c7683ab3a2a" />
 
-
-
-
-
-
-</div>
 	
 [Phoenix:planetarydata.jpl.nasa.gov/img/data/phoenix](https://planetarydata.jpl.nasa.gov/)
 
 [FACEBOOK:::https://www.facebook.com/mars.phoenix/videos/1006087682781 @meta Interview with Carol Stoker @nasa-jpl](https://www.facebook.com/mars.phoenix/videos/1006087682781)
 
 [Interview with Carol Stoker from Planetary Systems Branch- nasa.gov](https://www.nasa.gov/general/interview-with-carol-stoker-from-planetary-systems-branch/) [Scientist at center of Mars flap speaks out @nbcnews](https://www.nbcnews.com/id/wbna7261407) [Carol Stoker - NASA Ames Research Center (ARC)](https://www.nasa.gov/people/carol-stoker/) [Mars-The Red Planet: NASA Scientist Carol Stoker talks about her research-PW072](https://planetwatchradio.com/mars-the-red-planet-nasa-scientist-carol-stoker-talks-about-her-research-pw072/)
+<div class="tupperware">
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/5e3998b0-c07e-4e2f-9690-b261d1bc654b" />
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/8af35aa4-3027-4e64-9e5c-312f56fa5697" />
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/4d739a64-b3bb-4835-a7a1-c3587593e7c5" />
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/45f24be0-39bb-4d1f-a265-7c7683ab3a2a" />
 
-<div class="tupperware ic">
+</div>
+<div class="tupperware">
  <img alt="image" src="https://github.com/user-attachments/assets/72934cde-b607-412f-80b6-f019eb1e3799" />
  <img alt="image" src="https://github.com/user-attachments/assets/b5cd7b38-ed02-456e-a71b-d374455ca68c" />
 <img alt="image" src="https://github.com/user-attachments/assets/d5c2d1c0-2ef7-4ad2-8e69-aebde1e90249" />
@@ -40,11 +35,11 @@ layout: default
 
 ![Hunter Army Airfield](https://home.army.mil/stewart/thumbnails/large/1417/3568/4503/Hunter_Banner.jpg)
 
-<div class="tupperware ic">
+
  <img alt="image" src="https://home.army.mil/stewart/2917/2383/2269/LTC_TAYLOR_1.jpg" />
  <img alt="image" src="https://home.army.mil/stewart/5916/9901/2979/CSM_FAVOR.jpg" />
 <img alt="image" src="https://home.army.mil/stewart/8316/7102/7932/TRAVIS_MOBLEY.jpg" />
-</div>
+
 
 
 [Andy C - Drum & Bass Arena (2003)](https://youtu.be/SRKLNgwuDuw?si=RRyOSGsE0gf5dOsS)
