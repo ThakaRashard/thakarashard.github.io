@@ -626,6 +626,18 @@ small {
   float: left;
   }
 
+.tupperware_2col {
+  display: grid;
+  width: auto;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 7px;
+  row-gap: 1em;
+}
+
+.tupperware_2col img {
+  width: 100%;
+}
+
 
 .tupperware > * {
   border: 1px solid #c9ff23;
