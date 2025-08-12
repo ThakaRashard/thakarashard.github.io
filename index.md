@@ -4,6 +4,39 @@ layout: default
 {% include nav.html %}
 
 
+![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+
+<div class="tupperware">
+  
+<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003740011700693C00_DXXX.jpg" />
+<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003740021700694C00_DXXX.jpg" />
+<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003740001700692C00_DXXX.jpg" />
+<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003720011700691C00_DXXX.jpg" />
+<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003720001700690C00_DXXX.jpg" />
+<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003710011700689C00_DXXX.jpg" />
+<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003710001700688C00_DXXX.jpg" />
+
+</div>
+
+<img alt="To submit flight requests for the NASA Airborne Visible Infrared Imaging Spectrometer (AVIRIS), visit the website below. https://aviris.jpl.nasa.gov/status/flight_req.html " src="https://aviris.jpl.nasa.gov/images/aviris_text2.png" />
+
+# cartography
+
+
+[https://www.jpl.nasa.gov/missions/airborne-visible-infrared-imaging-spectrometer-aviris/](https://www.jpl.nasa.gov/missions/airborne-visible-infrared-imaging-spectrometer-aviris/)
+AVIRIS is the first full spectral range imaging spectrometer and dedicated to Earth Remote Measurements . . 
+[AVIRIS Flight Request Information - CLiCKHERE](https://aviris.jpl.nasa.gov/status/flight_req.html)
+
+
+AVIRIS-ng 2025Wildfire
+<iframe src="https://archive.org/embed/n-02-e-016.-srtmgl-1.2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![assets.spaceappschallenge.org](https://assets.spaceappschallenge.org/media/images/Colorway2-Color_White3x.width-440.jpegquality-60.png)
+<img  alt="image" src="https://github.com/user-attachments/assets/552d31a6-e0d1-4ea0-b9b7-089501f11eb7" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/0cdfde1c-c1c2-4096-81c5-bd59806df949" />
+
+
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   <source src="https://www.jpl.nasa.gov/site/jsgt/wp-content/uploads/2022/05/Tribrand_ColorWhite_rgb_16x3_160601-344x96.webp" type="image/png" />
   <source src="https://www.jpl.nasa.gov/virtual-tour/skin/jpllogoimage.png" type="image/png" />
