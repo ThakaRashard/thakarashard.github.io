@@ -6,7 +6,7 @@ layout: default
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
-<div class="tupperware">
+<div class="tupperware_2col">
   
 <img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003740011700693C00_DXXX.jpg" />
 <img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003740021700694C00_DXXX.jpg" />
