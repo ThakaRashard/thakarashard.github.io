@@ -626,35 +626,45 @@ small {
   float: left;
   }
 
+.tupperware_2col {
+  display: grid;
+  width: auto;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 7px;
+  row-gap: 1em;
+}
+
+.tupperware_2col img {
+  width: 100%;
+}
+
 
 .tupperware > * {
   border: 1px solid #c9ff23;
   border-radius: 1px;
-  padding: 10px;
-  flex-basis: 200px;
-  flex-shrink:3;
-  
-  flex-grow:1;
+  padding: 5px;
+  flex-basis: 150px;
+  flex-shrink: 3;
+  flex-grow: 1;
   overflow: hidden;
   width: fit-content;
   block-size: max-content;
   height: fit-content;
   align-items: flex-start;
   transition: all 300ms ease-in-out;
-  
+
   &:hover {
     flex-grow: 9.3;
-    
   }
 }
 
 
 .tupperware {
   display: flex;
-  flex-flow: row wrap; 
+  flex-flow: row wrap;
   padding: 1px;
   gap: 1px;
-  height: 400px;
+  height: auto;
 }
 
 .tupperware img {
@@ -940,7 +950,7 @@ footer {
     }
 
     p {
-      display: none;
+       
     }
   }
 
