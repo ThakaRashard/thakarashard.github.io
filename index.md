@@ -6,6 +6,14 @@ layout: default
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+
+[Ebony Alexis @EbonyAlexisEntertainment](https://www.youtube.com/@EbonyAlexisEntertainment)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cTSQNTKRsmw?si=-sgMHjhsDNP9yD9O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Nov 9, 2019
+Sex trafficking in the city of Atlanta has increased at an alarming rate over the past year. This video is to give insight on what’s happening in our city. Please make sure you are aware of your surroundings, especially children and young women. Pass this on to anyone that could benefit from this information. Be sure to like and subscribe and follow my social media @itsebonyalexis
+
 # SEX TRAFFICKING IN [ATLANTA GEORGIA](https://www.ice.gov/news/releases/sex-traffickers-sentenced-atlanta-forced-prostitution-foreign-women)❗️
 [@nasa-jpl @nasa @nasa-pds @cityoflosangeles @stanteofcalifornia @blackgirlscode](https://www.youtube.com/watch?v=UoZJYTRZgpc&ab_channel=RosePocahontas)
 I ALMOST GOT KIDNAPPED❗️(story time😱🤬)[ROSE](https://youtu.be/UoZJYTRZgpc?t=230) POCAHONTAS
