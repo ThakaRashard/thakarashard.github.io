@@ -6,7 +6,7 @@ layout: default
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
-
+[Sex Trafficking in America (full documentary @newshour)](https://youtu.be/waRNXRaHH34?t=27) - [FRONTLINE](https://www.pbs.org/wgbh/frontline/)
 [Ebony Alexis @EbonyAlexisEntertainment](https://www.youtube.com/@EbonyAlexisEntertainment)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cTSQNTKRsmw?si=-sgMHjhsDNP9yD9O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
