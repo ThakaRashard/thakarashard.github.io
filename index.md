@@ -8,14 +8,15 @@ layout: default
 
 # SEX TRAFFICKING IN [ATLANTA GEORGIA](https://www.ice.gov/news/releases/sex-traffickers-sentenced-atlanta-forced-prostitution-foreign-women)❗️
 [@nasa-jpl @nasa @nasa-pds @cityoflosangeles @stanteofcalifornia @blackgirlscode](https://www.youtube.com/watch?v=UoZJYTRZgpc&ab_channel=RosePocahontas)
-I ALMOST GOT KIDNAPPED❗️(story time😱🤬)ROSE POCAHONTAS
+I ALMOST GOT KIDNAPPED❗️(story time😱🤬)[ROSE](https://youtu.be/UoZJYTRZgpc?t=230) POCAHONTAS
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UoZJYTRZgpc?si=Hrus65ODdtnI1nMW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-#
+
 About One-third of Malibu Burned In The Palisades Fire. Where Does It Go From Here?
 @nasa-jpl [Latimes @datadesk](https://github.com/datadesk) made a doc @nasa its great firedata!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0zsMg7gkC6Y?si=rU9ah5V22lcxwE6W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tQ8xAeVp9qQ?si=k_h6RsfMkIWa1-oP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # cartography
 
