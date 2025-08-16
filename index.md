@@ -11,6 +11,9 @@ layout: default
 I ALMOST GOT KIDNAPPED❗️(story time😱🤬)[ROSE](https://youtu.be/UoZJYTRZgpc?t=230) POCAHONTAS
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UoZJYTRZgpc?si=Hrus65ODdtnI1nMW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+[Human Trafficking SCAM in WALMART @Amorantasia1 on @youtube](https://youtu.be/i-nbQXuR5d4) [AMOR ANTASiA](https://www.youtube.com/@Amorantasia1)
+
+
 About One-third of Malibu Burned In The Palisades Fire. Where Does It Go From Here?
 @nasa-jpl [Latimes @datadesk](https://github.com/datadesk) made a doc @nasa its great firedata!
 
