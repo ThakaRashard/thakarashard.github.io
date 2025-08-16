@@ -5,9 +5,24 @@ layout: default
 
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
-[Tumblrs](https://www.tumblr.com/changes) = [Rashard_M_R_O/JPL/NASA_tumblr.com](https://rashardmro.tumblr.com/) [./hole_to_another_universe/tumblr ricothakarashard.tumblr.com](https://ricothakarashard.tumblr.com/)
+[Tumblrs](https://www.tumblr.com/changes)
+```html
+<!--
+       .o                                8888       8888
+      .88                                8888       8888
+    o8888oo  ooo  oooo  ooo. .oo.  .oo.   888oooo.   888  oooo d8b
+    ""888""  888  "888  "888P"Y88bP"Y88b  d88' `88b  888  "888""8P
+      888    888   888   888   888   888  888   888  888   888
+      888 .  888   888   888   888   888  888.  888  888   888
+      "888Y  `V88V"V8P' o888o o888o o888o 88`bod8P' o888o d888b
+
+                                                                        -->
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2037370f-da63-41d4-a8e1-ca735ba12544" />
+= [Rashard_M_R_O/JPL/NASA_tumblr.com](https://rashardmro.tumblr.com/) [./hole_to_another_universe/tumblr ricothakarashard.tumblr.com](https://ricothakarashard.tumblr.com/) [rashardmro on TRELLO](https://trello.com/w/rashardmro) [https://rashardsmaps.tumblr.com/](https://rashardsmaps.tumblr.com/) [METROARCH my @libretro testLog + architechture](https://metroarch.tumblr.com/)
 [Sex Trafficking in America (full documentary @newshour)](https://youtu.be/waRNXRaHH34?t=27) - [FRONTLINE](https://www.pbs.org/wgbh/frontline/) [LA 92 (Full Documentary) @natgeosociety](https://youtu.be/uaotkHlHJwo?t=3611)
-[Ebony Alexis @EbonyAlexisEntertainment](https://www.youtube.com/@EbonyAlexisEntertainment)
+[Ebony Alexis @EbonyAlexisEntertainment](https://www.youtube.com/@EbonyAlexisEntertainment) [OldPurse](https://bubblegumfm01.tumblr.com/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cTSQNTKRsmw?si=-sgMHjhsDNP9yD9O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
