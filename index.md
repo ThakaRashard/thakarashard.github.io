@@ -13,7 +13,7 @@ I ALMOST GOT KIDNAPPED❗️(story time😱🤬)[ROSE](https://youtu.be/UoZJYTRZ
 
 [I Was Almost Human Trafficked In San Diego @USnavy @nasa-jpl @katrenathings
 ](https://youtu.be/8Ol2tExl5zw) [Katrena https://www.youtube.com/@katrenathings](https://www.youtube.com/@katrenathings)
-[Human Trafficking SCAM in WALMART @Amorantasia1 on @youtube](https://youtu.be/i-nbQXuR5d4) [AMOR ANTASiA](https://www.youtube.com/@Amorantasia1)
+[Human Trafficking SCAM in WALMART @Amorantasia1 on @youtube](https://youtu.be/i-nbQXuR5d4) [AMOR ANTASiA](https://www.youtube.com/@Amorantasia1) [@nasa Trafficking in America: Keeya Vawar's Story @blackgirlscode](https://youtu.be/P7DFlb71USI?t=20)
 
 
 About One-third of Malibu Burned In The Palisades Fire. Where Does It Go From Here?
