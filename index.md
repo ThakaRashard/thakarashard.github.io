@@ -6,8 +6,12 @@ layout: default
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
-
-# About One-third of Malibu Burned In The Palisades Fire. Where Does It Go From Here?
+# SEX TRAFFICKING IN [ATLANTA GEORGIA](https://www.ice.gov/news/releases/sex-traffickers-sentenced-atlanta-forced-prostitution-foreign-women)❗️
+[@nasa-jpl @nasa @nasa-pds @cityoflosangeles @stanteofcalifornia @blackgirlscode](https://www.youtube.com/watch?v=UoZJYTRZgpc&ab_channel=RosePocahontas)
+I ALMOST GOT KIDNAPPED❗️(story time😱🤬)ROSE POCAHONTAS
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoZJYTRZgpc?si=Hrus65ODdtnI1nMW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#
+About One-third of Malibu Burned In The Palisades Fire. Where Does It Go From Here?
 @nasa-jpl [Latimes @datadesk](https://github.com/datadesk) made a doc @nasa its great firedata!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0zsMg7gkC6Y?si=rU9ah5V22lcxwE6W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
