@@ -5,6 +5,9 @@ layout: default
 
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+
+<img  alt="Overview_HD" src="https://github.com/user-attachments/assets/e538aae1-1cf2-4fce-abec-e2b71855c96e" />
+
 [Tumblrs](https://www.tumblr.com/changes)
 ```html
 <!--
@@ -45,6 +48,9 @@ About One-third of Malibu Burned In The Palisades Fire. Where Does It Go From He
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0zsMg7gkC6Y?si=rU9ah5V22lcxwE6W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tQ8xAeVp9qQ?si=k_h6RsfMkIWa1-oP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+![tumblr_e17ebfc09ab9b3008882a5274b9012c7_62af3330_2048_dey_mad](https://github.com/user-attachments/assets/a6553387-f9ff-4b14-83ce-0c4905200e0a)
 
 # cartography
 
