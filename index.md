@@ -3,8 +3,20 @@ layout: default
 ---
 {% include nav.html %}
 
+![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+
+
+[Astronaut Photography Interactive Map](https://eol.jsc.nasa.gov/ExplorePhotos/?illum=day)
+@nasa @state4ofcalifornia @blackgirlscode @cityoflosangeles @nasa-pds @nasa-jpl i found a nice link array of earth focused nasa websites, that should be bookmarked [Gateway to Astronaut PHotography - https://eol.jsc.nasa.gov/Collections/](https://eol.jsc.nasa.gov/Collections/) @newshour  @ajc
+![Gateway to Astronaut PHotography](https://eol.jsc.nasa.gov/images/navBrandImg.png)
+
+![122382703_1759953340832982_349434514516290585_n @newshour @blackgirlscode](https://github.com/user-attachments/assets/e95ce80c-2b62-4720-9436-712440688a89)
+
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+
+
+![121357084_1749895675172082_793240511531561788_n](https://github.com/user-attachments/assets/61663c3c-1f68-49ec-aa24-526c5618e7aa)
 
 ![121603246_1751709204990729_6566472951716951676_n @nasa-jpl how is jeff doing ? @sitalab](https://github.com/user-attachments/assets/ea558de7-36e6-4555-b7a5-a8e8eecba418) @nasa-jpl how is jeff doing ? @sitalab
 
