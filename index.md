@@ -6,6 +6,8 @@ layout: default
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+
+[Astronaut Photography Interactive Map](https://eol.jsc.nasa.gov/ExplorePhotos/?illum=day)
 ![131908062_1816149488546700_4732829352018775708_n](https://github.com/user-attachments/assets/1bf6433e-c7da-4cdc-8080-532d49ce2fac)
 
 [Houston We Have a Podcast: The Art of Astronaut Photography soundcloud.com/nasa](https://soundcloud.com/nasa/houston-we-have-a-podcast-the-art-of-astronaut-photography)
