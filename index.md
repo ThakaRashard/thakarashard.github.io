@@ -5,6 +5,7 @@ layout: default
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+![121573745_1751696708325312_1292880787992364368_n](https://github.com/user-attachments/assets/7f1aaa6f-1954-4c20-985c-cf59d8ad68fe)
 
 [Astronaut Photography Interactive Map](https://eol.jsc.nasa.gov/ExplorePhotos/?illum=day)
 @nasa @state4ofcalifornia @blackgirlscode @cityoflosangeles @nasa-pds @nasa-jpl i found a nice link array of earth focused nasa websites, that should be bookmarked [Gateway to Astronaut PHotography - https://eol.jsc.nasa.gov/Collections/](https://eol.jsc.nasa.gov/Collections/) @newshour  @ajc
