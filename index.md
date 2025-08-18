@@ -12,6 +12,8 @@ layout: default
 ![Gateway to Astronaut PHotography](https://eol.jsc.nasa.gov/images/navBrandImg.png)
 ![131908062_1816149488546700_4732829352018775708_n](https://github.com/user-attachments/assets/1bf6433e-c7da-4cdc-8080-532d49ce2fac)
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1804468019714847%26set%3Da.190274967800835%26type%3D3&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
 [Houston We Have a Podcast: The Art of Astronaut Photography soundcloud.com/nasa](https://soundcloud.com/nasa/houston-we-have-a-podcast-the-art-of-astronaut-photography)
 [AVIRIS-3 L1B Calibrated Radiance, Facility Instrument Collection - Updated](https://search.earthdata.nasa.gov/downloads/4163386644)
 [Granule @Nasa-jpl EARTHDATASEARCH](https://search.earthdata.nasa.gov/search/granules?p=C3236537162-ORNL_CLOUD!C3236537162-ORNL_CLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&pg[1][m]=download&pg[1][cd]=f&g=G3380791959-ORNL_CLOUD&q=aviris&tl=1722032072.801!4!!&lat=34.55704388828103&long=-118.63193157977499&zoom=12.660359823782507) @stateofcalifornia @cityoflosangeles Ms Bass im on and working dataproducts like [Ms Petro](https://www.nasa.gov/people/janet-e-petro/) said [in](https://forum.earthdata.nasa.gov/viewtopic.php?t=5329) her letter las[t year](https://www.youtube.com/watch?v=3kyk1jzJoAQ) @nasa-jpl @blackgirlscode 
