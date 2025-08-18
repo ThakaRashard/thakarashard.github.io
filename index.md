@@ -7,6 +7,9 @@ layout: default
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+
+![120973415_1745464185615231_674705279311469258_n](https://github.com/user-attachments/assets/7478ca79-0a23-4182-a199-f74cc11757ec)
+
 ![120856595_1746277958867187_3436781638936268734_n](https://github.com/user-attachments/assets/103b861e-5dce-4c0d-80d4-bebf24e3368e)
 
 ![120914685_1746326732195643_5381412803616540159_n](https://github.com/user-attachments/assets/88060b83-bb33-47c7-8ec9-a4e1f0c00a30)
