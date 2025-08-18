@@ -6,6 +6,7 @@ layout: default
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fposts%2Fpfbid02XcAphrVVKPRedh8UkW96KzvARPKScp1dz1gaSHr94BC3xW1hMFTr4TJ6QCNk5f6Ql&show_text=true&width=500" width="500" height="803" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 [Astronaut Photography Interactive Map](https://eol.jsc.nasa.gov/ExplorePhotos/?illum=day)
 @nasa @state4ofcalifornia @blackgirlscode @cityoflosangeles @nasa-pds @nasa-jpl i found a nice link array of earth focused nasa websites, that should be bookmarked [Gateway to Astronaut PHotography - https://eol.jsc.nasa.gov/Collections/](https://eol.jsc.nasa.gov/Collections/) @newshour  @ajc
