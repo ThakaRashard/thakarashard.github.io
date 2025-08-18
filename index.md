@@ -8,6 +8,8 @@ layout: default
 
 
 [Astronaut Photography Interactive Map](https://eol.jsc.nasa.gov/ExplorePhotos/?illum=day)
+@nasa @state4ofcalifornia @blackgirlscode @cityoflosangeles @nasa-pds @nasa-jpl i found a nice link array of earth focused nasa websites, that should be bookmarked [Gateway to Astronaut PHotography - https://eol.jsc.nasa.gov/Collections/](https://eol.jsc.nasa.gov/Collections/) @newshour  @ajc
+![Gateway to Astronaut PHotography](https://eol.jsc.nasa.gov/images/navBrandImg.png)
 ![131908062_1816149488546700_4732829352018775708_n](https://github.com/user-attachments/assets/1bf6433e-c7da-4cdc-8080-532d49ce2fac)
 
 [Houston We Have a Podcast: The Art of Astronaut Photography soundcloud.com/nasa](https://soundcloud.com/nasa/houston-we-have-a-podcast-the-art-of-astronaut-photography)
