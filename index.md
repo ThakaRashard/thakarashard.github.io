@@ -6,6 +6,8 @@ layout: default
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+![121603246_1751709204990729_6566472951716951676_n @nasa-jpl how is jeff doing ? @sitalab](https://github.com/user-attachments/assets/ea558de7-36e6-4555-b7a5-a8e8eecba418) @nasa-jpl how is jeff doing ? @sitalab
+
 
 ![123600579_1772454782916171_901281642018984544_n @nasa](https://github.com/user-attachments/assets/f2ea7421-c463-4c6e-b302-e774953e6569)
 
