@@ -5,6 +5,9 @@ layout: default
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+![120943766_1746348908860092_2330525566673114616_n](https://github.com/user-attachments/assets/c6ad1a52-b3e2-400c-8886-aa8145e3f758)
+
+
 ![121573745_1751696708325312_1292880787992364368_n](https://github.com/user-attachments/assets/7f1aaa6f-1954-4c20-985c-cf59d8ad68fe)
 
 [Astronaut Photography Interactive Map](https://eol.jsc.nasa.gov/ExplorePhotos/?illum=day)
