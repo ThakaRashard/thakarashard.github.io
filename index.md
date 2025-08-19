@@ -4,6 +4,10 @@ layout: default
 {% include nav.html %}
 
 
+
+![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+
+
 <img  alt="image @nasa @cityoglosangeles @stateofcalifornia @whitehouse" src="https://github.com/user-attachments/assets/aef7d538-809a-4c3a-af96-99c2e35d5a2c" />
 
 <img  alt="image @nasa-jpl i learned that the python to run operations in jupyter notebooks are bundled with the notebook. I cant do it on this red hat training vm" src="https://github.com/user-attachments/assets/621a3bdd-9257-4fdd-994e-790e3018a818" />
