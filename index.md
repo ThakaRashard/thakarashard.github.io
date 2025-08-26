@@ -7,6 +7,9 @@ layout: default
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+<img alt="image" src="https://github.com/user-attachments/assets/49b24dc0-5197-4b08-a7e9-161cb97f1fed" />
+
+[https://www.facebook.com/reel/753773317504838](https://www.facebook.com/reel/753773317504838)
 
 <img  alt="image Jupiter Notebook Exercise" src="https://github.com/user-attachments/assets/8c0f80cb-1e52-451a-b4d1-8908316b83d0" />.
 AV320230705t202435_002_L1B_RDN
