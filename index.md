@@ -11,6 +11,8 @@ layout: default
 
 [https://www.facebook.com/reel/753773317504838](https://www.facebook.com/reel/753773317504838)
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2158687044&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/djlordsear" title="Dj Lord Sear - The Lord Sear Special" target="_blank" style="color: #cccccc; text-decoration: none;">Dj Lord Sear - The Lord Sear Special</a> · <a href="https://soundcloud.com/djlordsear/db-50-min-l-sear-guest-mix-6-1" title="DB 50 MIN DRUNK MIX - L.SEAR Guest Mix 8-25-25" target="_blank" style="color: #cccccc; text-decoration: none;">DB 50 MIN DRUNK MIX - L.SEAR Guest Mix 8-25-25</a></div>
+
 <img  alt="image Jupiter Notebook Exercise" src="https://github.com/user-attachments/assets/8c0f80cb-1e52-451a-b4d1-8908316b83d0" />.
 AV320230705t202435_002_L1B_RDN
 <img width="344" height="538" alt="Untitled" src="https://github.com/user-attachments/assets/7d807b04-8e2b-4085-8184-52002baa953c" />
