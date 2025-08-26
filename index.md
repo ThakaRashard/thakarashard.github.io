@@ -7,6 +7,8 @@ layout: default
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 plays slow but worth a gander at the textures @podaac @nasa-jpl @blackgirlscode 
+<img alt="image" src="https://github.com/user-attachments/assets/831d89fa-4daa-4879-b0c7-c8595bbb14e5" />
+
 [https://www.retrogames.me/arcade/sega-rally-championship-twindx-revision-c.html?play](https://www.retrogames.me/arcade/sega-rally-championship-twindx-revision-c.html?play)
 <img   alt="image" src="https://github.com/user-attachments/assets/7f62d9d6-0c22-47c7-99a8-1fbe1e91d203" />
 
