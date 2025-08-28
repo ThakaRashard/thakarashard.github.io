@@ -8,6 +8,11 @@ layout: default
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
 
+@cityoflosangeles @stateofcalifornia
+Congressmember Karen Bass @NASA Space Communications and Navigation Central Intelligence Agency (@CIA) Essence
+See more [Link To @meta facebook](https://www.facebook.com/100084464911565/videos/753033007497967/)
+<img  alt="image" src="https://github.com/user-attachments/assets/5fd45430-e732-4807-bcf4-e8b10a4bf859" />
+
 
 [SalTon Sea](https://saltonsea.jpl.nasa.gov/) : [STREAM_MAP](https://ladsweb.modaps.eosdis.nasa.gov/stream/) Satellite-based Tool for Rapid Evaluation of Aquatic environMents [NEWS](https://www.earthdata.nasa.gov/news/new-tool-provides-rapid-evaluation-water-quality)
 <img alt="image" src="https://github.com/user-attachments/assets/9e89327d-9e8e-48ab-b3bd-94236e35f4c8" />
