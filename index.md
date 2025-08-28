@@ -9,7 +9,7 @@ layout: default
 
 
 
-[SalTon Sea](https://saltonsea.jpl.nasa.gov/)
+[SalTon Sea](https://saltonsea.jpl.nasa.gov/) : [STREAM_MAP](https://ladsweb.modaps.eosdis.nasa.gov/stream/) Satellite-based Tool for Rapid Evaluation of Aquatic environMents [NEWS](https://www.earthdata.nasa.gov/news/new-tool-provides-rapid-evaluation-water-quality)
 <img alt="image" src="https://github.com/user-attachments/assets/9e89327d-9e8e-48ab-b3bd-94236e35f4c8" />
 
 ![ARTiMiS](https://www.nasa.gov/wp-content/uploads/2023/03/art001e001999_orig.jpg)
