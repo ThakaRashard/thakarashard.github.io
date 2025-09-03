@@ -6,6 +6,10 @@ layout: default
 
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+[Beat Street freewithads on @youtube](https://youtu.be/4o5nrZGxyZQ?t=4435)
+[FireReport](https://rashardgds.github.io/2025/08/13/FireReportCleanUp.html)
+
+![fire @nasa](https://rashardgds.github.io/assets/img/Overview_HD.png) @usgs
 
 @blackgirlscode @cityoflosangeles i went to church here, and a #WhiteCollar took my photo for me @nasa-jpl @Nasa @podaac
 
