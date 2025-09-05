@@ -7,6 +7,37 @@ layout: default
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+![leadership @stateofcalifornia @nasa-jpl](https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/5/de/5de8d4a6-8258-11ee-a9d8-7f5b5d3a916f/6552751ac0ec3.image.jpg?resize=990%2C660) 
+LA mayor celebrates moving 8,866 homeless into permanent free housing in 2024 [Read https://www.thecentersquare.com/](https://www.thecentersquare.com/california/article_2772a650-b695-11ef-92b8-cb84d1295234.html) [‘There’s just a pile-on’: How Karen Bass lost control of the wildfire narrative - politico.com/](https://www.politico.com/news/2025/01/14/karen-bass-california-wildfires-00198180)
+
+![politico @cityoflosangeles](https://www.politico.com/dims4/default/resize/959/quality/90/format/webp?url=https%3A%2F%2Fstatic.politico.com%2F02%2Fbd%2F7b7cd70c43ea8767ce10179b31fb%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2192407347) 
+
+The Webb Telescope Traveling Through Los Angeles to Navy Yard B-roll
+Released Thursday, October 21, 2021
+
+[webbtelescope.org/images](https://webbtelescope.org/images) [@esa webb esawebb.org/images/](https://esawebb.org/images/)
+[Reddit r/jameswebb](https://www.reddit.com/r/jameswebb/) [YouTube @NASAWebbTelescope](https://www.youtube.com/@NASAWebbTelescope)
+<video width="400px" height="auto" controls poster="https://svs.gsfc.nasa.gov/vis/a010000/a013900/a013962/STTARS_Traveling_Through_LA_SS_print.jpg" > 
+	
+ <source src="https://svs.gsfc.nasa.gov/vis/a010000/a013900/a013962/STTARS_Move_to_Navy_Base_1DX_LA_Footage_A_H_264.mp4" type="video/mp4">	 
+
+</video> 
+
+B-Roll footage of the Webb Telescope inside the protective transport container traveling through the city of Los Angeles to get to the Navy base at Seal Beach, CA.
+
+### Cosmic Dawn: The Untold Story of the James Webb Space Telescope
+For more than three decades, NASA and an international team of scientists and engineers pushed the limits of technology, innovation, and perseverance to build and launch the James Webb Space Telescope, the most powerful space observatory ever created. Cosmic Dawn brings audiences behind the scenes with the Webb film crew, and never-before-heard testimonies revealing the real story of how this telescope overcame all odds. [Watch on @Nasa+](https://plus.nasa.gov/video/cosmic-dawn-the-untold-story-of-the-james-webb-space-telescope/) or below @cityoflosangeles [KarenBass](https://search.yahoo.com/search?p=gavin+newsom+karen+bass+california+homeless&fr=yfp-t&fr2=p%3Afp%2Cm%3Asb&fp=1) @stateofcalifornia [GavinNewsom]() @nasa-pds 
+<video width="400px" height="auto" controls poster="https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014834/Cosmic_Dawn_Thumbnail_print.jpg" > 
+	
+ <source src="https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014834/CD_YT1080_Track5.mp4" type="video/mp4">	 
+
+</video> 
+
+California Fires without Fire Pixels
+Oct 29, 2003 [ClickHere](https://svs.gsfc.nasa.gov/2847)
+The Palisades and Eaton Fires, Los Angeles, California
+Image captured on Jan 12, 2025, by the MSI instrument aboard ESA's Sentinel-2A platform.
+[Comparison MAps @nasa-jpl EarthDataSquad](https://www.earthdata.nasa.gov/news/worldview-image-archive/palisades-eaton-fires-los-angeles-california)
 
 ![Los Angeles Sheriffs Department](https://lasd.org/wp-content/uploads/2019/02/LASD-grve-small-square_rev.png)
 [ACADEMY CLASS #483 Graduation @meta](https://fb.watch/BV-soGm3j0/)
