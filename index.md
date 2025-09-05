@@ -10,7 +10,9 @@ layout: default
 ![leadership @stateofcalifornia @nasa-jpl](https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/5/de/5de8d4a6-8258-11ee-a9d8-7f5b5d3a916f/6552751ac0ec3.image.jpg?resize=990%2C660) 
 LA mayor celebrates moving 8,866 homeless into permanent free housing in 2024 [Read https://www.thecentersquare.com/](https://www.thecentersquare.com/california/article_2772a650-b695-11ef-92b8-cb84d1295234.html) [‘There’s just a pile-on’: How Karen Bass lost control of the wildfire narrative - politico.com/](https://www.politico.com/news/2025/01/14/karen-bass-california-wildfires-00198180)
 
-![politico @cityoflosangeles](https://www.politico.com/dims4/default/resize/959/quality/90/format/webp?url=https%3A%2F%2Fstatic.politico.com%2F02%2Fbd%2F7b7cd70c43ea8767ce10179b31fb%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2192407347) 
+
+<img  alt="politico @cityoflosangeles" src="https://github.com/user-attachments/assets/8c48efd3-5cae-46b0-9a65-04aa294e9684" />
+
 
 The Webb Telescope Traveling Through Los Angeles to Navy Yard B-roll
 Released Thursday, October 21, 2021
