@@ -6,6 +6,20 @@ layout: default
 
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+
+
+![Los Angeles Sheriffs Department](https://lasd.org/wp-content/uploads/2019/02/LASD-grve-small-square_rev.png)
+[ACADEMY CLASS #483 Graduation @meta](https://fb.watch/BV-soGm3j0/)
+<img  alt="image" src="https://github.com/user-attachments/assets/eb320a28-bd90-4be6-8af1-4c6a45a32fb8" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/43c781fe-1f92-4abb-8708-94de0dcdb569" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/1a26040c-1389-4924-967d-2c3d47e42beb" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/082137e1-e766-4e61-84df-20aee706350b" />
+
+<img width="1853" height="1079" alt="image" src="https://github.com/user-attachments/assets/44d3dd23-cfab-4ede-b1bc-5bf351d94e57" />
+
 [Beat Street freewithads on @youtube](https://youtu.be/4o5nrZGxyZQ?t=4435)
 [FireReport](https://rashardgds.github.io/2025/08/13/FireReportCleanUp.html)
 
