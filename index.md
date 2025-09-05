@@ -14,8 +14,8 @@ LA mayor celebrates moving 8,866 homeless into permanent free housing in 2024 [R
 <img  alt="politico @cityoflosangeles" src="https://github.com/user-attachments/assets/8c48efd3-5cae-46b0-9a65-04aa294e9684" />
 
 
-The Webb Telescope Traveling Through Los Angeles to Navy Yard B-roll
-Released Thursday, October 21, 2021
+The Webb Telescope Traveling Through [Los Angeles](https://digitallibrary.usc.edu/) to Navy Yard B-roll
+Released Thursday, October [21+](https://www.pbssocal.org/shows/lost-la/los-angeles-in-buildings-the-central-library), 2021
 
 [webbtelescope.org/images](https://webbtelescope.org/images) [@esa webb esawebb.org/images/](https://esawebb.org/images/)
 [Reddit r/jameswebb](https://www.reddit.com/r/jameswebb/) [YouTube @NASAWebbTelescope](https://www.youtube.com/@NASAWebbTelescope)
@@ -25,10 +25,10 @@ Released Thursday, October 21, 2021
 
 </video> 
 
-B-Roll footage of the Webb Telescope inside the protective transport container traveling through the city of Los Angeles to get to the Navy base at Seal Beach, CA.
+[B-Roll](https://www.safie.hq.af.mil/News/Video/mod/61713/player/0/video/897098/Yard/) footage of the Webb Telescope inside the [protective](https://www.dvidshub.net/video/897098/navsea-memorial-b-roll-package) transport container traveling through the city of Los Angeles to get to the Navy base at [Seal Beach, CA.](https://www.navfac.navy.mil/Divisions/Environmental/Products-and-Services/Environmental-Restoration/Southwest/Seal-Beach-NWS/Site-Descriptions/)
 
 ### Cosmic Dawn: The Untold Story of the James Webb Space Telescope
-For more than three decades, NASA and an international team of scientists and engineers pushed the limits of technology, innovation, and perseverance to build and launch the James Webb Space Telescope, the most powerful space observatory ever created. Cosmic Dawn brings audiences behind the scenes with the Webb film crew, and never-before-heard testimonies revealing the real story of how this telescope overcame all odds. [Watch on @Nasa+](https://plus.nasa.gov/video/cosmic-dawn-the-untold-story-of-the-james-webb-space-telescope/) or below @cityoflosangeles [KarenBass](https://search.yahoo.com/search?p=gavin+newsom+karen+bass+california+homeless&fr=yfp-t&fr2=p%3Afp%2Cm%3Asb&fp=1) @stateofcalifornia [GavinNewsom]() @nasa-pds 
+For more than three decades, NASA and an international team of scientists and engineers pushed the limits of technology, innovation, and perseverance to build and launch the James Webb Space Telescope, the most powerful space observatory ever created. Cosmic Dawn brings audiences behind the scenes with the Webb film crew, and never-before-heard testimonies revealing the real story of how this telescope overcame all odds. [Watch on @Nasa+](https://plus.nasa.gov/video/cosmic-dawn-the-untold-story-of-the-james-webb-space-telescope/) , [Youtube](https://www.youtube.com/watch?v=uSMGENDH_QI)or below @cityoflosangeles [KarenBass](https://search.yahoo.com/search?p=gavin+newsom+karen+bass+california+homeless&fr=yfp-t&fr2=p%3Afp%2Cm%3Asb&fp=1) @stateofcalifornia [GavinNewsom](https://nypost.com/2025/01/09/us-news/bass-newsom-ignored-past-warnings-about-la-wildfires/) @nasa-pds 
 <video width="400px" height="auto" controls poster="https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014834/Cosmic_Dawn_Thumbnail_print.jpg" > 
 	
  <source src="https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014834/CD_YT1080_Track5.mp4" type="video/mp4">	 
