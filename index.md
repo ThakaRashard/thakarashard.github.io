@@ -51,7 +51,7 @@ Image captured on Jan 12, 2025, by the MSI instrument aboard ESA's Sentinel-2A p
 
 <img   alt="image" src="https://github.com/user-attachments/assets/082137e1-e766-4e61-84df-20aee706350b" />
 
-<img width="1853" height="1079" alt="image" src="https://github.com/user-attachments/assets/44d3dd23-cfab-4ede-b1bc-5bf351d94e57" />
+<img   alt="image" src="https://github.com/user-attachments/assets/44d3dd23-cfab-4ede-b1bc-5bf351d94e57" />
 
 [Beat Street freewithads on @youtube](https://youtu.be/4o5nrZGxyZQ?t=4435)
 [FireReport](https://rashardgds.github.io/2025/08/13/FireReportCleanUp.html)
