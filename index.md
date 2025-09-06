@@ -3,7 +3,7 @@ layout: default
 ---
 {% include nav.html %}
 
-<img width="1200" height="1200" alt="image" src="" />
+
 
 
 
