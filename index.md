@@ -6,7 +6,7 @@ layout: default
 <img width="1200" height="1200" alt="image" src="" />
 
 
-![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+
 
 U.S. Forest Service - Sierra National Forest @USDAForestService
 @podaac @nasa-pds @nasa-jpl -#[RASHARD](https://archive.org/details/nasa-worldview-2025-aug-13-to-2025-aug-25)
