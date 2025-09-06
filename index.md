@@ -3,10 +3,22 @@ layout: default
 ---
 {% include nav.html %}
 
+<img width="1200" height="1200" alt="image" src="" />
 
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+U.S. Forest Service - Sierra National Forest @USDAForestService
+@podaac @nasa-pds @nasa-jpl -#[RASHARD](https://archive.org/details/nasa-worldview-2025-aug-13-to-2025-aug-25)
+#GarnetFire 
+Smoke [Outlooks](https://www.facebook.com/SierraNF/posts/pfbid021UAUr4qRfLMWPt1YZ1tebRK3bEsVudbnwatEjfKp4QrNoVkHmjQfcRRtepeGqt4ul) 
+
+<video width="400px" height="auto" controls poster="https://github.com/user-attachments/assets/77752d5e-9e37-4fbe-9856-ae4aec1b8091" > 
+	
+ <source src="https://ia600902.us.archive.org/29/items/20250816_20250816_1754_EcoStress_CRAM/G18_sector_psw_GEOCOLOR_84fr_20250906-1553-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4">	 
+  <source src="https://ia600902.us.archive.org/29/items/20250816_20250816_1754_EcoStress_CRAM/G18_sector_psw_GEOCOLOR_84fr_20250906-1553-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4">
+
+</video> 
 
 [@noaa VJ102DNB - VIIRS/JPSS1 Day/Night Band Moderate Resolution 6-Min L1B Swath 750m](https://ladsweb.modaps.eosdis.nasa.gov/missions-and-measurements/products/VJ102DNB/) imported to [@googleearth](https://earth.google.com/web/@45.60697552,-90.76771692,4433.58548918a,11587353.5756886d,30y,303.16120364h,0t,0r/data=CgRCAggBQgIIAEoICJHM754FEAA) via [NasaWorldView_KeyholeMarkeup](https://worldview.earthdata.nasa.gov/?v=-229.26900829080392,-84.93081573071159,95.84926740923699,75.08833559040231&z=4&ics=true&ici=5&icd=60&l=AERONET_ANGSTROM_440-870NM,AERONET_AOD_500NM,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),VIIRS_NOAA21_DayNightBand(hidden),VIIRS_NOAA20_DayNightBand(hidden),OMI_Aerosol_Index(hidden),BlueMarble_ShadedRelief(hidden)&lg=true&t=2025-09-02-T23%3A07%3A30Z) ~_[KMZ_EXPORT @blackgirlscode](https://github.com/kellyrashardiman/kellyrashardiman.github.io/blob/master/assets/scripts/snapshot-2023-10-22T00_00_00Z.kmz)
 <img  alt="image" src="https://github.com/user-attachments/assets/cffdb822-2d36-4040-8e0a-0abc89406dd5" />
