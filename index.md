@@ -7,6 +7,15 @@ layout: default
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+
+[@noaa VJ102DNB - VIIRS/JPSS1 Day/Night Band Moderate Resolution 6-Min L1B Swath 750m](https://ladsweb.modaps.eosdis.nasa.gov/missions-and-measurements/products/VJ102DNB/) imported to [@googleearth](https://earth.google.com/web/@45.60697552,-90.76771692,4433.58548918a,11587353.5756886d,30y,303.16120364h,0t,0r/data=CgRCAggBQgIIAEoICJHM754FEAA) via [NasaWorldView_KeyholeMarkeup](https://worldview.earthdata.nasa.gov/?v=-229.26900829080392,-84.93081573071159,95.84926740923699,75.08833559040231&z=4&ics=true&ici=5&icd=60&l=AERONET_ANGSTROM_440-870NM,AERONET_AOD_500NM,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),VIIRS_NOAA21_DayNightBand(hidden),VIIRS_NOAA20_DayNightBand(hidden),OMI_Aerosol_Index(hidden),BlueMarble_ShadedRelief(hidden)&lg=true&t=2025-09-02-T23%3A07%3A30Z) ~_[KMZ_EXPORT @blackgirlscode](https://github.com/kellyrashardiman/kellyrashardiman.github.io/blob/master/assets/scripts/snapshot-2023-10-22T00_00_00Z.kmz)
+<img  alt="image" src="https://github.com/user-attachments/assets/cffdb822-2d36-4040-8e0a-0abc89406dd5" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ec14a445-6362-4e09-b5a4-a00211150683" />
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/37b3e896-5228-40ca-82c2-79215cdf43e0" />
+
 ![leadership @stateofcalifornia @nasa-jpl](https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/5/de/5de8d4a6-8258-11ee-a9d8-7f5b5d3a916f/6552751ac0ec3.image.jpg?resize=990%2C660) 
 LA mayor celebrates moving 8,866 homeless into permanent free housing in 2024 [Read https://www.thecentersquare.com/](https://www.thecentersquare.com/california/article_2772a650-b695-11ef-92b8-cb84d1295234.html) [‘There’s just a pile-on’: How Karen Bass lost control of the wildfire narrative - politico.com/](https://www.politico.com/news/2025/01/14/karen-bass-california-wildfires-00198180)
 
