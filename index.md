@@ -5,8 +5,39 @@ layout: default
 
 
 
+[DSCOVR: EPIC](https://epic.gsfc.nasa.gov/)
+LAst Update 7/15
+@nasa-jpl @nasa-pds @podaac i went into detail on facebook. @nasa-pds and included @Harvard and Noaa @avanderburg @fbecerra
+There are files after #JULY15 but i did not see anything obviouse about #ImagingData this #gzip is from #July25th 
+ 2025-07-27T00:00:00Z 2025-07-27T23:59:59Z Faraday Cup L1 data OE `2025-07-28T01:02:33Z` 0.00 MB
+ 2025-07-28T00:00:00Z 2025-07-28T23:59:59Z Faraday Cup L1 data OE 2025-07-29T01:02:34Z `0.00` MB
+ 2025-07-28T00:00:00Z 2025-07-28T23:59:59Z Faraday Cup L0 data OE 2025-07-29T01:02:18Z 0.00 MB
+ 2025-07-28T00:00:00Z 2025-07-28T23:59:59Z Magnetometer L0 data OE 2025-07-29T01:01:00Z 0.00 MB
+ 2025-07-28T00:00:00Z 2025-07-28T23:59:59Z Stored Observatory Telemetry OE 2025-07-29T00:00:10Z 0.00 
+      ___    _____     ___                                                      
+    /_ /|  /____/ \  /_ /|       Horizons On-line Ephemeris System v4.98d      
+    | | | |  __ \ /| | | |       Solar System Dynamics Group                   
+ ___| | | | |__) |/  | | |__     Jet Propulsion Laboratory                     
+/___| | | |  ___/    | |/__ /|   Pasadena, CA, USA                             
+|_____|/  |_|/       |_____|/        
+
+@cityoflosangeles @stateofcalifornia 
+@nasa @whitehouse
+[3](https://www.facebook.com/permalink.php?story_fbid=pfbid0mmmdm6XtYVSqGDGbSKyruR2rYLqeCfweBr2XusTXpNJSHNgZiQ4mgjV5jvM6kK27l&id=100084464911565) [2 - see comments](https://www.facebook.com/permalink.php?story_fbid=pfbid0oFVyGBzyKAFcTZwKbugkPovqCD9udCSNREZ2qACfLHjXQAjXWLzcPFPFbuKJHSS6l&id=100084464911565) [3](https://www.facebook.com/permalink.php?story_fbid=pfbid037qx2RYkMNViZPfcrginUjcUBq9NLPFT5byYEf7Q15MkNEgY1Zp8VNAQfiQEUo6cBl&id=100084464911565)
+
+@blackgirlscode
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fd8976af-d356-411b-a4fb-2f2d9f15e704" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/cc68c24a-03f6-44a8-acc7-9d9736e4aacd" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b54bfbc6-7d23-4330-aa71-b06e6ee035c2" />
+
+[Raheem The Dream - Toot That Booty Up Original 1st Version - ATL Club Classic](https://youtu.be/4b2IS_JdGS4?t=107)
 
 
+# [epic.gsfc.nasa.gov/*epic_1b_20250715092011.jpg](https://epic.gsfc.nasa.gov/archive/natural/2025/07/15/jpg/epic_1b_20250715092011.jpg) 
+<img alt="image" src="https://github.com/user-attachments/assets/677ac0da-7f85-4235-94a7-6f97b2838675" />
 
 U.S. Forest Service - Sierra National Forest @USDAForestService
 @podaac @nasa-pds @nasa-jpl -#[RASHARD](https://archive.org/details/nasa-worldview-2025-aug-13-to-2025-aug-25)
