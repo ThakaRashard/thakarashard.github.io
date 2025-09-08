@@ -4,7 +4,7 @@ layout: default
 {% include nav.html %}
 
 
-[@NASA STREAM](https://forum.earthdata.nasa.gov/viewtopic.php?t=5601] @podaac ecostress @nasa-pds, im getting amazing detail out of this software 
+[@NASA STREAM](https://forum.earthdata.nasa.gov/viewtopic.php?t=5601) @podaac ecostress @nasa-pds, im getting amazing detail out of this software 
 
 <img   alt="Screenshot 2025-08-27 4 24 03 PM" src="https://github.com/user-attachments/assets/32151221-b1d8-46e4-9df1-38ab1092d45c" />
 
