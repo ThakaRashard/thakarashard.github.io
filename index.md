@@ -8,24 +8,31 @@ layout: default
 [DSCOVR: EPIC](https://epic.gsfc.nasa.gov/)
 LAst Update 7/15
 @nasa-jpl @nasa-pds @podaac i went into detail on facebook. @nasa-pds and included @Harvard and Noaa @avanderburg @fbecerra
-There are files after #JULY15 but i did not see anything obviouse about #ImagingData this #gzip is from #July25th 
+There are files after #JULY15 but i did not see anything obviouse about #ImagingData this #gzip is from #July25th  many of the datasources are blank, Since the thing is broaDCASTING Chief Master Sergeant of the Space Force Bill Nelson Congressmember Karen Bass im just trying to get eyes on the issue 
+ ### Start Date End Date Data Type Processing
+Environment  Processing Date Filesize
+ 2025-07-12T00:00:00Z 2025-07-12T23:59:59Z Faraday Cup L1 data OE 2025-07-13T02:20:03Z 0.33 MB
+ 2025-07-12T00:00:00Z 2025-07-12T23:59:59Z Stored Observatory Telemetry OE 2025-07-13T00:00:11Z 34.85 MB
+ 2025-07-12T00:00:00Z 2025-07-12T23:59:59Z Magnetometer L0 data OE 2025-07-13T01:01:00Z 34.50 MB
  2025-07-27T00:00:00Z 2025-07-27T23:59:59Z Faraday Cup L1 data OE `2025-07-28T01:02:33Z` 0.00 MB
  2025-07-28T00:00:00Z 2025-07-28T23:59:59Z Faraday Cup L1 data OE 2025-07-29T01:02:34Z `0.00` MB
  2025-07-28T00:00:00Z 2025-07-28T23:59:59Z Faraday Cup L0 data OE 2025-07-29T01:02:18Z 0.00 MB
  2025-07-28T00:00:00Z 2025-07-28T23:59:59Z Magnetometer L0 data OE 2025-07-29T01:01:00Z 0.00 MB
  2025-07-28T00:00:00Z 2025-07-28T23:59:59Z Stored Observatory Telemetry OE 2025-07-29T00:00:10Z 0.00 
+ 
+ ```
       ___    _____     ___                                                      
     /_ /|  /____/ \  /_ /|       Horizons On-line Ephemeris System v4.98d      
     | | | |  __ \ /| | | |       Solar System Dynamics Group                   
  ___| | | | |__) |/  | | |__     Jet Propulsion Laboratory                     
 /___| | | |  ___/    | |/__ /|   Pasadena, CA, USA                             
 |_____|/  |_|/       |_____|/        
-
+```
 @cityoflosangeles @stateofcalifornia 
 @nasa @whitehouse
 [3](https://www.facebook.com/permalink.php?story_fbid=pfbid0mmmdm6XtYVSqGDGbSKyruR2rYLqeCfweBr2XusTXpNJSHNgZiQ4mgjV5jvM6kK27l&id=100084464911565) [2 - see comments](https://www.facebook.com/permalink.php?story_fbid=pfbid0oFVyGBzyKAFcTZwKbugkPovqCD9udCSNREZ2qACfLHjXQAjXWLzcPFPFbuKJHSS6l&id=100084464911565) [3](https://www.facebook.com/permalink.php?story_fbid=pfbid037qx2RYkMNViZPfcrginUjcUBq9NLPFT5byYEf7Q15MkNEgY1Zp8VNAQfiQEUo6cBl&id=100084464911565)
 
-@blackgirlscode
+[@blackgirlscode anime](https://dn720406.ca.archive.org/0/items/fatal-fury-legend-of-the-hungry-wolf-1994-vhs-dub/FatalFury_LegendOfTheHungryWolf_%5B1994%5D.mp4) [fb](https://www.facebook.com/permalink.php?story_fbid=pfbid02CxnRnrf3x7XBN5hk1zYRCr5UsU2KKmxLsuwnQ5KFRUB1G1e2rCvBDNuRX5wuBEsyl&id=100084464911565) [TheMAxx](https://archive.org/details/the-maxx-complete-ytv-run)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/fd8976af-d356-411b-a4fb-2f2d9f15e704" />
 
@@ -37,6 +44,44 @@ There are files after #JULY15 but i did not see anything obviouse about #Imaging
 
 
 # [epic.gsfc.nasa.gov/*epic_1b_20250715092011.jpg](https://epic.gsfc.nasa.gov/archive/natural/2025/07/15/jpg/epic_1b_20250715092011.jpg) 
+Horizons> DSCOVR
+*******************************************************************************
+ Revised: Sep 03, 2025          DSCOVR Spacecraft  / (Earth)                -78 
+                             http://www.nesdis.noaa.gov/DSCOVR/
+ BACKGROUND:
+  DSCOVR was launched Feb 11, 2015 @ 23:03:02 UTC from Cape Canaveral, Florida, 
+  USA using a Space-X Falcon 9 v1.1
+  DSCOVR was placed in a six-month Lissajous orbit around Sun-Earth Lagrange 
+  Point 1 (L1) on June 8, 2015, about 200 Earth radii upstream of Earth in the
+  direction of the Sun.
+  Main instrument are:
+   (1) Sun-observing Plasma Magnetometer (PlasMag)
+   (2) Earth-observing NIST Advanced Radiometer (NISTAR) 
+   (3) Earth Polychromatic Imaging Camera (EPIC) 
+   (4) Electron Spectrometer (ES)   
+   (5) Pulse Height Analyzer (PHA)
+  Objectives of the DSCOVR 5-year mission:
+   * Observe unperturbed solar wind 15-60 minutes prior to it impacting
+      the Earth's magnetosphere (geomagnetic storm warnings).
+   * Provide early warnings of coronal mass ejections
+   * Observe changes in Earth atmosphere ozone, aerosols, dust, nand cloud
+      height at two hour intervals.
+  DSCOVR (formerly known as Triana) was originally conceived in the late 1990s
+  as a NASA Earth science mission. The mission was canceled and the satellite 
+  was put into storage in 2001. NOAA and the USAF had DSCOVR removed from 
+  storage in 2008 and subsequently funded NASA to test and refurbish the
+  spacecraft and sensors.
+  @NOAA operates #DSCOVR from its Satellite Operations Facility in Suitland, 
+  #Maryland and distributes the data to users and partner agencies. NOAA will 
+  process the space weather data, providing products and forecasts through 
+  the NOAA #SpaceWeather Prediction Center in #BoulderColorado, and archive 
+  the data at the NOAA National Geophysical Data Center in Boulder, Colorado. 
+  NASA is responsible for processing the Earth sensor data.
+ SPACECRAFT PHYSICAL CHARACTERISTICS:
+  Mass      :  570 kg at launch
+ SPACECRAFT TRAJECTORY: 
+EPIC?
+EPIC (Earth Polychromatic Imaging Camera) is a 10-channel spectroradiometer (317 – 780 nm) onboard NOAA’s DSCOVR (Deep Space Climate Observatory) spacecraft. EPIC provides 10 narrow band spectral images of the entire sunlit face of Earth using a 2048x2048 pixel CCD (Charge Coupled Device) detector coupled to a 30-cm aperture Cassegrain telescope (Figure 1).
 <img alt="image" src="https://github.com/user-attachments/assets/677ac0da-7f85-4235-94a7-6f97b2838675" />
 
 U.S. Forest Service - Sierra National Forest @USDAForestService
