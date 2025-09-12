@@ -4,7 +4,14 @@ layout: default
 {% include nav.html %}
 
 
+
+<img  alt="image @NorthropGrumman" src="https://github.com/user-attachments/assets/c2a462e1-c34e-42de-80e3-cae15305580f" />
+
 [@NASA STREAM](https://forum.earthdata.nasa.gov/viewtopic.php?t=5601) @podaac ecostress @nasa-pds, im getting amazing detail out of this software 
+
+
+[Facebook @nasa](https://www.facebook.com/permalink.php?story_fbid=pfbid0QawX466PZhGPa9Z5dLxtzy5Nrcd3VRLvr94Au4AKaHeX4xhe3TzpWH5ba8y9QYppl&id=100084464911565) [Facebook @cityoflosangeles @stateofcalifornia](https://www.facebook.com/permalink.php?story_fbid=pfbid02gywaUw4nDXqKEaTeeCbNZZbJqpon12enZjtK5tFmJQqAnxEgCs5vs5mzKwj8oBmol&id=100084464911565)
+<img alt="image @blackgirlscode @normani" src="https://github.com/user-attachments/assets/0d37f120-de7a-4828-9357-6088f81df098" />
 
 <img   alt="Screenshot 2025-08-27 4 24 03 PM" src="https://github.com/user-attachments/assets/32151221-b1d8-46e4-9df1-38ab1092d45c" />
 
