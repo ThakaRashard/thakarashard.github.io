@@ -4,7 +4,30 @@ layout: default
 {% include nav.html %}
 
 
-# [@nasa-develop @stateofcalifornia @cityoflosangeles @usgs @blackgirlscode](https://ia601006.us.archive.org/10/items/vid-20250910-135146/VID_20250919_103337.mp4)
+
+![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+
+<img alt="image" src="https://github.com/user-attachments/assets/a7559fad-536a-4e0b-b055-9f7f50859270" />
+https://dy4owt9f80bz7.cloudfront.net/s3-06b3213905ebfa9144871d6c7f9306f0/asf-ngap2w-p-s1-img-c6fc3715.s3.us-west-2.amazonaws.com/S1A_IW_GRDH_1SDV_20250219T232148_20250219T232213_057972_07278E_6DD9.jpg?A-userid=rashardkelly&Expires=1758321543&Signature=4tnjTSpjU9xaNIzBHGHEt4DoMOpBfzdqeixLEUAKeSto4HPEyIAqLP7-qXycyxqrXH7C-LjumwqG~o-TH0yl7lCwm~gzGxXL4zx4hJtQj13ERxnfMHF~GALtqHpeoNJg8olPHSjJ5vrqb8zb~KxBlIwrz8Fbx5oOkkQjvo8NksFPW6xpuf3HW2VW1PAV2YjTX-5WTQBMltpWzJSZHyYUzHtqx1rZn~iSswc9j2oY85woC~erT063OhmvdafbGut3CbguSprzyro8cTzMDzsHR8s5Ir~dNkeoVtjt1gVUkm-AFEkQZqNsYY3RFOraj6LvMvBs8BGxaeuv534PEXfp4g__&Key-Pair-Id=K36Z9U953ARO59
+
+<img  alt="image" src="https://github.com/user-attachments/assets/30fd95cd-9009-4d57-a864-21244d9c19bf" />
+
+https://dy4owt9f80bz7.cloudfront.net/s3-06b3213905ebfa9144871d6c7f9306f0/asf-ngap2w-p-s1-img-c6fc3715.s3.us-west-2.amazonaws.com/S1A_IW_GRDH_1SDV_20250830T232145_20250830T232210_060772_079083_C29F.jpg?A-userid=rashardkelly&Expires=1758320897&Signature=vmrGsSPzXOD27gO0UIflO8~eB3vzJZCKUINl2YmyCVIilHD6E9jDk-6RLQOEZsu~XkMDlPmUz8uNB8uC~0Jq~mIV1g6Oczdwrp-Kt9EKKZjUQletklRvHbx2bGbRcCe5biL4Rq30NWo~YyLoSPmF14b4RKwJfJSHNFaWYXYIecPQFnsSzpwhX57pjQGhrKlFphk6X56hBDG6R-mTUj97fTmaQ0~FBC-KR0HZ1u3wCnPlZd7hCeNXwrmvzcSu2hd4fXR13YKXdkZctXBFB~Z6VmwnlVUiAwyl~326HyAhoez8k0ij8C9O3R7IRzCi6MJ6u2lE85~BLr3Qw7ML8QvWKg__&Key-Pair-Id=K36Z9U953ARO59
+[HiRes @nasa-jpl emit-sds](https://archive.org/download/vid-20250914-182140/S1A_IW_GRDH_1SDV_20250219T232148_20250219T232213_057972_07278E_6DD9.zip)
+
+
+[@nasa-jpl hr](https://ia801301.us.archive.org/27/items/15-ab-souls-outro-feat-ab-soul_202401/Section.80/05%20Tammy%27s%20Song%20%28Her%20Evils%29.mp3)
+<img  alt="image" src="https://github.com/user-attachments/assets/45b035db-a5ae-4e3a-af4f-16ebae6d5c32" />
+Congressmember Karen Bass #DTLA Immigration And Customs Enforcement (ICE) i think u guys should visit Soka Gakkai #SANTAMONiCA and see whats going on Santa Monica Police Department #PiER and if the girls are going there for #rapeHealing #re:#TammysSong 102.3 RadioFree KJLH KPFK 90.7 FM Los Angeles / 98.7 FM Santa Barbara Kendrick Lamar Normani SZA Steve Harvey Snoop Dogg -#Rashard NASA/JPL Physical Oceanography Data Center Jennifer Siebel Newsom Governor Newsom United Nations Office for Outer Space Affairs (UNOOSA) JAXA(宇宙航空研究開発機構)
+
+#TAMMY.#MP3 [https://archive.org/download/15-ab-souls-outro-feat-ab-soul_202401/Section.80/05%20Tammy%27s%20Song%20%28Her%20Evils%29.mp3](https://archive.org/download/15-ab-souls-outro-feat-ab-soul_202401/Section.80/05%20Tammy%27s%20Song%20%28Her%20Evils%29.mp3) 
+
+#KeisHA.#MP3 [https://archive.org/download/15-ab-souls-outro-feat-ab-soul_202401/Section.80/11%20Keisha%27s%20Song%20%28Her%20Pain%29%20%5Bfeat_%20Ashtro%20Bot%5D.mp3](https://archive.org/download/15-ab-souls-outro-feat-ab-soul_202401/Section.80/11%20Keisha%27s%20Song%20%28Her%20Pain%29%20%5Bfeat_%20Ashtro%20Bot%5D.mp3) @BlackGirlsCode Georgia Bureau of Investigation County of Los Angeles Maxine Waters Kamala Harris Donald Glover Power 106 Los Angeles KNX News 97.1 FM Fort Stewart Hunter Army Airfield E93 Radio :: Chloe Bailey personal blog Essence chloe, if u r tyra i cried alot my interaction style with her is similar to Normani im not hateful, my heart just broke, bc u know im that type of healer, but i dont break my commitments Georgia Division of Family & Children Services Kash Doll Lindsey Horvath Hollywood Food Coalition International Space Station NASA Madrid DSN Fat Beats
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d5292cf9-e995-405e-934e-49fbf522e831" />
+
+## [@nasa-develop @stateofcalifornia @cityoflosangeles @usgs @blackgirlscode](https://ia601006.us.archive.org/10/items/vid-20250910-135146/VID_20250919_103337.mp4)
  [watchVid](https://ia601006.us.archive.org/10/items/vid-20250910-135146/VID_20250919_103337.mp4)
 
 <img  alt="image @NorthropGrumman" src="https://github.com/user-attachments/assets/c2a462e1-c34e-42de-80e3-cae15305580f" />
