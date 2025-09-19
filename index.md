@@ -7,7 +7,11 @@ layout: default
 
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
-PAsadena history [cityofpasadena.net](https://www.cityofpasadena.net/library/pasadena-history/)  Library Park [@nasa-jpl @emit-sds @emit-main](https://www.tclf.org/landscapes/pasadena-memorial-park) + [@meta PatrickDugans Post](https://www.facebook.com/groups/CalHistory/permalink/1405882956289151/)
+PAsadena history [cityofpasadena.net](https://www.cityofpasadena.net/library/pasadena-history/)  Library Park [@nasa-jpl @emit-sds @emit-main](https://www.tclf.org/landscapes/pasadena-memorial-park) + [@meta PatrickDugans Post](https://www.facebook.com/groups/CalHistory/permalink/1405882956289151/) [SouthPasadenaHistory](https://www.southpasadenaca.gov/Your-Government/Department-Service-Areas/Library/Local-History)
+
+
+Pasadena Public Library [hmdb.org @nasa-jpl](https://www.hmdb.org/m.asp?m=71141)
+(1890-1927)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/373c81d9-cb03-492d-a9de-5721c92794a2" />
 
