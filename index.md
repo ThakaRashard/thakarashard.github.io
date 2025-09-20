@@ -7,6 +7,8 @@ layout: default
 
 
 [@Nasa-jpl GEOLOGY @NASA-DEVELOP @blackgirlscode](https://github.com/ThakaRashard/rashardmro/blob/master/assets/pl0ts/_mars.nasa.gov_msl-raw-images_msss_04664_mhli_4664MH0002270001701903R00_DXXXezgif_com-animated-gif-maker.gif)
+<img  alt="image Sol 4664: Mars Hand Lens Imager (MAHLI) @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/413af9ed-b0b3-4b5b-a600-689f614f0939" />
+
 
 <img  alt="Universe is where dreamers become builders" src="https://github.com/user-attachments/assets/24c9af86-bd66-4064-bb70-5de9b1bc1b0c" />
 
