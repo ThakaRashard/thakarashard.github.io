@@ -8,10 +8,10 @@ layout: default
 <img   alt="image" src="https://github.com/user-attachments/assets/08840050-8a8f-4987-ac13-cf3a122a01b2" />
 
 
-# Sol [4664](https://www.lpl.arizona.edu/missions/msl) : Mars Hand Lens Imager (MAHLI)
+# Sol [4664](https://www.lpl.arizona.edu/missions/msl) : Mars Hand Lens Imager ([MAHLI](https://www.msss.com/all_projects/msl-mahli.php) )
 [CURiOSiTY](https://eyes.nasa.gov/curiosity/) - Mars Science LAboratory ([MSL](https://en.wikipedia.org/wiki/Mars_Science_Laboratory))
 [Curiosity's ChemCam Views](https://www.jpl.nasa.gov/images/pia26638-curiositys-chemcam-views-summit-and-cliffs-beyond-gale-crater/)
-[@Nasa-jpl GEOLOGY @NASA-DEVELOP @blackgirlscode - ](https://github.com/ThakaRashard/rashardmro/blob/master/assets/pl0ts/_mars.nasa.gov_msl-raw-images_msss_04664_mhli_4664MH0002270001701903R00_DXXXezgif_com-animated-gif-maker.gif)
+[@Nasa-jpl GEOLOGY @NASA-DEVELOP @blackgirlscode - Sol 4664](https://github.com/ThakaRashard/rashardmro/blob/master/assets/pl0ts/_mars.nasa.gov_msl-raw-images_msss_04664_mhli_4664MH0002270001701903R00_DXXXezgif_com-animated-gif-maker.gif)
 
 ![MSL @nasa-jpl](https://upload.wikimedia.org/wikipedia/commons/a/a3/Mars_Science_Laboratory_mission_logo.png)
 
@@ -20,6 +20,10 @@ layout: default
 
 Curiosity [GaleCrater](https://www.jpl.nasa.gov/images/pia26671-curiosity-views-gale-craters-rim-homing-in-on-ancient-river-channel/)    [MurrayLabs-MarsMosaic @esri](https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html)
 <img  alt="image" src="https://github.com/user-attachments/assets/169e7a70-1485-4f9f-a5fa-5578679d879e" />
+![DRT @nasa-jpl](https://www.msss.com/images/operations/MSLMAHLI/VeraRubinDRT.jpeg)
+
+This [MAHLI](https://www.msss.com/all_projects/msl-mahli.php) image shows the effect of the Dust Removal Tool (DRT) on a dusty rock in the Vera Rubin Ridge area.
+Image credit: [NASA](https://science.nasa.gov/earth/data/)/[JPL](https://www.jpl.jobs/)-[Caltech](https://www.caltech.edu/research/jpl)/[MSSS](https://www.msss.com/all_projects/msl-mahli.php)
 
 <img  alt="Universe is where dreamers become builders" src="https://github.com/user-attachments/assets/24c9af86-bd66-4064-bb70-5de9b1bc1b0c" />
 
