@@ -9,9 +9,12 @@ layout: default
 
 
 # Sol [4664](https://www.lpl.arizona.edu/missions/msl) : Mars Hand Lens Imager (MAHLI)
-[CURiOSiTY](https://eyes.nasa.gov/curiosity/) - Mars Science LAboratory 
+[CURiOSiTY](https://eyes.nasa.gov/curiosity/) - Mars Science LAboratory ([MSL](https://en.wikipedia.org/wiki/Mars_Science_Laboratory))
 [Curiosity's ChemCam Views](https://www.jpl.nasa.gov/images/pia26638-curiositys-chemcam-views-summit-and-cliffs-beyond-gale-crater/)
-[@Nasa-jpl GEOLOGY @NASA-DEVELOP @blackgirlscode](https://github.com/ThakaRashard/rashardmro/blob/master/assets/pl0ts/_mars.nasa.gov_msl-raw-images_msss_04664_mhli_4664MH0002270001701903R00_DXXXezgif_com-animated-gif-maker.gif)
+[@Nasa-jpl GEOLOGY @NASA-DEVELOP @blackgirlscode - ](https://github.com/ThakaRashard/rashardmro/blob/master/assets/pl0ts/_mars.nasa.gov_msl-raw-images_msss_04664_mhli_4664MH0002270001701903R00_DXXXezgif_com-animated-gif-maker.gif)
+
+![MSL @nasa-jpl](https://upload.wikimedia.org/wikipedia/commons/a/a3/Mars_Science_Laboratory_mission_logo.png)
+
 <img  alt="image Sol 4664: Mars Hand Lens Imager (MAHLI) @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/413af9ed-b0b3-4b5b-a600-689f614f0939" />
 
 
