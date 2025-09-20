@@ -7,7 +7,7 @@ layout: default
 
 <img   alt="image" src="https://github.com/user-attachments/assets/08840050-8a8f-4987-ac13-cf3a122a01b2" />
 
-
+![MSL](https://d2pn8kiwq2w21t.cloudfront.net/images/28-mission-current-MSL-Curiosity.height-700.format-webp.webp)
 # Sol 4664: Mars Hand Lens Imager (MAHLI)
 [CURiOSiTY](https://eyes.nasa.gov/curiosity/) - Mars Science LAboratory 
 [Curiosity's ChemCam Views](https://www.jpl.nasa.gov/images/pia26638-curiositys-chemcam-views-summit-and-cliffs-beyond-gale-crater/)
