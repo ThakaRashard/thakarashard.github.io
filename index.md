@@ -7,13 +7,16 @@ layout: default
 
 <img   alt="image" src="https://github.com/user-attachments/assets/08840050-8a8f-4987-ac13-cf3a122a01b2" />
 
-![MSL](https://d2pn8kiwq2w21t.cloudfront.net/images/28-mission-current-MSL-Curiosity.height-700.format-webp.webp)
-# Sol 4664: Mars Hand Lens Imager (MAHLI)
+
+# Sol [4664](https://www.lpl.arizona.edu/missions/msl) : Mars Hand Lens Imager (MAHLI)
 [CURiOSiTY](https://eyes.nasa.gov/curiosity/) - Mars Science LAboratory 
 [Curiosity's ChemCam Views](https://www.jpl.nasa.gov/images/pia26638-curiositys-chemcam-views-summit-and-cliffs-beyond-gale-crater/)
 [@Nasa-jpl GEOLOGY @NASA-DEVELOP @blackgirlscode](https://github.com/ThakaRashard/rashardmro/blob/master/assets/pl0ts/_mars.nasa.gov_msl-raw-images_msss_04664_mhli_4664MH0002270001701903R00_DXXXezgif_com-animated-gif-maker.gif)
 <img  alt="image Sol 4664: Mars Hand Lens Imager (MAHLI) @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/413af9ed-b0b3-4b5b-a600-689f614f0939" />
 
+
+Curiosity [GaleCrater](https://www.jpl.nasa.gov/images/pia26671-curiosity-views-gale-craters-rim-homing-in-on-ancient-river-channel/)    [MurrayLabs-MarsMosaic @esri](https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html)
+<img  alt="image" src="https://github.com/user-attachments/assets/169e7a70-1485-4f9f-a5fa-5578679d879e" />
 
 <img  alt="Universe is where dreamers become builders" src="https://github.com/user-attachments/assets/24c9af86-bd66-4064-bb70-5de9b1bc1b0c" />
 
@@ -512,6 +515,7 @@ PIONEERING MARS LANDER HISTORIC FILM [48584](https://youtu.be/JPAyg7-p9oM?t=932)
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:14gJtxoOvHwVbrjwtr6x5A/790812496359538688/v2" data-did="ce7fef82ae241825df9b933cba6178f68cb3dec3"  ><a href="https://www.tumblr.com/santamonicashaadi/790812496359538688">https://www.tumblr.com/santamonicashaadi/790812496359538688</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 
+![MSL](https://d2pn8kiwq2w21t.cloudfront.net/images/28-mission-current-MSL-Curiosity.height-700.format-webp.webp)
 
 [esa](https://www.esa.int/)
 
