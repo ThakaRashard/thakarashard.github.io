@@ -4,6 +4,20 @@ layout: default
 {% include nav.html %}
 
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+[MIT Science Reporter — "Landing on the Moon" (1966)](https://www.youtube.com/watch?v=6UuRCwsGugg)
+[Transistor: a 1953 documentary, anticipating its coming impact on technology](https://youtu.be/V9xUQWo4vN0?si=1IkM2cuwoO2UG-gM)
+Giovanni Measurement Definitions: Energy
+Convective Available Potential Energy [Read @blackgirlscode](https://disc.gsfc.nasa.gov/information/glossary?keywords=giovanni%20measurements&title=Giovanni%20Measurement%20Definitions:%20Energy)
+
+Convective Available Potential Energy (CAPE) is a measure of the amount of energy available for convection. CAPE is directly related to the maximum potential vertical speed within an updraft; thus, higher values indicate greater potential for severe weather [Link](https://disc.gsfc.nasa.gov/information/glossary?keywords=giovanni%20measurements&title=Giovanni%20Measurement%20Definitions:%20Energy)
+
+## Mars Geology Imaging + ELNiNO ANOMOLY  Gifs
+
+<iframe src="https://archive.org/embed/mars-geology-imaging-gifs" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+## California_Linux: rashards Library Use Los Angeles Public Library South Pasadena Police Nasajpl
+[files](https://archive.org/download/1rashards-library-use-los-angeles-public-library-south-pasadena-police-nasajpl-vid-20250919-160322) 
+<iframe src="https://archive.org/embed/1rashards-library-use-los-angeles-public-library-south-pasadena-police-nasajpl-vid-20250919-160322" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <img   alt="image" src="https://github.com/user-attachments/assets/08840050-8a8f-4987-ac13-cf3a122a01b2" />
 
