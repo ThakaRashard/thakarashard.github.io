@@ -7,7 +7,8 @@ layout: default
 
 <img   alt="image" src="https://github.com/user-attachments/assets/08840050-8a8f-4987-ac13-cf3a122a01b2" />
 
-![Autum @nasa](https://oceancolor.gsfc.nasa.gov/gallery/feature/images/PACE_OCI_2024102120241021_autumn_colors_lg.png)
+![Autum@nasa](https://oceancolor.gsfc.nasa.gov/gallery/feature/images/PACE_OCI_2024102120241021_autumn_colors_lg.png)
+
 # TroubleShootingWeather
 <img  alt="image" src="https://github.com/user-attachments/assets/03e2fb5b-069b-4ad4-b313-fd06c8d828d1" />
 
