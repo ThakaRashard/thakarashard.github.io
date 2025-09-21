@@ -8,6 +8,10 @@ layout: default
 <img   alt="image" src="https://github.com/user-attachments/assets/08840050-8a8f-4987-ac13-cf3a122a01b2" />
 
 
+# TroubleShootingWeather
+<img  alt="image" src="https://github.com/user-attachments/assets/03e2fb5b-069b-4ad4-b313-fd06c8d828d1" />
+
+
 # Sol [4664](https://www.lpl.arizona.edu/missions/msl) : Mars Hand Lens Imager ([MAHLI](https://www.msss.com/all_projects/msl-mahli.php) )
 [CURiOSiTY](https://eyes.nasa.gov/curiosity/) - Mars Science LAboratory ([MSL](https://en.wikipedia.org/wiki/Mars_Science_Laboratory))
 [Curiosity's ChemCam Views](https://www.jpl.nasa.gov/images/pia26638-curiositys-chemcam-views-summit-and-cliffs-beyond-gale-crater/)
