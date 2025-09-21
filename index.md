@@ -6,7 +6,8 @@ layout: default
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 [MIT Science Reporter — "Landing on the Moon" (1966)](https://www.youtube.com/watch?v=6UuRCwsGugg)
 [Transistor: a 1953 documentary, anticipating its coming impact on technology](https://youtu.be/V9xUQWo4vN0?si=1IkM2cuwoO2UG-gM)
-Giovanni Measurement Definitions: Energy
+[Giovanni](https://giovanni.gsfc.nasa.gov/giovanni/#service=TmAvMp&starttime=2025-08-25T00:00:00Z&endtime=2025-08-26T23:59:59Z&data=OMHCHOd_003_key_science_data_column_amount%2CNLDAS_NOAH0125_M_2_0_SnowDepth%2CNLDAS_NOAH0125_M_2_0_SnowFrac%2CLPRM_AMSR2_DS_A_SOILM3_001_soil_moisture_c1%2CFLDAS_NOAHMP001_G_CA_D_001_TWS_tavg) @NASA-DEVELOP @nasa-jpl @Stateofcalifornia @cityoflosangeles
+Measurement Definitions: Energy
 Convective Available Potential Energy [Read @blackgirlscode](https://disc.gsfc.nasa.gov/information/glossary?keywords=giovanni%20measurements&title=Giovanni%20Measurement%20Definitions:%20Energy)
 
 Convective Available Potential Energy (CAPE) is a measure of the amount of energy available for convection. CAPE is directly related to the maximum potential vertical speed within an updraft; thus, higher values indicate greater potential for severe weather [Link](https://disc.gsfc.nasa.gov/information/glossary?keywords=giovanni%20measurements&title=Giovanni%20Measurement%20Definitions:%20Energy)
