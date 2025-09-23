@@ -14,6 +14,13 @@ Thaka is my given name, [Rashard is my Government name, i only trust my governem
 ![image](https://github.com/user-attachments/assets/bbf5baec-a883-4805-bd38-d55c3043d798)
 ![image](https://github.com/user-attachments/assets/2c348d5b-f0d1-4e6f-9942-3ee48a40dbc0)
 
+# Doxxing 
+@nasaearthdata im bullied and doxxed on @meta @facebook again Warning! You are engaging in behavior that may be considered annoying or abusive by other users. Facebook's systems determined that you were going too fast when taking an action. You must significantly slow down. Further misuse of site features may result in a temporary block or your account being permanently disabled.
+
+If you think this doesn't go against our Community Standards let us know. Give feedback @blackgirlscode https://youtu.be/qU2pldVF0p8?si=JkdLyYGVz3OqUF8H im embarrassed to hashtag #Bae bc idk where she be at all!!!!!!!!!!!!!! #Re: #Normani Congressmember Karen Bass i know it came from her... @NASA Jet Propulsion Laboratory
+<img   alt="image" src="https://github.com/user-attachments/assets/4ad971d0-c00b-4a20-9371-7f6ddbafb468" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ce4de1fb-43d7-4902-83e8-01c8537542c0" />
 
 
 ![Thumbnail of Rashard](https://pbs.twimg.com/media/GYBdj5Eb0AI5dIy?format=jpg&name=large)
