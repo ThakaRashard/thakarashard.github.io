@@ -5,7 +5,7 @@ layout: default
 
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
-https://planetarydata.jpl.nasa.gov/img/data/magellan/mg_0004/extras/browse/f70n339/[ff22.img.jpeg](https://planetarydata.jpl.nasa.gov/img/data/magellan/mg_0004/extras/browse/f70n339/ff22.img.jpeg)
+https://planetarydata.jpl.nasa.gov/img/data/magellan/mg_0004/extras/browse/f70n339/ [ff22.img.jpeg](https://planetarydata.jpl.nasa.gov/img/data/magellan/mg_0004/extras/browse/f70n339/ff22.img.jpeg)
 <img   alt="image" src="https://github.com/user-attachments/assets/d9d4f1bc-bddc-4ede-8197-2543057bc1d1" />
 [CassiniRadarGuide @StateofCalifornia @nasa-jpl @blackgirlscode](https://pds-imaging.jpl.nasa.gov/documentation/Cassini_RADAR_Users_Guide_2nd_Ed_191004_cmp_200421.pdf)
 [MIT Science Reporter — "Landing on the Moon" (1966)](https://www.youtube.com/watch?v=6UuRCwsGugg)
