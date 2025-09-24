@@ -4,7 +4,7 @@ layout: default
 {% include nav.html %}
 
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
-
+[HunterAAF](https://www.youtube.com/c/FortStewartHunterArmyAirfield) ::: [DISCOVR:EPiC still down as of 7/15 @nasa @podaac @nasajpl](https://epic.gsfc.nasa.gov/)
 [Censored at BillieJeanKing](https://www.longbeach.gov/library/locations/main-library/) [Watch "
 NASA Flew Over a Fire — to Better Understand Future Ones" On Youtube emit-main @nasa-jpl FireSensing](https://www.youtube.com/watch?v=QFfZe9Zq2mY) [1943](https://youtu.be/z2ssi6A-nw8?si=S6w-kasS5OSf06tN) U.S. NAVY [WWII](https://archive.org/download/DerFuehrersFace/Wdp-1943BannedCartoons-DonaldDuck-DerFuehrersFace.mp4) ERA RADIO [TECHNICIAN](https://www.youtube.com/watch?v=2GAdvIkjgFg) TRAINING FILM - [@usnavy CAPACITANCE OHMS LAW 47514
 ](https://www.youtube.com/watch?v=u__omOnnwis) @blackgirlscode thanks
