@@ -5,6 +5,10 @@ layout: default
 
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
+[Censored at BillieJeanKing](https://www.longbeach.gov/library/locations/main-library/) [Watch "
+NASA Flew Over a Fire — to Better Understand Future Ones" On Youtube emit-main @nasa-jpl FireSensing](https://www.youtube.com/watch?v=QFfZe9Zq2mY) [yT](https://youtu.be/QFfZe9Zq2mY?t=145) @blackgirlscode thanks
+<img  alt="image" src="https://github.com/user-attachments/assets/4c7079cc-08f9-4fe3-bf5c-899dfae6a041" />
+
 # iMAP
 [cnn](https://www.cnn.com/2025/09/24/science/heliosphere-spacex-nasa-imap-launch)  [@nytimes](https://www.nytimes.com/2025/09/24/science/imap-nasa-spacex-launch.html)
 <img   alt="image @nasa-jpl imap is sending back data @blackgirlscode its  new eyes.nasa.gov/apps/dsn-now/dsn.html " src="https://github.com/user-attachments/assets/63343660-6d9f-4eea-a22b-6a401c9b293a" />
