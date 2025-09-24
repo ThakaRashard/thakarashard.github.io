@@ -5,6 +5,10 @@ layout: default
 
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
+# iMAP
+[cnn](https://www.cnn.com/2025/09/24/science/heliosphere-spacex-nasa-imap-launch)  [@nytimes](https://www.nytimes.com/2025/09/24/science/imap-nasa-spacex-launch.html)
+<img   alt="image @nasa-jpl imap is sending back data @blackgirlscode its  new eyes.nasa.gov/apps/dsn-now/dsn.html " src="https://github.com/user-attachments/assets/63343660-6d9f-4eea-a22b-6a401c9b293a" />
+
 planetarydata. @nasa-pds .gov/img/data/magellan/mg_0004/extras/browse/f70n339/ [ff22.img.jpeg](https://planetarydata.jpl.nasa.gov/img/data/magellan/mg_0004/extras/browse/f70n339/ff22.img.jpeg)
 <img   alt="image" src="https://github.com/user-attachments/assets/d9d4f1bc-bddc-4ede-8197-2543057bc1d1" />
 [CassiniRadarGuide @StateofCalifornia @nasa-jpl @blackgirlscode](https://pds-imaging.jpl.nasa.gov/documentation/Cassini_RADAR_Users_Guide_2nd_Ed_191004_cmp_200421.pdf)
