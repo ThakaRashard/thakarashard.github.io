@@ -6,8 +6,11 @@ layout: default
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
 [Censored at BillieJeanKing](https://www.longbeach.gov/library/locations/main-library/) [Watch "
-NASA Flew Over a Fire — to Better Understand Future Ones" On Youtube emit-main @nasa-jpl FireSensing](https://www.youtube.com/watch?v=QFfZe9Zq2mY) [yT](https://youtu.be/QFfZe9Zq2mY?t=145) @blackgirlscode thanks
+NASA Flew Over a Fire — to Better Understand Future Ones" On Youtube emit-main @nasa-jpl FireSensing](https://www.youtube.com/watch?v=QFfZe9Zq2mY) [yT](https://youtu.be/QFfZe9Zq2mY?t=145) [1943](https://youtu.be/z2ssi6A-nw8?si=S6w-kasS5OSf06tN) U.S. NAVY [WWII](https://archive.org/download/DerFuehrersFace/Wdp-1943BannedCartoons-DonaldDuck-DerFuehrersFace.mp4) ERA RADIO [TECHNICIAN](https://www.youtube.com/watch?v=2GAdvIkjgFg) TRAINING FILM - [@usnavy CAPACITANCE OHMS LAW 47514
+](https://www.youtube.com/watch?v=u__omOnnwis) @blackgirlscode thanks
 <img  alt="image" src="https://github.com/user-attachments/assets/4c7079cc-08f9-4fe3-bf5c-899dfae6a041" />
+
+![SPACESTATiON](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2025.09.24/AST_L1T_00309232025014553_20250924144616_650595_BR.4.QA.jpg)
 
 # iMAP
 [cnn](https://www.cnn.com/2025/09/24/science/heliosphere-spacex-nasa-imap-launch)  [@nytimes](https://www.nytimes.com/2025/09/24/science/imap-nasa-spacex-launch.html)
