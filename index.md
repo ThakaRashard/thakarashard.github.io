@@ -4,6 +4,10 @@ layout: default
 {% include nav.html %}
 
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+
+https://planetarydata.jpl.nasa.gov/img/data/magellan/mg_0004/extras/browse/f70n339/[ff22.img.jpeg](https://planetarydata.jpl.nasa.gov/img/data/magellan/mg_0004/extras/browse/f70n339/ff22.img.jpeg)
+<img   alt="image" src="https://github.com/user-attachments/assets/d9d4f1bc-bddc-4ede-8197-2543057bc1d1" />
+[CassiniRadarGuide @StateofCalifornia @nasa-jpl @blackgirlscode](https://pds-imaging.jpl.nasa.gov/documentation/Cassini_RADAR_Users_Guide_2nd_Ed_191004_cmp_200421.pdf)
 [MIT Science Reporter — "Landing on the Moon" (1966)](https://www.youtube.com/watch?v=6UuRCwsGugg)
 [Transistor: a 1953 documentary, anticipating its coming impact on technology](https://youtu.be/V9xUQWo4vN0?si=1IkM2cuwoO2UG-gM)
 [Giovanni](https://giovanni.gsfc.nasa.gov/giovanni/#service=TmAvMp&starttime=2025-08-25T00:00:00Z&endtime=2025-08-26T23:59:59Z&data=OMHCHOd_003_key_science_data_column_amount%2CNLDAS_NOAH0125_M_2_0_SnowDepth%2CNLDAS_NOAH0125_M_2_0_SnowFrac%2CLPRM_AMSR2_DS_A_SOILM3_001_soil_moisture_c1%2CFLDAS_NOAHMP001_G_CA_D_001_TWS_tavg) @NASA-DEVELOP @nasa-jpl @Stateofcalifornia @cityoflosangeles
