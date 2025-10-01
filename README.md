@@ -73,6 +73,7 @@ If you think this doesn't go against our Community Standards let us know. Give f
 
 
 ### Running tests
+<img  alt="image" src="https://github.com/user-attachments/assets/b99e64b0-59d2-4858-84a3-2a5b3007ffcf" />
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
 
