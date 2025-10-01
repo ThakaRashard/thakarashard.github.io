@@ -2,6 +2,10 @@
 ![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
 ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
 
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e7820ab0-fa23-421b-8290-13e29f961576" />
+
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 
 # THAKARASHARD = Rashard's HomePAge
