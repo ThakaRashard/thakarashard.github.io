@@ -8,6 +8,31 @@ layout: default
 
 <img alt="image" src="https://github.com/user-attachments/assets/5f146b10-2f0b-4b58-bf5b-d85e6e5682f6" />
 
+
+![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+[HunterAAF](https://www.youtube.com/c/FortStewartHunterArmyAirfield) :::
+
+
+[DISCOVR:EPiC still down as of 7/15 @nasa @podaac @nasajpl](https://epic.gsfc.nasa.gov/)
+
+# New Page
+/[changelog](https://github.com/rashardsdata/rashardsdata.github.io/blob/master/_posts/2025-10-18-CHangeControl.md) 
+where im recording a massive array of outage messagess and defunding doom that dont add up bc all the sites that use certain data sets still update like [@TheSpaceDevs e4ftl01.cr.usgs.gov](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/) which i think is [ecostress](https://github.com/rashardsdata/rashardsdata.github.io/blob/master/_posts/2025-10-17-ECOSTRESSMonitoringplantsfromspace.md)... The repo vitals is where i got to catch up with [Earthdata @nasa-jpl](https://nasa.github.io/VITALS/) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hEjriN9is-A?si=S5LSv041glGgDkFB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> @blackgirlscode how old was she is she just dirty in la ? like living natural, once your skin gets used to arsenic it kinda feels normal @StateOfCalifornia @nasa-pds @nasa-jpl @dhs-gov 
+
+### artcrimes.com moved to https://www.graffiti.org/ 
+[https://www.graffiti.org/](https://www.graffiti.org/)
+[© copyright 1994 Art Crimes Los Angeles 1](https://www.graffiti.org/la/la_1/)
+![@nasa](https://www.graffiti.org/la/nasa.jpg)
+![ARTCRiMES](https://www.graffiti.org/assets/images/kezaclogowhitetontrans.gif)
+
+
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/5f146b10-2f0b-4b58-bf5b-d85e6e5682f6" />
+
+
 [Censored at BillieJeanKing](https://www.longbeach.gov/library/locations/main-library/) [Watch "
 NASA Flew Over a Fire — to Better Understand Future Ones" On Youtube emit-main @nasa-jpl FireSensing](https://www.youtube.com/watch?v=QFfZe9Zq2mY) [1943](https://youtu.be/z2ssi6A-nw8?si=S6w-kasS5OSf06tN) U.S. NAVY [WWII](https://archive.org/download/DerFuehrersFace/Wdp-1943BannedCartoons-DonaldDuck-DerFuehrersFace.mp4) ERA RADIO [TECHNICIAN](https://www.youtube.com/watch?v=2GAdvIkjgFg) TRAINING FILM - [@usnavy CAPACITANCE OHMS LAW 47514
 ](https://www.youtube.com/watch?v=u__omOnnwis) @blackgirlscode thanks
