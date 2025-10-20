@@ -3,6 +3,14 @@ layout: default
 ---
 {% include nav.html %}
 
+
+[Love Rap - SPoonie Gee](https://youtu.be/cv2ReNgW8I0?si=K9rmC3iTftUPlqyy) i wonder if he [Bobby Womack](https://video.search.yahoo.com/yhs/search?fr=yhs-firearc-keyguardchr&hsimp=yhs-keyguardchr&hspart=firearc&p=youtube+bobby+womak&q=youtube+bobby+womak&type=1704805639094716#id=1&vid=8787b39d67e013bad21fe4fee7922cec&action=click) peer or aggressor @blackgirlscode im just curious those guys spelled a lot out in thier @soundcloud accounts like, who ya wit @nasa-jpl ... @fema i called u [https://search.yahoo.com/yhs/search?hspart=firearc&hsimp=yhs-keyguardchr&type=1704805639094716&p=fema+phone+number&q=fema+phone+number](https://search.yahoo.com/yhs/search?hspart=firearc&hsimp=yhs-keyguardchr&type=1704805639094716&p=fema+phone+number&q=fema+phone+number) `Rumor: Call 1-800-621-3342 for FEMA assistance.`  @newshour @cityoflosangeles 
+
+# Erase Racism
+[Kool G Rap](https://koolgrap.com/) & [DJ Polo](https://www.youtube.com/watch?v=-RVQeJPAW2U), Big Daddy Kane & Biz Markie
+[MAterial - [WebSuppys @google @blackgirlscode](https://m3.material.io/develop/web)  / [type @googlefonts](https://m3.material.io/styles/typography/fonts) 
+news: [WhiteHouseBegins EastWing demolition](https://www.facebook.com/permalink.php?story_fbid=pfbid02LJHn8PHY48yDT3dRbrkwdk4rNYJNbf6VdEEu7P6ioJwygx7oNjqxqJPXDLbwUVvnl&id=100084464911565) for [TrumpBallroom ](https://www.cbsnews.com/news/trump-white-house-ballroom-donor-names/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wWuFj_HAjYs?si=xmcQHDVZyMfpFWaj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iIreOrdYvLM?si=4K-BSX5WEb-7xOip" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # New Page
