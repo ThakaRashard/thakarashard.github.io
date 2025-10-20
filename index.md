@@ -3,6 +3,17 @@ layout: default
 ---
 {% include nav.html %}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iIreOrdYvLM?si=4K-BSX5WEb-7xOip" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# New Page
+/[changelog](https://github.com/rashardsdata/rashardsdata.github.io/blob/master/_posts/2025-10-18-CHangeControl.md) 
+where im recording a massive array of outage messagess and defunding doom that dont add up bc all the sites that use certain [data sets still update](https://scan-now.gsfc.nasa.gov/) like [@TheSpaceDevs e4ftl01.cr.usgs.gov](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/) which i think is [ecostress](https://github.com/rashardsdata/rashardsdata.github.io/blob/master/_posts/2025-10-17-ECOSTRESSMonitoringplantsfromspace.md)... The repo vitals is where i got to catch up with [Earthdata @nasa-jpl](https://nasa.github.io/VITALS/) 
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/630d6507-6ffc-455e-80e7-b786172b7f6a" />
+
+[https://scontent-`atl3`-2.xx.fbcdn.net/v/t39.30808-6/559597565_781602384665252_1722386912704407977_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8yJS0LjhmvQQ7kNvwGZ2nHI&_nc_oc=AdlFiLiwEM9qpWdqOHra_9d4YEx1hY-nO1nBTLGAyYh-tugbEC6j27R8VVqEAMU5cH0&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&_nc_gid=8ugLS5JQG7bJmIHisA6mvQ&oh=00_AfefEXbDxRtVpNdcEswgVy1ge92iqmdJwUVI81aNjjhQMg&oe=68FB3829](https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/559597565_781602384665252_1722386912704407977_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8yJS0LjhmvQQ7kNvwGZ2nHI&_nc_oc=AdlFiLiwEM9qpWdqOHra_9d4YEx1hY-nO1nBTLGAyYh-tugbEC6j27R8VVqEAMU5cH0&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&_nc_gid=8ugLS5JQG7bJmIHisA6mvQ&oh=00_AfefEXbDxRtVpNdcEswgVy1ge92iqmdJwUVI81aNjjhQMg&oe=68FB3829)
+
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 [HunterAAF](https://www.youtube.com/c/FortStewartHunterArmyAirfield) ::: [DISCOVR:EPiC still down as of 7/15 @nasa @podaac @nasajpl](https://epic.gsfc.nasa.gov/)
 
@@ -15,9 +26,7 @@ layout: default
 
 [DISCOVR:EPiC still down as of 7/15 @nasa @podaac @nasajpl](https://epic.gsfc.nasa.gov/)
 
-# New Page
-/[changelog](https://github.com/rashardsdata/rashardsdata.github.io/blob/master/_posts/2025-10-18-CHangeControl.md) 
-where im recording a massive array of outage messagess and defunding doom that dont add up bc all the sites that use certain data sets still update like [@TheSpaceDevs e4ftl01.cr.usgs.gov](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/) which i think is [ecostress](https://github.com/rashardsdata/rashardsdata.github.io/blob/master/_posts/2025-10-17-ECOSTRESSMonitoringplantsfromspace.md)... The repo vitals is where i got to catch up with [Earthdata @nasa-jpl](https://nasa.github.io/VITALS/) 
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hEjriN9is-A?si=S5LSv041glGgDkFB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> @blackgirlscode how old was she is she just dirty in la ? like living natural, once your skin gets used to arsenic it kinda feels normal @StateOfCalifornia @nasa-pds @nasa-jpl @dhs-gov 
 
