@@ -2,6 +2,10 @@
 ![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
 ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
 
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e7820ab0-fa23-421b-8290-13e29f961576" />
+
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 
 # THAKARASHARD = Rashard's HomePAge
@@ -69,6 +73,7 @@ If you think this doesn't go against our Community Standards let us know. Give f
 
 
 ### Running tests
+<img  alt="image" src="https://github.com/user-attachments/assets/b99e64b0-59d2-4858-84a3-2a5b3007ffcf" />
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
 
