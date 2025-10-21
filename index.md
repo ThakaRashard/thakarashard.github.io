@@ -4,7 +4,7 @@ layout: default
 {% include nav.html %}
 
 
-[ReeferMAdness](https://www.youtube.com/watch?v=8kg0sK-dY98) TobaccoReserch](https://tobacco.stanford.edu/marijuanas/reefer-madness/)
+[ReeferMAdness](https://www.youtube.com/watch?v=8kg0sK-dY98) [TobaccoReserch](https://tobacco.stanford.edu/marijuanas/reefer-madness/)
 [museum](https://hashmuseum.com/en/collection/reefer-madness/)
 [imdb](https://www.imdb.com/title/tt0028346/) [🍅](https://www.rottentomatoes.com/m/reefer_madness) [ThEEEAccaaaDUMEee](https://www.academymuseum.org/en/programs/detail/reefer-madness-0196127e-aec4-7c86-51a0-505f82a319b8)
 
