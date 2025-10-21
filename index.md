@@ -4,6 +4,17 @@ layout: default
 {% include nav.html %}
 
 
+[ReeferMAdness](https://www.youtube.com/watch?v=8kg0sK-dY98) TobaccoReserch](https://tobacco.stanford.edu/marijuanas/reefer-madness/)
+[museum](https://hashmuseum.com/en/collection/reefer-madness/)
+[imdb](https://www.imdb.com/title/tt0028346/) [🍅](https://www.rottentomatoes.com/m/reefer_madness) [ThEEEAccaaaDUMEee](https://www.academymuseum.org/en/programs/detail/reefer-madness-0196127e-aec4-7c86-51a0-505f82a319b8)
+
+<iframe src="https://archive.org/embed/reefer_madness1938" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid028PeQhwyttJ3U5ysB4ie6fUMDbQdwM8M3yvFPEnnaeoZkFRLJWnyeHK7LAa2mymExl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+Cops in Los Angeles County, CA 1992 [Watch @youtube](https://www.youtube.com/watch?v=zDkDoQ95gOw) 
+@cityoflosangeles @nasa-jpl @blackgirlscode @stateofcalifornia 
 
 # Super Chase - Criminal Termination 1993
 ## スーパー・チェイス・クリミナル・ターミネション
