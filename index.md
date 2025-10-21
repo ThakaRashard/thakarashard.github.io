@@ -4,8 +4,25 @@ layout: default
 {% include nav.html %}
 
 
+# AnimalFarm 1954
+
+[imdb](https://www.imdb.com/title/tt0047834/) : [Wiki](https://en.wikipedia.org/wiki/Animal_Farm_(1954_film)) : [Archive](https://archive.org/details/animalfarm1954_20190809) : [:yt:](https://www.youtube.com/watch?v=CKJvwWyq2z0) : [🛒](https://www.amazon.com/Animal-Farm-Gordon-Heath/dp/B0002ZYDUG) : [@reddit](https://www.reddit.com/r/classicfilms/comments/1gjzpjd/animal_farm_1954/) : [🍅](https://www.rottentomatoes.com/m/animal_farm)
+
+<video controls width="250">
+    
+  <source src="https://dn721906.ca.archive.org/0/items/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+  <source src="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+
+  Download the
+
+  <a href="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4">MP4</a>
+  video.
+</video>
+
+
 # Outages
 I found a crispy [La Times](https://www.latimes.com/business/story/2025-10-20/amazon-cloud-computing-outage-disrupts-snapchat-ring-and-many-other-online-services) outside [Union Station](https://www.loc.gov/pictures/item/ca1312/) on my way to start my workday, [StFrancis](https://locator.lacounty.gov/lac/Location/3174007/st-francis-center---los-angeles) was open and i caught [breakFast @cityoflosangeles](https://www.stfranciscenterla.org/our-programs/) and rode the A into [Longbeach](https://www.arcgis.com/home/webscene/viewer.html?webscene=0281b25f75b24ca9b8835c6285cef9c2&viewpoint=cam:-118.21336683,33.76608651,548.307;90.991,79.4) to work out of [BillieJean](https://www.longbeach.gov/library/locations/main-library/) [@blackgirlscode](https://www.wearebgc.org/) i got angry on the train man . . .see comments on [metaFB](https://www.facebook.com/permalink.php?story_fbid=pfbid023a4sHtDkRBAsYSBEUz7oyoCrvBmeVi8HqGbrDZrd5UEFZQyZ9jnvceeUoBmkdq1ul&id=100084464911565)
+
 <iframe src="https://archive.org/embed/RashardNasaEarthDataRiverWatch" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [Amazon's massive AWS outage points to a key weakness in the modern internet - finance.yahoo.com](https://finance.yahoo.com/news/amazons-massive-aws-outage-points-to-a-key-weakness-in-the-modern-internet-145418180.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAANPnhgf7yxE_fTwDyG__5RRQ052W-rbWuHVs4KoLRpi-Sj4gfJKXgwmXZj7QNxdBtCVbrOg6eFw_hu_zHfUFqOqeE87I2vbY5vtx7Xw7MsddnsUEb8FE5ECgZx1wUMC6u0-HF4GYtOqDn-cXUL-qXLlCNxSjzypoeMV6wIBQSlXT) ; [The massive AWS outage that broke half the internet is finally over - here's what happened - zdnet.com](https://www.zdnet.com/home-and-office/networking/the-massive-aws-outage-that-broke-half-the-internet-is-finally-over-heres-what-happened/) : [AWS was down — live updates following massive outage that broke the internet](https://www.tomsguide.com/news/live/amazon-outage-october-2025) Amazon implemented fixes, but the multi-hour outage took time to resolve [Amazon says systems are back online after global internet outage - @cnn someone disabled copy paste in the url bar](https://www.cnn.com/business/live-news/amazon-tech-outage-10-20-25-intl) ; [@npr @newshour Outage at Amazon Web Services disrupts websites across the internet](https://www.npr.org/2025/10/20/nx-s1-5580312/aws-outage)
@@ -27,6 +44,9 @@ At 10:03am PDT 1:03 pm ET, 6:15pm BST) AWS posted some updates, but it didn't ad
 At 12:15 p.m. PDT (3:15 ET, 8;15 BST) AWS posted some updates that the claimed services were starting to return with some intermittent function errors. We've also seen a slow but steady decrease in reports on Down Detector.
 Between 1:00 pm PDT and 2:30 pm, AWS posted cautious updates about slowly reducing throttles as the company brought more features back online.
 At 3:00 pm PDT (6 ET, 11 BST) AWS closed the issue listing as resolved and blaming it on a DNS issue and nin internal subsystem that didn't resolve after a DNS fix.
+
+
+<iframe src="https://archive.org/embed/Keen4e-sw" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 # My Binder
