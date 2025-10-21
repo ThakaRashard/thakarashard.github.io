@@ -4,6 +4,25 @@ layout: default
 {% include nav.html %}
 
 
+# My Binder
+[Link](https://thakarashard.github.io/mybinder/) @nasa @blackgirlscode [1944](https://www.youtube.com/watch?v=hXtB7B0bwAg) 
+
+## CapTain America 1944
+[?Query](https://archive.org/search?query=subject%3A%22Captain+America%22+1944) 
+<iframe src="https://archive.org/embed/captain-america_202508" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+## Superman 1941
+[Files](https://archive.org/download/superman-1941-1943-480p-dvdrip)
+<iframe src="https://archive.org/embed/superman-1941-1943-480p-dvdrip" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# Batman1943
+[Files](https://archive.org/download/Batman1943Chapter01TheElectricalBrain)
+
+<iframe src="https://archive.org/embed/Batman1943Chapter01TheElectricalBrain" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+[Habesha Church](https://www.vmeotc.org/) + [fb](https://www.facebook.com/permalink.php?story_fbid=pfbid0qn5rnaKG3KGizm4PNpct38zvCL4BFCTZuciRjBY9xTatq7oMSRfneWTvouP7Xwtnl&id=100084464911565)
+
 [Love Rap - SPoonie Gee](https://youtu.be/cv2ReNgW8I0?si=K9rmC3iTftUPlqyy) i wonder if he [Bobby Womack](https://video.search.yahoo.com/yhs/search?fr=yhs-firearc-keyguardchr&hsimp=yhs-keyguardchr&hspart=firearc&p=youtube+bobby+womak&q=youtube+bobby+womak&type=1704805639094716#id=1&vid=8787b39d67e013bad21fe4fee7922cec&action=click) peer or aggressor @blackgirlscode im just curious those guys spelled a lot out in thier @soundcloud accounts like, who ya wit @nasa-jpl ... @fema i called u [https://search.yahoo.com/yhs/search?hspart=firearc&hsimp=yhs-keyguardchr&type=1704805639094716&p=fema+phone+number&q=fema+phone+number](https://search.yahoo.com/yhs/search?hspart=firearc&hsimp=yhs-keyguardchr&type=1704805639094716&p=fema+phone+number&q=fema+phone+number) `Rumor: Call 1-800-621-3342 for FEMA assistance.`  @newshour @cityoflosangeles [AintNoHalfSteppin](https://youtu.be/RNVefp-SxvE?t=84)
 
 # Erase Racism
