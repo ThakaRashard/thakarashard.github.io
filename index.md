@@ -26,8 +26,20 @@ layout: default
 
 <iframe src="https://archive.org/embed/reefer_madness1938" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+
+## Proposition 64: The Adult Use of Marijuana Act
+Overview [The California Cannabis Hemp Initiative of 2014](https://lao.ca.gov/ballot/2014/140072.aspx)
+Effective November 9, 2016, Proposition 64 legalizes specified personal use and cultivation of marijuana for adults 21 years of age or older; reduces criminal penalties for specified marijuana-related offenses for adults and juveniles; and authorizes resentencing or dismissal and sealing of prior, eligible marijuana-related convictions. The proposition includes provisions on regulation, licensing, and taxation of legalized use. [California Courts](https://www.courts.ca.gov/prop64.htm) [Proposition 64 and Responsible Adult Use of Marijuana LA_COUNTY California](http://publichealth.lacounty.gov/sapc/public/proposition64.htm) [MEDICAL MARIJUANA IDENTIFICATION CARD PROGRAM](http://publichealth.lacounty.gov/docs/MMIP-FLYER.pdf) [Proposition 64 (Marijuana Offenses) FAQ [SanDieago]](https://www.sandiegocounty.gov/content/sdc/public_defender/prop_64_faq.html) [Proposition 64 - Personal Non-Medical Use of Cannabis Brea California](https://www.ci.brea.ca.us/1376/Prop-64-FAQ) [Prop 64 FAQs](https://www.santa-ana.org/prop-64-faqs/) [San Francisco Prop64 FAQ](https://sfpublicdefender.org/services/prop-64-faq/) When does Proposition 64 take effect? Proposition 64 took effect November 9, 2016. You can and should seek relief right away. [prop64](https://images.procon.org/wp-content/uploads/sites/16/ca-prop-64-marijuana.pdf) [Marijuana Initiative Enters Circulation](https://www.sos.ca.gov/administration/news-releases-and-advisories/2014-news-releases-and-advisories/db14-011) [Medicinal Cannabis: History, Pharmacology, And Implications for the Acute Care Setting](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5312634/) [Congress quietly ends federal government’s ban on medical marijuana](https://www.latimes.com/nation/la-na-medical-pot-20141216-story.html)
+
+[DOWNLOAD~MARIJUANA LEGALIZATION. INITIATIVE STATUTE Proposition64](https://slper.senate.ca.gov/sites/slper.senate.ca.gov/files/Background%20Supplemental%20-%20Prop%2064%20Text.pdf)
+
+
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid028PeQhwyttJ3U5ysB4ie6fUMDbQdwM8M3yvFPEnnaeoZkFRLJWnyeHK7LAa2mymExl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
+[Gangstarr - Moment_0f_Truth FULL ALBUM](https://youtu.be/b1EbbT7Xrgs?si=bM1BGbtQnU9YUgSc) [Shaakira_Gathers_iLoveu](https://rashardiman.github.io/)
+
+[Heath cliff and the Cadillac cats episodes + Heathcliff (animated flick)](https://archive.org/details/HeathcliffanimatedFlick)
 
 Cops in Los Angeles County, CA 1992 [Watch @youtube](https://www.youtube.com/watch?v=zDkDoQ95gOw) 
 @cityoflosangeles @nasa-jpl @blackgirlscode @stateofcalifornia 
