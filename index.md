@@ -3,6 +3,21 @@ layout: default
 ---
 {% include nav.html %}
 
+
+NASA Appropriations and Authorizations: At a Glance [@NASA :pdf: @nasa-jpl](https://www.congress.gov/crs_external_products/R/PDF/R43419/R43419.121.pdf) @cityoflosangeles 
+[@rashardsdata changelog](https://rashardnasalosangelesjpl.github.io/rashardlearned/changelog)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0a196e75-c25d-454c-b3bd-37f02fb39909" />
+
+
+[pds.mcp.nasa.gov/portal/](https://pds.mcp.nasa.gov/portal/) @nasa-pds im getting my feet in gear for the new sites @blackgirlscode
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2abd597a-8565-40cc-894f-dc6aa0a15909" />
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:fa5fg6kkcovesfrk6tzfwjg3/app.bsky.feed.post/3m3t42bkpxs2f" data-bluesky-cid="bafyreih2mx56xyvyim263hdow3ninkukdehyhaeuhxel7cv75zfnuzlemq" data-bluesky-embed-color-mode="system"><p lang="en">www.uahirise.org/hiview/ #Mars @crockett.house.gov @mayor.lacity.gov @mayorofchicago.bsky.social -#rashard www.congress.gov/crs-product/... &amp;&amp; @president.ie @emmacurtis.bsky.social @ravenscimaven.bsky.social pds.mcp.nasa.gov/portal/ #NASA #ASTRONOMY #normani<br><br><a href="https://bsky.app/profile/did:plc:fa5fg6kkcovesfrk6tzfwjg3/post/3m3t42bkpxs2f?ref_src=embed">[image or embed]</a></p>&mdash; RAshard iMAN KElly - NASA/JPL/JUNO/MRO/ECOSTRESS (<a href="https://bsky.app/profile/did:plc:fa5fg6kkcovesfrk6tzfwjg3?ref_src=embed">@rashardsdata.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:fa5fg6kkcovesfrk6tzfwjg3/post/3m3t42bkpxs2f?ref_src=embed">October 22, 2025 at 5:28 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+[https://id.nasa.gov](https://id.nasa.gov)
+[https://www.usgs.gov/news/national-news-release/usgs-unveils-new-national-geologic-map](https://www.usgs.gov/news/national-news-release/usgs-unveils-new-national-geologic-map)
 # AnimalFarm 1954
 
 
