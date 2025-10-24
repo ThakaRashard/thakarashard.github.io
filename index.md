@@ -4,6 +4,17 @@ layout: default
 {% include nav.html %}
 
 
+-Qb_Cktlno46dPR)
+
+# Ubuntu Summit 25.10 | Day Two
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WvNgMEumSoA?si=PZjPQ-9n8q4dT3s5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+NASA Appropriations and Authorizations: At [a](https://www.earthdata.nasa.gov/data/projects/lance/people) Glance [Link](https://www.congress.gov/crs-product/R43419)
+[@NASA :pdf: @nasa-jpl](https://www.congress.gov/crs_external_products/R/PDF/R43419/R43419.121.pdf) @cityoflosangeles 
+[@rashardsdata changelog](https://rashardnasalosangelesjpl.github.io/rashardlearned/changelog)
+@nasa-jpl @blackgirlscode 
+
 NASA Appropriations and Authorizations: At [a](https://www.earthdata.nasa.gov/data/projects/lance/people) Glance [Link](https://www.congress.gov/crs-product/R43419)
 [@NASA :pdf: @nasa-jpl](https://www.congress.gov/crs_external_products/R/PDF/R43419/R43419.121.pdf) @cityoflosangeles 
 [@rashardsdata changelog](https://rashardnasalosangelesjpl.github.io/rashardlearned/changelog)
