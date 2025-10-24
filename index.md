@@ -4,7 +4,17 @@ layout: default
 {% include nav.html %}
 
 
--Qb_Cktlno46dPR)
+Private Snafu
+<iframe src="https://archive.org/embed/private-snafu-collection" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+### NASA's [Deep Space Network](https://www.nasa.gov/communicating-with-missions/dsn/) Turns 60
+What's Next? (Live Public Talk)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7qnU27pRA9Q?si=sr1QFZEa7Abw74R6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[@nasa-jpl tour](https://www.jpl.nasa.gov/virtual-tour/) : [GoldsStone](https://www.gdscc.nasa.gov/index.php/antennas/)
+
+[NASA TV In Sight Mars Landing  CSPAN  December 2, 2018 6:35pm-8:01pm EST](https://archive.org/details/CSPAN_20181202_233500_NASA_TV_InSight_Mars_Landing)
+
 
 # Ubuntu Summit 25.10 | Day Two
 
