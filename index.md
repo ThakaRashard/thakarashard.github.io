@@ -7,8 +7,9 @@ layout: default
 
 
 
-
-
+# California_Linux: 
+Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS-@BlackGirlsCode
+<iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <img  alt="image" src="https://github.com/user-attachments/assets/e7820ab0-fa23-421b-8290-13e29f961576" />
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02YCPegTJ1TTfb7Qw2vPkmSW7armY6WpHP4xPyC9WsxvvjnYLjtKA8V4VWm6W58kstl%26id%3D100084464911565&show_text=true&width=500" width="500" height="698" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
