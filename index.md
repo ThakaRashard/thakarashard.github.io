@@ -3,6 +3,10 @@ layout: default
 ---
 {% include nav.html %}
 
+{{ site.time | date: '%B %d, %Y' }}
+{{ page.date }} pagedate {{ page.date | date: '%B %d, %Y' }}
+This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
+
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
