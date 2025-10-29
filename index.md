@@ -3,20 +3,32 @@ layout: default
 ---
 {% include nav.html %}
 
-{{ site.time | date: '%B %d, %Y' }}
-{{ page.date }} pagedate {{ page.date | date: '%B %d, %Y' }}
+
 This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
-![rashard](https://github-production-user-asset-6210df.s3.amazonaws.com/112716515/460116978-5be21c81-f8bd-4505-b33f-2fe7c7e1350e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251025%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251025T221436Z&X-Amz-Expires=300&X-Amz-Signature=e6e3714c4b38459275ec7c284436f42c6b476f2d2e09165027c5ec86e26b2845&X-Amz-SignedHeaders=host)
+![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
 # California_Linux: 
  [@amazon](https://github-production-user-asset-6210df.s3.amazonaws.com/112716515/460116978-5be21c81-f8bd-4505-b33f-2fe7c7e1350e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251025%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251025T221436Z&X-Amz-Expires=300&X-Amz-Signature=e6e3714c4b38459275ec7c284436f42c6b476f2d2e09165027c5ec86e26b2845&X-Amz-SignedHeaders=host) 
 Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS-@BlackGirlsCode
 <iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# SEX TRAFFICKING IN [ATLANTA GEORGIA](https://www.ice.gov/news/releases/sex-traffickers-sentenced-atlanta-forced-prostitution-foreign-women)❗️
+[@nasa-jpl @nasa @nasa-pds @cityoflosangeles @stanteofcalifornia @blackgirlscode](https://www.youtube.com/watch?v=UoZJYTRZgpc&ab_channel=RosePocahontas)
+I ALMOST GOT KIDNAPPED❗️(story time😱🤬)[ROSE](https://youtu.be/UoZJYTRZgpc?t=230) POCAHONTAS
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoZJYTRZgpc?si=Hrus65ODdtnI1nMW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[I Was Almost Human Trafficked In San Diego @USnavy @nasa-jpl @katrenathings
+](https://youtu.be/8Ol2tExl5zw) [Katrena https://www.youtube.com/@katrenathings](https://www.youtube.com/@katrenathings)
+[Human Trafficking SCAM in WALMART @Amorantasia1 on @youtube](https://youtu.be/i-nbQXuR5d4) [AMOR ANTASiA](https://www.youtube.com/@Amorantasia1) [@nasa Trafficking in America: Keeya Vawar's Story @blackgirlscode](https://youtu.be/P7DFlb71USI?t=20) [Sex trafficking survivor: "I was lured by the promises of fame & glamour." (MUST SEE)](https://youtu.be/uoak_k3h_eo?t=33)
+
+{{ site.time | date: '%B %d, %Y' }}
+{{ page.date }} pagedate {{ page.date | date: '%B %d, %Y' }}
+
 <img  alt="image" src="https://github.com/user-attachments/assets/e7820ab0-fa23-421b-8290-13e29f961576" />
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02YCPegTJ1TTfb7Qw2vPkmSW7armY6WpHP4xPyC9WsxvvjnYLjtKA8V4VWm6W58kstl%26id%3D100084464911565&show_text=true&width=500" width="500" height="698" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
@@ -623,15 +635,6 @@ forked from [nasa/ECOSTRESS-Data-Resources](https://github.com/nasa/ECOSTRESS-Da
 
 Nov 9, 2019
 Sex trafficking in the city of Atlanta has increased at an alarming rate over the past year. This video is to give insight on what’s happening in our city. Please make sure you are aware of your surroundings, especially children and young women. Pass this on to anyone that could benefit from this information. Be sure to like and subscribe and follow my social media @itsebonyalexis 
-
-# SEX TRAFFICKING IN [ATLANTA GEORGIA](https://www.ice.gov/news/releases/sex-traffickers-sentenced-atlanta-forced-prostitution-foreign-women)❗️
-[@nasa-jpl @nasa @nasa-pds @cityoflosangeles @stanteofcalifornia @blackgirlscode](https://www.youtube.com/watch?v=UoZJYTRZgpc&ab_channel=RosePocahontas)
-I ALMOST GOT KIDNAPPED❗️(story time😱🤬)[ROSE](https://youtu.be/UoZJYTRZgpc?t=230) POCAHONTAS
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoZJYTRZgpc?si=Hrus65ODdtnI1nMW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[I Was Almost Human Trafficked In San Diego @USnavy @nasa-jpl @katrenathings
-](https://youtu.be/8Ol2tExl5zw) [Katrena https://www.youtube.com/@katrenathings](https://www.youtube.com/@katrenathings)
-[Human Trafficking SCAM in WALMART @Amorantasia1 on @youtube](https://youtu.be/i-nbQXuR5d4) [AMOR ANTASiA](https://www.youtube.com/@Amorantasia1) [@nasa Trafficking in America: Keeya Vawar's Story @blackgirlscode](https://youtu.be/P7DFlb71USI?t=20) [Sex trafficking survivor: "I was lured by the promises of fame & glamour." (MUST SEE)](https://youtu.be/uoak_k3h_eo?t=33)
 
 
 About One-third of Malibu Burned In The Palisades Fire. Where Does It Go From Here?
