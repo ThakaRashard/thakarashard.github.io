@@ -3,8 +3,7 @@ layout: default
 ---
 {% include nav.html %}
 
-
-This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
+last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
@@ -12,14 +11,21 @@ This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
-## California_Linux: 
- [@amazon](https://github-production-user-asset-6210df.s3.amazonaws.com/112716515/460116978-5be21c81-f8bd-4505-b33f-2fe7c7e1350e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251025%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251025T221436Z&X-Amz-Expires=300&X-Amz-Signature=e6e3714c4b38459275ec7c284436f42c6b476f2d2e09165027c5ec86e26b2845&X-Amz-SignedHeaders=host) 
-Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS-@BlackGirlsCode
+last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
-Space Station Freedom interior resources [clickhere @TheSpaceDevs](https://orbiterspaceport.blogspot.com/2011/07/space-station-freedom-interior.html)
+# Jupiter Orbit Insertion Press Kit [Mission Overview](https://www.jpl.nasa.gov/news/press_kits/juno/overview/)
+[DOWNLOAD_PDF](https://www.jpl.nasa.gov/news/press_kits/juno/pdf/juno-lores.pdf)
+<img  alt="image" src="https://github.com/user-attachments/assets/e952e2eb-c479-4c63-a11b-104be8ccc392" />
+
+## California_Linux: 
+Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS-@BlackGirlsCode
+ [@amazon](https://github-production-user-asset-6210df.s3.amazonaws.com/112716515/460116978-5be21c81-f8bd-4505-b33f-2fe7c7e1350e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251025%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251025T221436Z&X-Amz-Expires=300&X-Amz-Signature=e6e3714c4b38459275ec7c284436f42c6b476f2d2e09165027c5ec86e26b2845&X-Amz-SignedHeaders=host) 
+
+
+
 <iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-
+Space Station Freedom interior resources [clickhere @TheSpaceDevs](https://orbiterspaceport.blogspot.com/2011/07/space-station-freedom-interior.html)
 
 # MEN ENCOUNTER MARS (1965)
 @CityOfLosAngeles @StateofCalifornia
@@ -40,6 +46,10 @@ I ALMOST GOT KIDNAPPED❗️(story time😱🤬)[ROSE](https://youtu.be/UoZJYTRZ
 
 <img alt="image" src="https://github.com/user-attachments/assets/9eff9f45-3e67-4f79-a5cb-5c724702b8c8" />
 
+### " THE ALPHABET CONSPIRACY " 1959 BELL SCIENCE SERIES FILM / STUDY OF LINGUISTICS PART 1
+[Watch](https://youtu.be/HZ7Gw0AdnX4?t=535)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f46e5077-2971-46aa-b049-a6883258837a" />
 
 ## Wild Style (1982)
 [wiki](https://en.wikipedia.org/wiki/Charlie_Ahearn)
