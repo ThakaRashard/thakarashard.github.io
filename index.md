@@ -22,6 +22,43 @@ Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS-@BlackGirlsCode
 I ALMOST GOT KIDNAPPED❗️(story time😱🤬)[ROSE](https://youtu.be/UoZJYTRZgpc?t=230) POCAHONTAS
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UoZJYTRZgpc?si=Hrus65ODdtnI1nMW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+# Kool Moe Dee vs Busy Bee Starski Dec 1981 Harlem World
+[listen](https://youtu.be/am9C2_DZ7s4?si=XNp2B6xVg-nMa-cS)
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/9eff9f45-3e67-4f79-a5cb-5c724702b8c8" />
+
+
+## Wild Style (1982)
+[wiki](https://en.wikipedia.org/wiki/Charlie_Ahearn)
+[youtube.com/@CharlieAhearnNY](https://www.youtube.com/@CharlieAhearnNY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H3n5zaUoecI?si=vpzBRoeok42HB5vT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+artcrimes.com moved to https://www.graffiti.org/ 
+[https://www.graffiti.org/](https://www.graffiti.org/)
+![ARTCRiMES](https://www.graffiti.org/assets/images/kezaclogowhitetontrans.gif)
+<img  alt="image" src="https://github.com/user-attachments/assets/63bc6d97-d8d7-4d99-9dc4-28b73ebdaf2c" />
+
+[Colors](https://www.youtube.com/watch?v=NzVfAj4bV40&t=50s) <~ Watch on @youtube
+#FiCtiONDRAMAREALiTY
+plot;[tourist hurting locals, im talking about freaknik not tourist!](https://www.youtube.com/watch?v=cb5XECdy2aQ)
+[imdb](https://www.imdb.com/title/tt0094894/) A police veteran and his rookie partner fight Los Angeles gangs.
+
+Related doc [Graffiti_VeriteVOL1](https://archive.org/download/graffiti-verite-vol.-1)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c93b63d2-714b-4f81-a866-e2f4eb9b23ec" />
+
+<img src="https://raw.githubusercontent.com/rashardsdata/rashardsdata.github.io/refs/heads/master/assets/img/545385041_753749844117173_4094454863368912744_n.jpg" />
+
+
+@blackgirlscode 
+![GVEh0ibaEAE0I-p](https://github.com/user-attachments/assets/48f3291e-53e8-412f-ab29-1d63f2a549d2)
+
+<img  alt="CultChild by Rashard and Sartu" src="https://github.com/user-attachments/assets/3df62c9c-14c1-4358-ba54-820ca9b77fc8" />
+
+
 [I Was Almost Human Trafficked In San Diego @USnavy @nasa-jpl @katrenathings
 ](https://youtu.be/8Ol2tExl5zw) [Katrena https://www.youtube.com/@katrenathings](https://www.youtube.com/@katrenathings)
 [Human Trafficking SCAM in WALMART @Amorantasia1 on @youtube](https://youtu.be/i-nbQXuR5d4) [AMOR ANTASiA](https://www.youtube.com/@Amorantasia1) [@nasa Trafficking in America: Keeya Vawar's Story @blackgirlscode](https://youtu.be/P7DFlb71USI?t=20) [Sex trafficking survivor: "I was lured by the promises of fame & glamour." (MUST SEE)](https://youtu.be/uoak_k3h_eo?t=33)
