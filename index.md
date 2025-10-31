@@ -13,6 +13,10 @@ last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
 last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
+## California_Linux: 
+<iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+---
 
 # Jennifer Hudson
 [re](https://campaignrefinery.com/what-does-re-mean-in-email/) : [Murder of Jason Hudson](https://en.wikipedia.org/wiki/Murder_of_Jason_Hudson?fbclid=IwY2xjawNx_OpleHRuA2FlbQIxMABicmlkETBQT1oxZ25pU3BFcGFIdTQyAR7S44y-e_EMOZFEsoJaQ__PLlp0JTzPalC0Xky7y2R_TYStD_gfIdg1l-usqw_aem_JDBZo1x5IREe3Cf3RSOGEg)
@@ -31,13 +35,7 @@ Murder of [#JasonHudson](youtube.com/watch?v=NHu4hMb-JBk) Chicago Fire Dept: Eng
 [DOWNLOAD_PDF](https://www.jpl.nasa.gov/news/press_kits/juno/pdf/juno-lores.pdf)
 <img  alt="image" src="https://github.com/user-attachments/assets/e952e2eb-c479-4c63-a11b-104be8ccc392" />
 
-## California_Linux: 
-Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS-@BlackGirlsCode
- [@amazon](https://github-production-user-asset-6210df.s3.amazonaws.com/112716515/460116978-5be21c81-f8bd-4505-b33f-2fe7c7e1350e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251025%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251025T221436Z&X-Amz-Expires=300&X-Amz-Signature=e6e3714c4b38459275ec7c284436f42c6b476f2d2e09165027c5ec86e26b2845&X-Amz-SignedHeaders=host) 
 
-
-
-<iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 Space Station Freedom interior resources [clickhere @TheSpaceDevs](https://orbiterspaceport.blogspot.com/2011/07/space-station-freedom-interior.html)
 
