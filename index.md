@@ -13,6 +13,9 @@ last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
 last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
+[Murder of Jason Hudson](https://en.wikipedia.org/wiki/Murder_of_Jason_Hudson?fbclid=IwY2xjawNx_OpleHRuA2FlbQIxMABicmlkETBQT1oxZ25pU3BFcGFIdTQyAR7S44y-e_EMOZFEsoJaQ__PLlp0JTzPalC0Xky7y2R_TYStD_gfIdg1l-usqw_aem_JDBZo1x5IREe3Cf3RSOGEg) [@BlackGirlsCode @Emit-Sds] the [WikiTalkPages](https://en.wikipedia.org/wiki/Talk:Murder_of_Jason_Hudson) of every person in the spotlight need review and monitoring, take care of your household first @newshour @datadesk [@blackgirlscode @meta](https://www.facebook.com/permalink.php?story_fbid=pfbid02HjLKWoHDZ88V7FuECD1dL6J3WtK3WpoXvuGjJ4XwLmC5VA1Utah45QGHWy6ZdnAYl&id=100084464911565) 
+<img  alt="image" src="https://github.com/user-attachments/assets/0b146fa0-f272-42fb-9665-c70453ccc84a" />
+
 # Jupiter Orbit Insertion Press Kit [Mission Overview](https://www.jpl.nasa.gov/news/press_kits/juno/overview/)
 [DOWNLOAD_PDF](https://www.jpl.nasa.gov/news/press_kits/juno/pdf/juno-lores.pdf)
 <img  alt="image" src="https://github.com/user-attachments/assets/e952e2eb-c479-4c63-a11b-104be8ccc392" />
