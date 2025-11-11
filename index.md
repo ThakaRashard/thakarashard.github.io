@@ -12,13 +12,30 @@ last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
 last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
-
-## California_Linux: 
+[Experiance Insight](https://eyes.nasa.gov/apps/experience-insight/InSight.html) 
+## California_Linux[:](https://www.iso.org/iso-8601-date-and-time-format.html) 
 <iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+
+```
+New Glenn's second mission will launch from Launch Complex 36 at Cape Canaveral Space Force Station and will send NASA’s ESCAPADE twin spacecraft to Mars. This launch will support ESCAPADE’s science objectives as the twin spacecraft progress on their journey to the Red Planet.
+```
+[ORigin @ucberkeley](https://escapade.ssl.berkeley.edu/)
+[READMORE @ucberkeley @BlueOrigin](https://www.blueorigin.com/missions/ng-2)
+![view](https://www.blueorigin.com/_next/image?url=https%3A%2F%2Fd1o72l87sylvqg.cloudfront.net%2Fredstone%2FMissions_NG-2-Trajectory.jpg&w=1920&q=75)
+![https://upload.wikimedia.org/wikipedia/commons/7/75/EscaPADE_logo.png @blueorgin](https://upload.wikimedia.org/wikipedia/commons/7/75/EscaPADE_logo.png)
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0zz2PWKyzYnShWa6ZkMfHhp9mcuBHxf2PAMDSE9FsxCyG8hdz6jgdHjAa2WC6f2j9l%26id%3D100084464911565&show_text=true&width=500" width="500" height="779" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+[SolidSteel - DK 785 @blackgirlscode](https://soundcloud.com/theclassicmixcdseries/dj-food-dk-now-listen?fbclid=IwY2xjawN_StlleHRuA2FlbQIxMABicmlkETFGZ3pPWUlkV1luaDJqSDZWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHj8ZEDQAPSAbggJI_F2HJHmu48pDIzaqlWUO5b-n8qfo5wztTNpbEtMFHaX-_aem_pZ4dss4346GRs81r7Q8PxA)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/206dc527-57d8-4def-8b2f-c8778551c547" />
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The ESCAPADE mission will send two Rocket Lab spacecraft to orbit Mars and is the result of a powerful collaboration between Rocket Lab, <a href="https://twitter.com/ucbssl?ref_src=twsrc%5Etfw">@UCBSSL</a> &amp; <a href="https://twitter.com/NASA?ref_src=twsrc%5Etfw">@NASA</a>.<br><br>Here are some of the incredible people who built this interplanetary dream 👇 <a href="https://t.co/jOTkyesf7o">pic.twitter.com/jOTkyesf7o</a></p>&mdash; Rocket Lab (@RocketLab) <a href="https://twitter.com/RocketLab/status/1987930116186665027?ref_src=twsrc%5Etfw">November 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ---
 
-# Jennifer Hudson
+# Jennifer Hudson 
+[pdf](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf) 
 [re](https://campaignrefinery.com/what-does-re-mean-in-email/) : [Murder of Jason Hudson](https://en.wikipedia.org/wiki/Murder_of_Jason_Hudson?fbclid=IwY2xjawNx_OpleHRuA2FlbQIxMABicmlkETBQT1oxZ25pU3BFcGFIdTQyAR7S44y-e_EMOZFEsoJaQ__PLlp0JTzPalC0Xky7y2R_TYStD_gfIdg1l-usqw_aem_JDBZo1x5IREe3Cf3RSOGEg)
 
 [@BlackGirlsCode @Emit-Sds] the [WikiTalkPages](https://en.wikipedia.org/wiki/Talk:Murder_of_Jason_Hudson) of every person in the spotlight need review and monitoring, take care of your household first @newshour @datadesk [@blackgirlscode @meta](https://www.facebook.com/permalink.php?story_fbid=pfbid02HjLKWoHDZ88V7FuECD1dL6J3WtK3WpoXvuGjJ4XwLmC5VA1Utah45QGHWy6ZdnAYl&id=100084464911565) ::: NASA Jet Propulsion Laboratory [#ChinellGreen](https://www.facebook.com/chinell.green) might be Jennifer Hudson on occasion and someone was gossiping [#youtubeconspiracy](https://www.youtube.com/watch?v=xh2s6P2t77c) in longbeach  [Natasha Duncan-Frederick](https://www.facebook.com/natasha.duncan.125) [Garrick Duckery](https://www.facebook.com/search/top?q=garrick%20duckery) The Jennifer Hudson Family Murders Normani is she #ChimellJohnson Mayor Karen Bassfrom #[beachhighschool](https://www.sccpss.com/district/esplost/ei/alfred-ely-beach-high-school) [Alfred Ely Beach High School](https://beach.sccpss.com/) ? Immigration And Customs Enforcement ([ICE](https://www.ice.gov/newsroom) ) some people will use this gossip as an excuse to violate her personal space Gavin Newsom Keisha Lance BottomsKimberly Bryant[,](https://www.dhs.gov/github-privacy-policy-and-notice) Founder Black Girls CODE Fort Stewart Hunter Army Airfield The Jennifer Hudson Family Murders https://www.thoughtco.com/the-jennifer-hudson-family... THOUGHTco #Thoughtcom Wikipedia 
