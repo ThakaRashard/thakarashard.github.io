@@ -3,18 +3,31 @@ layout: default
 ---
 {% include nav.html %}
 
-last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
+
+
+## California_Linux[:](https://www.iso.org/iso-8601-date-and-time-format.html) 
+<iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> 
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fblueorigin%2Fposts%2Fpfbid02egBKgBbkGdfJXSmCN2knD6QcqXwQAtTn6PmXXt7rz4VUQ4e2uDGPk3XGeBcA8wsl&show_text=true&width=500" width="500" height="225" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/62f5acd5-245f-4fd1-a0ed-6cc0446be7de" />
 
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02QS8KX7p6dFSadSA5B1grimiQ9wth4UUbkkgip6GcDrddMWuBD7ZpVo9nepsZUzzUl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Tw3GCukTNa6uTKobKTFR6QBG173Fx38YnYRtVoGBTesdCzkiKbF1L6Zy3V25sbVUl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
 last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 [Experiance Insight](https://eyes.nasa.gov/apps/experience-insight/InSight.html) 
-## California_Linux[:](https://www.iso.org/iso-8601-date-and-time-format.html) 
-<iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 
 
 ```
@@ -32,6 +45,8 @@ New Glenn's second mission will launch from Launch Complex 36 at Cape Canaveral 
 <img  alt="image" src="https://github.com/user-attachments/assets/206dc527-57d8-4def-8b2f-c8778551c547" />
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The ESCAPADE mission will send two Rocket Lab spacecraft to orbit Mars and is the result of a powerful collaboration between Rocket Lab, <a href="https://twitter.com/ucbssl?ref_src=twsrc%5Etfw">@UCBSSL</a> &amp; <a href="https://twitter.com/NASA?ref_src=twsrc%5Etfw">@NASA</a>.<br><br>Here are some of the incredible people who built this interplanetary dream 👇 <a href="https://t.co/jOTkyesf7o">pic.twitter.com/jOTkyesf7o</a></p>&mdash; Rocket Lab (@RocketLab) <a href="https://twitter.com/RocketLab/status/1987930116186665027?ref_src=twsrc%5Etfw">November 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02g6XJJzfpRS3mwADhzmAiuDhe2jFJxQu2UYdmMQb1n4UsxripZcTA6QNGAi7U6ekl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 ---
 
 # Jennifer Hudson 
