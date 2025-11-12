@@ -12,6 +12,8 @@ last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 ## California_Linux[:](https://www.iso.org/iso-8601-date-and-time-format.html) 
 <iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> 
 
+@usgs [Index of VIP01.004:](https://e4ftl01.cr.usgs.gov/MEASURES/VIP01.004/), [BadgeNotes](https://media.defcon.org/DEF%20CON%2033/DEF%20CON%2033%20video%20and%20slides/DEF%20CON%2033%20-%20Making%20the%20DEF%20CON%2033%20Badge%20-%20Mar.mp4?fbclid=IwY2xjawOAtLJleHRuA2FlbQIxMABicmlkETFMeUFwNVFDY3RBTTJralBGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHm7z55Iz2x41YkoLzAItSlR4-Mu7Vys5bg9CYLGdM19K90jcocMoUEH4nkhU_aem_jciDbMwVJEFHdDy3VSZq7Q) [l8tr @blackgirlscode @brandynorwood @normani](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20video%20and%20slides/DEF%20CON%2032%20-%20A%20Treasure%20Trove%20of%20Failures%20-%20What%20History%E2%80%99s%20Greatest%20Heist%20Can%20Teach%20Us%20About%20Defense%20In%20Depth%20-%20Pete%20Stegemeyer.mp4) @
+
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fblueorigin%2Fposts%2Fpfbid02egBKgBbkGdfJXSmCN2knD6QcqXwQAtTn6PmXXt7rz4VUQ4e2uDGPk3XGeBcA8wsl&show_text=true&width=500" width="500" height="225" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
