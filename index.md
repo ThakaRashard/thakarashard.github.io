@@ -8,6 +8,7 @@ layout: default
 <a href="https://rashardmro.tumblr.com/">Rashard[M_R_O/JPL/NASA]</a>
 last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
+@blueorigin @blackgirlscode @nasa-pds @cityoflosangeles @LACMTA hi 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9sT4Hr-Il30?si=7w9ShB59sgRyL98q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## California_Linux[:](https://www.iso.org/iso-8601-date-and-time-format.html) 
