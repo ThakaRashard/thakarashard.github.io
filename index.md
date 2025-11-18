@@ -3,13 +3,45 @@ layout: default
 ---
 {% include nav.html %}
 
+<img  alt="image @nasa @nasa-jpl @blackgirlscode" src="https://github.com/user-attachments/assets/80edb710-cf75-4062-9fee-676efd44293d" />
+
+[WeFunkRadio +](https://www.wefunkradio.com/radio/) [latest LordSear](https://soundcloud.com/djlordsear/dj-holly-grove-no-mix-10-24-2025?si=82a4b5f012894629a00dc960f6862f85&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) && [Show 1270 seem good @blackgirlscode](https://www.wefunkradio.com/show/1270/play_aa)
+
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+NASA Official: Doug Newman
+@doug-newman-nasa hi, i will start talking to you to get up to speed, after i left i started helping my significant other with [her programming club](https://www.facebook.com/BlackGirlsCodeOrg/posts/pfbid02gnwvon4s1q5e1h7EsoGvWaxQxbdYE822ukNiFaFqyRDJNzfwv8CKmrj5LFeBmyT5l)... [I met her](https://youtu.be/ALHloX7kKaY) in a [dance studio](https://youtu.be/DODfucCQ91Q?si=8U_gm0NuyF2KmoCZ). [she has supervision](https://obamawhitehouse.archives.gov/champions/tech-inclusion/kimberly-bryant) at @Whitehouse kimberly-bryant and i did get intimate with her and theres scandal at this age and she has a hit song about [saturn](https://www.youtube.com/watch?v=V2G8ESoDXm8).... its a big mess, that one that dumped me [erika](https://www.essence.com/tags/erika-kelly/), i dont know what happened to all [her embryos](https://www.fertilityiq.com/fertilityiq/doctors/richard-sherbahn) ... and i saw kids in la that look like me... and at the very least im in a relationship with normani to help [her](https://www.linkedin.com/posts/black-girls-code_celebrityfamilyfeud-familyfeudabc-blackgirlscode-activity-7363644763058667520-CItA) recover from sex trafficking at a @CiA @FBi @dhs-gov level and any time i miss from work is because soeone is about to die from the story they gave me, or commit armed robbery, or succumb to rape... Thats how she communicates, and its via some tracking tech that her owners use on her...  I am just really confused bc [shes famous under the name moesha](https://www.dailymotion.com/video/x7l6nux) and im just overwhelmed and need the lab to help me understand that hollywood has been as it is a long ass time and i am not a freak as a departnered man... -[Rashard](https://rashardsdata.github.io/) btw i still think like 5 girls play her role on tv and i have been intimate with unclothed pelvises with two of them [Normani Felt Hidden Being the Only Black Girl in Fifth Harmony: 'I Don't Think They Knew How' to Be There for Me](https://people.com/normani-felt-hidden-being-the-only-black-girl-in-fifth-harmony-8722916)
+
+@doug-newman-nasa 
+At the very least i got intimate with a girl and im running from people bc she is a vixen from hollywood this her cat parlor [sister](https://abcnews.go.com/Entertainment/nicki-minaj-humiliated-fight-cardi-york-fashion-week/story?id=57739841) and the dudes from her hollywood life are tracking me doxxing me and giving me boils from acidic weapons that go through my clothes, they even knocked a tooth out by sabotaging crackers at [HollyWoodFood CoAlition](https://hofoco.org/) i have an [archive.org](https://archive.org/details/@thakaserika_selassie_kelly) account but i like people in @StateofCalifornia to keep a tab on my archive [CommitmentMAintentance](https://archive.org/details/commitmentmaintenance) theres plots in there, github accounts coming soon and daily video if i can upload of my adventured getting interenet access arounce @CityOfLosAngeles&& check out my [FireData](https://rashardsdata.github.io/2025/11/12/FireReportCleanUp.html) `constantlyCompiling earthdata` @usgs @blackgirlscode! The Music in that soundcloud embed [BarbieDrip](https://www.youtube.com/watch?v=Td8W1rG_tiI) you have to separate to hear the technology at least i think you do, because a song is one [granule](https://www.earthdata.nasa.gov/data/catalog) of a story, ask your significant other for permission to listen, i dont want to hurt noone, there is no nudity but if @nasa-jpl can look through [Queens4](https://youtu.be/PQuaztBuTuw?si=aG5HXAJY18oy5rL9)! Them girls on full on computes building software to make music when the cellular providers start limiting thier access
+[GloRilla - Internet Trolls (ft. Hitkidd)](https://youtu.be/RmxF264KyIs?si=8pfTjBofmjTsxlsi) :: [Sonta "Your Mistake"](https://youtu.be/FiGAkDE7s7o?si=dcSn1SPGXMi9yFDy) :: [Omeretta the Great- Sorry Not Sorry](https://youtu.be/6IvchaA0B3Y?list=RD6IvchaA0B3Y) :: [Rico Nasty - IPHONE](https://youtu.be/RuhvdaDabpU?list=RDRuhvdaDabpU)
+
+
+
+[NASA Sets Launch Coverage for International Ocean Tracking Mission](https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-international-ocean-tracking-mission/)
+November 16, 2025 21:21 PT
+Sentinel-6B Mission [SPACEx](https://www.spacex.com/launches/sentinel-6b) / [ESA](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-6/Watch_Sentinel-6B_launch_live_broadcast)
+[Sentinel-6B Satellite Moves into Payload Processing Phase](https://science.nasa.gov/blogs/sentinel-6/2025/09/30/sentinel-6b-satellite-moves-into-payload-processing-phase/) [New NASA-ESA Sea Level Satellite Arrives at California Launch Site](https://science.nasa.gov/blogs/sentinel-6/2025/08/20/new-nasa-esa-sea-level-satellite-arrives-at-california-launch-site/) 
+[New US-European Sea Level Satellite Will Help Safeguard Ships at Sea](https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6b/new-u-s-european-sea-level-satellite-will-help-safeguard-ships-at-sea/) 
+
+# Sentinel-6B Prelaunch Media Teleconference
+
+[@nasa Tune in @blackgirlscode](https://www.youtube.com/embed/1n4SjH6URAo?si=LYJX4TyVSPsXHHKN)
+<img alt="image" src="https://github.com/user-attachments/assets/d212c1f5-a854-480f-8d17-3cee617536b4" />
+
+
+![The Copernicus Browser makes it possible to browse and download full resolution images from all Copernicus missions.](https://upload.wikimedia.org/wikipedia/commons/c/c3/Copernicus_Logo_240.png)
+[Introduction to the CDSE website and Copernicus Browser](https://youtu.be/GecNCdilbig) <~ `HOMEWORK!` 
+`DATAPRoDuCT!` ~> [browser.dataspace.copernicus.eu @podaac @blackgilscode @nasa-jpl @whitehouse @Cityoflosangeles @StateofCalifornia](https://browser.dataspace.copernicus.eu/?zoom=7&lat=34.31551&lng=-118.20968&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX19CfAtfewtzv5kYlONWnlpXnpY%2Bor3NOMKTf%2FVYPesB9%2BssYQzSXXADxmZ2Rm9JHz%2B6xAHix815EdGBIYInfOZ7%2BcgiDZy0GoSdSOdwkiDV8I7eWhEdLDIn&datasetId=S3OLCI_CDAS&fromTime=2023-02-10T00%3A00%3A00.000Z&toTime=2023-02-10T23%3A59%3A59.999Z&layerId=2_OTCI&demSource3D=%22MAPZEN%22&cloudCoverage=13&dateMode=SINGLE)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5a1b1815-6755-4ab2-970e-bafa9521856c" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/70d1ade6-43d2-4292-b583-3ab693456912" />
 
 # JPL Open Source Rover Project
 [DOCS](https://open-source-rover.readthedocs.io/en/latest/) / [GiT](https://github.com/nasa-jpl/open-source-rover)
-<object data="https://jplopensourcerover.com/#!/home" width="100%" height=400px ></object>
+`<object data="https://jplopensourcerover.com/#!/home" width="100%" height=400px ></object>`
 
 # Mars Reconnaissance Orbiter (MRO)
 Project [pdf](https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_0001/document/mro_arch_plan.pdf)
