@@ -25,6 +25,305 @@ At the very least i got intimate with a girl and im running from people bc she i
 
 <img  alt="image @nasa @nasa-jpl @blackgirlscode" src="https://github.com/user-attachments/assets/80edb710-cf75-4062-9fee-676efd44293d" />
 
+
+
+# PreLaunch
+# Plots
+[WindSpeed @airbus @nasa-jpl 20253201800-GOES18](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/DMW/20253191800-20253201800-GOES18-ABI-FD-DMW-1808x1808.gif)
+# NewsArticles
+
+
+
+### National Aeronautics [and](https://an.rsl.wustl.edu/) Space Administration
+## Falcon 9 Crew Dragon
+## Launch Weather Criteria
+[DOWNLOAD_PDF = falcon9_crewdragon_launch_weather_criteria_fact_sheet.pdf](https://www.nasa.gov/wp-content/uploads/2021/07/falcon9_crewdragon_launch_weather_criteria_fact_sheet.pdf)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c7e504df-a34b-4f3b-a544-fb3db6981257" />
+
+**Do not launch**  if the sustained wind
+at the 162-foot level of the launch
+pad exceeds 30 mph.
+
+**Do not launch**  through upper-level
+conditions containing wind shear
+that could lead to control problems
+for the launch vehicle.
+
+**Do not launch**  for 30 minutes
+after lightning is observed within
+10 nautical miles of the launch pad
+or the flight path, unless specified
+conditions can be met.
+
+**Do not launch**  within 10 nautical
+miles of an attached thunderstorm
+anvil cloud, unless temperature and
+time-associated distance criteria can
+be met.
+
+**Do not launch**  within 10 nautical
+miles of a detached thunderstorm
+anvil cloud.
+
+**Do not launch**  within 3 nautical
+miles of a thunderstorm debris
+cloud, unless specific timeassociated distance criteria can
+be met.
+
+**Do not launch**  within 5 nautical
+miles of disturbed weather
+clouds that extend into freezing
+temperatures and contain moderate
+or greater precipitation, unless
+specific time-associated distance
+criteria can be met.
+
+**Do not launch**  for 15 minutes if
+field mill instrument readings within
+five nautical miles of the launch pad
+exceed +/- 1,500 volts per meter, or
++/- 1,000 volts per meter if specified
+criteria can be met.
+
+**Do not launch**  through a cloud
+layer greater than 4,500 feet
+thick that extends into freezing
+temperatures, unless other specific
+criteria can be met.
+
+**Do not launch**  within 10 nautical
+miles of cumulus clouds with
+tops that extend into freezing
+temperatures, unless specific
+height-associated distance criteria
+can be met.
+
+**Do not launch**  within 10 nautical
+miles of the edge of a thunderstorm
+that is producing lightning within
+30 minutes after the last lightning is
+observed.
+
+**Do not launch**  through cumulus
+clouds formed as the result of or
+directly attached to a smoke plume,
+unless time-associated criteria can
+be met.
+
+**Do not launch**  if downrange
+weather indicates violation of limits
+at splashdown in case of Dragon
+launch escape.
+
+**Do not launch**  if downrange
+weather shows high probability of
+violating limits at splashdown in
+case of Dragon launch escape.
+Downrange weather is monitored
+at more than 50 locations along
+the ascent track along the North
+American eastern seaboard and
+across the North Atlantic.
+Probability of violation is calculated
+for each location including limit
+conditions for wind, waves, lightning,
+and precipitation
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0ee8aed9-6cc4-45f9-98d4-1d514ff3b5a1" />
+
+HF Radio: Weak or minor degradation of HF radio communication on sunlit side, occasional loss of radio contact.
+Navigation: Low-frequency navigation signals degraded for brief intervals. [main](https://www.swpc.noaa.gov/)
+
+<img alt="image" src="https://github.com/user-attachments/assets/89ede08e-ff90-4872-bdba-3173f1479390" />
+
+![STEREO @nasa @nasa-jpl @emit-sds](https://stereo.gsfc.nasa.gov/img2/stereo_gsfc_01.gif)
+![SPACE_WEATHER @usgs @blackgirlscode](https://stereo-ssc.nascom.nasa.gov/img2/stereo_new_01.gif)
+
+
+### TodAY 
+![THESUN](https://stereo-ssc.nascom.nasa.gov/browse/2025/11/17/ahead/euvi/195/2048/20251117_032802_n7euA_195.jpg)
+IMPACT/PLASTIC solar wind data
+![impact/PLASTiC @airbus @ESA](https://stereo-ssc.nascom.nasa.gov/beacon/beacon_insitu.gif)
+
+![Ejections](https://stereo-ssc.nascom.nasa.gov/browse/2025/11/17/ahead/cor2/1024/20251117_033156_d7c2A.jpg)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1cf13458-e555-4092-aec0-edeffadaac16" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/3774a906-185b-42f8-9aaf-8f84e3ce39cb" />
+
+![DNS_NOW @nasa-jpl @blackgirlscode](https://eyes.nasa.gov/apps/dsn-now/images/dsn_logo.png)
+
+#NEAR SPACE NETWORK 
+ToolONLinE [[CLiCKHERE @nasa-jpl @r-spacex](https://scan-now.gsfc.nasa.gov/scan)
+@blackgirlscode
+
+DSN DOWN 6:52pm from @cityoflosangeles @airbus [CLiCK_Here_For DSN _Monitoring_Tool](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+
+
+[Ocean guardian ready: second Copernicus Sentinel-6 satellite heads to launch site](https://www.airbus.com/en/newsroom/press-releases/2025-07-ocean-guardian-ready-second-copernicus-sentinel-6-satellite-shipped)
+
+[THE DETERMINATION OF THE ORIENTATION
+OF A UNIFORMLY ROTATING OR RAPIDLY ROTATING VEHICLE
+UTILIZING THE OUTPUTS FROM SOLAR SENSORS
+AND A LATERAL MAGNETOMETER - PDF](https://ntrs.nasa.gov/api/citations/19660010191/downloads/19660010191.pdf)
+
+
+
+## REAL TIME SOLAR WIND
+[swpc.noaa.gov - CLickHere](https://www.swpc.noaa.gov/products/real-time-solar-wind)
+<img  alt="image" src="https://github.com/user-attachments/assets/94be4c5c-d246-4e75-b1ff-70e9483342dc" />
+### NOAA SPACE WEATHER SCALES
+The NOAA Space Weather Scales were introduced as a way to communicate to the general public the current and future space weather conditions and their possible effects on people and systems.
+[Link - CLiCKHERE - For MApLegend](https://www.swpc.noaa.gov/noaa-scales-explanation)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e3ce5cfe-adcf-4dec-87d4-2ef27ab48bdd" />
+
+
+### Deep Space Climate Observatory
+(DSCOVR; formerly known as Triana, unofficially known as GoreSat
+[Wiki](https://en.wikipedia.org/wiki/Deep_Space_Climate_Observatory) :: [WikiTALK](https://en.wikipedia.org/wiki/Talk:Deep_Space_Climate_Observatory) 
+[DSCOVR - DATAPORTAL](https://www.ngdc.noaa.gov/dscovr/portal/index.html#/) 
+![MAgnet](https://www.ngdc.noaa.gov/dscovr/plots/dscovr_6hr_plots/2025/11/2025111518-6hr.png)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/4906270e-b513-4738-b3db-41eed895b963" />
+
+[DSCOVR - DATAPORTAL](https://www.ngdc.noaa.gov/dscovr/portal/index.html#/) 
+`UPDATE 2025-10-15: DSCOVR spacecraft status has improved since the anomaly on 2025-07-15. Magnetometer (MAG) data flow resumed 2025-10-02 at 15:49 UTC, with initial measurements that appear reasonably similar to ACE data. The Faraday Cup instrument was recovered as of 2025-10-10 at 19:18 UTC. DSCOVR is currently not being tracked 24/7, as tracking priority is given to other operational space weather missions.`
+
+![DEEP SPACE CLiMATE OBSERVATORY](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/DSCOVR_Logo_%28transparent_bg%29.png/960px-DSCOVR_Logo_%28transparent_bg%29.png)
+
+![SwRi](https://www.swri.org/sites/default/files/logo-swri_0.png)
+[HELioPHysics](https://www.swri.org/markets/earth-space/space-research-technology/space-science/heliophysics) : Ninety-nine percent of the observable universe is in the plasma state, which is often referred to as the “fourth state of matter.” Plasmas are collections of electrically charged particles — ions and electrons [2024 Heliophysics Summer School Schedule](https://heliophysics.ucar.edu/summer-school/2024-schedule) @doug-newman-nasa i want this class somehow, i wanna work twoard whatever to take a class like this [https://heliophysics.ucar.edu/summer-school](https://heliophysics.ucar.edu/summer-school)
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/00faf226-60f0-466d-bf69-84caefe274e2" />
+
+# Personal
+
+
+4 hr @nasa-jpl/@blackgirlscode/Stateofcalifornia
+![sentinel 3 @nasa @emit-sds @stateofcalifornia @cityoflosangeles @blackgirlscode _ normani TYRA...](https://www.esa.int/eologos/images/sentinel-3_neg.jpg)
+
+Profile Information
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 11-16-2025
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.2 Home NASA Accessibility
+NASA Official: Doug Newman
+![sentinel 3 @nasa @emit-sds @stateofcalifornia @cityoflosangeles @blackgirlscode _ normani TYRA...](https://www.esa.int/eologos/images/sentinel-3.jpg)
+
+![NWS](https://www.swpc.noaa.gov/sites/all/themes/swx/nws_logo.svg)
+
+
+
+[blogspot @JHUAPL](https://sdoisgo.blogspot.com/2025/08/new-ai-model-based-on-sdo-data.html) / [Barbara Thompson @NASA](https://www.blogger.com/profile/12794103242916034865) : The SDO web server has had a hardware failure with its data storage, so some features and data are temporarily unavailable. The team is working to restore access as soon as possible. Please refer to the [Data Access Page](https://sdo.gsfc.nasa.gov/data/dataaccess.php) to find alternate sources of SDO data. 
+![SOLAR DYNamIcs lab](https://sdo.gsfc.nasa.gov/assets/img/site/SDO_Logo_glassy_lg.png)
+
+```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e9WpN-c9VCQ?si=Zr--EvgC2gmBxGl0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid021HpumqHTZ3i6zFd9sMZ5CdR9s68st8ixPgXP3hQ8sJxZQdmL9DHWxzWFx2DZxRfpl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0KizeuB3DirYCayNGMw1otccY4G8rCFHj9amCqyQ75bsaTaepFacWXGNFLE8rAXktl%26id%3D100084464911565&show_text=true&width=500" width="500" height="508" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+-- Launch Support @nasa @blueorigin @noaagov @blackgirlscode @normani 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0JeCVne4oumsYKyvkvz2yeurcik4uEA2o2dC1pxP3e4ytjemAjR7pK1KbuueuGXogl%26id%3D100084464911565&show_text=true&width=500" width="500" height="597" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+```
+
+![ESCAPADE](https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014641/ESCAPADE-FINAL-Horizontal-Front_Web_print.jpg) 
+```
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0cEYpmQCFWR59KAkk5rTBVp1Y4jYqQpk8EfeQnHBQm2HAtd7wrfwuReU5hWdDpWsDl%26id%3D100084464911565&show_text=true&width=500" width="500" height="430" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+-- I like Naylor to know im still a safe person @cityoflosangeles @whitehouse @stateofcalifornia 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0AnMbxhoWtsjkNgEJQjCH4kVVWVe52HPkrQeXsPiSi6Dfc3DuVQgTdzFMzZsM55pPl%26id%3D100084464911565&show_text=true&width=500" width="500" height="307" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02aF7WEiuCwtz6DaSv9P8FLrYHzyL6y6PzuRi8ag3Bc4cxpyodi6XHCAi1agkcjS42l%26id%3D100084464911565&show_text=true&width=500" width="500" height="636" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+```
+
+# PLANS
+## FlightPath
+![FLightpath](https://www.blueorigin.com/_next/image?url=https%3A%2F%2Fd1o72l87sylvqg.cloudfront.net%2Fredstone%2FNG-2_FlightProfile.jpg&w=1080&q=75)
+
+
+## Booster Recovery
+![boosterRecovery](https://www.blueorigin.com/_next/image?url=https%3A%2F%2Fd1o72l87sylvqg.cloudfront.net%2Fredstone%2FMissions_NG-2-BoosterRecovery.jpg&w=1080&q=75) 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
+
+[DOWNLOAD_PDF](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
+
+![ESCAPADE @nasa-jpl @blueorigin @cityoflosangeles @blackgirlscode](https://escapade.ssl.berkeley.edu/wp-content/uploads/2024/01/cropped-ESCAPADE-Logo_Color_Partial.png) 
+
+New Glenn had targeted a 2:50 p.m. EST (1850 GMT) liftoff from Blue Origin's Space Launch Complex-36, at Cape Canaveral Space Force Station today (Nov. 12), to send NASA's twin ESCAPADE orbiters to Mars. "However, due to highly [elevated solar activity](https://www.ngdc.noaa.gov/dscovr/plots/dscovr_6hr_plots/2025/11/2025111106-6hr.png) and its potential effects on the ESCAPADE spacecraft, NASA is postponing launch until space weather conditions improve," Blue Origin wrote in a post on X.)
+[space.com - @TheSpaceDevs](https://www.space.com/space-exploration/launches-spacecraft/ongoing-solar-storm-delays-blue-origin-launch-of-nasa-mars-probes?__vfz=medium%3Dcomment_share_facebook%7Csharer_uuid%3D00000000-0000-4000-8000-01fcd3fe14fc&fbclid=IwY2xjawOCBcFleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe4umNwpXk4rXxxBIIhUL3ttMTPEn-e_s42izVumnv51z15a8_mi91uYv3omY_aem_muPQhVU45fctScZnEutqQw#vf-5191df2e-4aac-4fcb-b944-42b5ed1c1d65)
+
+[@blueorigin @nasa-jpl](https://www.ngdc.noaa.gov/dscovr/plots/dscovr_6hr_plots/2025/11/) <!@NOAAGOV 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/83a587a7-80d8-4009-92d3-5abd013651bc" />
+
+![@weather-gov](https://www.ngdc.noaa.gov/image/nesdisngdcleft.gif) 
+# Magnetometer (MAG) data flow resumed 2025-10-02 at 15:49 UTC
+[PORTAL @NOAAGov](https://www.ngdc.noaa.gov/dscovr/portal/index.html#/vis/summary/1d/1762848000000) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ce7e1740-d585-4148-8506-2a81e8f396e0" />
+
+# ESCAPADE
+Pioneering Low-Cost Planetary Exploration for NASA: the Escape and Plasma Acceleration and Dynamics Explorers [TRaiLER](https://www.youtube.com/watch?si=p1lNMQvF5JesXZrk&v=mFzbT6_ZX70&feature=youtu.be)
+
+[RocketLAb](https://x.com/RocketLab/status/1987930116186665027?s=20&fbclid=IwY2xjawOCAdJleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHnC4OytgqTAGSTaUkKDxvrntRDpVm0Jw9rFyqYEv9EWPcoPCWla2DEWFmo_9_aem_B3ln14s_ficdByrLGgDqdw) 
+The Escape and Plasma Acceleration and Dynamics Explorers (ESCAPADE) mission to Mars, led by the University of California, Berkeley’s Space Sciences Laboratory, is set to launch sometime in fall 2024. It consists of two identical smallsats, named Blue and Gold, that will study Mars’ magnetosphere and its interaction with the solar wind. While the exact launch date is still to be determined, if the launch is successful, then ESCAPADE is projected to reach Mars by September 2025. [READMORE](https://www.ssl.berkeley.edu/escapade-mars-mission-on-track-for-fall-2024-launch/?fbclid=IwY2xjawOCAXRleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoCPPkqq_v8XG6vXP30vOUet9_PSLSURjZ7j9z1Z7_MWD5vSo1EBs469lGtG_aem_LyXE2x3-K1K-ukSVrkNFSQ) 
+
+North Dakota Dual Aurora Camera (NoDDAC) Live Stream [11/11](https://www.youtube.com/live/TZnqoj1FNvA)
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02qMXMF8eb7Yun9BVPy4wbCBv8vjtvTFWzVSdkxY8e1LHnfF5JNnDyDEaVEV2Z6rfLl%26id%3D100084464911565&show_text=true&width=500" width="500" height="392" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02xjJMgywoY3vGRkRg2y2tsWsvmbXmgRWZmHcPW8AgkixqC7Hxxcsx8UsBHLHH2mDSl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+# Scrub: New Glenn Mission NG-2 Webcast
+New Glenn's second mission, NG-2, is scheduled to launch no earlier than Sunday, November 9, from Launch Complex 36 at Cape Canaveral Space Force Station. This mission will deliver NASA's ESCAPADE twin spacecraft to Mars. Additionally, it will carry a technology demonstration from Viasat in support of NASA's Communications Services Project. 
+
+![Berkeley @ucberkeley](https://www.ssl.berkeley.edu/wp-content/uploads/2023/01/image-21.png) 
+
+# @NASA iNSight LAnding
+[LaunchFacts / PRESSkiT](https://www.jpl.nasa.gov/news/press_kits/insight/launch/facts/) 
+
+[@nasa-jpl](https://astrobiology.nasa.gov/missions/insight/) @blackgirlscode @StateOfCalifornia @CityOfLosAngeles 
+[Link @blueorigin @TheSpaceDevs @nasa-pds](https://archive.org/details/CSPAN_20181202_233500_NASA_TV_InSight_Mars_Landing/start/60/end/182.7) 
+[1944](https://archive.org/details/CaptainAmerica1944Serial1/Captain+America_+1944+Serial+-+%231.mp4)
+
+<img  alt="image @blueorigin" src="https://github.com/user-attachments/assets/34f61e5b-3abd-455b-ae8c-95a2a7942b8e" /> 
+<iframe width="640" height="480" frameborder="0" allowfullscreen src="https://archive.org/embed/CSPAN_20181202_233500_NASA_TV_InSight_Mars_Landing?start=60&end=120" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/39a0fa65-b941-4251-9b09-f44e8952c714" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/d06e9eb7-3346-4952-8b18-5f4460a7233a" />
+
+@blackgirlscode [Lockheed insight trailer @nasa-jpl @isro](https://youtu.be/C0lwFLPiZEE) 
+[Lockheed - insight data](https://www.lockheedmartin.com/en-us/products/insight-mars-lander.html) 
+
+![@nasa insight](https://www.jpl.nasa.gov/news/press_kits/insight/assets/images/facts/insight-logo.png) 
+
+
+
 [NASA Sets Launch Coverage for International Ocean Tracking Mission](https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-international-ocean-tracking-mission/)
 November 16, 2025 21:21 PT
 Sentinel-6B Mission [SPACEx](https://www.spacex.com/launches/sentinel-6b) / [ESA](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-6/Watch_Sentinel-6B_launch_live_broadcast)
