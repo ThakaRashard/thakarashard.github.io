@@ -12,7 +12,29 @@ layout: default
 
 <img  alt="Rashard iman Kelly 2010 - 2015" src="https://github.com/user-attachments/assets/70d1ade6-43d2-4292-b583-3ab693456912" />
 
+# cartography
 
+
+[https://www.jpl.nasa.gov/missions/airborne-visible-infrared-imaging-spectrometer-aviris/](https://www.jpl.nasa.gov/missions/airborne-visible-infrared-imaging-spectrometer-aviris/)
+AVIRIS is the first full spectral range imaging spectrometer and dedicated to Earth Remote Measurements . . 
+[AVIRIS Flight Request Information - CLiCKHERE](https://aviris.jpl.nasa.gov/status/flight_req.html)
+
+
+AVIRIS-ng 2025Wildfire
+<iframe src="https://archive.org/embed/n-02-e-016.-srtmgl-1.2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+<div class="tupperware_2col">
+  
+<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003740011700693C00_DXXX.jpg" />
+<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003740021700694C00_DXXX.jpg" />
+<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003740001700692C00_DXXX.jpg" />
+<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003720011700691C00_DXXX.jpg" />
+<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003720001700690C00_DXXX.jpg" />
+<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003710011700689C00_DXXX.jpg" />
+<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003710001700688C00_DXXX.jpg" />
+
+</div>
 
 NASA Official: Doug Newman
 @doug-newman-nasa hi, i will start talking to you to get up to speed, after i left i started helping my significant other with [her programming club](https://www.facebook.com/BlackGirlsCodeOrg/posts/pfbid02gnwvon4s1q5e1h7EsoGvWaxQxbdYE822ukNiFaFqyRDJNzfwv8CKmrj5LFeBmyT5l)... [I met her](https://youtu.be/ALHloX7kKaY) in a [dance studio](https://youtu.be/DODfucCQ91Q?si=8U_gm0NuyF2KmoCZ). [she has supervision](https://obamawhitehouse.archives.gov/champions/tech-inclusion/kimberly-bryant) at @Whitehouse kimberly-bryant and i did get intimate with her and theres scandal at this age and she has a hit song about [saturn](https://www.youtube.com/watch?v=V2G8ESoDXm8).... its a big mess, that one that dumped me [erika](https://www.essence.com/tags/erika-kelly/), i dont know what happened to all [her embryos](https://www.fertilityiq.com/fertilityiq/doctors/richard-sherbahn) ... and i saw kids in la that look like me... and at the very least im in a relationship with normani to help [her](https://www.linkedin.com/posts/black-girls-code_celebrityfamilyfeud-familyfeudabc-blackgirlscode-activity-7363644763058667520-CItA) recover from sex trafficking at a @CiA @FBi @dhs-gov level and any time i miss from work is because soeone is about to die from the story they gave me, or commit armed robbery, or succumb to rape... Thats how she communicates, and its via some tracking tech that her owners use on her...  I am just really confused bc [shes famous under the name moesha](https://www.dailymotion.com/video/x7l6nux) and im just overwhelmed and need the lab to help me understand that hollywood has been as it is a long ass time and i am not a freak as a departnered man... -[Rashard](https://rashardsdata.github.io/) btw i still think like 5 girls play her role on tv and i have been intimate with unclothed pelvises with two of them [Normani Felt Hidden Being the Only Black Girl in Fifth Harmony: 'I Don't Think They Knew How' to Be There for Me](https://people.com/normani-felt-hidden-being-the-only-black-girl-in-fifth-harmony-8722916)
@@ -25,7 +47,7 @@ At the very least i got intimate with a girl and im running from people bc she i
 
 <img  alt="image @nasa @nasa-jpl @blackgirlscode" src="https://github.com/user-attachments/assets/80edb710-cf75-4062-9fee-676efd44293d" />
 
-
+` <iframe src="https://archive.org/embed/interviewwith-dr-carol-stoker" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> `
 
 # PreLaunch
 # Plots
@@ -1119,29 +1141,7 @@ About One-third of Malibu Burned In The Palisades Fire. Where Does It Go From He
 
 ![tumblr_e17ebfc09ab9b3008882a5274b9012c7_62af3330_2048_dey_mad](https://github.com/user-attachments/assets/a6553387-f9ff-4b14-83ce-0c4905200e0a)
 
-# cartography
 
-
-[https://www.jpl.nasa.gov/missions/airborne-visible-infrared-imaging-spectrometer-aviris/](https://www.jpl.nasa.gov/missions/airborne-visible-infrared-imaging-spectrometer-aviris/)
-AVIRIS is the first full spectral range imaging spectrometer and dedicated to Earth Remote Measurements . . 
-[AVIRIS Flight Request Information - CLiCKHERE](https://aviris.jpl.nasa.gov/status/flight_req.html)
-
-
-AVIRIS-ng 2025Wildfire
-<iframe src="https://archive.org/embed/n-02-e-016.-srtmgl-1.2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-
-<div class="tupperware_2col">
-  
-<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003740011700693C00_DXXX.jpg" />
-<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003740021700694C00_DXXX.jpg" />
-<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003740001700692C00_DXXX.jpg" />
-<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003720011700691C00_DXXX.jpg" />
-<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003720001700690C00_DXXX.jpg" />
-<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003710011700689C00_DXXX.jpg" />
-<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003710001700688C00_DXXX.jpg" />
-
-</div>
 
 <img alt="To submit flight requests for the NASA Airborne Visible Infrared Imaging Spectrometer (AVIRIS), visit the website below. https://aviris.jpl.nasa.gov/status/flight_req.html " src="https://aviris.jpl.nasa.gov/images/aviris_text2.png" />
 
@@ -1158,7 +1158,7 @@ AVIRIS-ng 2025Wildfire
 </picture>
 
 
-<iframe src="https://archive.org/embed/interviewwith-dr-carol-stoker" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 
 ![G18_sector_wus_DayNightCloudMicroCombo_24fr_20250809-2008](https://github.com/user-attachments/assets/acdf0f66-9f8f-4d41-84ad-a0ebbd439d72)
 
@@ -1251,7 +1251,7 @@ PIONEERING MARS LANDER HISTORIC FILM [48584](https://youtu.be/JPAyg7-p9oM?t=932)
 
 saturnsRings2005
 by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
-<iframe src="https://archive.org/embed/saturnsRings2005" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+`<iframe src="https://archive.org/embed/saturnsRings2005" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>`
 
  <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/790535110911000576" data-did="c6706043b2c80590bb9bd0bb4baa1b0cdcd59989"><a href="https://rashardmro.tumblr.com/post/790535110911000576">https://rashardmro.tumblr.com/post/790535110911000576</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
 
