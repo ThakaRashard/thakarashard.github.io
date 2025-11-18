@@ -3,12 +3,16 @@ layout: default
 ---
 {% include nav.html %}
 
-<img  alt="image @nasa @nasa-jpl @blackgirlscode" src="https://github.com/user-attachments/assets/80edb710-cf75-4062-9fee-676efd44293d" />
 
 [WeFunkRadio +](https://www.wefunkradio.com/radio/) [latest LordSear](https://soundcloud.com/djlordsear/dj-holly-grove-no-mix-10-24-2025?si=82a4b5f012894629a00dc960f6862f85&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) && [Show 1270 seem good @blackgirlscode](https://www.wefunkradio.com/show/1270/play_aa)
 
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+
+<img  alt="Rashard iman Kelly 2010 - 2015" src="https://github.com/user-attachments/assets/70d1ade6-43d2-4292-b583-3ab693456912" />
+
+
 
 NASA Official: Doug Newman
 @doug-newman-nasa hi, i will start talking to you to get up to speed, after i left i started helping my significant other with [her programming club](https://www.facebook.com/BlackGirlsCodeOrg/posts/pfbid02gnwvon4s1q5e1h7EsoGvWaxQxbdYE822ukNiFaFqyRDJNzfwv8CKmrj5LFeBmyT5l)... [I met her](https://youtu.be/ALHloX7kKaY) in a [dance studio](https://youtu.be/DODfucCQ91Q?si=8U_gm0NuyF2KmoCZ). [she has supervision](https://obamawhitehouse.archives.gov/champions/tech-inclusion/kimberly-bryant) at @Whitehouse kimberly-bryant and i did get intimate with her and theres scandal at this age and she has a hit song about [saturn](https://www.youtube.com/watch?v=V2G8ESoDXm8).... its a big mess, that one that dumped me [erika](https://www.essence.com/tags/erika-kelly/), i dont know what happened to all [her embryos](https://www.fertilityiq.com/fertilityiq/doctors/richard-sherbahn) ... and i saw kids in la that look like me... and at the very least im in a relationship with normani to help [her](https://www.linkedin.com/posts/black-girls-code_celebrityfamilyfeud-familyfeudabc-blackgirlscode-activity-7363644763058667520-CItA) recover from sex trafficking at a @CiA @FBi @dhs-gov level and any time i miss from work is because soeone is about to die from the story they gave me, or commit armed robbery, or succumb to rape... Thats how she communicates, and its via some tracking tech that her owners use on her...  I am just really confused bc [shes famous under the name moesha](https://www.dailymotion.com/video/x7l6nux) and im just overwhelmed and need the lab to help me understand that hollywood has been as it is a long ass time and i am not a freak as a departnered man... -[Rashard](https://rashardsdata.github.io/) btw i still think like 5 girls play her role on tv and i have been intimate with unclothed pelvises with two of them [Normani Felt Hidden Being the Only Black Girl in Fifth Harmony: 'I Don't Think They Knew How' to Be There for Me](https://people.com/normani-felt-hidden-being-the-only-black-girl-in-fifth-harmony-8722916)
@@ -18,6 +22,8 @@ At the very least i got intimate with a girl and im running from people bc she i
 [GloRilla - Internet Trolls (ft. Hitkidd)](https://youtu.be/RmxF264KyIs?si=8pfTjBofmjTsxlsi) :: [Sonta "Your Mistake"](https://youtu.be/FiGAkDE7s7o?si=dcSn1SPGXMi9yFDy) :: [Omeretta the Great- Sorry Not Sorry](https://youtu.be/6IvchaA0B3Y?list=RD6IvchaA0B3Y) :: [Rico Nasty - IPHONE](https://youtu.be/RuhvdaDabpU?list=RDRuhvdaDabpU)
 
 
+
+<img  alt="image @nasa @nasa-jpl @blackgirlscode" src="https://github.com/user-attachments/assets/80edb710-cf75-4062-9fee-676efd44293d" />
 
 [NASA Sets Launch Coverage for International Ocean Tracking Mission](https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-international-ocean-tracking-mission/)
 November 16, 2025 21:21 PT
@@ -37,7 +43,6 @@ Sentinel-6B Mission [SPACEx](https://www.spacex.com/launches/sentinel-6b) / [ESA
 
 <img  alt="image" src="https://github.com/user-attachments/assets/5a1b1815-6755-4ab2-970e-bafa9521856c" />
 
-<img  alt="image" src="https://github.com/user-attachments/assets/70d1ade6-43d2-4292-b583-3ab693456912" />
 
 # JPL Open Source Rover Project
 [DOCS](https://open-source-rover.readthedocs.io/en/latest/) / [GiT](https://github.com/nasa-jpl/open-source-rover)
@@ -693,7 +698,7 @@ plays slow but worth a gander at the textures @podaac @nasa-jpl @blackgirlscode
 
 [https://www.facebook.com/reel/753773317504838](https://www.facebook.com/reel/753773317504838)
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2158687044&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/djlordsear" title="Dj Lord Sear - The Lord Sear Special" target="_blank" style="color: #cccccc; text-decoration: none;">Dj Lord Sear - The Lord Sear Special</a> · <a href="https://soundcloud.com/djlordsear/db-50-min-l-sear-guest-mix-6-1" title="DB 50 MIN DRUNK MIX - L.SEAR Guest Mix 8-25-25" target="_blank" style="color: #cccccc; text-decoration: none;">DB 50 MIN DRUNK MIX - L.SEAR Guest Mix 8-25-25</a></div>
+`<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2158687044&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/djlordsear" title="Dj Lord Sear - The Lord Sear Special" target="_blank" style="color: #cccccc; text-decoration: none;">Dj Lord Sear - The Lord Sear Special</a> · <a href="https://soundcloud.com/djlordsear/db-50-min-l-sear-guest-mix-6-1" title="DB 50 MIN DRUNK MIX - L.SEAR Guest Mix 8-25-25" target="_blank" style="color: #cccccc; text-decoration: none;">DB 50 MIN DRUNK MIX - L.SEAR Guest Mix 8-25-25</a></div>`
 
 <img  alt="image Jupiter Notebook Exercise" src="https://github.com/user-attachments/assets/8c0f80cb-1e52-451a-b4d1-8908316b83d0" />.
 AV320230705t202435_002_L1B_RDN
@@ -928,10 +933,13 @@ PIONEERING MARS LANDER HISTORIC FILM [48584](https://youtu.be/JPAyg7-p9oM?t=932)
 
 <iframe src="https://archive.org/embed/48584NASAViking" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+<img  alt="Rashard iman Kelly 2010 - 2015" src="https://github.com/user-attachments/assets/70d1ade6-43d2-4292-b583-3ab693456912" />
+
  [MarsOrbitalData](https://ode.rsl.wustl.edu/mars/)
 ![https://ode.rsl.wustl.edu/mars/images/mars_ODE.jpg](https://ode.rsl.wustl.edu/mars/images/mars_ODE.jpg)
 
 ![RadioGram](https://photojournal.jpl.nasa.gov/jpegMod/PIA09222_modest.jpg)
+
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:14gJtxoOvHwVbrjwtr6x5A/790812496359538688/v2" data-did="ce7fef82ae241825df9b933cba6178f68cb3dec3"  ><a href="https://www.tumblr.com/santamonicashaadi/790812496359538688">https://www.tumblr.com/santamonicashaadi/790812496359538688</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 
