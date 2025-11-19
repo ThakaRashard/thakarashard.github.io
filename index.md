@@ -12,6 +12,12 @@ layout: default
 
 <img  alt="Rashard iman Kelly 2010 - 2015" src="https://github.com/user-attachments/assets/70d1ade6-43d2-4292-b583-3ab693456912" />
 
+# Earth Observatory 
+## Aerosol imprint 
+image from @nasa i found it in a [forbes article](https://www.forbes.com/sites/trevornace/2018/08/27/nasa-releases-stunning-snapshot-of-the-world-on-fire/)
+![asa](https://eoimages.gsfc.nasa.gov/images/imagerecords/92000/92654/atmosphere_geo5_2018235_lrg.jpg)
+
+
 # cartography
 
 
