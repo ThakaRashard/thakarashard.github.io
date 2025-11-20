@@ -22,7 +22,12 @@ layout: default
 
 <img  alt="image" src="https://github.com/user-attachments/assets/b1734f10-55bc-4d31-822b-577feef59eb7" />
 
+<img  alt="image" src="https://github.com/user-attachments/assets/bcce8034-9e00-46fe-8e5e-54b4f90b5a27" />
+
 <img  alt="Rashard iman Kelly 2010 - 2015" src="https://github.com/user-attachments/assets/70d1ade6-43d2-4292-b583-3ab693456912" />
+
+
+<img  alt=" rashard coral erika @blackgirlscode " src="https://github.com/user-attachments/assets/4fef2bba-3383-4ac5-b41a-d061e9ff6da7" />
 
 # Earth Observatory 
 ## Aerosol imprint 
