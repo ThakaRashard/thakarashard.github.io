@@ -16,6 +16,11 @@ layout: default
 @cityoflosangeles @nasa-jpl @nasa-pds [MayOR_KAREN_BASS](https://www.facebook.com/100084464911565/videos/764029446698006/)
 [@StateOfCalifornia gavin.newsom@ca.gov](https://www.facebook.com/100084464911565/videos/764029446698006/)
 
+
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/541e08e1-bfb0-4cfa-bc6d-4a7a8cb9a06c" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/b221cafa-4593-4f3b-a9bb-53d2be23bd3b" />
 
 [RESUME @blackgirlscode](https://thakarashard.github.io/RESUME/)
@@ -29,6 +34,8 @@ layout: default
 <img  alt="image" src="https://github.com/user-attachments/assets/76c9fb94-63db-4f4d-94fe-68de9ca280d3" />
 
 <img  alt=" rashard coral erika @blackgirlscode " src="https://github.com/user-attachments/assets/4fef2bba-3383-4ac5-b41a-d061e9ff6da7" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4419f9f9-f56f-4c9e-9ff4-f275b43e6566" />
 
 # Earth Observatory 
 ## Aerosol imprint 
