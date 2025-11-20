@@ -19,6 +19,9 @@ layout: default
 <img  alt="image" src="https://github.com/user-attachments/assets/b221cafa-4593-4f3b-a9bb-53d2be23bd3b" />
 
 [RESUME @blackgirlscode](https://thakarashard.github.io/RESUME/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b1734f10-55bc-4d31-822b-577feef59eb7" />
+
 <img  alt="Rashard iman Kelly 2010 - 2015" src="https://github.com/user-attachments/assets/70d1ade6-43d2-4292-b583-3ab693456912" />
 
 # Earth Observatory 
