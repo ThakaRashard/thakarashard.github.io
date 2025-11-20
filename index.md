@@ -83,6 +83,9 @@ At the very least i got intimate with a girl and im running from people bc she i
 	
 <img   alt="image" src="https://github.com/user-attachments/assets/a92d1ca1-fb0e-41c6-b6c1-1ba630abe320" />
 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/53a326ca-38ec-4cac-891c-56bdc97a5e46" />
+
 <img   alt="image" src="https://github.com/user-attachments/assets/bbf31230-2960-4e27-b79d-f2a81e85a1d7" />
 
 </div> 
