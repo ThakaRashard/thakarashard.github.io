@@ -17,13 +17,16 @@ layout: default
 [@StateOfCalifornia gavin.newsom@ca.gov](https://www.facebook.com/100084464911565/videos/764029446698006/)
 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/b221cafa-4593-4f3b-a9bb-53d2be23bd3b" />
+
+[RESUME @blackgirlscode](https://thakarashard.github.io/RESUME/)
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e11cc6d1-e634-4254-81a5-a06105800a4a" />
 
 
 <img alt="image" src="https://github.com/user-attachments/assets/541e08e1-bfb0-4cfa-bc6d-4a7a8cb9a06c" />
 
-<img  alt="image" src="https://github.com/user-attachments/assets/b221cafa-4593-4f3b-a9bb-53d2be23bd3b" />
-
-[RESUME @blackgirlscode](https://thakarashard.github.io/RESUME/)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/b1734f10-55bc-4d31-822b-577feef59eb7" />
 
