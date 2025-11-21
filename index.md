@@ -13,16 +13,8 @@ layout: default
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
 2 # TO####################################################
 3 # ANOTHER###############################################
-4 # UNiVERSE####################################CORaL#####
+4 # UNiVERSE########@BlackGirLSCode Who is Brandy?########
 {% endhighlight %}
-<hr>
-
-
----
-layout: default
----
-{% include nav.html %}
-
 
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
