@@ -9,6 +9,173 @@ layout: default
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+{% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE####################################CORaL#####
+{% endhighlight %}
+<hr>
+
+
+---
+layout: default
+---
+{% include nav.html %}
+
+
+
+![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+
+
+
+{% highlight python %}
+1 # HOLE_TO_ANOTHER_UNiVERSE#####@NASA-JPL######hiCORAL###
+2 # ### How Wildfire Looked Across @CityOfLosAngeles #####
+3 # @StateOfCalifornia #`BrandyNorwood @BlackGirlsCode `##
+{% endhighlight %}
+
+
+
+<video controls  width="400" height="auto">
+   <source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2024DEC26-to-2025JAN14-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
+
+  <source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2024DEC26-to-2025JAN14-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
+
+
+</video>
+
+
+{% highlight python %}
+2 # ### How Wildfire looks across the continent ##############
+3 # ANOTHER########`BrandyNorwood @BlackGirlsCode `Production#
+{% endhighlight %}
+
+[+ @cityoflosangeles DEC 23-to-2025 JAN 14 FireActiity @stateofcalifornia .gif DOWNLOAD](https://ia600307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2024%20DEC%2023-to-2025%20JAN%2014.gif) @nasa-jpl @emit-sds @TheSpaceDevs @BlueOrigin @r-spacex @NOAAgov
+
+<video controls  width="400" height="auto">
+   <source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2024DEC26-to-2025JAN14-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
+
+  <source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2024DEC26-to-2025JAN14-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
+
+
+</video>
+
+
+
+[SmolderingHills](https://archive.org/download/commitmentmaintenance/0000000_A_000_CCAA_smolderingHills_wasjustContrast_withVegetationNORMANi_VID_20251118_090419.mp4) @blackgirlscode I need to show the damage in Eaton from stream @nasa-jpl
+
+
+
+## Ecostress [gallery](https://ecostress.jpl.nasa.gov/wildfire_gallery)
+
+<picture itemprop="event" itemtype="https://schema.org/Organization">
+  <source src="https://ecostress.jpl.nasa.gov/downloads/gallery/00139_palisades_esi_map.png" type="image/png" />
+  <source src="https://ecostress.jpl.nasa.gov/downloads/gallery/00139_palisades_esi_map.png" type="image/png" />
+    <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/f3d59612-1486-433a-b178-c3e0814f05fd"  />
+</picture>
+ 
+<img src="https://ecostress.jpl.nasa.gov/downloads/gallery/wildfire/00155_gifford_fire.png" alt="ECO image"/>
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/0b5fa1b9-1e5d-4eb1-bfad-4c31bf2a8968" />
+
+[@stateofcalifornia Did Lack of Cityhood hurt Altadena ? @latimes @datadesk @whitehouse](https://ia601002.us.archive.org/9/items/interviewwith-dr-carol-stoker/21ALTADENA_EATON_FiRE_2feb686a-eb67-43fe-a787-b0ea4bc6e29e.pdf)
+
+# About One-third of Malibu Burned In The Palisades Fire. Where Does It Go From Here?
+@nasa-jpl [Latimes @datadesk](https://github.com/datadesk) made a doc @nasa its great firedata!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0zsMg7gkC6Y?si=rU9ah5V22lcxwE6W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[@datadesk related firedata @nasa-jpl @nasa-pds @nasa .pdf](https://ia601002.us.archive.org/9/items/interviewwith-dr-carol-stoker/0iceraidupdateSimpleScanStation20250813171923.pdf)
+[summerofresistance @cityoflosangeles](https://ia601002.us.archive.org/9/items/interviewwith-dr-carol-stoker/1_6_20summerofresistanceSimpleScanStation20250620100012.pdf)
+
+
+[@noaa VJ102DNB - VIIRS/JPSS1 Day/Night Band Moderate Resolution 6-Min L1B Swath 750m](https://ladsweb.modaps.eosdis.nasa.gov/missions-and-measurements/products/VJ102DNB/) imported to [@googleearth](https://earth.google.com/web/@45.60697552,-90.76771692,4433.58548918a,11587353.5756886d,30y,303.16120364h,0t,0r/data=CgRCAggBQgIIAEoICJHM754FEAA) via [NasaWorldView_KeyholeMarkeup](https://worldview.earthdata.nasa.gov/?v=-229.26900829080392,-84.93081573071159,95.84926740923699,75.08833559040231&z=4&ics=true&ici=5&icd=60&l=AERONET_ANGSTROM_440-870NM,AERONET_AOD_500NM,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),VIIRS_NOAA21_DayNightBand(hidden),VIIRS_NOAA20_DayNightBand(hidden),OMI_Aerosol_Index(hidden),BlueMarble_ShadedRelief(hidden)&lg=true&t=2025-09-02-T23%3A07%3A30Z) ~_[KMZ_EXPORT @blackgirlscode](https://github.com/kellyrashardiman/kellyrashardiman.github.io/blob/master/assets/scripts/snapshot-2023-10-22T00_00_00Z.kmz)
+<img  alt="image" src="https://github.com/user-attachments/assets/cffdb822-2d36-4040-8e0a-0abc89406dd5" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ec14a445-6362-4e09-b5a4-a00211150683" />
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/37b3e896-5228-40ca-82c2-79215cdf43e0" />
+
+![leadership @stateofcalifornia @nasa-jpl](https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/5/de/5de8d4a6-8258-11ee-a9d8-7f5b5d3a916f/6552751ac0ec3.image.jpg?resize=990%2C660) 
+LA mayor celebrates moving 8,866 homeless into permanent free housing in 2024 [Read https://www.thecentersquare.com/](https://www.thecentersquare.com/california/article_2772a650-b695-11ef-92b8-cb84d1295234.html) [‘There’s just a pile-on’: How Karen Bass lost control of the wildfire narrative - politico.com/](https://www.politico.com/news/2025/01/14/karen-bass-california-wildfires-00198180)
+
+
+<img  alt="politico @cityoflosangeles" src="https://github.com/user-attachments/assets/8c48efd3-5cae-46b0-9a65-04aa294e9684" />
+
+
+The Webb Telescope Traveling Through [Los Angeles](https://digitallibrary.usc.edu/) to Navy Yard B-roll
+Released Thursday, October [21+](https://www.pbssocal.org/shows/lost-la/los-angeles-in-buildings-the-central-library), 2021
+
+[webbtelescope.org/images](https://webbtelescope.org/images) [@esa webb esawebb.org/images/](https://esawebb.org/images/)
+[Reddit r/jameswebb](https://www.reddit.com/r/jameswebb/) [YouTube @NASAWebbTelescope](https://www.youtube.com/@NASAWebbTelescope)
+<video width="400px" height="auto" controls poster="https://svs.gsfc.nasa.gov/vis/a010000/a013900/a013962/STTARS_Traveling_Through_LA_SS_print.jpg" > 
+	
+ <source src="https://svs.gsfc.nasa.gov/vis/a010000/a013900/a013962/STTARS_Move_to_Navy_Base_1DX_LA_Footage_A_H_264.mp4" type="video/mp4">	 
+
+</video> 
+
+[B-Roll](https://www.safie.hq.af.mil/News/Video/mod/61713/player/0/video/897098/Yard/) footage of the Webb Telescope inside the [protective](https://www.dvidshub.net/video/897098/navsea-memorial-b-roll-package) transport container traveling through the city of Los Angeles to get to the Navy base at [Seal Beach, CA.](https://www.navfac.navy.mil/Divisions/Environmental/Products-and-Services/Environmental-Restoration/Southwest/Seal-Beach-NWS/Site-Descriptions/)
+
+### Cosmic Dawn: The Untold Story of the James Webb Space Telescope
+For more than three decades, NASA and an international team of scientists and engineers pushed the limits of technology, innovation, and perseverance to build and launch the James Webb Space Telescope, the most powerful space observatory ever created. Cosmic Dawn brings audiences behind the scenes with the Webb film crew, and never-before-heard testimonies revealing the real story of how this telescope overcame all odds. [Watch on @Nasa+](https://plus.nasa.gov/video/cosmic-dawn-the-untold-story-of-the-james-webb-space-telescope/) , [Youtube](https://www.youtube.com/watch?v=uSMGENDH_QI)or below @cityoflosangeles [KarenBass](https://search.yahoo.com/search?p=gavin+newsom+karen+bass+california+homeless&fr=yfp-t&fr2=p%3Afp%2Cm%3Asb&fp=1) @stateofcalifornia [GavinNewsom](https://nypost.com/2025/01/09/us-news/bass-newsom-ignored-past-warnings-about-la-wildfires/) @nasa-pds 
+<video width="400px" height="auto" controls poster="https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014834/Cosmic_Dawn_Thumbnail_print.jpg" > 
+	
+ <source src="https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014834/CD_YT1080_Track5.mp4" type="video/mp4">	 
+
+</video> 
+
+California Fires without Fire Pixels
+Oct 29, 2003 [ClickHere](https://svs.gsfc.nasa.gov/2847)
+The Palisades and Eaton Fires, Los Angeles, California
+Image captured on Jan 12, 2025, by the MSI instrument aboard ESA's Sentinel-2A platform.
+[Comparison MAps @nasa-jpl EarthDataSquad](https://www.earthdata.nasa.gov/news/worldview-image-archive/palisades-eaton-fires-los-angeles-california)
+
+![Los Angeles Sheriffs Department](https://lasd.org/wp-content/uploads/2019/02/LASD-grve-small-square_rev.png)
+[ACADEMY CLASS #483 Graduation @meta](https://fb.watch/BV-soGm3j0/)
+<img  alt="image" src="https://github.com/user-attachments/assets/eb320a28-bd90-4be6-8af1-4c6a45a32fb8" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/43c781fe-1f92-4abb-8708-94de0dcdb569" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/1a26040c-1389-4924-967d-2c3d47e42beb" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/082137e1-e766-4e61-84df-20aee706350b" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/44d3dd23-cfab-4ede-b1bc-5bf351d94e57" />
+
+[Beat Street freewithads on @youtube](https://youtu.be/4o5nrZGxyZQ?t=4435)
+[FireReport](https://rashardgds.github.io/2025/08/13/FireReportCleanUp.html)
+
+![fire @nasa](https://rashardgds.github.io/assets/img/Overview_HD.png) @usgs
+
+@blackgirlscode @cityoflosangeles i went to church here, and a #WhiteCollar took my photo for me @nasa-jpl @Nasa @podaac
+
+<img  alt="image" src="https://github.com/user-attachments/assets/259fdd41-288d-4b63-82cd-abf33630e8fd" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e16017b0-56d0-4044-b82b-52056223dd30" />
+
+[https://www.saint-augustine.org/](https://www.saint-augustine.org/) [@StAugustinebttheSea @youtube @nasa-pds](https://www.youtube.com/c/staugustinebythesea?themeRefresh=1) [Videos in @meta post in this archive](https://archive.org/download/nasa-worldview-2025-aug-13-to-2025-aug-25)
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02mDsmbaVdUDs9ZzA9LMUgRYryag2odddgw4qqWfeYkc1HVGe8kDCURCsxsqwZF8mol%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+@cityoflosangeles @stateofcalifornia
+Congressmember Karen Bass @NASA Space Communications and Navigation Central Intelligence Agency (@CIA) Essence
+See more [Link To @meta facebook](https://www.facebook.com/100084464911565/videos/753033007497967/)
+<img  alt="image" src="https://github.com/user-attachments/assets/5fd45430-e732-4807-bcf4-e8b10a4bf859" />
+
+
+![fan](https://lian-li.com/wp-content/uploads/2023/12/unifans_tl_lcd_06b.webp)
+![gif @blackgirlscode](https://lian-li.com/wp-content/uploads/2023/12/7jj9m-61ohk_a.gif)
+![@blackgirlscode @nasa-pds](https://lian-li.com/wp-content/uploads/2023/12/unifans_tl_lcd_18-1024x494.webp)
+![@blackgirlscode](https://lian-li.com/wp-content/uploads/2023/12/unifans_tl_lcd_01.webp)
+![@nasa](https://lian-li.com/wp-content/uploads/2025/06/cl_w_main_00.webp)
+
+
+[SalTon Sea](https://saltonsea.jpl.nasa.gov/) : [STREAM_MAP](https://ladsweb.modaps.eosdis.nasa.gov/stream/) Satellite-based Tool for Rapid Evaluation of Aquatic environMents [NEWS](https://www.earthdata.nasa.gov/news/new-tool-provides-rapid-evaluation-water-quality)
+
+
 
 ### # California_Linux: 
 #### Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS
