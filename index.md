@@ -54,9 +54,19 @@ layout: default
 </video>
 
 
+## EatonCanyon
+the mushy shit is the burned property 
+[MAP @emit-sds @blackgirlscode](https://ladsweb.modaps.eosdis.nasa.gov/stream/map?fbclid=IwY2xjawOMnSdleHRuA2FlbQIxMABicmlkETAwSXZtWGFDa01STXdNVjdVc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHggULxKKFIa5HI45xUdLoAPP_UX_PFG07XFonam8kxVmzdSkv8wz1QTKE9jU_aem_Y0XfASbU01QpdyNbdKYTJA#map=12.66/-13142008.56/4053000.61)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/78211215-c9cf-494f-85f0-8d949af9f319" />
+<img  alt="image" src="https://github.com/user-attachments/assets/0626984b-bb1d-4777-89b1-59ce99d3d17c" />
+
 
 [SmolderingHills](https://archive.org/download/commitmentmaintenance/0000000_A_000_CCAA_smolderingHills_wasjustContrast_withVegetationNORMANi_VID_20251118_090419.mp4) @blackgirlscode I need to show the damage in Eaton from stream @nasa-jpl
 
+
+Land disturbance + Aerosol [map](https://worldview.earthdata.nasa.gov/?v=-123.43056203280857,32.50679015913837,-115.28568397199821,39.79431263460027&as=2025-09-16-T00%3A00%3A00Z&ae=2025-09-26-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9),VIIRS_NOAA20_DayNightBand(hidden,opacity=0.63),VIIRS_SNPP_DayNightBand(hidden),VIIRS_SNPP_GapFilled_BRDF_Corrected_DayNightBand_Radiance(hidden),MODIS_Combined_L3_Black_Sky_Albedo_Daily,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&ab=on&t=2025-02-13-T23%3A16%3A42Z)
+<img  alt="image" src="https://github.com/user-attachments/assets/38e9f986-72ab-47e7-b102-ae1066f3a423" />
 
 
 ## Ecostress [gallery](https://ecostress.jpl.nasa.gov/wildfire_gallery)
