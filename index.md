@@ -20,6 +20,22 @@ layout: default
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
 
+{% highlight python %}
+1 # HOLE_TO_ANOTHER_UNiVERSE#####JiMMYKiMMELL###
+2 # ### Links ########hiCORAL###
+{% endhighlight %}
+
+# @Nasa FireReport
+[LinK @Nasa FireReport](https://rashardnasalosangelesjpl.github.io/2025/11/20/NasaFireReport-nov18.html)
+
+![Uploading image.png…]()
+![Uploading image.png…]()
+
+
+[Atlas](https://arcnav.psi.edu/urn:nasa:pds:context:target:satellite.saturn.atlas/tools)
+[Mars2020](https://mars.nasa.gov/mars2020/multimedia/raw-images/)
+[opus](https://opus.pds-rings.seti.org/opus/#/cols=opusid,instrument,planet,target,time1,observationduration&widgets=instrument,observationtype,target&order=time1,opusid&view=search&browse=gallery&cart_browse=gallery&startobs=1&cart_startobs=1&detail=)
+[Europa Clipper/Jupiter Viewer 3.1](https://pds-rings.seti.org/tools/viewer3_jupec.shtml)\
 
 {% highlight python %}
 1 # HOLE_TO_ANOTHER_UNiVERSE#####@NASA-JPL######hiCORAL###
