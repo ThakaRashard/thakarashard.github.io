@@ -23,6 +23,213 @@ layout: default
 </video> 
 
 
+# Stranger Danger
+Living in East Atlanta Villiage, one of the fun things about being a homedweller is the community dropping in on the many people who book shows, this was a graffiti show and coral wrote on some skater `Art PEice` I dont know if thats connected to her kidnapping or her mothers dissapearnce 
+
+
+<div class="tupperware">
+<img  alt="image" src="https://github.com/user-attachments/assets/c267e7ae-56dd-49de-b982-4f3c69af0b4e" />
+<img  alt="image" src="https://github.com/user-attachments/assets/be7bb17f-47c2-4ed6-ab6f-851de6939637" />
+<img  alt="image" src="https://github.com/user-attachments/assets/b7b50563-0f48-47ae-ab09-8f8b5b20cf71" />
+<img   alt="image" src="https://github.com/user-attachments/assets/a253c4cc-fcea-4766-919c-83e7fef57aa0" />
+<img  alt="image" src="https://github.com/user-attachments/assets/e85ef252-c0d8-40ee-9288-56d60699e8a6" />
+</div>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fc81fe4e-7583-4df4-8959-09618697062e" />
+
+# Corals Art for me and either Normani or NickiMinaj
+<img  alt="image" src="https://github.com/user-attachments/assets/11448718-c2e5-4de8-bed6-cd4e3f083f80" />
+
+# Entomological warfare 
+
+<a href="https://github.com/user-attachments/assets/8fd1d90f-77e6-4b18-9651-8b0aea49c5d3"><img   alt="image" src="https://github.com/user-attachments/assets/8fd1d90f-77e6-4b18-9651-8b0aea49c5d3" style="width: 25%; height: auto;"/></a>
+
+[@Wikipedia](https://en.wikipedia.org/wiki/Entomological_warfare)
+EW is a specific type of [biological warfare](https://pmc.ncbi.nlm.nih.gov/articles/PMC7150198/) that uses insects in a direct attack or as vectors to deliver a biological agent, such as plague or cholera. Essentially, EW exists in three varieties.[2] One type of EW involves infecting insects with a pathogen and then dispersing the insects over target areas.[3] The insects then act as a vector, infecting any person or animal they might bite. Another type of EW is a direct insect attack against crops; the insect may not be infected with any pathogen but instead represents a threat to agriculture.[3] The final method of entomological warfare is to use uninfected insects, such as bees, to directly attack the enemy. Any organism that makes use of toxins—from bacteria to snakes—is engaging in a form of biological warfare. Humans who engage in biological warfare do so by taking advantage of these toxin-producing organisms. - [@NIH .gov Biological Warfare: Infectious Disease and Bioterrorism](https://pmc.ncbi.nlm.nih.gov/articles/PMC7150198/) Man has used poisons for assassination purposes ever since the dawn of civilization, not only against individual enemies but also occasionally against armies (Table 1). However, the foundation of microbiology by Louis Pasteur and Robert Koch offered new prospects for those interested in biological weapons because it allowed agents to be chosen and designed on a rational basis. -[nih.gov PMID: 12789407: The history of biological warfare Friedrich Frischknecht ](https://pmc.ncbi.nlm.nih.gov/articles/PMC1326439/) [National Biodefense Analysis and Countermeasures Center Location: Fort Detrick, MD](https://www.dhs.gov/science-and-technology/national-biodefense-analysis-and-countermeasures-center) [Disinformation and Epidemics: Anticipating the Next Phase of Biowarfare Rose Bernard](https://pmc.ncbi.nlm.nih.gov/articles/PMC9195489/) [Biowarfare, bioterrorism and biocrime: A historical overview on microbial harmful applications](https://pmc.ncbi.nlm.nih.gov/articles/PMC7305902/) [Giving Full Measure to Countermeasures](https://www.ncbi.nlm.nih.gov/books/NBK215966/): Addressing Problems in the DoD Program to Develop Medical Countermeasures Against Biological Warfare Agents. [REad on nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK215957/#ddd00029) Biological weapons may be employed in various ways to gain a strategic or tactical advantage over the enemy, either by threats or by actual deployments. Like some chemical weapons, biological weapons may also be useful as area denial weapons. [Wiki @blackgirlscode](https://en.wikipedia.org/wiki/Biological_warfare)
+
+<a href="https://www.dhs.gov/sites/default/files/styles/webp_original_size/public/images/st/Web/ST/20_0325_nbacc_logo_blue_revised.jpg.webp?itok=d0cYPGsk"><img   alt="image" src="https://www.dhs.gov/sites/default/files/styles/webp_original_size/public/images/st/Web/ST/20_0325_nbacc_logo_blue_revised.jpg.webp?itok=d0cYPGsk" style="width: 15%; height: auto;"/></a>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0asNukzcA2ohcxazhghJ68WNhJdXrN49VTLcvwKUmZzP1K6ENe6V9bt1PBxZn3ExSl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+`<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02gaB14iEwGqYHcA1KDa8ytDsWBpyxzCVadbeJtr523ARMSF5mSncyNPokJne5Z6Dml%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>`
+
+<img alt=" Coral is standing in front of a buddy from my child hood peice, he write with network on frieghts as well, there is a process and im willing to hold until my family situation clear up so i dont disable a mission accidentally @nasa-pds -Rashard @nasa-Develop @blueorigin" src="https://github.com/user-attachments/assets/aa23f0a5-63cf-4412-8a95-8cd5c9004119" />
+
+
+<img   alt="NASA Jet Propulsion Laboratory i had to follow a story question Kash Doll Normani on what #NASER_AHMED is i really dont know and dont want him around, im sus on dat nigga Department of Homeland Security Wages & Sons Funeral Home & Crematory Congressmember Karen Bass Black Girls Code Wayne A. I. Frederick #LatriceMoniqueFitzpatrick NASA's Transiting Exoplanet Survey Satellite - TESS @nasa-pds -Rashard @nasa-Develop @blueorigin" src="https://github.com/user-attachments/assets/4107f65e-96bd-4053-b81e-69198bbc3738" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/75310e7a-5186-414a-93e5-abcff7712cca" />
+
+
+
+# Nija Shares New Song ‘Heaven’
+[Article](https://ratedrnb.com/2025/06/nija-shares-new-song-heaven/) [Keithan Samuels](https://ratedrnb.com/author/keithan-samuels/)
+	
+<img  alt="image" src="https://github.com/user-attachments/assets/15a503b3-5c1e-4eec-a364-3cd606430120" />
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2098731387&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nija-music" title="Nija" target="_blank" style="color: #cccccc; text-decoration: none;">Nija</a> · <a href="https://soundcloud.com/nija-music/heaven" title="Heaven" target="_blank" style="color: #cccccc; text-decoration: none;">Heaven</a></div>
+
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2098731387&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nija-music" title="Nija" target="_blank" style="color: #cccccc; text-decoration: none;">Nija</a> · <a href="https://soundcloud.com/nija-music/heaven" title="Heaven" target="_blank" style="color: #cccccc; text-decoration: none;">Heaven</a></div>
+
+Brandy Normani #TYRA #LATRiCE Howard University https://soundcloud.com/nija-music/heaven... is the mars cover art some digital love for me or donald glover? which one ? ? ? , like its the shit like that that throw me off Supervisor Holly J. Mitchell then im bullied and people spit in my food #localcommunity Los Angeles County Board of Supervisors Supervisor Janice Hahn Karen Bass Lunar and Planetary Institute NASA Mars Governor Gavin Newsom its the support of striptease and the lack of well maybe its war Jennifer Siebel Newsom idk #RelationshipTalk Essence - - - Future can u comment bro ? #L5p #EAV The T-Shirt Lady @blackgirlscode @nytimes [@metaLink](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid038GEjnrQMJkPbXAm9gSa3865b2ac5xxCXVDcuUeyijTGPcmRXra4txSPESDNKPwagl%26id%3D100084464911565&show_text=true&width=500)
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid038GEjnrQMJkPbXAm9gSa3865b2ac5xxCXVDcuUeyijTGPcmRXra4txSPESDNKPwagl%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<img  alt=" @blackgirlscode, i was in love" src="https://github.com/user-attachments/assets/65111c82-be97-4c55-9538-bfa947ec7e0a" />
+
+<img   alt=" @nasa-jpl @nasa-pds i did not make the background, i was just having fun with my new type an trying new backgrounds" src="https://github.com/user-attachments/assets/89b4fcb2-994e-4ad1-af2d-ae415b789921" />
+
+
+<img  alt=" @blackgirlscode i made this brand up with Muna Ahmed @nasa-jpl" src="https://github.com/user-attachments/assets/1d88339c-fb00-4bbd-abea-352f4aa9513b" />
+
+
+Abt[Erika](https://www.essence.com/tags/erika-kelly/)
+<img   alt=" . @blackgirlscode I was always uncomfortable with erika, and Muna, muna told me to go back and write moon in my Freeway striagh, she with other me, it felt so unnatural, she just pretty... trice hates that shit period" src="https://github.com/user-attachments/assets/dd2057d3-e340-4fc7-8fb7-8ad398c3fe33" />
+
+<img  alt=" @blackgirlscode this paint smelled like candy, i was not high, i dont belive that at all, i think u get a stomach ache if u breath in too much @cityoflosangeles KARENBASS" src="https://github.com/user-attachments/assets/f743445e-cb5b-453f-be15-3951a20ede65" />
+
+
+[Beach High School: Home](https://beach.sccpss.com/)
+<img  alt="image" src="https://github.com/user-attachments/assets/58cc7cfd-1187-447d-99c6-13d016e0fd69" />
+
+<img alt="i was given the name TUCK to teach me letters and it was a joke to hide after i used shep faiery handle OBEY @blackgirlscode @TheSpaceDevs" src="https://github.com/user-attachments/assets/08ef3e21-1933-4416-9ba8-ba0516f4493b" />
+
+
+<img alt="first peice @blackgirlscode Pane sounded like a dumb thing to write over and over again at that stage of the game @nasa-jpl" src="https://github.com/user-attachments/assets/ee9104b2-0698-4804-9420-0cdec4eb17d0" />
+
+<img  alt="last peice before movint to oakland @blackgirlscode" src="https://github.com/user-attachments/assets/cad6ec07-4e4e-41e9-bf47-43f61279663e" />
+
+<img   alt=" @blackgirlscode i think i did this with kashdoll or the black normani" src="https://github.com/user-attachments/assets/f2c3380e-cca7-4ae3-9bd7-2b399d9fa2b1" />
+
+
+@nasa-jpl Los Angeles Wildfires as seen by sentinel2 [a](https://archive.org/download/commitmentmaintenance/Sentinel-2_L2A-1509630831053786-timelapse.mp4) [b](https://archive.org/download/commitmentmaintenance/Sentinel-2_L2A-1015826333215209-timelapse.mp4) @blackgirlscode @cityoflosangeles
+
+<img   alt="image" src="https://github.com/user-attachments/assets/741d419e-3cde-4315-b859-e6badc4eaead" />
+
+<div class="tupperware">
+	
+<img  alt="image" src="https://github.com/user-attachments/assets/cf235152-a4cc-4ec7-a00c-20bb73d452da" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/251e879a-9023-499f-b3b9-7d358aa6db44" />
+
+</div>
+
+Arcadia Police Department (CA) NASA Jet Propulsion Laboratory Congressmember Karen Bass Normani Brandy Michelle Obama Los Angeles County Board of Supervisors 
+Thaka Sartu
+Brandy United Nations Office for Outer Space Affairs (UNOOSA) Normani https://gist.github.com/.../57d7874e695debf31ffe933855fd5b01 Karen Bass Supervisor Holly J. MitchellSupervisor Janice Hahn
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/800855743547015168" data-did="7cd216a5299cb2deeb983c9221fa24c04cf97d99"><a href="https://rashardmro.tumblr.com/post/800855743547015168">https://rashardmro.tumblr.com/post/800855743547015168</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+@nasa-jpl @blackgirlscode [FridayNov21](https://www.google.com/search?sca_esv=9bd0e26604fdbc2f&rlz=1C1GCEJ_enUS1189US1189&q=november+21&tbm=nws&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeqDdErwP5rACeJAty2zADJgeXKnD4z7v_UXM32TmNnj1AiDPbPo_OFZLlB6cXa3f-GUf2_feRiFK2D2hbiHxQSH3uL8xuDRnlO2B4yDrM3CLjkXbjjOJI7VbCRDAbhwajKXFTWqDAtPpcKk5GzA2KStrzJNkhBGFrtmRcBV9X9uT87WGQA&sa=X&ved=2ahUKEwjR1bfw_oORAxVPJEQIHQg1NAQQ0pQJegQIFhAB&biw=958&bih=952&dpr=1)
+
+Kimberly Bryant, Founder Black Girls CODE Normani Brandy Georgia Department of Human Services #citationchallenge Black Girls Code Keisha Lance Bottoms some of them are tracked via L.A. County Department of Public Social Services the wise thing for #DFCS is to team with NASA - National Aeronautics and Space Administration via NASA's Kennedy Space Center , FEMA Federal Emergency Management Agency, the United States [Air Force](https://www.losangeles.spaceforce.mil/News/Article-Display/Article/4009111/the-sexual-assault-prevention-and-response-office-and-its-volunteer-victim-advo/) and NASA Jet Propulsion Laboratory to get the girls records straight... in the mean time this will help deter #DataThieves [Supervisor](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) [Holly J. Mitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) Karen Bass [#BlackGirlSoftLife](https://www.tumblr.com/tagged/soft%20life) #blackgirlsinrealestate #BlackGirlsInTech
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Ynv9KHgBFVNhvimi7oVi4Fd4aLiYDVdUHX2DV1gsRvobWfcnEcT4F1rSQBM56kRKl%26id%3D100084464911565&show_text=true&width=500" width="500" height="764" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+#hygienetips Los Angeles County Board of Supervisors #BugWarfare is not addressed often .. I got a lot of bugs in my hair Congressmember Karen Bass while on the train and at breakfast... I saw a lady that look like Erika Brandy if that's corals mom I'm concerned and need a fresh start NPR Keisha Lance Bottoms Essence #relationshipAdvice duped into a relationship with an older person that's at a development cycle that overlaps Normani it's not fair 😩🤕🤕🤕🤕🤧😪😵😫😩😰😳🤯😓😟😥😢😢😢😢😢😢😭 WSAV News 3 On Your Side -#rashard NASA Mars Kash Doll I get you Georgia Division of Family & Children Services ... That's what's up DeKalb County Police Department Gavin Newsom #floodrelief NASA Earthdata 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02gKyXs8V8kF5XWN2X6fCH2wNXCGCoKcQkeKv3VNq6dK6xCJBCehWYYghKjxSzN1Ghl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+
+
+### # California_Linux: 
+#### Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS
+[ViEW_ARCHiVE](https://archive.org/download/commitmentmaintenance)
+@cityoflosangeles @nasa-jpl @nasa-pds [MayOR_KAREN_BASS](https://www.facebook.com/100084464911565/videos/764029446698006/)
+[@StateOfCalifornia gavin.newsom@ca.gov](https://www.facebook.com/100084464911565/videos/764029446698006/)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b221cafa-4593-4f3b-a9bb-53d2be23bd3b" />
+
+[RESUME @blackgirlscode](https://thakarashard.github.io/RESUME/)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e11cc6d1-e634-4254-81a5-a06105800a4a" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/541e08e1-bfb0-4cfa-bc6d-4a7a8cb9a06c" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b1734f10-55bc-4d31-822b-577feef59eb7" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/bcce8034-9e00-46fe-8e5e-54b4f90b5a27" />
+
+<img  alt="Rashard iman Kelly 2010 - 2015" src="https://github.com/user-attachments/assets/70d1ade6-43d2-4292-b583-3ab693456912" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/76c9fb94-63db-4f4d-94fe-68de9ca280d3" />
+
+<img  alt=" rashard coral erika @blackgirlscode " src="https://github.com/user-attachments/assets/4fef2bba-3383-4ac5-b41a-d061e9ff6da7" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4419f9f9-f56f-4c9e-9ff4-f275b43e6566" />
+
+
+<img  alt="image @blackgirlscode " src="https://github.com/user-attachments/assets/7e8f5285-5edb-432a-8c0d-bd8da9f8f945" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/09d55b1e-5c7a-47ea-963e-c506fcb6eb36" />
+
+<img    alt="image" src="https://github.com/user-attachments/assets/54ba4768-1c60-4eda-94d3-3bb796dcd795" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a5424fbf-b981-4a78-9819-8c5d78402dfc" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/40320ffc-521f-427c-ae06-fc5fab7ab4d3" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/73252199-ff61-4c3e-9a4e-efc21f4bad1b" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/a9325e1f-b298-4688-8227-69d6eff075d4" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6eb1ab4d-b469-435e-8f9e-ed17ac2c44a3" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ff607eb4-2f94-46a6-98cc-68166fa0c453" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ea91e936-9b21-4e92-84f2-a825dccf9ff0" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/6efe872c-d8d4-451c-9051-7666fc087b9f" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f2830884-c031-4780-bbb2-cbc59afd4e9f" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/22f9bef7-677a-4ce1-b440-a07feb042187" />
+
+
+![sentinel 3 @nasa @emit-sds @stateofcalifornia @cityoflosangeles @blackgirlscode _ normani TYRA...](https://www.esa.int/eologos/images/sentinel-3_neg.jpg)
+
+
+
+Profile Information
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 11-16-2025
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+<div class="tupperware">
+	
+<img   alt="image" src="https://github.com/user-attachments/assets/a92d1ca1-fb0e-41c6-b6c1-1ba630abe320" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/53a326ca-38ec-4cac-891c-56bdc97a5e46" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/bbf31230-2960-4e27-b79d-f2a81e85a1d7" />
+
+</div> 
+
+
 [Los Angeles River - The Unpredictable!](https://waterandpower.org/museum/Los_Angeles_River_The_Unpredictable!.html) 
 @blackgirlscode @podaac
 
