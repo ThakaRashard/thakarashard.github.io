@@ -14,7 +14,7 @@ layout: default
 4 # UNiVERSE######## HOward University Rumors?########
 {% endhighlight %}
 
-<video controls > 
+<video  height="auto"  controls> 
 
 
 <source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/VID_20251129_150504_423.mp4" type="video/mp4">
