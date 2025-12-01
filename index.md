@@ -11,9 +11,19 @@ layout: default
 
 {% highlight ruby %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##########################
-4 # UNiVERSE######## HOward University Rumors?########
+2 # UNiVERSE######## HOward University Rumors?########
+3 # California_Linux: Maintaining Commitment 
+4 # @Nasa-Jpl 3arthdata MRO/JUNO:ECOSTRESS- 
+5 # @BlackGirlsCode
+20251024 024214 336
 {% endhighlight %}
 
+
+<iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid026Fc7Lk17o3tavUrgt3PaD34KQuCPkJGxJv3rqVwNyY3s7uGeRPcMoxvHysvMJJ9rl%26id%3D100084464911565&show_text=true&width=500" width="500" height="833" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+```
 <video  height="auto"  controls> 
 
 
@@ -21,7 +31,7 @@ layout: default
 <source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/VID_20251129_150504_423.mp4" type="video/mp4">	 
 
 </video> 
-
+```
 
 # Stranger Danger
 Living in East Atlanta Villiage, one of the fun things about being a homedweller is the community dropping in on the many people who book shows, this was a graffiti show and coral wrote on some skater `Art PEice` I dont know if thats connected to her kidnapping or her mothers dissapearnce 
