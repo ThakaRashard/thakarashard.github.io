@@ -9,6 +9,13 @@ layout: default
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+
+
+### After Three Years on Mars, NASA’s Ingenuity Helicopter Mission Ends
+[@nasa-pds @nasa-jpl link](https://www.nasa.gov/news-release/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/)
+Jan. 18 flight sent to Earth this week indicates one or more of its rotor blades sustained damage during landing, and it is no longer capable of flight.
+<img   alt="image" src="https://github.com/user-attachments/assets/a6c27925-f21b-4bdc-a2a0-865ad4241541" />
+
 {% highlight ruby %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##########################
 2 # UNiVERSE######## HOward University Rumors?########
