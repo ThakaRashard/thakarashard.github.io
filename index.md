@@ -9,7 +9,17 @@ layout: default
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+@blackgirlscode 
+[https://www.legis.ga.gov/](https://www.legis.ga.gov/) 
+[GEORGiA HOUSE MEMBERS](https://www.legis.ga.gov/members/house/4890?session=1033) @StateOdCalifornia @CityOfLosAngeles @nasa-jpl @nasa-pds @emit-sds
 
+[database](https://www.legis.ga.gov/members/house)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/0dc902a2-b787-48e8-bbd5-96d89a5c320a" />
+
+[PDF-DOWNLOAD](https://www.legis.ga.gov/api/document/docs/default-source/house-document-library/house-member-directory.pdf?sfvrsn=1f476975_114)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9f03403e-7fcc-4080-82a6-9b7809658dbd" />
 
 ### After Three Years on Mars, NASA’s Ingenuity Helicopter Mission Ends
 [@nasa-pds @nasa-jpl link](https://www.nasa.gov/news-release/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/)
