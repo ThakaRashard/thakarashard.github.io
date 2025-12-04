@@ -11,7 +11,7 @@ layout: default
 
 @blackgirlscode 
 [https://www.legis.ga.gov/](https://www.legis.ga.gov/) 
-[GEORGiA HOUSE MEMBERS](https://www.legis.ga.gov/members/house/4890?session=1033) @StateOdCalifornia @CityOfLosAngeles @nasa-jpl @nasa-pds @emit-sds
+[GEORGiA HOUSE MEMBERS](https://www.legis.ga.gov/members/house/4890?session=1033) @StateOfCalifornia @CityOfLosAngeles @nasa-jpl @nasa-pds @emit-sds
 
 [database](https://www.legis.ga.gov/members/house)
 
