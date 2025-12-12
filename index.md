@@ -9,6 +9,12 @@ layout: default
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+![f250523t01p00r08_geo](https://github.com/user-attachments/assets/2c505db0-50fc-4127-9eb5-c0ab41a93213)
+
+
+
+
+![f250501t01p00r09_geo](https://github.com/user-attachments/assets/2df82131-7905-4a03-b0a5-fd7ebe7659ab)
 
 # About RicoThaka 
 the account got stolen and i think used in the real world during the covid raving the template was forked and it recovered as [rashard_iman](https://rashardiman.github.io/) however the [Codepen](https://www.appvizer.com/it/code-editors/codepen) still exisit [`ricothaka` codepen.io/ricothaka](https://codepen.io/ricoThaka/pens/public)
