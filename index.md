@@ -10,6 +10,17 @@ layout: default
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 
+# About RicoThaka 
+the account got stolen and i think used in the real world during the covid raving the template was forked and it recovered as [rashard_iman](https://rashardiman.github.io/) however the [Codepen](https://www.appvizer.com/it/code-editors/codepen) still exisit [`ricothaka` codepen.io/ricothaka](https://codepen.io/ricoThaka/pens/public)
+
+
+@cityoflosangeles @nasa-jpl @podaac @stateofcalifornia 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b53a6cfd-593c-4de8-b424-46fd6b19d694" />
+
+
+
+https://archive.org/details/screen-20250126-093958
 [Aviris5](https://airbornescience.nasa.gov/instrument/Airborne_Visible_Infrared_Imaging_Spectrometer_5)
 ![LBTV](https://www.longbeach.gov/globalassets/lbtv/development-assets/lbtvlogo.jpg) 
 
