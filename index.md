@@ -18,6 +18,12 @@ the account got stolen and i think used in the real world during the covid ravin
 
 <img  alt="image" src="https://github.com/user-attachments/assets/b53a6cfd-593c-4de8-b424-46fd6b19d694" />
 
+[MyBinder](https://thakarashard.github.io/mybinder/)
+Came about while i was working out of a 3 prong binder and github pages @podaac. Im stll learning how to organize my learning @nasa-jpl. Right now its a good spot to drop work notes taht are not developed into full presentable concepts like the Aquatic Analysis I hae been doing in [NASA STREAM](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=12.51/-13148353.44/3990503.41&layers=aqv_tss_20251208_sentinel:1.00:0.00:30.00:default&grids=1,0) that eveolved into [L.A. ECology](https://rashardgds.github.io/la/eco/ecostress/space/dsn/nsn/climate/weather/2025/12/10/LosAngelesEcology.html) a report i use to share my @podaac [web](https://podaac.jpl.nasa.gov/) / [earthdata](https://search.earthdata.nasa.gov/) with our local governement @CityOfLosAngeles + [tv](https://lacityview.org/live) / @StateOfCalifornia [web](https://cww.water.ca.gov/) : [La_County](https://lacounty.gov/). They told me to do that @blackgirlsCode Trice !
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6fc7215b-449a-472a-94b6-ac8907d701a5" />
+
+
 
 
 https://archive.org/details/screen-20250126-093958
