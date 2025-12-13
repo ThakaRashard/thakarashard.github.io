@@ -12,7 +12,9 @@ layout: default
 
 
 ## About RicoThaka 
-the account got stolen and i think used in the real world during the covid raving the template was forked and it recovered as [rashard_iman](https://rashardiman.github.io/) however the [Codepen](https://www.appvizer.com/it/code-editors/codepen) still exisit [`ricothaka` codepen.io/ricothaka](https://codepen.io/ricoThaka/pens/public)
+the account got stolen and i think used in the real world during the covid raving the template was forked and it recovered as [rashard_iman](https://rashardiman.github.io/) however the [Codepen](https://www.appvizer.com/it/code-editors/codepen) still exisit [`ricothaka` codepen.io/ricothaka](https://codepen.io/ricoThaka/pens/public) I have a few notes about the account on [@Trello](https://trello.com/b/CN1UytXe/housekeeping) tho see this archive #NASAJPL HELP MY ACCOUNT WAS DELETED NASAJPL [clickHere](https://archive.org/details/screen-recording-2025-05-03-10.02.00-am) : gitHUBOUTAGEHOLLYWOOD [link](https://trello.com/c/rMkpl4EX/1-githuboutagehollywood)
+ricothaka on x lost + holetoanotheruniverse1980 deleted by vandals proton mail compromised password I'm stuck with [LINK](https://archive.org/details/screen-recording-2025-05-10-11.47.48-am) : [appeal](https://ia601305.us.archive.org/29/items/screen-recording-2025-05-10-11.47.48-am/ricothakaAPPEAL.mp4) / [account suspended vid](https://ia801305.us.archive.org/29/items/screen-recording-2025-05-10-11.47.48-am/Screen%20recording%202025-05-10%2011.47.48%20AM.mp4)
+
 
 
 @cityoflosangeles @nasa-jpl @podaac @stateofcalifornia 
