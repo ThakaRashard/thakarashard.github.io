@@ -11,20 +11,7 @@ layout: default
 
 
 
-
-[Watch](https://www.facebook.com/cityoftybeeisland/videos/1288641783021359/) [BeachHigh](https://beach.sccpss.com/) ROTC* Chrismas on [Tybee](https://visittybee.com/) @blackgirlscode
-<img  alt="image" src="https://github.com/user-attachments/assets/3c704ce4-afe6-4479-a5c5-f50873daabd5" />
-
-<img  alt="image" src="https://github.com/user-attachments/assets/77cd300f-f6ae-408f-9f3e-794a2057e76d" />
-
-![f250523t01p00r08_geo](https://github.com/user-attachments/assets/2c505db0-50fc-4127-9eb5-c0ab41a93213)
-
-
-
-
-![f250501t01p00r09_geo](https://github.com/user-attachments/assets/2df82131-7905-4a03-b0a5-fd7ebe7659ab)
-
-# About RicoThaka 
+## About RicoThaka 
 the account got stolen and i think used in the real world during the covid raving the template was forked and it recovered as [rashard_iman](https://rashardiman.github.io/) however the [Codepen](https://www.appvizer.com/it/code-editors/codepen) still exisit [`ricothaka` codepen.io/ricothaka](https://codepen.io/ricoThaka/pens/public)
 
 
@@ -39,6 +26,19 @@ Came about while i was working out of a 3 prong binder and github pages @podaac.
 
 
 
+
+
+[Watch](https://www.facebook.com/cityoftybeeisland/videos/1288641783021359/) [BeachHigh](https://beach.sccpss.com/) ROTC* Chrismas on [Tybee](https://visittybee.com/) @blackgirlscode
+<img  alt="image" src="https://github.com/user-attachments/assets/3c704ce4-afe6-4479-a5c5-f50873daabd5" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/77cd300f-f6ae-408f-9f3e-794a2057e76d" />
+
+![f250523t01p00r08_geo](https://github.com/user-attachments/assets/2c505db0-50fc-4127-9eb5-c0ab41a93213)
+
+
+
+
+![f250501t01p00r09_geo](https://github.com/user-attachments/assets/2df82131-7905-4a03-b0a5-fd7ebe7659ab)
 
 https://archive.org/details/screen-20250126-093958
 [Aviris5](https://airbornescience.nasa.gov/instrument/Airborne_Visible_Infrared_Imaging_Spectrometer_5)
