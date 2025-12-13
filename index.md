@@ -9,6 +9,9 @@ layout: default
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/77cd300f-f6ae-408f-9f3e-794a2057e76d" />
+
 ![f250523t01p00r08_geo](https://github.com/user-attachments/assets/2c505db0-50fc-4127-9eb5-c0ab41a93213)
 
 
