@@ -9,9 +9,10 @@ layout: default
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
-@nasa-jpl @blackgirlscode #VirTiServ
-@asfadmin [NewOrleans](https://www.louisiana.gov/)
+@nasa-jpl @blackgirlscode #VirTiServ @NASA-Openscapes hi its rashard from MRO @nasa-jpl … i have been working earthdata from @emit-sds
+@asfadmin [NewOrleans](https://www.louisiana.gov/) check out [MyBiNDER](https://thakarashard.github.io/mybinder/) 
 <img  alt="image" src="https://github.com/user-attachments/assets/a452290f-c2fd-4fad-b95f-c1a06d3ac07a" />
+
 
 
 ## About RicoThaka 
