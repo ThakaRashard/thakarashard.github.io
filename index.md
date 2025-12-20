@@ -9,10 +9,40 @@ layout: default
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+# EatonCanyon Before and after
+@nasa-jpl someone poisoned me, it smells horrible @blackgirlscode imma get off and try to eat at [COA](https://www.coalongbeach.org/)
+
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/0594adca-ec4c-4aca-84ff-8876a79c4766)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9cdc7a54-edba-49c7-bde2-fd5b661a7dff" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/425d9118-3085-4864-958c-887973711b88" />
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02ZhMVbWFpmgo2vJ8FFR8i6wz485GZ3W7zDEB5hC8gMLccbwTsbHLQxV5hSg237aAvl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<img alt="image" src="https://github.com/user-attachments/assets/ebffecc2-4b52-4a50-b385-25b5431480fa" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/78f106ae-3343-43b4-bee1-4577c65daf94" />
+
+Eaton Canyon Surface Water @ESA 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fceded9e-b9cb-4d56-bb51-c3501b624a39" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5b721ff5-23fb-4e1a-886a-5b46a424fcd7" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/22158161-401b-4f6f-96fa-2e951ce9375c" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ea964ebe-0f9c-4da6-b72c-1bea85999494" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/98db94a4-edbf-45ee-a101-c2336d61b6a9" />
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid025jN31JjZRk3mR99ThUtAeXvA2MTkZyvg9k2VPun74EgCreCt1XeKtqUxn24K79upl%26id%3D100084464911565&show_text=true&width=500" width="500" height="866" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 @nasa-jpl @blackgirlscode #VirTiServ @NASA-Openscapes hi its rashard from MRO @nasa-jpl … i have been working earthdata from @emit-sds
+
+<img   alt="image" src="https://github.com/user-attachments/assets/25ed08eb-b1d2-4bc7-bcba-8cf5c8d1cf74" />
+
 @asfadmin [NewOrleans](https://www.louisiana.gov/) check out [MyBiNDER](https://thakarashard.github.io/mybinder/) 
 <img  alt="image" src="https://github.com/user-attachments/assets/a452290f-c2fd-4fad-b95f-c1a06d3ac07a" />
 
