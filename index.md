@@ -4,6 +4,21 @@ layout: default
 {% include nav.html %}
 
 
+# Jovian [PRESSKiT](https://www.jpl.nasa.gov/news/press_kits/juno/pdf/juno-lores.pdf)
+[[ joh-vee-uhn ]](https://en.wiktionary.org/wiki/Jovian) ([astronomy](https://www.nasa.gov/solar-system/skywatching/astronomy/)) Pertaining to the planet [Jupiter](https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27599%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27OBSERVER%27&CENTER=%27500@399%27&START_TIME=%272006-01-01%27&STOP_TIME=%272006-01-20%27&STEP_SIZE=%271%20d%27&QUANTITIES=%271,9,20,23,24,29%27).
+[Jupiter is](https://www.jpl.nasa.gov/edu/resources/gallery/exploring-jupiter/)...the largest planet in our solar system – if it were a hollow shell, 1,000 Earths could fit inside [Jupiter Facts](https://science.nasa.gov/jupiter/jupiter-facts/) [Fiction/Fandom](https://aliens.fandom.com/wiki/Jovian) [Physicality @nasa PhotoJournal](https://photojournal.jpl.nasa.gov/target/jupiter) - [Program and Project Management](https://www.jpl.nasa.gov/news/press_kits/juno/management/) ~> [Directors](https://x.com/RicoThaka/status/1899890387977949299)
+[SPaniSH Deets](https://ciencia.nasa.gov/mission/europaclipper/) [Planetary Protection](https://sma.nasa.gov/sma-disciplines/planetary-protection) is the practice of protecting solar system bodies from contamination by Earth life and protecting Earth from possible life forms that may be returned from other solar system bodies. 
+[aster](https://asterweb.jpl.nasa.gov/map/) [mission](https://asterweb.jpl.nasa.gov/mission.asp)
+[JUPiTER_PHOTOGALLERY - nssdc.gsfc.@nasa.gov](https://nssdc.gsfc.nasa.gov/photo_gallery/photogallery-jupiter.html) [Galileo](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1989-084B)
+
+
+Europa Clipper Newsroom @nasa-pds @nasa @nasa-jpl
+[news](https://science.nasa.gov/mission/europa-clipper/newsroom/)
+NASA’s Europa Clipper Observes Comet 3I/ATLAS + [STORiES!](https://science.nasa.gov/mission/europa-clipper/stories/)
+[Europa Clipper Captures Mars, Phobos, and Deimos](https://science.nasa.gov/photojournal/europa-clipper-captures-mars-phobos-and-deimos/) : [Europa Clipper Captures Infrared Image of Mars (Color Added)](https://science.nasa.gov/photojournal/europa-clipper-captures-infrared-image-of-mars-color-added/) [End-run around radiation – The saga and surprise vulnerabilities of Europa Clipper](https://spacenews.com/end-run-around-radiation-the-saga-and-surprise-vulnerabilities-of-europa-clipper/)
+[Link](https://science.nasa.gov/blogs/europa-clipper/2025/12/18/nasas-europa-clipper-observes-comet-3i-atlas/) 
+![atlas](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/jupiter/moons/1-IMAGE%20-%20UVS_3I_ATLAS_blog-DRAFT2.png?w=2287&h=1047&fit=clip&crop=faces%2Cfocalpoint)
+
 [WeFunkRadio +](https://www.wefunkradio.com/radio/) [latest LordSear](https://soundcloud.com/djlordsear/dj-holly-grove-no-mix-10-24-2025?si=82a4b5f012894629a00dc960f6862f85&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) && [Show 1270 seem good @blackgirlscode](https://www.wefunkradio.com/show/1270/play_aa)
 
 
