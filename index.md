@@ -4,6 +4,12 @@ layout: default
 {% include nav.html %}
 
 
+# ORB_026200_026299/ESP_026202_1620_ESP_018277_1620
+[Files](https://hirise-pds.lpl.arizona.edu/PDS/) / [FiLE](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_026200_026299/ESP_026202_1620_ESP_018277_1620/ESP_026202_1620_ESP_018277_1620_RED.browse.png)
+@nasa-pds thats my exploring . . . @Blackgirlscode Tell Latrice i will mark reports complete in some fashion and she free to harvest what she needs for virtiserv @cityoflosangeles thats who im working with if she not a criminal @datadesk normani might no be my bookkeeper if she trying to do flight scheduling, im just keeping @nasa-jpl safe from strangers . . . -rashard
+
+<img  alt="image" src="https://github.com/user-attachments/assets/69c9af47-5c90-4b87-9b9a-b105fed07458" />
+
 # Jovian [PRESSKiT](https://www.jpl.nasa.gov/news/press_kits/juno/pdf/juno-lores.pdf)
 [[ joh-vee-uhn ]](https://en.wiktionary.org/wiki/Jovian) ([astronomy](https://www.nasa.gov/solar-system/skywatching/astronomy/)) Pertaining to the planet [Jupiter](https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27599%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27OBSERVER%27&CENTER=%27500@399%27&START_TIME=%272006-01-01%27&STOP_TIME=%272006-01-20%27&STEP_SIZE=%271%20d%27&QUANTITIES=%271,9,20,23,24,29%27).
 [Jupiter is](https://www.jpl.nasa.gov/edu/resources/gallery/exploring-jupiter/)...the largest planet in our solar system – if it were a hollow shell, 1,000 Earths could fit inside [Jupiter Facts](https://science.nasa.gov/jupiter/jupiter-facts/) [Fiction/Fandom](https://aliens.fandom.com/wiki/Jovian) [Physicality @nasa PhotoJournal](https://photojournal.jpl.nasa.gov/target/jupiter) - [Program and Project Management](https://www.jpl.nasa.gov/news/press_kits/juno/management/) ~> [Directors](https://x.com/RicoThaka/status/1899890387977949299)
