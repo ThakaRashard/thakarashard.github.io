@@ -3,6 +3,50 @@ layout: default
 ---
 {% include nav.html %}
 
+gm latrice of Virtiserv @nasa-jpl @cityoflosangeles KarenBass I am going to visit Augustine by sea. I hope they have a bagel. Lafirstumc is closed today for `The Advent` @blackgirlscode I need protection, I heard Ctrl. it's about a girl healing her sex life with an rem cycle his wife did not have an interest in utilizing and I remember hardly anything @stateofcalifornia HollyMithell, Gavin Newsom @newshour
+
+
+```
+Name: Rashard I Kelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Fri Dec 26 10:42:04 PST 2025
+    December 2025
+Su Mo Tu We Th Fr Sa
+    1  2  3  4  5  6
+ 7  8  9 10 11 12 13
+14 15 16 17 18 19 20
+21 22 23 24 25 26 27
+28 29 30 31
+
+
+
+
+Linux localhost 4.19.191 #1 SMP PREEMPT Fri Dec 5 09:50:13 CST 2025 aarch64 Android
+ 10:42:04 up 7 days, 20:55,  load average: 14.58, 16.10, 16.47
+~ $ nc -t horizons.jpl.nasa.gov 6775              ��������!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ Unable to negotiate connection within 2 seconds. Defaults:
+                                                  
+ TERM= vt102, ROWS= 9999, COLUMNS= 9999, ECHO on, FULL-DUPLEX
+                                                  
+ Your terminal, command-line, telnet, or connection program
+ may not be compliant with RFC 854 and RFC 1073 standards:
+                                                  
+           http://tools.ietf.org/rfc/rfc854.txt   
+           http://tools.ietf.org/rfc/rfc1073.txt  
+                                                  
+ Using a different program to connect may solve the problem.
+                          -OR -                   
+ The network may be slow and need > 2 seconds (try again).
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+  ======================================================================
+  |                     Jet Propulsion Laboratory                      |
+  |                                                                                                 JPL Horizons, version 4.98d                       Type '?' for brief help, '?!' for details,        '-' for previous prompt, 'x' to exit              System news updated November 13, 2025                                                               Horizons> 8                                       Inactive connection ... terminating Horizons!   
+~ $ 
+```
 
 # ORB_026200_026299/ESP_026202_1620_ESP_018277_1620
 [Files](https://hirise-pds.lpl.arizona.edu/PDS/) / [FiLE](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_026200_026299/ESP_026202_1620_ESP_018277_1620/ESP_026202_1620_ESP_018277_1620_RED.browse.png)
