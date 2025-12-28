@@ -3,7 +3,7 @@ layout: default
 ---
 {% include nav.html %}
 
-gm latrice of Virtiserv @nasa-jpl @cityoflosangeles KarenBass I am going to visit Augustine by sea. I hope they have a bagel. Lafirstumc is closed today for `The Advent` @blackgirlscode I need protection, I heard Ctrl. it's about a girl healing her sex life with an rem cycle his wife did not have an interest in utilizing and I remember hardly anything @stateofcalifornia HollyMithell, Gavin Newsom @newshour
+gm latrice of Virtiserv @nasa-jpl @cityoflosangeles KarenBass I am going to visit Augustine by sea. I hope they have a bagel. Lafirstumc is closed today for `The Advent` @blackgirlscode I need protection, I heard [Ctrl](https://youtu.be/oUzIlVuGdtE?si=yvZ8JDQ_W8A5n0z4). it's about a girl healing her sex life with an rem cycle his wife did not have an interest in utilizing and I remember hardly anything @stateofcalifornia HollyMithell, Gavin Newsom @newshour I know y'all don't care like tht I have to ask normani if go Gina is her giving latrice permission to court me
 
 
 ```
