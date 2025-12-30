@@ -3,6 +3,10 @@ layout: default
 ---
 {% include nav.html %}
 
+@BLACKGiRLSCODE LATRiCE [DesignWork](https://codepen.io/thakarashard/pen/EajrepQ)
+`virtiserv`
+<img  alt="image" src="https://github.com/user-attachments/assets/892ca261-590b-4874-8b1f-025a9b86825b" />
+
 
 <img alt="image" src="https://github.com/user-attachments/assets/c3bdc6b4-3b7e-4ffd-ad7d-1d4f0a0c3e4f" />
 
