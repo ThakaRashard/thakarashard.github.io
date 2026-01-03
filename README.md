@@ -11,6 +11,122 @@
 <img  alt="image" src="https://github.com/user-attachments/assets/e7820ab0-fa23-421b-8290-13e29f961576" />
 
 @nasa Jennifer Brennan and Doug Newman @nasa-jpl
+Jennifer! 
+
+Good morning it's Rashard from MRO / JUNO / ECOSTRESS! I don't know how close u look at attendance, but I have a hard time securing computer time. And I'm try to get ahead of the firms training on the 14th . I need you to help me by calling long Beach library to clear me for a computer card +1 562-570-7500. 
+
+Jose m pi took my phone and computer when the playboy poisonings chased us out. Please pass the HR page around if u look at the old messages... That was 2015 and whatever the case is I have been on the Earth data team for over a year, however it's the dancing girls from Atlanta and the accountant and I got hurt sexually and got shy , processes have changed and I'm just kinda lost because a lot of people houses burned down and homeless has to be redefined because I'm not the only worker impacted it was 250 families last year and we have SLA agreements for a lot of old equipment and the library is reorganizing and I need help on what steps I need to take not to be interrupted -#RasharD_
+
+https://www.earthdata.nasa.gov/about/esdis/directory
+https://urs.earthdata.nasa.gov/profile
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 01-02-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.5 Home NASA
+ 
+Accessibility
+NASA Official: Doug Newman
+
+Feedback
+
+to
+
+```
+	contact.lapdonline@gmail.com,
+douglas.j.newman@nasa.gov,
+councilmember.harris-dawson@lacity.org,
+councilmember.hernandez@lacity.org,
+cityatty.help@lacity.org,
+district3@longbeach.gov,
+district2@longbeach.gov,
+"ThirdDistrict@bos.lacounty.gov" <thirddistrict@bos.lacounty.gov>,
+"FirstDistrict@bos.lacounty.gov" <firstdistrict@bos.lacounty.gov>,
+"fourthdistrict@bos.lacounty.gov" <FourthDistrict@bos.lacounty.gov>,
+mayor@longbeach.gov,
+HollyJMitchell@bos.lacounty.gov,
+glynn.hulley@jpl.nasa.gov,
+Paul.Wingate@lacity.org,
+district4@longbeach.gov,
+david.williams@asu.edu,
+John.C.Pearson@jpl.nasa.gov,
+Mayor Infocrt <mayor.infocrt@lacity.org>,
+DKPDPRecords@dekalbcountyga.gov,
+311CCC@dekalbcountyga.gov,
+keishaforgovernor@gmail.com,
+lbpl_reference@lbpl.org,
+info@lbplfoundation.org,
+kristen@lbplfoundation.org,
+"Gordon, Seth W (JPL-5145)[JPL Employee]" <seth.w.gordon@jpl.nasa.gov>,
+chief.police@culvercity.org,
+cpsintake@dhs.ga.gov,
+Nora.Lindsey@dhs.ga.gov,
+Idanesi.Omonua@dhs.ga.gov,
+Elanor.gray@dhs.ga.gov,
+Janese.Butts@dhs.ga.gov,
+customer_services_dfcs@dhs.ga.gov,
+briana.e.horton@nasa.gov,
+Usarmy Stewart Id-readiness Mbx Dhr-hunter-mpd <USARMY.STEWART.ID-READINESS.MBX.DHR-HUNTER-MPD@army.mil>,
+richard.winton@latimes.com,
+andrew.wang@jpl.nasa.gov,
+SIR KAY EMARALD <victoryismine202202202@email.com>,
+Elyse Matson <Elyse.Matson@lacity.org>,
+rashardsdata@proton.me,
+rebecca.vazquezskil@howard.edu,
+councilmember.rodriguez@lacity.org,
+Rotaryclubofsouthpasadena@gmail.com,
+thomas@dohmke.com,
+Christopher P Tiu <christopher.p.tiu@nasa.gov>,
+tjmartin@cfa.harvard.edu,
+uso@daac.ornl.gov,
+un-space@un.org,
+uso@asf.alaska.edu,
+usersoffice@jaxa.jp,
+jnwise@menlopark.gov,
+ktla@ktla.com,
+kcbstvassignmentdesk@cbs.com,
+local@ocregister.com,
+library@santamonica.gov,
+councilmember.yaroslavsky@lacity.org,
+sonia.verma@cfa.harvard.edu,
+viewermail@newshour.org,
+volunteer@hofoco.org,
+Veronica Mcgregor <veronica.mcgregor@jpl.nasa.gov>,
+victor.anderson@house.ga.gov,
+Vamsee.Jagarlamudi@jhuapl.edu,
+breakingnews@wsav.com,
+bjeffcoat@bloomingdale-ga.gov,
+usn.ncr.dns.mbx.don-foia-pa@us.navy.mil,
+normani@fifthharmonyofficial.com,
+newstips@latimes.com,
+Natalie Simpson <newsletter@smdp.com>,
+news.tips@abc.com,
+nkordei@valdosta.edu,
+Whs Pentagon Esd Mbx Secrev <whs.pentagon.esd.mbx.secrev@mail.mil>,
+Metromail <metromail@metro.net>,
+Adrian.L.Brown@nasa.gov,
+Jennifer.L.Brennan@nasa.gov
+date:	Jan 2, 2026, 11:23 AM
+subject:	Re: RASHARD NASAJPL - Webinar Access @NASAJPL
+mailed-by:	gmail.com
+
+```
 <img  alt="Email for Jennifer Brennen to get my library access healthier for the firms meeting" src="https://github.com/user-attachments/assets/52dc7c86-6a44-4b13-b161-0783d2999025" />
 
 Essence tell her hi https://www.11alive.com/article/entertainment/television/programs/the-a-scene/why-rapper-mulatto-changed-her-name/85-2e9c3a1c-0d0f-4ea3-9589-91ded4a60165 https://www.hotnewhiphop.com/670664-latto-name-change Normani im scared i dont want her running up on me... she will ruin everything!  https://www.complex.com/music/a/cmplxtara-mahadevan/latto-responds-troll-referencing-her-past-rap-name Secretary Sean Duffy imma be real im in a bind... Rachel Campos-Duffy Jennifer Siebel Newsom Governor Newsom Congressmember Karen Bass The Secretary of the Navy The Office of the Chief of Naval Operations Mori & Associates Grammy Awards 
