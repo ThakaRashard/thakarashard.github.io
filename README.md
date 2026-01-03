@@ -7,10 +7,11 @@
 
 
 
-
+@blackgirlscode hi oakland chapter 
 <img  alt="image" src="https://github.com/user-attachments/assets/e7820ab0-fa23-421b-8290-13e29f961576" />
 
-<img  alt="image" src="https://github.com/user-attachments/assets/52dc7c86-6a44-4b13-b161-0783d2999025" />
+@nasa Jennifer Brennan and Doug Newman @nasa-jpl
+<img  alt="Email for Jennifer Brennen to get my library access healthier for the firms meeting" src="https://github.com/user-attachments/assets/52dc7c86-6a44-4b13-b161-0783d2999025" />
 
 Essence tell her hi https://www.11alive.com/article/entertainment/television/programs/the-a-scene/why-rapper-mulatto-changed-her-name/85-2e9c3a1c-0d0f-4ea3-9589-91ded4a60165 https://www.hotnewhiphop.com/670664-latto-name-change Normani im scared i dont want her running up on me... she will ruin everything!  https://www.complex.com/music/a/cmplxtara-mahadevan/latto-responds-troll-referencing-her-past-rap-name Secretary Sean Duffy imma be real im in a bind... Rachel Campos-Duffy Jennifer Siebel Newsom Governor Newsom Congressmember Karen Bass The Secretary of the Navy The Office of the Chief of Naval Operations Mori & Associates Grammy Awards 
 `Warning`! You are engaging in behavior that may be considered annoying or abusive by other users. Facebook's systems determined that you were going too fast when taking an action. You must significantly slow down. Further misuse of site features may result in a temporary block or your account being permanently disabled.
