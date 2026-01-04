@@ -3,6 +3,12 @@ layout: default
 ---
 {% include nav.html %}
 
+          <a href="https://rashardgds.github.io/" itemscope itemtype="https://schema.org/Person" itemprop="name">👦🏾RashardGDS[MRO/JUNO]</a>
+          <a href="{{ site.url }}{{ site.baseurl }}/compiling">👦🏾💻./CompilingBlog=></a>        
+           <a href="https://thakarashard.github.io/">Thaka👦🏾Rashard</a>
+           <a href="{{ site.url }}{{ site.baseurl }}/rashardlearned/la/frontpage/sub/blog/2025/10/21/currentlycompiling.html">RashardLearned📚</a>
+
+
 @BLACKGiRLSCODE LATRiCE [DesignWork](https://codepen.io/thakarashard/pen/EajrepQ)
 `virtiserv`
 <img  alt="image" src="https://github.com/user-attachments/assets/892ca261-590b-4874-8b1f-025a9b86825b" />
