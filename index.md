@@ -3,6 +3,9 @@ layout: default
 ---
 {% include nav.html %}
 
+Another bill again-Tony Rebel [watch](https://www.youtube.com/watch?v=U9ZLAgyn2-Q&list=RDMM&index=2) @blackgirlscode @nasa-pds @podaac @cityoflosangeles its a heliophysics mission that sent data today [iris](https://iris.gsfc.nasa.gov/) its corals middle name @la-county-isd
+<img alt="image" src="https://github.com/user-attachments/assets/c1ca158b-e767-4652-93fd-8ac9e2f3a8cb" />
+
 <a href="https://rashardgds.github.io/" itemscope itemtype="https://schema.org/Person" itemprop="name">👦🏾RashardGDS[MRO/JUNO]</a>
 
 <a href="{{ site.url }}{{ site.baseurl }}/compiling">👦🏾💻./CompilingBlog=></a>        
