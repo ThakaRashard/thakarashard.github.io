@@ -4,7 +4,8 @@ layout: default
 
 {% include nav.html %}
 
-![aesLATRICE](https://dn721809.ca.archive.org/0/items/neogeoaesmvscomplete/Neo-Geo-AES-Console-Set.png) @blackgirlscode [PDF](https://dn710208.ca.archive.org/0/items/snk-neo-geo-usa/SNK Neo-Geo USA.pdf)
+![aesLATRICE](https://dn721809.ca.archive.org/0/items/neogeoaesmvscomplete/Neo-Geo-AES-Console-Set.png) @blackgirlscode
+ [PDF](https://dn710208.ca.archive.org/0/items/snk-neo-geo-usa/SNK Neo-Geo USA.pdf)
 
 ## Updated PAges
 [ThakaRashard](https://thakarashard.github.io/)
