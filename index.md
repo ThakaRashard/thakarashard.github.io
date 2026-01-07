@@ -3,6 +3,8 @@ layout: default
 ---
 {% include nav.html %}
 
+@TheSpaceDevs [NASA Sets Coverage for Axiom Mission 2 Departure from Space Station](https://web.archive.org/web/20230528003338/https://www.nasa.gov/press-release/nasa-sets-coverage-for-axiom-mission-2-departure-from-space-station) @nasa-jpl @NASA-GISS @emit-sds [Lifestyles Of The Rich And Shameless](https://youtu.be/tGymCvtVZUY?list=RDMM) made someone attack my heart! the headpohne jack is like an EKG!!! @la-county-isd OUCH!!!!!!!!!!! 
+<img  alt="image" src="https://github.com/user-attachments/assets/34237b4f-26ae-4a46-b99c-22738cc6ea8a" />
 
 @nasa Explorers program [https://explorers.gsfc.nasa.gov/gallery.html#](https://explorers.gsfc.nasa.gov/gallery.html#) @blackgirlscode : @nasa-pds the link is dead on the current site @nasa-develop  [Ames' Involvement in the Interface Region Imaging Spectrograph (IRIS)](https://web.archive.org/web/20230528005924/https://www.nasa.gov/centers/ames/research/ames-iris-contributions.html)
 
