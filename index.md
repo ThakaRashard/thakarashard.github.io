@@ -3,6 +3,71 @@ layout: default
 ---
 {% include nav.html %}
 
+![aes-LATRICE](https://dn721809.ca.archive.org/0/items/neogeoaesmvscomplete/Neo-Geo-AES-Console-Set.png) @blackgirlscode
+
+## Updated PAges
+[ThakaRashard](https://thakarashard.github.io/)
+[Rashard MRO @github](https://thakarashard.github.io/rashardmro/2025/12/24/JPL-MARSmass.html) MArs pics @blackgirlscode
+[RashardMRO @tumblr](https://rashardmro.tumblr.com/)
+Posts [EcoStress Guide](https://rashardmro.tumblr.com/post/805034354321588224) @nasa-jpl 
+[RashardiMAN](https://rashardiman.github.io/)
+
+
+@ASU @nasa-pds @usgs @Asulibraries
+I wrote you guys a note i lost in my commits, 
+I work out of the [Long Beach Library](https://www.google.com/search?q=long+beach+public+library+billie+jean&sca_esv=6dfd04640b18e1d6&rlz=1C1GCEJ_enUS1195US1195&biw=958&bih=952&tbm=nws&sxsrf=AE3TifPbTRJzNlbH2CDVjFQyL1vRUHcIMg%3A1767217312350&ei=oJhVaeSTFdjJkPIPxO3o6Ag&ved=0ahUKEwjk45LB5eiRAxXYJEQIHcQ2Go0Q4dUDCBA&uact=5&oq=long+beach+public+library+billie+jean&gs_lp=Egxnd3Mtd2l6LW5ld3MiJWxvbmcgYmVhY2ggcHVibGljIGxpYnJhcnkgYmlsbGllIGplYW4yBhAAGBYYHjIIEAAYgAQYogQyCBAAGIAEGKIEMgUQABjvBUi8xAFQ3RNY5cMBcAN4AJABAJgBjwGgAaUPqgEENDEuMbgBA8gBAPgBAZgCLaACmBDCAggQABgHGAgYHsICCBAAGKIEGIkFwgIIEAAYCBgNGB7CAgsQABiABBiRAhiKBcICChAAGIAEGEMYigXCAgsQABiABBixAxiDAcICEBAAGIAEGLEDGEMYgwEYigXCAg0QABiABBixAxhDGIoFwgIOEAAYgAQYsQMYgwEYigXCAgUQABiABMICCBAAGIAEGLEDwgIOEAAYgAQYkQIYsQMYigXCAgsQABiABBiGAxiKBZgDAIgGAZIHBDQ0LjGgB47wAbIHBDQxLjG4B5EQwgcEMS40NMgHVIAIAA&sclient=gws-wiz-news) and [LAPL](https://www.google.com/search?q=lapl+central+news&sca_esv=6dfd04640b18e1d6&rlz=1C1GCEJ_enUS1195US1195&biw=958&bih=952&tbm=nws&sxsrf=AE3TifN9kwKcaDW9KEi8O57jWow8Zv7Twg%3A1767217351560&ei=x5hVaab-IebDkPIP3oOOmAI&ved=0ahUKEwjm_evT5eiRAxXmIUQIHd6BAyMQ4dUDCBA&uact=5&oq=lapl+central+news&gs_lp=Egxnd3Mtd2l6LW5ld3MiEWxhcGwgY2VudHJhbCBuZXdzMgUQIRigATIFECEYoAEyBRAhGKABMgUQIRigAUiNGlAAWI4ZcAB4AJABAJgBSaABtQaqAQIxN7gBA8gBAPgBAZgCEaAC6AbCAgoQABiABBhDGIoFwgILEAAYgAQYkQIYigXCAhAQABiABBixAxhDGIMBGIoFwgILEAAYgAQYsQMYgwHCAggQABiABBixA8ICDhAAGIAEGLEDGIMBGIoFwgIREAAYgAQYkQIYsQMYgwEYigXCAg0QABiABBixAxhDGIoFwgIFEAAYgATCAgYQABgWGB7CAgUQIRirAsICBRAhGJ8FmAMAkgcCMTegB65lsgcCMTe4B-gGwgcGMC4xNS4yyAclgAgA&sclient=gws-wiz-news) and i cannot install software. I dont know the conversion process on .img files and asking for hosting of the data volumes in extra data centers @podaac, whatever process is @usgs i want that... man i want pings . . @cityoflosangeles [KAren Bass](https://www.google.com/search?q=karen+bassnews+los+angeles&sca_esv=6dfd04640b18e1d6&rlz=1C1GCEJ_enUS1195US1195&biw=958&bih=952&tbm=nws&sxsrf=AE3TifPAS09kA4ga5-FpH4MI_xLRUxvgTw%3A1767217298879&ei=kphVafnBNemxur8Pk8aQyAI&ved=0ahUKEwj50ty65eiRAxXpmO4BHRMjBCkQ4dUDCBA&uact=5&oq=karen+bassnews+los+angeles&gs_lp=Egxnd3Mtd2l6LW5ld3MiGmthcmVuIGJhc3NuZXdzIGxvcyBhbmdlbGVzMggQABgHGAgYHjIIEAAYBxgIGB4yCBAAGKIEGIkFMgUQABjvBTIFEAAY7wUyBRAAGO8FMgUQABjvBUiVC1AAWJ0KcAB4AJABAJgBUqAB2gSqAQIxMLgBA8gBAPgBAZgCCqAC8wTCAg0QABiABBixAxiDARgNwgIHEAAYgAQYDcICCxAAGIAEGIYDGIoFwgIIEAAYgAQYogTCAgYQABgIGB6YAwCSBwIxMKAH8jiyBwIxMLgH8wTCBwUwLjkuMcgHEYAIAA&sclient=gws-wiz-news) [Holly Mitchell](https://www.google.com/search?q=holly+mitchell+news+los+angeles&sca_esv=6dfd04640b18e1d6&rlz=1C1GCEJ_enUS1195US1195&biw=958&bih=952&tbm=nws&sxsrf=AE3TifMAzL2CNq29y3XljVvIW8bZfjrZFA%3A1767217283721&ei=g5hVacnpK56Pur8P592jQQ&ved=0ahUKEwiJt7-z5eiRAxWeh-4BHefuKAgQ4dUDCBA&uact=5&oq=holly+mitchell+news+los+angeles&gs_lp=Egxnd3Mtd2l6LW5ld3MiH2hvbGx5IG1pdGNoZWxsIG5ld3MgbG9zIGFuZ2VsZXMyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyBRAAGO8FMgUQABjvBUi1ElAAWMYRcAB4AJABAJgBQqABlwaqAQIxNbgBA8gBAPgBAZgCD6ACyAbCAg0QABiABBixAxiDARgNwgIHEAAYgAQYDcICBhAAGAcYHsICCBAAGAcYCBgewgIGEAAYCBgewgILEAAYgAQYhgMYigXCAggQABiiBBiJBcICCBAAGAgYDRgewgIIECEYoAEYwwTCAgoQIRigARjDBBgKmAMAkgcCMTWgB_RhsgcCMTW4B8gGwgcGMy4xMS4xyAcfgAgA&sclient=gws-wiz-news) [Lindsey Horavath](https://www.google.com/search?sca_esv=6dfd04640b18e1d6&rlz=1C1GCEJ_enUS1195US1195&sxsrf=AE3TifPZxM8djvwa8TufWBWq0iMud-_5fQ:1767217279996&q=lindsey+horvath+news+los+angeles&tbm=nws&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZrjP_Cx0LI1Ytb_FGcOviEiTm5uW1q0uNfK7KsnoL8hWZUZ3ZEPhe0cPqXxrOlmBaXNrzSbxDmRd08BPr8JCE3nu3PcJjf83ExQ7rwGD5cZTZn5yhXjodzY7BAamO5WIWU2x-UGgA-ygO2O_3gSk_9ZqyOAsuFPn8vhrdwnDljVHxI1j_8HIrYsqn-_akCNf8FAHXDA&sa=X&ved=2ahUKEwiyg9yx5eiRAxWRKEQIHdiVGPcQ0pQJegQIFBAB&biw=958&bih=952&dpr=1) @la-county-isd I just want you to know im working on my [Deep Space Network duties](https://eyes.nasa.gov/apps/dsn-now/dsn.html) @blackgirlscode [JUNO on @Nasa-Pds](https://pds-imaging.jpl.nasa.gov/volumes/juno.html) [@ASU Miision HOMEPAGE - rgcps.asu.edu/juno](https://rgcps.asu.edu/juno/)
+<img  alt="image" src="https://github.com/user-attachments/assets/675daa04-8dee-46ca-a468-7350e2308c27" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/6c8aa5a3-6d41-4eac-a9d9-8f3521444ff4" />
+
+@nasa-jpl my new login script
+
+<pre>
+
+Name: Rashard I Kelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Wed Dec 24 11:05:42 PST 2025
+    December 2025
+Su Mo Tu We Th Fr Sa
+    1  2  3  4  5  6
+ 7  8  9 10 11 12 13
+14 15 16 17 18 19 20
+21 22 23 24 25 26 27
+28 29 30 31
+
+Linux localhost 4.19.191 #1 SMP PREEMPT Fri Dec 5 09:50:13 CST 2025 aarch64 Android
+ 11:05:42 up 5 days, 21:19,  load average: 13.63, 14.10, 14.96
+~ $
+
+
+</pre>
+
+'''
+,,,
+latrice @blackgirlscode @cityoflosangeles 
+ [billieJean](https://www.longbeach.gov/library) closes at 5 today and the 31st @nasa_jpl
+my @vsco @blackgirlscode @nasa-pds @nasa-jpl @cityoflosangeles
+
+[RashardSartu](https://vsco.co/rashardsartu/gallery) / [earthdatarashard](https://vsco.co/earthdatarashard/gallery)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fd52a019-20e7-443a-9ed4-43a33753ad91" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0c16f43f-163a-4ef4-8937-d5cd8c957f3e" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/87063944-cb2c-4b1a-8624-d157d8d73147" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f84ca1e7-2801-4a47-a0e7-d2e0fe650ed1" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/cbe12ed7-3fab-4034-8d6a-2b89108f9c54" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/fec044b5-4052-4c2a-a298-fe9607ea028a" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/42d6972e-17c1-4eb2-9e95-56227dc40831" />
 
 @usnavy @nasa-jpl
 im blocked from Persevere Raw files at Long Beeach Public library
