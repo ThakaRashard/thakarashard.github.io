@@ -4,7 +4,7 @@ layout: default
 {% include nav.html %}
 
 
-![https://explorers.gsfc.nasa.gov/images/www-website-images/icon_images/2016-04-01_upper_atmospheric_airglow.png](https://explorers.gsfc.nasa.gov/images/www-website-images/icon_images/2016-04-01_upper_atmospheric_airglow.png) 
+![https](https://explorers.gsfc.nasa.gov/images/www-website-images/icon_images/2016-04-01_upper_atmospheric_airglow.png) 
 
 Another bill again-Tony Rebel [watch](https://www.youtube.com/watch?v=U9ZLAgyn2-Q&list=RDMM&index=2) @blackgirlscode @nasa-pds @podaac @cityoflosangeles its a heliophysics mission that sent data today [iris](https://iris.gsfc.nasa.gov/) its corals middle name @la-county-isd
 <img alt="image" src="https://github.com/user-attachments/assets/c1ca158b-e767-4652-93fd-8ac9e2f3a8cb" />
