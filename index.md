@@ -4,6 +4,53 @@ layout: default
 
 {% include nav.html %}
 
+
+
+# [Mars](https://youtu.be/SKlbDtWYHJk) Exploration Program
+NASA's Mars Exploration Program includes current missions Odyssey, MRO, Mars Express, MSL, InSight, and Mars 2020 [READMORE](https://pds-geosciences.wustl.edu/missions/mep/index.htm)
+
+## Mars Helicopter Sol 43: Color Camera
+[HiREZ](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00043/ids/edr/browse/heli/HSF_0043_0670751650_000ECM_N0000001HELI00000_000085J04.png) @nasa-jpl @nasa GasBuddyLAtrice @blackgirlscode 
+During late December 2025 and January 2026, Mars and Earth are on opposite sides of the Sun, blocking radio communications between them. Perseverance will resume sending raw images in late January. 
+`Mars in a Minute: What Happens When the Sun Blocks our Signal?` 
+[Watch](https://assets.science.nasa.gov/content/dam/science/psd/mars/videos/2024/5298_miam20130320-640.mp4)
+<img  alt="image" src="https://github.com/user-attachments/assets/e8c5022d-9366-414d-bed6-7cae40c602bd" />
+
+
+## Mars Helicopter Sol 642: Color Camera
+[hires](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00642/ids/edr/browse/heli/HSF_0642_0723948579_000ECM_N0360001HELI00002_000085J01.png) 
+<img  alt="Mars Helicopter Sol 642: Color Camera" src="https://github.com/user-attachments/assets/90c26baf-605a-4e8a-bfa8-dc9c09fa5e9e" />
+
+## Mars Helicopter Sol 414: Color Camera
+[HiRES](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00414/ids/edr/browse/heli/HSF_0414_0703689952_044ECM_N0260001HELI00005_000085J04.png)
+NASA's Ingenuity Mars Helicopter acquired this image using its high-resolution color camera. This camera is mounted in the helicopter's fuselage and pointed approximately 22 degrees below the horizon.
+
+This image was acquired on April 20, 2022 (Sol 414 of the Perseverance rover mission) at the local mean solar time of 11:39:31. This was the date of Ingenuity's 26th flight.
+
+Image Credit: NASA/JPL-Caltech
+<img alt="Mars Helicopter Sol 414: Color Camera" src="https://github.com/user-attachments/assets/9c5d8d18-b123-4893-921e-007dd66279df" />
+
+
+
+NASA's Ingenuity Mars Helicopter acquired this image using its high-resolution color camera. This camera is mounted in the helicopter's fuselage and pointed approximately 22 degrees below the horizon.
+
+This image was acquired on Dec. 10, 2022 (Sol 642 of the Perseverance rover mission) at the local mean solar time of 16:31:59. This was the date of Ingenuity's 36th flight.
+
+Image Credit: NASA/JPL-Caltech
+
+
+[The Mars orbiter magnetometer of Tianwen-1: in-flight
+performance and first science results - PDF](https://space.ustc.edu.cn/users/1157234616JDEkdTA1LmZoMy4kUjdEZ2xBRXo4WDhYV3RaNjl5NUxZMA/publication/materials/20221129073139.056_the%2Bmars%2Borbiter%2Bmagnetometer%2Bof%2B%2Btianwen-1%20%2Bin-flight%2Bperformance%2Band%2Bfirst%2Bscience%2Bresults.pdf)
+
+Image of the Week [📸](https://mars.nasa.gov/mars2020/multimedia/raw-images/SIF_1663_0814583833_988EBY_N0791762SRLC02504_0000LMJ)
+## Mars Perseverance Sol 1663: WATSON Camera
+![imageoftheweek](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01663/ids/edr/browse/shrlc/SIF_1663_0814583833_988EBY_N0791762SRLC02504_0000LMJ01_1200.jpg)
+
+
+# [Mars](https://youtu.be/SKlbDtWYHJk) Exploration Program
+NASA's Mars Exploration Program includes current missions Odyssey, MRO, Mars Express, MSL, InSight, and Mars 2020 [READMORE](https://pds-geosciences.wustl.edu/missions/mep/index.htm)
+
+
 ![aesLATRICE](https://dn721809.ca.archive.org/0/items/neogeoaesmvscomplete/Neo-Geo-AES-Console-Set.png) @blackgirlscode
  [PDF](https://archive.org/details/snk-neo-geo-usa/page/n41/mode/1up)
 
