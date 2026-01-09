@@ -11,7 +11,7 @@ Rashards2025 [FireBlog](https://github.com/ThakaRashard/rashardmro/blob/master/_
 <img  alt="image" src="https://github.com/user-attachments/assets/6612021a-57a6-4374-9125-9ae82091dd61" />
 <img  alt="image" src="https://github.com/user-attachments/assets/38481a53-f5d9-4da9-9553-7a9d00266896" />
 
-@nasa @nasa-jpl im trying to get the fire temperature images from the fires... I lost them when my account [RicoThaka](x.com/ricothaka) collapsed @la-county-isd @cityoflosangeles  @blackgirlscode
+@nasa @nasa-jpl im trying to get the fire temperature images from the fires... I lost them when my account [RicoThaka](x.com/ricothaka) collapsed @la-county-isd @cityoflosangeles  @blackgirlscode [@noaa CLiMATEDATA - Archive](https://www.ncei.noaa.gov/cdo-web/search) @noaagov @noaa @weather-gov @datadesk 
 <img alt="image" src="https://github.com/user-attachments/assets/6770e06e-d2e5-4f3d-bafd-d3ed36f4fe39" />
 
 
