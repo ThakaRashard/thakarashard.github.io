@@ -11,6 +11,30 @@ Rashards2025 [FireBlog](https://github.com/ThakaRashard/rashardmro/blob/master/_
 
 <img  alt="image" src="https://github.com/user-attachments/assets/296f9d83-b763-47f7-802d-06b15337e1d0" />
 
+<video controls preload="metadata" itemprop="location" itemscope itemtype="https://schema.org/Place" poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005597/EIC_PalisadesEaton_Wildfire_preview.png" >
+  
+  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005597/EIC_PalisadesEaton_Wildfire_7680x2160.mp4" type="video/mp4" />
+  <source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/EIC_PalisadesEaton_Wildfire_7680x2160.mp4" type="video/mp4" />
+
+
+  Download the
+  <a href="https://ia600307.us.archive.org/10/items/commitmentmaintenance/EIC_PalisadesEaton_Wildfire_7680x2160.mp4">MP4</a>
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005597/EIC_PalisadesEaton_Wildfire_7680x2160.mp4">MP4</a>
+  video.
+</video>
+
+<div itemscope itemtype="https://schema.org/Book" itemid="http://worldcat.org/entity/work/id/2292573321">
+<h3><span itemprop="name">Los Angeles Palisades and Eaton Wildfires: 2025 Year in Review</span></h3>
+    <div>Visualizations by: <span itemprop="author" itemscope itemtype="https://schema.org/Person" itemid="http://viaf.org/viaf/17823">
+<a href="https://svs.gsfc.nasa.gov/search/?people=Zoey%20N.%20Armstrong">Zoey N. Armstrong</a>,
+<a href="https://svs.gsfc.nasa.gov/search/?people=Joseph%20V.%20Ardizzone">Joseph V. Ardizzone</a>,
+and <a href="https://svs.gsfc.nasa.gov/search/?people=Helen-Nicole%20Kostis">Helen-Nicole Kostis</a></span></div>
+        <div>Language: <meta itemprop="inLanguage" content="en" />English</div>
+       
+</div>
+
+
 [Storm Events Database](https://www.ncei.noaa.gov/stormevents/listevents.jsp?eventType=%28Z%29+Wildfire&beginDate_mm=01&beginDate_dd=01&beginDate_yyyy=2025&endDate_mm=01&endDate_dd=17&endDate_yyyy=2025&county=ALL&hailfilter=0.00&tornfilter=0&windfilter=000&sort=DT&submitbutton=Search&statefips=6%2CCALIFORNIA) @la-county-isd @cityoflosangeles @stateofcaliforia @podaac
 Deaths Direct/Indirect	12/0 (fatality details below, when available...)
 [link - MALIBU COAST](https://www.ncei.noaa.gov/stormevents/eventdetails.jsp?id=1230300)
