@@ -9,6 +9,7 @@ Regular City Council - 1/9/26 @CityOfLosAngeles @la-county-isd
 [Watch](https://youtu.be/ka4mEHoNTKw) 
 Rashards2025 [FireBlog](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-12-27-NasaFireReport-nov18.md) 
 <img  alt="image" src="https://github.com/user-attachments/assets/6612021a-57a6-4374-9125-9ae82091dd61" />
+<img  alt="image" src="https://github.com/user-attachments/assets/38481a53-f5d9-4da9-9553-7a9d00266896" />
 
 
 # [Mars](https://youtu.be/SKlbDtWYHJk) Exploration Program
