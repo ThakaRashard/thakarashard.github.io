@@ -9,9 +9,14 @@ Regular City Council - 1/9/26 @CityOfLosAngeles @la-county-isd
 [Watch](https://youtu.be/ka4mEHoNTKw) 
 Rashards2025 [FireBlog](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-12-27-NasaFireReport-nov18.md) 
 
-Storm Events Database
+<img  alt="image" src="https://github.com/user-attachments/assets/296f9d83-b763-47f7-802d-06b15337e1d0" />
+
+[Storm Events Database](https://www.ncei.noaa.gov/stormevents/listevents.jsp?eventType=%28Z%29+Wildfire&beginDate_mm=01&beginDate_dd=01&beginDate_yyyy=2025&endDate_mm=01&endDate_dd=17&endDate_yyyy=2025&county=ALL&hailfilter=0.00&tornfilter=0&windfilter=000&sort=DT&submitbutton=Search&statefips=6%2CCALIFORNIA) @la-county-isd @cityoflosangeles @stateofcaliforia @podaac
 Deaths Direct/Indirect	12/0 (fatality details below, when available...)
-[link](https://www.ncei.noaa.gov/stormevents/eventdetails.jsp?id=1230300)
+[link - MALIBU COAST](https://www.ncei.noaa.gov/stormevents/eventdetails.jsp?id=1230300)
+Episode Narrative	The combination of very strong Santa Ana winds, mountain wave activity and critically dry vegetation resulted in a significant outbreak of wildfires across Los Angeles and Ventura counties. The Palisades Fire (23,707 acres) and the Eaton Fire (14,021 acres) combined to become the most significant natural disaster in U.S. history. Two smaller fires, the Hurst Fire (799 acres) and the Kenneth Fire (1,052 acres) also developed during this outbreak, but were not anywhere as damaging.
+Event Narrative	The Palisades Fire burned 23,707 acres across the Santa Monica Mountains and the Malibu coastal strip. The wildfire ignited during an extreme fire weather event with PDS Red Flag Warnings in effect. The combination of wind gusts in excess of 80 MPH and critically dry vegetation allowed the fire to grow explosively. The fire completed destroyed the community of Pacific Palisades and part of the community of Malibu. Throughout the fire, 6,837 structures were destroyed and another 973 structures were damaged, including many residences. Twelve civilian deaths, three civilian injuries and one firefighter injury were reported.sni
+
 [CityCouncil 1/9/26](https://youtu.be/ka4mEHoNTKw)
 <img alt="image" src="https://github.com/user-attachments/assets/e54d2272-11f2-4747-b4c0-d844e028b240" />
 
