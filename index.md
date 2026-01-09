@@ -361,8 +361,9 @@ NASA’s Europa Clipper Observes Comet 3I/ATLAS + [STORiES!](https://science.nas
 
 <img   alt="image" src="https://github.com/user-attachments/assets/425d9118-3085-4864-958c-887973711b88" />
 
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02ZhMVbWFpmgo2vJ8FFR8i6wz485GZ3W7zDEB5hC8gMLccbwTsbHLQxV5hSg237aAvl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
+```
 <img alt="image" src="https://github.com/user-attachments/assets/ebffecc2-4b52-4a50-b385-25b5431480fa" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/78f106ae-3343-43b4-bee1-4577c65daf94" />
@@ -380,7 +381,9 @@ Eaton Canyon Surface Water @ESA
 
 <img  alt="image" src="https://github.com/user-attachments/assets/98db94a4-edbf-45ee-a101-c2336d61b6a9" />
 
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid025jN31JjZRk3mR99ThUtAeXvA2MTkZyvg9k2VPun74EgCreCt1XeKtqUxn24K79upl%26id%3D100084464911565&show_text=true&width=500" width="500" height="866" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+```
 
 @nasa-jpl @blackgirlscode #VirTiServ @NASA-Openscapes hi its rashard from MRO @nasa-jpl … i have been working earthdata from @emit-sds
 
@@ -542,10 +545,11 @@ EW is a specific type of [biological warfare](https://pmc.ncbi.nlm.nih.gov/artic
 
 <a href="https://www.dhs.gov/sites/default/files/styles/webp_original_size/public/images/st/Web/ST/20_0325_nbacc_logo_blue_revised.jpg.webp?itok=d0cYPGsk"><img   alt="image" src="https://www.dhs.gov/sites/default/files/styles/webp_original_size/public/images/st/Web/ST/20_0325_nbacc_logo_blue_revised.jpg.webp?itok=d0cYPGsk" style="width: 15%; height: auto;"/></a>
 
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0asNukzcA2ohcxazhghJ68WNhJdXrN49VTLcvwKUmZzP1K6ENe6V9bt1PBxZn3ExSl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 `<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02gaB14iEwGqYHcA1KDa8ytDsWBpyxzCVadbeJtr523ARMSF5mSncyNPokJne5Z6Dml%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>`
-
+```
 <img alt=" Coral is standing in front of a buddy from my child hood peice, he write with network on frieghts as well, there is a process and im willing to hold until my family situation clear up so i dont disable a mission accidentally @nasa-pds -Rashard @nasa-Develop @blueorigin" src="https://github.com/user-attachments/assets/aa23f0a5-63cf-4412-8a95-8cd5c9004119" />
 
 
@@ -569,7 +573,9 @@ EW is a specific type of [biological warfare](https://pmc.ncbi.nlm.nih.gov/artic
 
 Brandy Normani #TYRA #LATRiCE Howard University https://soundcloud.com/nija-music/heaven... is the mars cover art some digital love for me or donald glover? which one ? ? ? , like its the shit like that that throw me off Supervisor Holly J. Mitchell then im bullied and people spit in my food #localcommunity Los Angeles County Board of Supervisors Supervisor Janice Hahn Karen Bass Lunar and Planetary Institute NASA Mars Governor Gavin Newsom its the support of striptease and the lack of well maybe its war Jennifer Siebel Newsom idk #RelationshipTalk Essence - - - Future can u comment bro ? #L5p #EAV The T-Shirt Lady @blackgirlscode @nytimes [@metaLink](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid038GEjnrQMJkPbXAm9gSa3865b2ac5xxCXVDcuUeyijTGPcmRXra4txSPESDNKPwagl%26id%3D100084464911565&show_text=true&width=500)
 
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid038GEjnrQMJkPbXAm9gSa3865b2ac5xxCXVDcuUeyijTGPcmRXra4txSPESDNKPwagl%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+```
 
 <img  alt=" @blackgirlscode, i was in love" src="https://github.com/user-attachments/assets/65111c82-be97-4c55-9538-bfa947ec7e0a" />
 
@@ -619,12 +625,16 @@ Brandy United Nations Office for Outer Space Affairs (UNOOSA) Normani https://gi
 @nasa-jpl @blackgirlscode [FridayNov21](https://www.google.com/search?sca_esv=9bd0e26604fdbc2f&rlz=1C1GCEJ_enUS1189US1189&q=november+21&tbm=nws&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeqDdErwP5rACeJAty2zADJgeXKnD4z7v_UXM32TmNnj1AiDPbPo_OFZLlB6cXa3f-GUf2_feRiFK2D2hbiHxQSH3uL8xuDRnlO2B4yDrM3CLjkXbjjOJI7VbCRDAbhwajKXFTWqDAtPpcKk5GzA2KStrzJNkhBGFrtmRcBV9X9uT87WGQA&sa=X&ved=2ahUKEwjR1bfw_oORAxVPJEQIHQg1NAQQ0pQJegQIFhAB&biw=958&bih=952&dpr=1)
 
 Kimberly Bryant, Founder Black Girls CODE Normani Brandy Georgia Department of Human Services #citationchallenge Black Girls Code Keisha Lance Bottoms some of them are tracked via L.A. County Department of Public Social Services the wise thing for #DFCS is to team with NASA - National Aeronautics and Space Administration via NASA's Kennedy Space Center , FEMA Federal Emergency Management Agency, the United States [Air Force](https://www.losangeles.spaceforce.mil/News/Article-Display/Article/4009111/the-sexual-assault-prevention-and-response-office-and-its-volunteer-victim-advo/) and NASA Jet Propulsion Laboratory to get the girls records straight... in the mean time this will help deter #DataThieves [Supervisor](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) [Holly J. Mitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) Karen Bass [#BlackGirlSoftLife](https://www.tumblr.com/tagged/soft%20life) #blackgirlsinrealestate #BlackGirlsInTech
+
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Ynv9KHgBFVNhvimi7oVi4Fd4aLiYDVdUHX2DV1gsRvobWfcnEcT4F1rSQBM56kRKl%26id%3D100084464911565&show_text=true&width=500" width="500" height="764" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+```
 
 #hygienetips Los Angeles County Board of Supervisors #BugWarfare is not addressed often .. I got a lot of bugs in my hair Congressmember Karen Bass while on the train and at breakfast... I saw a lady that look like Erika Brandy if that's corals mom I'm concerned and need a fresh start NPR Keisha Lance Bottoms Essence #relationshipAdvice duped into a relationship with an older person that's at a development cycle that overlaps Normani it's not fair 😩🤕🤕🤕🤕🤧😪😵😫😩😰😳🤯😓😟😥😢😢😢😢😢😢😭 WSAV News 3 On Your Side -#rashard NASA Mars Kash Doll I get you Georgia Division of Family & Children Services ... That's what's up DeKalb County Police Department Gavin Newsom #floodrelief NASA Earthdata 
 
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02gKyXs8V8kF5XWN2X6fCH2wNXCGCoKcQkeKv3VNq6dK6xCJBCehWYYghKjxSzN1Ghl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
+```
 
 
 
@@ -895,7 +905,11 @@ Image captured on Jan 12, 2025, by the MSI instrument aboard ESA's Sentinel-2A p
 
 [https://www.saint-augustine.org/](https://www.saint-augustine.org/) [@StAugustinebttheSea @youtube @nasa-pds](https://www.youtube.com/c/staugustinebythesea?themeRefresh=1) [Videos in @meta post in this archive](https://archive.org/download/nasa-worldview-2025-aug-13-to-2025-aug-25)
 
+
+
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02mDsmbaVdUDs9ZzA9LMUgRYryag2odddgw4qqWfeYkc1HVGe8kDCURCsxsqwZF8mol%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+```
 
 @cityoflosangeles @stateofcalifornia
 Congressmember Karen Bass @NASA Space Communications and Navigation Central Intelligence Agency (@CIA) Essence
@@ -1268,9 +1282,12 @@ Pioneering Low-Cost Planetary Exploration for NASA: the Escape and Plasma Accele
 The Escape and Plasma Acceleration and Dynamics Explorers (ESCAPADE) mission to Mars, led by the University of California, Berkeley’s Space Sciences Laboratory, is set to launch sometime in fall 2024. It consists of two identical smallsats, named Blue and Gold, that will study Mars’ magnetosphere and its interaction with the solar wind. While the exact launch date is still to be determined, if the launch is successful, then ESCAPADE is projected to reach Mars by September 2025. [READMORE](https://www.ssl.berkeley.edu/escapade-mars-mission-on-track-for-fall-2024-launch/?fbclid=IwY2xjawOCAXRleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoCPPkqq_v8XG6vXP30vOUet9_PSLSURjZ7j9z1Z7_MWD5vSo1EBs469lGtG_aem_LyXE2x3-K1K-ukSVrkNFSQ) 
 
 North Dakota Dual Aurora Camera (NoDDAC) Live Stream [11/11](https://www.youtube.com/live/TZnqoj1FNvA)
+
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02qMXMF8eb7Yun9BVPy4wbCBv8vjtvTFWzVSdkxY8e1LHnfF5JNnDyDEaVEV2Z6rfLl%26id%3D100084464911565&show_text=true&width=500" width="500" height="392" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02xjJMgywoY3vGRkRg2y2tsWsvmbXmgRWZmHcPW8AgkixqC7Hxxcsx8UsBHLHH2mDSl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+```
 
 # Scrub: New Glenn Mission NG-2 Webcast
 New Glenn's second mission, NG-2, is scheduled to launch no earlier than Sunday, November 9, from Launch Complex 36 at Cape Canaveral Space Force Station. This mission will deliver NASA's ESCAPADE twin spacecraft to Mars. Additionally, it will carry a technology demonstration from Viasat in support of NASA's Communications Services Project. 
@@ -1356,18 +1373,21 @@ last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
 @usgs [Index of VIP01.004:](https://e4ftl01.cr.usgs.gov/MEASURES/VIP01.004/), [BadgeNotes](https://media.defcon.org/DEF%20CON%2033/DEF%20CON%2033%20video%20and%20slides/DEF%20CON%2033%20-%20Making%20the%20DEF%20CON%2033%20Badge%20-%20Mar.mp4?fbclid=IwY2xjawOAtLJleHRuA2FlbQIxMABicmlkETFMeUFwNVFDY3RBTTJralBGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHm7z55Iz2x41YkoLzAItSlR4-Mu7Vys5bg9CYLGdM19K90jcocMoUEH4nkhU_aem_jciDbMwVJEFHdDy3VSZq7Q) [l8tr @blackgirlscode @brandynorwood @normani](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20video%20and%20slides/DEF%20CON%2032%20-%20A%20Treasure%20Trove%20of%20Failures%20-%20What%20History%E2%80%99s%20Greatest%20Heist%20Can%20Teach%20Us%20About%20Defense%20In%20Depth%20-%20Pete%20Stegemeyer.mp4) @
 
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fblueorigin%2Fposts%2Fpfbid02egBKgBbkGdfJXSmCN2knD6QcqXwQAtTn6PmXXt7rz4VUQ4e2uDGPk3XGeBcA8wsl&show_text=true&width=500" width="500" height="225" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
 <img  alt="image" src="https://github.com/user-attachments/assets/62f5acd5-245f-4fd1-a0ed-6cc0446be7de" />
 
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+```
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fblueorigin%2Fposts%2Fpfbid02egBKgBbkGdfJXSmCN2knD6QcqXwQAtTn6PmXXt7rz4VUQ4e2uDGPk3XGeBcA8wsl&show_text=true&width=500" width="500" height="225" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02QS8KX7p6dFSadSA5B1grimiQ9wth4UUbkkgip6GcDrddMWuBD7ZpVo9nepsZUzzUl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Tw3GCukTNa6uTKobKTFR6QBG173Fx38YnYRtVoGBTesdCzkiKbF1L6Zy3V25sbVUl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+```
 
 last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 [Experiance Insight](https://eyes.nasa.gov/apps/experience-insight/InSight.html) 
@@ -1382,7 +1402,9 @@ New Glenn's second mission will launch from Launch Complex 36 at Cape Canaveral 
 ![view](https://www.blueorigin.com/_next/image?url=https%3A%2F%2Fd1o72l87sylvqg.cloudfront.net%2Fredstone%2FMissions_NG-2-Trajectory.jpg&w=1920&q=75)
 ![https://upload.wikimedia.org/wikipedia/commons/7/75/EscaPADE_logo.png @blueorgin](https://upload.wikimedia.org/wikipedia/commons/7/75/EscaPADE_logo.png)
 
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0zz2PWKyzYnShWa6ZkMfHhp9mcuBHxf2PAMDSE9FsxCyG8hdz6jgdHjAa2WC6f2j9l%26id%3D100084464911565&show_text=true&width=500" width="500" height="779" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+```
 
 [SolidSteel - DK 785 @blackgirlscode](https://soundcloud.com/theclassicmixcdseries/dj-food-dk-now-listen?fbclid=IwY2xjawN_StlleHRuA2FlbQIxMABicmlkETFGZ3pPWUlkV1luaDJqSDZWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHj8ZEDQAPSAbggJI_F2HJHmu48pDIzaqlWUO5b-n8qfo5wztTNpbEtMFHaX-_aem_pZ4dss4346GRs81r7Q8PxA)
 
