@@ -10,7 +10,10 @@ Regular City Council - 1/9/26 @CityOfLosAngeles @la-county-isd
 Rashards2025 [FireBlog](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-12-27-NasaFireReport-nov18.md) 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/296f9d83-b763-47f7-802d-06b15337e1d0" />
+[WATCH](https://svs.gsfc.nasa.gov/5597/) Los Angeles Palisades and Eaton Wildfires: 2025 Year in Review @nasa-giss @nasa-develop @nasa-openscapes @nasa-pds @nasa-jpl @la-county-isd @CityOfLosAngeles [37mb mp4 Visualization](https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005597/EIC_PalisadesEaton_Wildfire_7680x2160.mp4)
+<img   alt="image" src="https://github.com/user-attachments/assets/bb38cf56-61b2-4a06-8bdc-1ab987e7ff1e" />
 
+```
 <video controls preload="metadata" itemprop="location" itemscope itemtype="https://schema.org/Place" poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005597/EIC_PalisadesEaton_Wildfire_preview.png" >
   
   <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005597/EIC_PalisadesEaton_Wildfire_7680x2160.mp4" type="video/mp4" />
@@ -24,7 +27,8 @@ Rashards2025 [FireBlog](https://github.com/ThakaRashard/rashardmro/blob/master/_
   video.
 </video>
 
-<div itemscope itemtype="https://schema.org/Book" itemid="http://worldcat.org/entity/work/id/2292573321">
+```
+<div itemscope itemtype="https://schema.org/VideoObject" itemid="https://svs.gsfc.nasa.gov/5597/">
 <h3><span itemprop="name">Los Angeles Palisades and Eaton Wildfires: 2025 Year in Review</span></h3>
     <div>Visualizations by: <span itemprop="author" itemscope itemtype="https://schema.org/Person" itemid="http://viaf.org/viaf/17823">
 <a href="https://svs.gsfc.nasa.gov/search/?people=Zoey%20N.%20Armstrong">Zoey N. Armstrong</a>,
