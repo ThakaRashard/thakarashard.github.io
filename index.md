@@ -7,6 +7,7 @@ layout: default
 
 Regular City Council - 1/9/26 @CityOfLosAngeles @la-county-isd
 [Watch](https://youtu.be/ka4mEHoNTKw) 
+Rashards2025 [FireBlog](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-12-27-NasaFireReport-nov18.md) 
 <img  alt="image" src="https://github.com/user-attachments/assets/6612021a-57a6-4374-9125-9ae82091dd61" />
 
 
