@@ -10,6 +10,7 @@ Regular City Council - 1/9/26 @CityOfLosAngeles @la-county-isd
 Rashards2025 [FireBlog](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-12-27-NasaFireReport-nov18.md) 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/296f9d83-b763-47f7-802d-06b15337e1d0" />
+
 [WATCH](https://svs.gsfc.nasa.gov/5597/) Los Angeles Palisades and Eaton Wildfires: 2025 Year in Review @nasa-giss @nasa-develop @nasa-openscapes @nasa-pds @nasa-jpl @la-county-isd @CityOfLosAngeles [37mb mp4 Visualization](https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005597/EIC_PalisadesEaton_Wildfire_7680x2160.mp4)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/bb38cf56-61b2-4a06-8bdc-1ab987e7ff1e" />
