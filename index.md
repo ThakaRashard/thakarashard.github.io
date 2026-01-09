@@ -8,6 +8,14 @@ layout: default
 Regular City Council - 1/9/26 @CityOfLosAngeles @la-county-isd
 [Watch](https://youtu.be/ka4mEHoNTKw) 
 Rashards2025 [FireBlog](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-12-27-NasaFireReport-nov18.md) 
+
+Storm Events Database
+Deaths Direct/Indirect	12/0 (fatality details below, when available...)
+[link](https://www.ncei.noaa.gov/stormevents/eventdetails.jsp?id=1230300)
+[CityCouncil 1/9/26](https://youtu.be/ka4mEHoNTKw)
+<img alt="image" src="https://github.com/user-attachments/assets/e54d2272-11f2-4747-b4c0-d844e028b240" />
+
+
 <img  alt="image" src="https://github.com/user-attachments/assets/6612021a-57a6-4374-9125-9ae82091dd61" />
 <img  alt="image" src="https://github.com/user-attachments/assets/38481a53-f5d9-4da9-9553-7a9d00266896" />
 
