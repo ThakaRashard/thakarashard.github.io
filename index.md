@@ -15,6 +15,7 @@ Rashards2025 [FireBlog](https://github.com/ThakaRashard/rashardmro/blob/master/_
 
 <img   alt="image" src="https://github.com/user-attachments/assets/bb38cf56-61b2-4a06-8bdc-1ab987e7ff1e" />
 video is loading slow from here, filtered ... 
+
 ```
 <video controls preload="metadata" itemprop="location" itemscope itemtype="https://schema.org/Place" poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005597/EIC_PalisadesEaton_Wildfire_preview.png" >
   
@@ -28,8 +29,8 @@ video is loading slow from here, filtered ...
   <a href="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005597/EIC_PalisadesEaton_Wildfire_7680x2160.mp4">MP4</a>
   video.
 </video>
-
 ```
+
 <div itemscope itemtype="https://schema.org/VideoObject" itemid="https://svs.gsfc.nasa.gov/5597/">
 <h3><span itemprop="name">Los Angeles Palisades and Eaton Wildfires: 2025 Year in Review</span></h3>
     <div>Visualizations by: <span itemprop="author" itemscope itemtype="https://schema.org/Person" itemid="http://viaf.org/viaf/17823">
