@@ -5,6 +5,10 @@ layout: default
 {% include nav.html %}
 
 
+Regular City Council - 1/9/26 @CityOfLosAngeles @la-county-isd
+[Watch](https://youtu.be/ka4mEHoNTKw) 
+<img  alt="image" src="https://github.com/user-attachments/assets/6612021a-57a6-4374-9125-9ae82091dd61" />
+
 
 # [Mars](https://youtu.be/SKlbDtWYHJk) Exploration Program
 NASA's Mars Exploration Program includes current missions Odyssey, MRO, Mars Express, MSL, InSight, and Mars 2020 [READMORE](https://pds-geosciences.wustl.edu/missions/mep/index.htm)
