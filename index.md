@@ -13,8 +13,7 @@ other ppl feeds
 [
 
 [NASA SpaceX Crew-11 Medical Evacuation Mission  Hatch Close  LIVE](https://www.youtube.com/watch?v=mUvGkfu57as) 
-@blackgirlscode virtiserv [gasbuddylatrice](https://www.facebook.com/thevirtiservway/)
-
+@blackgirlscode virtiserv [gasbuddylatrice](https://www.facebook.com/thevirtiservway/) question [Real Gun or Just a Lighter](https://youtube.com/shorts/rCdm9DHngc4?si=T8qhziMTLT_nLZtv)?
 <img  alt="image" src="https://github.com/user-attachments/assets/4ed1a1dc-e1ae-4004-bdd1-20b4bed0702c" />
 
  
