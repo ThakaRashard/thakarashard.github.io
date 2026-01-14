@@ -3,6 +3,20 @@ layout: default
 ---
 
 {% include nav.html %}
+
+# NASA’s SpaceX Crew-11 Re-Entry and Splashdown
+[Watch](https://plus.nasa.gov/scheduled-video/nasas-spacex-crew-11-re-entry-and-splashdown/) 
+Coverage of the Deorbit and Splashdown of the NASA/SpaceX Crew-11 Dragon Endeavour (Splashdown scheduled at 3:40 a.m. EST). ::  TODAY 4:45 PM NASA’s SpaceX Crew-11 Undocking [WATCH](https://plus.nasa.gov/scheduled-video/nasas-spacex-crew-11-undocking/) :: @spaceexplorationtechnologies @r-spacex  :: TODAY 2:00 PM
+NASA’s SpaceX Crew-11 Hatch Close [Watch](https://plus.nasa.gov/scheduled-video/nasas-spacex-crew-11-hatch-close/)
+
+other ppl feeds
+[
+
+[NASA SpaceX Crew-11 Medical Evacuation Mission  Hatch Close  LIVE](https://www.youtube.com/watch?v=mUvGkfu57as) 
+@blackgirlscode virtiserv [gasbuddylatrice](https://www.facebook.com/thevirtiservway/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4ed1a1dc-e1ae-4004-bdd1-20b4bed0702c" />
+
  
 [Chief](https://www.santamonica.gov/) [Darrick Jacob](https://www.santamonica.gov/profiles/darrick-jacob) Swearing-in Ceremony [[1](https://www.tumblr.com/rashardmro/805741565299621888/apod-2026-january-13-a-solar-eruption-from)] [[2](https://podcasts.apple.com/us/podcast/santa-monicas-new-chief-darrick-jacob/id1849575550?i=1000742500498&l=es-MX)  [[3](https://www.smdp.com/darrick-jacob-appointed-as-santa-monica-chief-of-police/)  @blackgirlscode @la-county-isd @nasa-pds @nasa-jpl @nasa-openscapes [WATCH on @youtube](https://youtu.be/FY4-ZIo8aIQ) @whitehouse @dhs-gov ::: @CityOfLosAngeles i was dating Normani straight up [Adult Film Shot At Santa Monica Public Library ](https://youtu.be/uOq9PHp7MTo) and i saw her with certain people and wanna clear the record! @nasa-pds @emit-sds @nasa-openscapes @whitehouse @dhs-gov [NASA ARSET: Observations for Monitoring Global Terrestrial Surface Water, Part 1/2](https://youtu.be/9pjNfRAz7TA) : [NASA ARSET: Introduction to Animal Tracking and Remote Sensing at NASA, Part 1/2](https://youtu.be/M4oTCKS5mWg)
 
