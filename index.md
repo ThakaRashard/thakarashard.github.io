@@ -3,6 +3,12 @@ layout: default
 ---
 
 {% include nav.html %}
+ 
+[Chief](https://www.santamonica.gov/) [Darrick Jacob](https://www.santamonica.gov/profiles/darrick-jacob) Swearing-in Ceremony [[1](https://www.tumblr.com/rashardmro/805741565299621888/apod-2026-january-13-a-solar-eruption-from)] [[2](https://podcasts.apple.com/us/podcast/santa-monicas-new-chief-darrick-jacob/id1849575550?i=1000742500498&l=es-MX)  [[3](https://www.smdp.com/darrick-jacob-appointed-as-santa-monica-chief-of-police/)  @blackgirlscode @la-county-isd @nasa-pds @nasa-jpl @nasa-openscapes
+
+ <img   alt="image" src="https://github.com/user-attachments/assets/ddd2940c-1dc2-4ba1-9ba3-98056274e901" />
+ <img  alt="image" src="https://github.com/user-attachments/assets/cc3f6e19-7f6f-4ef2-8faf-ab647e50d5a4" />
+
 
 @blackgirlscode GM if any of you are doing hours for community service the cassini site has data flow issues. I think its me. I was looking to animate an image of the week. Its usually a great shot and the user is already working the issue and i need to get some files in... But they are missing \\ @nasa-pds @nasa-jpl im seeking august13 2013 - aug21 for a transition of the sun shining through the rings @nasa @TheSpaceDevs @BlueOrigin @cityoflosangeles @stateofcalifornia @LA-County-iSd 
 
