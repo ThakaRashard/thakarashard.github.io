@@ -4,8 +4,7 @@ layout: default
 
 {% include nav.html %}
  
-[Chief](https://www.santamonica.gov/) [Darrick Jacob](https://www.santamonica.gov/profiles/darrick-jacob) Swearing-in Ceremony [[1](https://www.tumblr.com/rashardmro/805741565299621888/apod-2026-january-13-a-solar-eruption-from)] [[2](https://podcasts.apple.com/us/podcast/santa-monicas-new-chief-darrick-jacob/id1849575550?i=1000742500498&l=es-MX)  [[3](https://www.smdp.com/darrick-jacob-appointed-as-santa-monica-chief-of-police/)  @blackgirlscode @la-county-isd @nasa-pds @nasa-jpl @nasa-openscapes [WATCH on @youtube](https://youtu.be/FY4-ZIo8aIQ) @whitehouse @dhs-gov ::: @CityOfLosAngeles i was dating Normani straight up [
-Adult Film Shot At Santa Monica Public Library ](https://youtu.be/uOq9PHp7MTo) and i saw her with certain people and wanna clear the record! @nasa-pds @emit-sds @nasa-openscapes @whitehouse @dhs-gov 
+[Chief](https://www.santamonica.gov/) [Darrick Jacob](https://www.santamonica.gov/profiles/darrick-jacob) Swearing-in Ceremony [[1](https://www.tumblr.com/rashardmro/805741565299621888/apod-2026-january-13-a-solar-eruption-from)] [[2](https://podcasts.apple.com/us/podcast/santa-monicas-new-chief-darrick-jacob/id1849575550?i=1000742500498&l=es-MX)  [[3](https://www.smdp.com/darrick-jacob-appointed-as-santa-monica-chief-of-police/)  @blackgirlscode @la-county-isd @nasa-pds @nasa-jpl @nasa-openscapes [WATCH on @youtube](https://youtu.be/FY4-ZIo8aIQ) @whitehouse @dhs-gov ::: @CityOfLosAngeles i was dating Normani straight up [Adult Film Shot At Santa Monica Public Library ](https://youtu.be/uOq9PHp7MTo) and i saw her with certain people and wanna clear the record! @nasa-pds @emit-sds @nasa-openscapes @whitehouse @dhs-gov [NASA ARSET: Observations for Monitoring Global Terrestrial Surface Water, Part 1/2](https://youtu.be/9pjNfRAz7TA)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/78748364-41eb-45c9-b6b7-684e08f8cf0b" />
 
