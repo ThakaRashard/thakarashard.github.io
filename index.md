@@ -6,7 +6,7 @@ layout: default
 
 
 
-@nasa-jpl @nasa @emit-sds the space capsule is supposed to land in [SanDiego](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-117.22,32.66,10.94z) @UCSD [FOX 5 San Diego](https://www.youtube.com/@fox5sd) @nasa @podaac @la-county-isd @cityoflosangles @cityofsandiego @whitehouse @usnavy @blackgirlscode @howard-university-web-services [VirtiServBaE](https://www.facebook.com/thevirtiservway/)
+@nasa-jpl @nasa @emit-sds the space capsule is supposed to land in [SanDiego](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-117.22,32.66,10.94z) @UCSD [FOX 5 San Diego](https://www.youtube.com/@fox5sd) @nasa @podaac @la-county-isd @cityoflosangeles @cityofsandiego @whitehouse @usnavy @blackgirlscode @howard-university-web-services [VirtiServBaE](https://www.facebook.com/thevirtiservway/) @StateOfCalifornia
 # NASA’s SpaceX Crew-11 Re-Entry and Splashdown
 [Watch](https://plus.nasa.gov/scheduled-video/nasas-spacex-crew-11-re-entry-and-splashdown/) 
 Coverage of the Deorbit and Splashdown of the NASA/SpaceX Crew-11 Dragon Endeavour (Splashdown scheduled at 3:40 a.m. EST). ::  TODAY 4:45 PM NASA’s SpaceX Crew-11 Undocking [WATCH](https://plus.nasa.gov/scheduled-video/nasas-spacex-crew-11-undocking/) :: @spaceexplorationtechnologies @r-spacex  :: TODAY 2:00 PM
