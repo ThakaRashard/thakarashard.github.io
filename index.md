@@ -4,6 +4,40 @@ layout: default
 
 {% include nav.html %}
 
+# LAnding Prep
+<img  alt="image" src="https://github.com/user-attachments/assets/926ab3f9-5d09-482d-9bb7-7db4c949d133" />
+
+@nasa-develop `space capsule landing`
+[Crew-11 set for undocking and splashdown after medical situation forces early return - nasaspaceflight.com](https://www.nasaspaceflight.com/2026/01/crew-11-return/)
+[Archive](https://archive.org/details/g-18-fd-dmw-24fr-20260113-1807) : [Files](https://archive.org/download/g-18-fd-dmw-24fr-20260113-1807) : [Tumblr](https://rashardmro.tumblr.com/post/805760445597335552/crew-11-landing-san-diego-as-of-322pm-pst) @TheSpaceDevs Crew 11 LANDiNG SAN DiEGO as of 3:22pm PST [Ecostress](https://ecostress.jpl.nasa.gov/gallerylist) files on this [page - 2026/01/13/iss_research.html](https://holetoanotheruniverse40.github.io/2026/01/13/iss_research.html) / [folder](https://github.com/ThakaRashard/rashardmro/tree/master/assets/images/gallery-sdlandingprepcrew10) @nasa-jpl @emit-sds @blackgirlscode @la-county-isd @CityOfLosAngeles 
+
+<img alt="image" src="https://github.com/user-attachments/assets/7eb35d12-3558-4c58-b104-b2175a5353cd" />
+
+
+@nasa-jpl @nasa @emit-sds the space capsule is supposed to land in [SanDiego](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-117.22,32.66,10.94z) @UCSD [FOX 5 San Diego](https://www.youtube.com/@fox5sd) @nasa @podaac @la-county-isd @cityoflosangeles @cityofsandiego @whitehouse @usnavy @blackgirlscode @howard-university-web-services [VirtiServBaE](https://www.facebook.com/thevirtiservway/) @StateOfCalifornia
+# NASA’s SpaceX Crew-11 Re-Entry and Splashdown
+[Watch](https://plus.nasa.gov/scheduled-video/nasas-spacex-crew-11-re-entry-and-splashdown/) 
+Coverage of the Deorbit and Splashdown of the NASA/SpaceX Crew-11 Dragon Endeavour (Splashdown scheduled at 3:40 a.m. EST). ::  TODAY 4:45 PM NASA’s SpaceX Crew-11 Undocking [WATCH](https://plus.nasa.gov/scheduled-video/nasas-spacex-crew-11-undocking/) :: @spaceexplorationtechnologies @r-spacex  :: TODAY 2:00 PM
+NASA’s SpaceX Crew-11 Hatch Close [Watch](https://plus.nasa.gov/scheduled-video/nasas-spacex-crew-11-hatch-close/)
+
+other ppl feeds
+[
+
+[NASA SpaceX Crew-11 Medical Evacuation Mission  Hatch Close  LIVE](https://www.youtube.com/watch?v=mUvGkfu57as) 
+@blackgirlscode virtiserv [gasbuddylatrice](https://www.facebook.com/thevirtiservway/) question [Real Gun or Just a Lighter](https://youtube.com/shorts/rCdm9DHngc4?si=T8qhziMTLT_nLZtv)?
+<img  alt="image" src="https://github.com/user-attachments/assets/4ed1a1dc-e1ae-4004-bdd1-20b4bed0702c" />
+
+<img  alt="2026-01-12-00_00_2026-01-12-23_59_Sentinel-2_L2A_True_color" src="https://github.com/user-attachments/assets/928986a3-4ff6-491c-ba21-c97e9358dc23" />
+
+ 
+[Chief](https://www.santamonica.gov/) [Darrick Jacob](https://www.santamonica.gov/profiles/darrick-jacob) Swearing-in Ceremony [[1](https://www.tumblr.com/rashardmro/805741565299621888/apod-2026-january-13-a-solar-eruption-from)] [[2](https://podcasts.apple.com/us/podcast/santa-monicas-new-chief-darrick-jacob/id1849575550?i=1000742500498&l=es-MX)  [[3](https://www.smdp.com/darrick-jacob-appointed-as-santa-monica-chief-of-police/)  @blackgirlscode @la-county-isd @nasa-pds @nasa-jpl @nasa-openscapes [WATCH on @youtube](https://youtu.be/FY4-ZIo8aIQ) @whitehouse @dhs-gov ::: @CityOfLosAngeles i was dating Normani straight up [Adult Film Shot At Santa Monica Public Library ](https://youtu.be/uOq9PHp7MTo) and i saw her with certain people and wanna clear the record! @nasa-pds @emit-sds @nasa-openscapes @whitehouse @dhs-gov [NASA ARSET: Observations for Monitoring Global Terrestrial Surface Water, Part 1/2](https://youtu.be/9pjNfRAz7TA) : [NASA ARSET: Introduction to Animal Tracking and Remote Sensing at NASA, Part 1/2](https://youtu.be/M4oTCKS5mWg)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/78748364-41eb-45c9-b6b7-684e08f8cf0b" />
+
+
+ <img   alt="image" src="https://github.com/user-attachments/assets/ddd2940c-1dc2-4ba1-9ba3-98056274e901" />
+ <img  alt="image" src="https://github.com/user-attachments/assets/cc3f6e19-7f6f-4ef2-8faf-ab647e50d5a4" />
+
 
 [holetoanotheruniverse40.github.io/](https://holetoanotheruniverse40.github.io/) @nasa-pds @emit-sds im putting my [LAndingWeather](https://www.nasa.gov/blogs/commercialcrew/2026/01/13/nasas-spacex-crew-11-go-for-undocking-on-wednesday/) [[1](https://www.space.com/space-exploration/international-space-station/what-time-is-spacex-crew-11s-medical-evacuation-from-the-iss-on-jan-14)] [[2](https://www.nasa.gov/news-release/nasa-spacex-invite-media-to-watch-crew-12-launch-to-space-station/)] [[3](https://www.facebook.com/SpaceXFP/posts/the-crew-11-astronauts-are-suiting-up-for-their-undocking-on-january-14th-and-th/922737806940943/)] on this page [/2026/01/13/iss_research.html](https://holetoanotheruniverse40.github.io/2026/01/13/iss_research.html) @Blackgirlscode @BlueOrigin @la-county-isd @cityoflosangeles @stateofcalifornia 
 
