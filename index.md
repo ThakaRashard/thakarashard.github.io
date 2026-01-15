@@ -10,7 +10,7 @@ layout: default
 
 # San Diego
 
-"Dragon [SpaceX](https://www.facebook.com/ISS/videos/a-mission-to-inspire-may-30-2025/1683840579191525/) is no longer [privatized](https://www.nasa.gov/humans-in-space/commercial-space/commercial-crew-program/commercial-crew-program-essentials/)" - @nsa @r-spacex announcer @blackgirlscode @cityoflosangeles @la-county-isd @Stateofcalifornia @axiomhq @TheSpaceDevs @BlueOrigin @rocketlab
+"Dragon [SpaceX](https://www.facebook.com/ISS/videos/a-mission-to-inspire-may-30-2025/1683840579191525/) is no longer [privatized](https://www.nasa.gov/humans-in-space/commercial-space/commercial-crew-program/commercial-crew-program-essentials/)" - @nasa @r-spacex announcer @blackgirlscode @cityoflosangeles @la-county-isd @Stateofcalifornia @axiomhq @whitehouse @TheSpaceDevs @BlueOrigin @rocketlab
 
 # LAnded!
 ### [NASA’s SpaceX Crew-11 Mission Returns, Splashes Down off California](https://www.nasa.gov/news-release/nasas-spacex-crew-11-mission-returns-splashes-down-off-california/)
