@@ -5,6 +5,10 @@ layout: default
 {% include nav.html %}
 
 
+[Archive](https://archive.org/details/g-18-fd-dmw-24fr-20260113-1807) : [Files](https://archive.org/download/g-18-fd-dmw-24fr-20260113-1807) : [Tumblr](https://rashardmro.tumblr.com/post/805760445597335552/crew-11-landing-san-diego-as-of-322pm-pst) @TheSpaceDevs Crew 11 LANDiNG SAN DiEGO as of 3:22pm PST [Ecostress]() files on this [page - 2026/01/13/iss_research.html](https://holetoanotheruniverse40.github.io/2026/01/13/iss_research.html) / [folder](https://github.com/ThakaRashard/rashardmro/tree/master/assets/images/gallery-sdlandingprepcrew10) @nasa-jpl @emit-sds @blackgirlscode @la-county-isd @CityOfLosAngeles 
+
+<img alt="image" src="https://github.com/user-attachments/assets/7eb35d12-3558-4c58-b104-b2175a5353cd" />
+
 
 @nasa-jpl @nasa @emit-sds the space capsule is supposed to land in [SanDiego](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-117.22,32.66,10.94z) @UCSD [FOX 5 San Diego](https://www.youtube.com/@fox5sd) @nasa @podaac @la-county-isd @cityoflosangeles @cityofsandiego @whitehouse @usnavy @blackgirlscode @howard-university-web-services [VirtiServBaE](https://www.facebook.com/thevirtiservway/) @StateOfCalifornia
 # NASA’s SpaceX Crew-11 Re-Entry and Splashdown
