@@ -4,6 +4,16 @@ layout: default
 
 {% include nav.html %}
 
+
+
+# LAnded!
+
+[NASA Crew-11 Splashdown LIVE SpaceX Dragon Returns Astronauts to Earth  NASA LIVE | N18L - Watch](https://youtu.be/d8YAoVRNHD4) @cnn @nasa @spaceexplorationtechnologies @r-spacex [NASA Data Helps Maine Oyster Farmers Choose Where to Grow](https://science.nasa.gov/earth/nasa-data-helps-maine-oyster-farmers-choose-where-to-grow/) @newshour [After a medical evacuation from space, NASA's Crew-11 returns to Earth a month early - @npr](https://www.npr.org/2026/01/15/nx-s1-5677647/nasa-spacex-crew-11-splashdown-return) [SPACE.COM SpaceX Crew-11 astronauts return to Earth after 1st-ever medical evacuation of ISS](https://www.space.com/space-exploration/international-space-station/spacex-crew-11-astronauts-return-to-earth-after-1st-ever-medical-evacuation-of-iss) [NBC - NASA Crew-11 splashes down after returning to Earth](http://nbcnews.com/video/shorts/nasa-crew-11-splashes-down-after-returning-to-earth-256011845777) @airbus #gmNormaniLatriceBrandyErikACoraL
+
+<img alt="image" src="https://github.com/user-attachments/assets/9fd3cc18-1114-4c95-b301-015c3548bfd0" />
+<img alt="image" src="https://github.com/user-attachments/assets/e2ef7080-a5d6-4be1-835e-7660e54f29e3" />
+<img  alt="image" src="https://github.com/user-attachments/assets/23391d59-f702-4d0f-8309-392c7118e1d0" />
+
 # LAnding Prep
 <img  alt="image" src="https://github.com/user-attachments/assets/926ab3f9-5d09-482d-9bb7-7db4c949d133" />
 
