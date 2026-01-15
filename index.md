@@ -4,7 +4,24 @@ layout: default
 
 {% include nav.html %}
 
+# 
+Upcoming Webinar: NASA CSDA Program Vendor Focus - [Tomorrow.io](https://www.tomorrow.io/)
+[Link](https://www.earthdata.nasa.gov/news/upcoming-webinar-nasa-csda-program-vendor-focus-tomorrow.io)
+ +++ [News](https://www.earthdata.nasa.gov/news) @la-county-isd @cityofsandiego
+@nasa-jpl @emit-sds @nasa class matreials not linked `On Jan. 21, 2026, at 2:00 p.m. ET, Tomorrow.io`
 
+```
+### Source @nasa https://www.earthdata.nasa.gov/news/upcoming-webinar-nasa-csda-program-vendor-focus-tomorrow.io
+### URL @webex https://nasaevents.webex.com/webappng/sites/nasaevents/errorpage/404 @nasa
+We can't find the page you're looking for.
+Double-check the link and try again.
+Error ID: 404
+```
+<img   alt="image" src="https://github.com/user-attachments/assets/4d438999-cf5a-4508-bc4f-81b975ff325e" />
+
+[Upcoming Webinar: An Overview of the National Civil Applications Center](https://www.earthdata.nasa.gov/news/upcoming-webinar-overview-national-civil-applications-center) @blackgirlscode @nasa-jpl Join CSDA on Jan. 14, 2026, to learn how the National Civil Applications Center (NCAC) and the Civil Applications Committee (CAC) can support research and disaster applications.
+
+![civil](https://earthdata.nasa.gov/s3fs-public/2025-12/CSDA_NCAC_Banner.png)
 
 ## SpaceWeather 4 [Splashdown](https://www.youtube.com/live/EqT3nDbwETc?si=3lNL5Pg-p3JSSE1G)
 
