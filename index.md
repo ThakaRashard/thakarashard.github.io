@@ -7,7 +7,7 @@ layout: default
 
 # DefiningThug
 Latrice, I hope you understand that your image of thuggery does not include striptease... I dont think these guys ever promoted that pasttime even if they have been. And All #BlackHeteromen have had at least one significant other kidnapped in thier life by the time they have a child in middle school... In other words, I know how some of the other girls critisized me about working. Erika was a huge critic! But from your perspective you go out and about in your Ohio Neighborhood and you are judign time spent outside and how pleasant your interactions are with their dependents so your definition might stick if you take me to meet them with your mom
-[on @Tumblr](https://www.tumblr.com/santamonicashaadi/805848391743569920/definingthug) // [Red Hat interactive labs](https://www.redhat.com/en/interactive-labs) @blackgirlscode significant other u can use mine if you can get to my facebook with kashdoll on it  @howard-university-web-services
+[on @Tumblr](https://www.tumblr.com/santamonicashaadi/805848391743569920/definingthug) // [Red Hat interactive labs](https://www.redhat.com/en/interactive-labs) @blackgirlscode significant other u can use mine if you can get to my facebook with kashdoll on it  @howard-university-web-services // @redhatofficial hi CB2 i hope you not judging me, your son wearing earrings with blackgirls... at least that mean he not as violent ... but i bet you wont step to me so strong next time - [rashard](https://www.tumblr.com/santamonicashaadi)
 [Watch - Bone Thug$ in HArmony - 1st of the Month `radio`](https://youtu.be/PArF9k2SbQk)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/9b111876-d2ce-4336-9f24-8bc863ad3eee" />
