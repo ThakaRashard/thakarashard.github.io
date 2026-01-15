@@ -6,16 +6,26 @@ layout: default
 
 
 
-# LAnded!
+## SpaceWeather 4 [Splashdown](https://www.youtube.com/live/EqT3nDbwETc?si=3lNL5Pg-p3JSSE1G)
 
-[NASA Crew-11 Splashdown LIVE SpaceX Dragon Returns Astronauts to Earth  NASA LIVE | N18L - Watch](https://youtu.be/d8YAoVRNHD4) @cnn @nasa @spaceexplorationtechnologies @r-spacex [NASA Data Helps Maine Oyster Farmers Choose Where to Grow](https://science.nasa.gov/earth/nasa-data-helps-maine-oyster-farmers-choose-where-to-grow/) @newshour [After a medical evacuation from space, NASA's Crew-11 returns to Earth a month early - @npr](https://www.npr.org/2026/01/15/nx-s1-5677647/nasa-spacex-crew-11-splashdown-return) [SPACE.COM SpaceX Crew-11 astronauts return to Earth after 1st-ever medical evacuation of ISS](https://www.space.com/space-exploration/international-space-station/spacex-crew-11-astronauts-return-to-earth-after-1st-ever-medical-evacuation-of-iss) [NBC - NASA Crew-11 splashes down after returning to Earth](http://nbcnews.com/video/shorts/nasa-crew-11-splashes-down-after-returning-to-earth-256011845777) @airbus #gmNormaniLatriceBrandyErikACoraL [NASA's SpaceX Crew-11 Re-Entry and Splashdown @NAsa @usnavy](https://youtu.be/qRVoblm2Nxw?t=5959)
+# San Diego
+
+"Dragon [SpaceX](https://www.facebook.com/ISS/videos/a-mission-to-inspire-may-30-2025/1683840579191525/) is no longer [privatized](https://www.nasa.gov/humans-in-space/commercial-space/commercial-crew-program/commercial-crew-program-essentials/)" - @nsa @r-spacex announcer @blackgirlscode @cityoflosangeles @la-county-isd @Stateofcalifornia @axiomhq @TheSpaceDevs @BlueOrigin @rocketlab
+
+# LAnded!
+### [NASA’s SpaceX Crew-11 Mission Returns, Splashes Down off California](https://www.nasa.gov/news-release/nasas-spacex-crew-11-mission-returns-splashes-down-off-california/)
+@sdsc @cityofsandiego @UCSD 
+
+<img alt="image" src="https://github.com/user-attachments/assets/5391e2b8-36e0-49fe-9d93-61d2a44120e4" />
+
+[NASA's SpaceX Crew-11 Re-Entry and Splashdown @NAsa @usnavy](https://youtu.be/qRVoblm2Nxw?t=5959) @blackgirlscode @la-county-isd
+[NASA Crew-11 Splashdown LIVE SpaceX Dragon Returns Astronauts to Earth  NASA LIVE | N18L - Watch](https://youtu.be/d8YAoVRNHD4) @cnn @nasa @spaceexplorationtechnologies @r-spacex [NASA Data Helps Maine Oyster Farmers Choose Where to Grow](https://science.nasa.gov/earth/nasa-data-helps-maine-oyster-farmers-choose-where-to-grow/) @newshour [After a medical evacuation from space, NASA's Crew-11 returns to Earth a month early - @npr](https://www.npr.org/2026/01/15/nx-s1-5677647/nasa-spacex-crew-11-splashdown-return) [SPACE.COM SpaceX Crew-11 astronauts return to Earth after 1st-ever medical evacuation of ISS](https://www.space.com/space-exploration/international-space-station/spacex-crew-11-astronauts-return-to-earth-after-1st-ever-medical-evacuation-of-iss) [NBC - NASA Crew-11 splashes down after returning to Earth](http://nbcnews.com/video/shorts/nasa-crew-11-splashes-down-after-returning-to-earth-256011845777) @airbus #gmNormaniLatriceBrandyErikACoraL 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/ab631d0c-22d3-46c2-a037-e7a1feba4a22" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/9fd3cc18-1114-4c95-b301-015c3548bfd0" />
 <img alt="image" src="https://github.com/user-attachments/assets/e2ef7080-a5d6-4be1-835e-7660e54f29e3" />
-<img  alt="image" src="https://github.com/user-attachments/assets/23391d59-f702-4d0f-8309-392c7118e1d0" />
-
+<img  alt="image" src="https://github.com/user-attachments/assets/23391d59-f702-4d0f-8309-392c7118e1d0" 
 # LAnding Prep
 <img  alt="image" src="https://github.com/user-attachments/assets/926ab3f9-5d09-482d-9bb7-7db4c949d133" />
 
