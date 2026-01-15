@@ -5,9 +5,11 @@ layout: default
 {% include nav.html %}
 
 # LAnding Prep
+<img  alt="image" src="https://github.com/user-attachments/assets/926ab3f9-5d09-482d-9bb7-7db4c949d133" />
+
 @nasa-develop `space capsule landing`
 [Crew-11 set for undocking and splashdown after medical situation forces early return - nasaspaceflight.com](https://www.nasaspaceflight.com/2026/01/crew-11-return/)
-[Archive](https://archive.org/details/g-18-fd-dmw-24fr-20260113-1807) : [Files](https://archive.org/download/g-18-fd-dmw-24fr-20260113-1807) : [Tumblr](https://rashardmro.tumblr.com/post/805760445597335552/crew-11-landing-san-diego-as-of-322pm-pst) @TheSpaceDevs Crew 11 LANDiNG SAN DiEGO as of 3:22pm PST [Ecostress]() files on this [page - 2026/01/13/iss_research.html](https://holetoanotheruniverse40.github.io/2026/01/13/iss_research.html) / [folder](https://github.com/ThakaRashard/rashardmro/tree/master/assets/images/gallery-sdlandingprepcrew10) @nasa-jpl @emit-sds @blackgirlscode @la-county-isd @CityOfLosAngeles 
+[Archive](https://archive.org/details/g-18-fd-dmw-24fr-20260113-1807) : [Files](https://archive.org/download/g-18-fd-dmw-24fr-20260113-1807) : [Tumblr](https://rashardmro.tumblr.com/post/805760445597335552/crew-11-landing-san-diego-as-of-322pm-pst) @TheSpaceDevs Crew 11 LANDiNG SAN DiEGO as of 3:22pm PST [Ecostress](https://ecostress.jpl.nasa.gov/gallerylist) files on this [page - 2026/01/13/iss_research.html](https://holetoanotheruniverse40.github.io/2026/01/13/iss_research.html) / [folder](https://github.com/ThakaRashard/rashardmro/tree/master/assets/images/gallery-sdlandingprepcrew10) @nasa-jpl @emit-sds @blackgirlscode @la-county-isd @CityOfLosAngeles 
 
 <img alt="image" src="https://github.com/user-attachments/assets/7eb35d12-3558-4c58-b104-b2175a5353cd" />
 
