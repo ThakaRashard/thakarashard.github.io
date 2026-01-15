@@ -8,7 +8,7 @@ layout: default
 Upcoming Webinar: NASA CSDA Program Vendor Focus - [Tomorrow.io](https://www.tomorrow.io/)
 [Link](https://www.earthdata.nasa.gov/news/upcoming-webinar-nasa-csda-program-vendor-focus-tomorrow.io)
  +++ [News](https://www.earthdata.nasa.gov/news) @la-county-isd @cityofsandiego
-@nasa-jpl @emit-sds @nasa class matreials not linked
+@nasa-jpl @emit-sds @nasa class matreials not linked `On Jan. 21, 2026, at 2:00 p.m. ET, Tomorrow.io`
 
 ```
 ### Source @nasa https://www.earthdata.nasa.gov/news/upcoming-webinar-nasa-csda-program-vendor-focus-tomorrow.io
