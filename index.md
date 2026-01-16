@@ -1,9 +1,28 @@
 ---
 layout: default
+title:  "ShaadiThakaRashardiMAn"
+date:   2026-01-16 12:51:06 -0800
+categories: FP
+published: true
 ---
 
+
+<div class="box">
+ 
+{% assign posts = site.posts | where_exp: "post", "post.categories contains 'FP'" %}
+{% for post in posts %}
+  <li>{{ post.title }}</li>
+{% endfor %}
+
+ </div>
 {% include nav.html %}
 
+
+
+
+[NASA76 - BiCENTENNiALREPORT @nasa - PDF](https://spinoff.nasa.gov/back_issues_archives/1976.pdf)
+
+<img alt="image" src="https://github.com/user-attachments/assets/ea909063-7d37-40d4-accc-60ac8db12d22" />
 
 # DefiningThug
 Latrice, I hope you understand that your image of thuggery does not include striptease... I dont think these guys ever promoted that pasttime even if they have been. And All #BlackHeteromen have had at least one significant other kidnapped in thier life by the time they have a child in middle school... In other words, I know how some of the other girls critisized me about working. Erika was a huge critic! But from your perspective you go out and about in your Ohio Neighborhood and you are judign time spent outside and how pleasant your interactions are with their dependents so your definition might stick if you take me to meet them with your mom
