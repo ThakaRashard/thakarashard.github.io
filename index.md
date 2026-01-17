@@ -7,16 +7,8 @@ published: true
 
 {% include nav.html %}
 
- <div class="box">
 
-  {% for post in site.posts %}
-      {% if post.categories contains 'FP' %}
-   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
-  
-     
-  {% endfor %}
-   
- </div> 
+
 
 On Friday, January 16th, 2026 at 2:37 PM, rashardsdata@proton.me <rashardsdata@proton.me> wrote:
 
