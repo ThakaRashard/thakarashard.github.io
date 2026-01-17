@@ -2,10 +2,10 @@
 layout: default
 title:  "ShaadiThakaRashardiMAn"
 date:   2026-01-16 12:51:06 -0800
-categories: FP
 published: true
 ---
 
+{% include nav.html %}
 
 <div class="box">
  
@@ -15,7 +15,8 @@ published: true
 {% endfor %}
 
  </div>
-{% include nav.html %}
+ 
+
 
 
 
