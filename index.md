@@ -7,18 +7,24 @@ published: true
 
 {% include nav.html %}
 
+ 
 <div class="box">
  
-{% assign posts = site.posts | where_exp: "post", "post.categories contains 'FP'" %}
-{% for post in posts %}
-  <li>{{ post.title }}</li>
+{% for post in site.posts %}
+  {% if post.categories contains 'FP' %}
+
+<article itemprop="blogPosts" itemscope itemtype="https://schema.org/BlogPosting" >
+  <a href="{{ site.github.url }}{{ post.url }}">
+
+  <h4 itemprop="headline"><span>{{ post.title }}</span></h4>
+
+  </a>
+</article>
+
+  {% endif %}
 {% endfor %}
 
- </div>
- 
-
-
-
+</div>
 
 
 [NASA76 - BiCENTENNiALREPORT @nasa - PDF](https://spinoff.nasa.gov/back_issues_archives/1976.pdf)
@@ -26,6 +32,27 @@ published: true
 <img alt="image" src="https://github.com/user-attachments/assets/ea909063-7d37-40d4-accc-60ac8db12d22" />
 
 
+@CityOfLosAngeles @nasa-JPL Kathey BerGer Hilda Solis Karen Bass Holly Mitchell @StateOfCalifornia 
+#Eaton Canyon Land Disturbance [Link](https://worldview.earthdata.nasa.gov/?v=-118.20436944101876,34.13065807907277,-118.00969403326864,34.2401629959322&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m(opacity=0.67),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=0),HLS_L30_Nadir_BRDF_Adjusted_Reflectance,HLS_S30_Nadir_BRDF_Adjusted_Reflectance(hidden),Land_Water_Map(hidden)&lg=true&s=-119.6983,34.4209&t=2025-12-28-T05%3A00%3A00Z) 
+links [palisadesFirefootprint](https://rashardmro.tumblr.com/post/804135232008765440/mc-hotlinks-nasa-jpl-usgs-waterdashboard-usgs)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fd0aee8c-969e-456e-9dc3-ff462ec82b17" />
+
+@blackgirlscode @cityoflosangeles
+<img  alt="image" src="https://github.com/user-attachments/assets/362c363d-bd86-4551-931e-9783e693e3c2" />
+
+### Rushing river
+ [NBC News 8hrs of coverage of rushing river - watch](https://www.youtube.com/watch?v=e6Dbq7pN4wc) [Thermal](https://firms.modaps.eosdis.nasa.gov/map/?utm_source=homescreen#d:24hrs;@-106.0,25.4,4.1z)
+
+The rain let up around 2am downtown. Riding into longbeach there was a thick low fyling cloud that gave us a foggy ride in. The ComptonCreek is [now muddy](https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000000_oORivercheKs_rashard_NASAJPL_virtiserV_hi_latrice_VID_20251226_101930_625.mp4) and the Los Angeles River is about [two feet lower](https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000000_oORivercheKsWaterReport_rashard_NASAJPL_virtiserV_hi_latricE_waterLevelsdown2feet_VID_20251227_090736_106.mp4) and the water is flowing slower . . . @SWOT-community hi I have to keep up with the river because @LACMTA sometimes has water on the tracks and M_R_O assigned me to the [NasaFireDept](https://www-robotics.jpl.nasa.gov/how-we-do-it/facilities/marsyard-iii/), and gave me a [NasaEarthdataLogin](https://www.earthdata.nasa.gov/data/catalog) and guidance to explore [FireSensingTech](https://firms.modaps.eosdis.nasa.gov/active_fire/) and this year i made great contributions to The Local Newspapers with forensic data for [housing the homeless](https://www.lahsa.org/) in safe habitats and [diagnosing brush fire](https://youtu.be/ROlKx7PG6sY?si=1PmxOPhKyG7nL31b)
+files: [ComtonCreek 12/27](https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000000_oORivercheKs_rashard_NASAJPL_virtiserV_hi_latrice_VID_20251226_101930_625.mp4) ;  [LosAngelesRiver 12/27](https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000000_oORivercheKsWaterReport_rashard_NASAJPL_virtiserV_hi_latricE_waterLevelsdown2feet_VID_20251227_090736_106.mp4)  -rashard @nasa-jpl @weather-gov @cityoflosangeles @la-county-isd @blackgirlscode i sent [normani](https://www.eonline.com/news/1425545/jordan-chiles-normanis-dancing-with-the-stars-finale-dance-explained) a letter [on @tumblr](https://www.tumblr.com/santamonicashaadi/804112033340637184/wefunk-radio-stream?source=share) ... @howard-university-web-services I hope im not bugging you, she is a girl, latrice that is and everything will stop the bugabooing and everything. some girl from her pretty girl tribe got kidnapped in atlanta an they playing some sort of evil board game to get her back and some ppl identity clear for some people that no one can find 
+... I recently forked @meta [facebookresearch/EgoBlur](https://github.com/ThakaRashard/EgoBlur_Rashard), I have to look at the deeper software to figure out how ppl thinking on Facebook, any platoform that is, but this really caught my attention 
+```
+ThisRepositoryContains a command-line interface(CLI) that can detect and blur out faces and license plates(PII) from images and videos. The CLI takes an image or video file as input, runs an anonymization algorithm on it, and writes the blurred output to a specified path. @nasa-jpl @blackGirlsCode im scared of this one so im forking it! @NASA-PDS
+```
+
+anyway looking at @usgs [WaterDashBoard](https://dashboard.waterdata.usgs.gov/api/gwis/2.1.1/service/site?agencyCode=USGS&siteNumber=11101250&open=14375)
+The dam output dropped, i have to keep moving, i hope to track this storm across the missisippi , whats a cloud made up of, its a [long term thing](https://github.com/ThakaRashard/rashardmro/blob/master/docs/1_adult_EntertainmentZoning_LOS_ANGELES.pdf )... i just dont want to be slammed with due dates man 
 
 # Kool Moe Dee vs Busy Bee Starski Dec 1981 Harlem World
 [listen](https://youtu.be/am9C2_DZ7s4?si=XNp2B6xVg-nMa-cS)
