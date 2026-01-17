@@ -24,6 +24,11 @@ published: true
 
 <img alt="image" src="https://github.com/user-attachments/assets/ea909063-7d37-40d4-accc-60ac8db12d22" />
 
+
+
+# Kool Moe Dee vs Busy Bee Starski Dec 1981 Harlem World
+[listen](https://youtu.be/am9C2_DZ7s4?si=XNp2B6xVg-nMa-cS)
+
 # DefiningThug
 Latrice, I hope you understand that your image of thuggery does not include striptease... I dont think these guys ever promoted that pasttime even if they have been. And All #BlackHeteromen have had at least one significant other kidnapped in thier life by the time they have a child in middle school... In other words, I know how some of the other girls critisized me about working. Erika was a huge critic! But from your perspective you go out and about in your Ohio Neighborhood and you are judign time spent outside and how pleasant your interactions are with their dependents so your definition might stick if you take me to meet them with your mom
 [on @Tumblr](https://www.tumblr.com/santamonicashaadi/805848391743569920/definingthug) // [Red Hat interactive labs](https://www.redhat.com/en/interactive-labs) @blackgirlscode significant other u can use mine if you can get to my facebook with kashdoll on it  @howard-university-web-services // @redhatofficial hi CB2 i hope you not judging me, your son wearing earrings with blackgirls... at least that mean he not as violent ... but i bet you wont step to me so strong next time - [rashard](https://www.tumblr.com/santamonicashaadi)
