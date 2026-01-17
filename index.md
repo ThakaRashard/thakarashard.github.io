@@ -7,6 +7,9 @@ published: true
 
 {% include nav.html %}
 
+
+[1,457,591 BOARDING PASSES CLAIMED. Did you get yours? GasBuddyLatricE `VirtiservBaeTrice`](https://www3.nasa.gov/send-your-name-with-artemis/) @nasa-pds gm! [LaunchDay!]()
+
 [Akire plz try to talk peacefully to Latrice](https://www.youtube.com/live/nrVnsO_rdew?si=ks0vHtKGqqvTeoBh) @blackgirlscode either way she was up in Erika shit, because Erika don't do paperwork @nasa-jpl 
 
 [MARTAIN LUTHER KING ON NBC](https://youtu.be/fAtsAwGreyE?si=qwT1VsBugjgQJW6V) @BLACKGIRLSCODE [panel](https://youtu.be/P4Eqb2fRon8?si=DdiT9-FvitPll1-8) [[€](https://youtu.be/2xsbt3a7K-8?si=QNUQ26XW8OrezGNm) [[π](https://youtube.com/watch?v=2xsbt3a7K-8&si=jbK3ChsFmy5EkJr0)
