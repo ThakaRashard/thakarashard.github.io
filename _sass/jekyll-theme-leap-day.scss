@@ -626,6 +626,58 @@ small {
   float: left;
   }
 
+
+
+
+  .box {
+    width: 80%;
+    border: 1px solid #3DF28B;
+    display: flex;
+    flex-wrap: wrap;
+    margin: .1rem;
+    background-attachment: fixed;
+    justify-content: space-evenly;
+    background-size: 100% auto;
+    font-kerning: normal;
+    letter-spacing: .2rem;
+    font: bold 10px/18px verdana, lucida, sans-serif;
+    background: url(https://mars.nasa.gov/msl-raw-images/msss/04461/mhli/4461MH0003720011601746C00_DXXX.jpg);
+    background-size: 20% auto;
+    background-attachment: fixed;
+  }
+
+  .box>* {
+    display: block;
+    text-decoration: none;
+    transition: all .2s ease-in-out;
+    border: 1px solid #c9ff23;
+    padding: 1px;
+    margin: 1px;
+    background-color: #3DF28B20;
+    transition: all .2s ease-in-out;
+    flex-shrink:1;
+    flex-grow:1;
+ 
+    
+          &:hover {
+        flex-grow: 3;
+        
+      }
+    }
+  
+  .box a:link {
+    
+    color: white;
+    
+  }
+
+
+
+
+
+
+
+
 .tupperware_2col {
   display: grid;
   width: auto;
