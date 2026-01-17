@@ -7,6 +7,9 @@ published: true
 
 {% include nav.html %}
 
+[Coverage, Briefing Set for NASA’s Artemis II Moon Rocket Roll to Pad](https://www.nasa.gov/news-release/coverage-briefing-set-for-nasas-artemis-ii-moon-rocket-roll-to-pad/)
+
+@la-county-isd @cityoflosangeles we have launch duties today @usnavy @blackgirlscode @nasa-jpl @usgs 
 
 [1,457,591 BOARDING PASSES CLAIMED. Did you get yours? GasBuddyLatricE `VirtiservBaeTrice`](https://www3.nasa.gov/send-your-name-with-artemis/) @nasa-pds gm! [LaunchDay!]()
 
