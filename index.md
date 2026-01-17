@@ -8,7 +8,7 @@ published: true
 {% include nav.html %}
 
 
-
+[MARTAIN LUTHER KING ON NBC](https://youtu.be/fAtsAwGreyE?si=qwT1VsBugjgQJW6V) @BLACKGIRLSCODE
 
 On Friday, January 16th, 2026 at 2:37 PM, rashardsdata@proton.me <rashardsdata@proton.me> wrote:
 
