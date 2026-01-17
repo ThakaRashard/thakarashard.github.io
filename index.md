@@ -7,25 +7,17 @@ published: true
 
 {% include nav.html %}
 
+ <div class="box">
+
+  {% for post in site.posts %}
+      {% if post.categories contains 'FP' %}
+   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+  
+     
+  {% endfor %}
+   
+ </div> 
  
-<div class="box">
- 
-{% for post in site.posts %}
-  {% if post.categories contains 'FP' %}
-
-<article itemprop="blogPosts" itemscope itemtype="https://schema.org/BlogPosting" >
-  <a href="{{ site.github.url }}{{ post.url }}">
-
-  <h4 itemprop="headline"><span>{{ post.title }}</span></h4>
-
-  </a>
-</article>
-
-  {% endif %}
-{% endfor %}
-
-</div>
-
 
 [NASA76 - BiCENTENNiALREPORT @nasa - PDF](https://spinoff.nasa.gov/back_issues_archives/1976.pdf)
 
