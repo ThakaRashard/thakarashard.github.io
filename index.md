@@ -8,7 +8,7 @@ published: true
 {% include nav.html %}
 
 
-[MARTAIN LUTHER KING ON NBC](https://youtu.be/fAtsAwGreyE?si=qwT1VsBugjgQJW6V) @BLACKGIRLSCODE
+[MARTAIN LUTHER KING ON NBC](https://youtu.be/fAtsAwGreyE?si=qwT1VsBugjgQJW6V) @BLACKGIRLSCODE [panel](https://youtu.be/P4Eqb2fRon8?si=DdiT9-FvitPll1-8) [[€](https://youtu.be/2xsbt3a7K-8?si=QNUQ26XW8OrezGNm) [[π](https://youtube.com/watch?v=2xsbt3a7K-8&si=jbK3ChsFmy5EkJr0)
 
 On Friday, January 16th, 2026 at 2:37 PM, rashardsdata@proton.me <rashardsdata@proton.me> wrote:
 
