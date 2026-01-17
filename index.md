@@ -17,7 +17,26 @@ published: true
   {% endfor %}
    
  </div> 
- 
+
+On Friday, January 16th, 2026 at 2:37 PM, rashardsdata@proton.me <rashardsdata@proton.me> wrote:
+
+> Re: Ossoff#MayorBass/BOARDOFSUPERVISORS HILDA JANICE HOLLY #DentalEmergency #LosAngelesCounty #ManessahWarner #danielleMushonga #erikakelly #karenbass #keishalancebottoms - #DestitutionPunishment - RashardKelly
+> #LEFT TODAY [onTUMBLR]
+> [https://ia600307.us.archive.org/10/items/commitmentmaintenance/00000000000_HTAU_DENTALEMERGENCY_SOL4711-4765_Jon_Ossoff_karenbass_NAGiN_COX_rashardsupdate_VirtiservLatrice.mp4](https://ia600307.us.archive.org/10/items/commitmentmaintenance/00000000000_HTAU_DENTALEMERGENCY_SOL4711-4765_Jon_Ossoff_karenbass_NAGiN_COX_rashardsupdate_VirtiservLatrice.mp4)
+> RiGHT [onTUMBLR]
+> [https://archive.org/download/vid-20250914-182140/00000000000_PreMatureToothRot_GavinNewsom_KarenBass_Latrice_virtiserv_prostitutionLaw_is_treasonus_and_marking_me_for_disablement_VID_20260108_133903_082.mp4](https://archive.org/download/vid-20250914-182140/00000000000_PreMatureToothRot_GavinNewsom_KarenBass_Latrice_virtiserv_prostitutionLaw_is_treasonus_and_marking_me_for_disablement_VID_20260108_133903_082.mp4)
+> #DentalEmergency #LosAngelesCounty #ManessahWarner #danielleMushonga #erikakelly #karenbass #keishalancebottoms - #DestitutionPunishment
+> On Thu, Jan 8, 2026, 1:55 PM Rashard Iman Kelly <holetoanotheruniverse40@gmail.com> wrote:
+
+> Mayor Bass, Supervisor Mitchell, it's Rashard. Someone poisoned my tooth.. I need protection from the prostitution mob and clean food 🥑 🥝 
+> [https://archive.org/download/vid-20250914-182140/00000000000_PreMatureToothRot_GavinNewsom_KarenBass_Latrice_virtiserv_prostitutionLaw_is_treasonus_and_marking_me_for_disablement_VID_20260108_133903_082.mp4](https://archive.org/download/vid-20250914-182140/00000000000_PreMatureToothRot_GavinNewsom_KarenBass_Latrice_virtiserv_prostitutionLaw_is_treasonus_and_marking_me_for_disablement_VID_20260108_133903_082.mp4)
+> 
+> [https://www.tumblr.com/rashardmro/805210829855260672/rashard-iman-kelly-prematuretoothrot](https://www.tumblr.com/rashardmro/805210829855260672/rashard-iman-kelly-prematuretoothrot) ?source=share
+> 
+> [https://archive.org/details/vid-20250914-182140](https://www.tumblr.com/rashardmro/805210829855260672/rashard-iman-kelly-prematuretoothrot)
+> 
+ <img  alt="image" src="https://github.com/user-attachments/assets/9ad92f75-e343-4729-8885-b92726f30155" />
+
 
 [NASA76 - BiCENTENNiALREPORT @nasa - PDF](https://spinoff.nasa.gov/back_issues_archives/1976.pdf)
 
