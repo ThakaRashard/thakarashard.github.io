@@ -7,6 +7,164 @@ published: true
 
 {% include nav.html %}
 
+
+# Artemis II Weather Criteria
+[Link](https://www.nasa.gov/artemis-ii-weather-criteria/)
+
+## Basic Weather Criteria for Roll to the Pad
+Do not roll to launch pad if the lightning forecast is greater than 10% within 20 nautical miles of the launch area during rollout. [Lightning by mexico](https://cdn.star.nesdis.noaa.gov/GOES18/GLM/FD/EXTENT3/20260180046_GOES18-GLM-FD-EXTENT3-10848x10848.jpg) @blackgirlscode @la-county-isd [South America + Atlantic Ocean](https://cdn.star.nesdis.noaa.gov/GOES19/GLM/FD/EXTENT3/20260180046_GOES19-GLM-FD-EXTENT3-10848x10848.jpg)
+
+**Do not roll to launch pad** if there is greater than a 5% chance of hail forecast in the launch area during rollout.
+
+**Do not roll to launch pad** if sustained wind is forecast to be greater than 40 knots or peak wind greater than 45 knots.
+
+**Do not roll to launch pad** if temperature is less than 40 degrees Fahrenheit or exceeds 95 degrees Fahrenheit at the launch area during rollout.
+
+Basic Weather Launch Criteria at the Pad for Liftoff
+Temperature
+**Do not initiate tanking** if the 24-hour average temperature at both 132.5 feet and 257.5 feet is less than 41.4 degrees Fahrenheit.
+
+**Do not launch** if the temperature at both 132.5 feet and 257.5 feet exceeds 94.5 degrees Fahrenheit for 30 consecutive minutes.
+
+**Do not launch** if the temperature at both 132.5 feet and 257.5 feet drops below a defined temperature constraint for 30 consecutive minutes. The temperature constraints range from 38 degrees Fahrenheit to 49 degrees Fahrenheit, depending upon the wind and relative humidity. Higher wind and relative humidity result in a colder temperature constraint.
+
+Wind
+**Do not launch** if the peak liftoff winds exceed a range of 29 knots through 39 knots between 132.5 feet and 457.5 feet, respectively.
+
+**Do not launch** through upper-level wind conditions that could lead to control problems for the launch vehicle.
+
+
+[WEST GOES18 - -5424x5424](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/DMW/20260172300_GOES18-ABI-FD-DMW-5424x5424.jpg)
+[WEST GOES18 - - 10848x10848](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/DMW/20260171500_GOES18-ABI-FD-DMW-10848x10848.jpg)
+[EaST GOES19 - -5424x5424](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/DMW/20260172300_GOES19-ABI-FD-DMW-5424x5424.jpg)
+[EaST GOES19 - - 10848x10848](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/DMW/20260171500_GOES19-ABI-FD-DMW-10848x10848.jpg)
+
+<div class="tupperware">
+<img alt="image" src="https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/DMW/20260111500_GOES18-ABI-FD-DMW-1808x1808.jpg" />
+<img alt="image" src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/DMW/20260111500_GOES19-ABI-FD-DMW-1808x1808.jpg" />
+</div>
+
+
+Precipitation
+Do not launch through precipitation.
+
+Lightning
+Do not initiate tanking of the core stage or interim cryogenic propulsion stage (ICPS) if the lightning forecast is greater than 20% within 5 nautical miles of the launch area during tanking.
+
+**Do not launch** for 30 minutes after lightning is observed within 10 nautical miles of the flight path, unless specified conditions related to cloud distance and surface electrical fields can be met.
+
+**Do not launch** if the flight path is within 10 nautical miles of the edge of a thunderstorm that is producing lightning until 30 minutes after the last lightning discharge is observed.
+
+**Do not launch** if the flight path is within 10 nautical miles of an attached thunderstorm anvil cloud unless temperature, time since last lightning, and distance criteria can be met, and if within 3 nautical miles, maximum radar reflectivity criteria also are satisfied.
+
+**Do not launch** if the flight path is within 10 nautical miles of a detached thunderstorm anvil cloud unless temperature, time since lightning and/or detachment, and distance criteria can be met, and if within 3 nautical miles, maximum radar reflectivity criteria also are satisfied.
+
+
+
+# Solar Activity
+**Do not launch** during severe or extreme solar activity resulting in increased density of solar energetic particles with the potential to damage electronic circuits and make radio communication with the launch vehicle difficult or impossible. [Space Weather Prediction Center @noaa @weather-gov @nasa-jpl](https://www.swpc.noaa.gov/communities/radio-communications)
+
+
+[Space Weather Enthusiasts Dashboard](https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard)
+
+```shell
+:Product: 3-Day Forecast
+:Issued: 2026 Jan 18 0030 UTC
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+#
+A. NOAA Geomagnetic Activity Observation and Forecast
+
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Jan 18-Jan 20 2026 is 4.67 (NOAA Scale
+G1).
+
+NOAA Kp index breakdown Jan 18-Jan 20 2026
+
+             Jan 18       Jan 19       Jan 20
+00-03UT       4.33         4.00         3.67     
+03-06UT       4.67 (G1)    3.67         3.67     
+06-09UT       4.00         3.33         3.33     
+09-12UT       3.00         3.00         3.00     
+12-15UT       3.00         3.00         2.00     
+15-18UT       3.33         3.33         2.67     
+18-21UT       3.67         3.33         3.00     
+21-00UT       3.67         4.00         3.33     
+
+Rationale: G1 (Minor) geomagnetic storms are expected on 18 Jan due to
+influence from a positive polarity coronal hole.
+
+B. NOAA Solar Radiation Activity Observation and Forecast
+
+Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
+below S-scale storm level thresholds.
+
+Solar Radiation Storm Forecast for Jan 18-Jan 20 2026
+
+              Jan 18  Jan 19  Jan 20
+S1 or greater    5%      5%      5%
+
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
+
+C. NOAA Radio Blackout Activity and Forecast
+
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Jan 17 2026 1029 UTC.
+
+Radio Blackout Forecast for Jan 18-Jan 20 2026
+
+              Jan 18        Jan 19        Jan 20
+R1-R2           55%           55%           55%
+R3 or greater    5%            5%            5%
+
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+slight chance of R3 (Strong), over 18-20 Jan due to the flare potential
+from multiple complex regions on the solar disk.
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f6c43291-2941-4c5d-be02-b2c21e3a064f" />
+ 
+ <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/1ce15f60-a452-4d7c-b671-c380324d147d" />
+ 
+Clouds
+**Do not launch** if the flight path is within 3 nautical miles of a thunderstorm debris cloud for 3 hours, unless temperature, surface electric field, and radar reflectivity criteria can be met.
+
+**Do not launch** if the flight path is within 5 nautical miles of disturbed weather clouds that extend into freezing temperatures and contain moderate or greater precipitation.
+
+**Do not launch** through a cloud layer that is within 5 nautical miles, greater than 4,500 feet thick, and extends into freezing temperatures, unless specific criteria related to radar reflectivity and cloud altitude can be met.
+
+**Do not launch** if the flight path is within 10 nautical miles of cumulus clouds with certain distance and height criteria. There are additional caveats that could be met for clouds not reaching -5 degrees Celsius.
+
+**Do not launch** through cumulus clouds formed as the result of or directly attached to a smoke plume, unless more than 60 minutes passed since detachment from the smoke plume.
+
+**Do not launch** for 15 minutes if field mill instrument readings within 5 nautical miles of the launch pad equal or exceed +/- 1,500 volts per meter, or +/- 1,000 volts per meter, unless specific caveats related to clouds within 10 nautical miles of the flight path can be met. 
+
+@StateOfCalifornia 
+
+
+```
+@nasajpl https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/DMW/20260171600_GOES18-ABI-FD-DMW-1808x1808.jpg #ARTEMiS @normani #Virtiserv @HowardUniversity i think they just have more time to be girls @repkarenbass even if corporate slow down the USGOVERNMENT does not @hollyjmitchell -#Rashard @nasaearthdata @blackgirlscode hi https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/DMW/20260171600_GOES19-ABI-FD-DMW-1808x1808.jpg @lacounty @santamonicaPD @essence @SPACEX Atlas V Launch Weather Criteria ~> https://www.nasa.gov/wp-content/uploads/2018/04/633165main_atlas-5-weather.pdf?emrc=ea1836 &&&& https://www.nasa.gov/artemis-ii-weather-criteria/ #ArtemisII Weather Criteria @hildasolis @Itskeishalancebottoms @BreakfastClubPower1051FM
+```
+
+<img alt="image" src="https://github.com/user-attachments/assets/aafbb5a6-f4d8-4f43-a4b5-a134682245bc" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/819afe5c-bcf8-40fe-80db-73564af15581" />
+
+
+[WEST GOES18 - -5424x5424](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/DMW/20260172300_GOES18-ABI-FD-DMW-5424x5424.jpg)
+[WEST GOES18 - - 10848x10848](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/DMW/20260171500_GOES18-ABI-FD-DMW-10848x10848.jpg)
+[EaST GOES19 - -5424x5424](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/DMW/20260172300_GOES19-ABI-FD-DMW-5424x5424.jpg)
+[EaST GOES19 - - 10848x10848](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/DMW/20260171500_GOES19-ABI-FD-DMW-10848x10848.jpg)
+
+<div class="tupperware">
+<img alt="image" src="https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/DMW/20260111500_GOES18-ABI-FD-DMW-1808x1808.jpg" />
+<img alt="image" src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/DMW/20260111500_GOES19-ABI-FD-DMW-1808x1808.jpg" />
+</div>
+
+
+![Artemis2 @nasa-pds @blackgirlscode](https://www.nasa.gov/wp-content/uploads/2026/01/nhq202211160029orig.jpg)
 [Coverage, Briefing Set for NASA’s Artemis II Moon Rocket Roll to Pad](https://www.nasa.gov/news-release/coverage-briefing-set-for-nasas-artemis-ii-moon-rocket-roll-to-pad/)
 
 @la-county-isd @cityoflosangeles we have launch duties today @usnavy @blackgirlscode @nasa-jpl @usgs [Falcon 9 Crew Dragon Launch Weather Criteria `LaunchDayGuide`](https://www.nasa.gov/wp-content/uploads/2021/07/falcon9_crewdragon_launch_weather_criteria_fact_sheet.pdf) 
@@ -94,6 +252,7 @@ across the North Atlantic.
 Probability of violation is calculated 
 for each location including limit 
 conditions for wind, waves, lightning, 
+
 and precipitation.
 
 [MARTAIN LUTHER KING ON NBC](https://youtu.be/fAtsAwGreyE?si=qwT1VsBugjgQJW6V) @BLACKGIRLSCODE [panel](https://youtu.be/P4Eqb2fRon8?si=DdiT9-FvitPll1-8) [[€](https://youtu.be/2xsbt3a7K-8?si=QNUQ26XW8OrezGNm) [[π](https://youtube.com/watch?v=2xsbt3a7K-8&si=jbK3ChsFmy5EkJr0)
@@ -439,3 +598,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
+
+
+
