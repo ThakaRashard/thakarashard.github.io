@@ -12,7 +12,7 @@ Artemis II Weather Criteria
 [Link](https://www.nasa.gov/artemis-ii-weather-criteria/)
 
 Basic Weather Criteria for Roll to the Pad
-Do not roll to launch pad if the lightning forecast is greater than 10% within 20 nautical miles of the launch area during rollout.
+Do not roll to launch pad if the lightning forecast is greater than 10% within 20 nautical miles of the launch area during rollout. [Lightning by mexico](https://cdn.star.nesdis.noaa.gov/GOES18/GLM/FD/EXTENT3/20260180046_GOES18-GLM-FD-EXTENT3-10848x10848.jpg) @blackgirlscode @la-county-isd [South America + Atlantic Ocean](https://cdn.star.nesdis.noaa.gov/GOES19/GLM/FD/EXTENT3/20260180046_GOES19-GLM-FD-EXTENT3-10848x10848.jpg)
 
 Do not roll to launch pad if there is greater than a 5% chance of hail forecast in the launch area during rollout.
 
@@ -584,4 +584,5 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
