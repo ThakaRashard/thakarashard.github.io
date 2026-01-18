@@ -7,8 +7,16 @@ published: true
 
 {% include nav.html %}
 
+artemis @nasa-develop
 
-Martin Luther King, Jr
+## LUBRICATING MATERIALS USED IN THE USSR FOR THE LUBRICATING OF MOTORS AND FOR INDUSTRIAL PURPOSES
+Collection: @BlueOrigin @Blackgirlscode @TheSpaceDevs
+General @CIAgov @Noaa @NoaagoV @nasa @cia @usnavy Records
+Document Number (FOIA) /ESDN (CREST): 
+CIA-RDP82-00047R000200340001-0 [LiNK](https://www.cia.gov/readingroom/document/cia-rdp82-00047r000200340001-0)
+Release Decision: [.PDF](https://www.cia.gov/readingroom/docs/CIA-RDP82-00047R000200340001-0.pdf)
+RIPPUB
+## Martin Luther King, Jr
 What Is Your Life's Blueprint?"
 Rarely seen footage of Martin Luther King, Jr., speaking to students at Barratt Junior High School in Philadelphia on October 26, 1967, where he delivered his speech "What Is Your Life's Blueprint?" @blackgirlscode [link](https://youtu.be/ZmtOGXreTOU?si=dcCKOzRaFcSfQGTu) @emit-sds @newshour @washingtonpost @la-county-isd @cityofsandiego @cityoflosangeles `KeepMovinG`
 
