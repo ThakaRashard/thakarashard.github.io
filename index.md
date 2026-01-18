@@ -8,6 +8,10 @@ published: true
 {% include nav.html %}
 
 
+Martin Luther King, Jr
+What Is Your Life's Blueprint?"
+Rarely seen footage of Martin Luther King, Jr., speaking to students at Barratt Junior High School in Philadelphia on October 26, 1967, where he delivered his speech "What Is Your Life's Blueprint?" @blackgirlscode [link](https://youtu.be/ZmtOGXreTOU?si=dcCKOzRaFcSfQGTu) @emit-sds @newshour @washingtonpost @la-county-isd @cityofsandiego @cityoflosangeles `KeepMovinG`
+
 # Artemis II Weather Criteria
 [Link](https://www.nasa.gov/artemis-ii-weather-criteria/)
 
