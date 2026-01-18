@@ -7,6 +7,9 @@ published: true
 
 {% include nav.html %}
 
+
+@ISRO The river looks like there's mud today @la-county-isd @staTeofcalifornia Karen bass 
+
 [1932 Los Angeles water district - `thirst`](https://youtu.be/u9HaotLKRzo?si=E_BMM0xC0vq2YGEr) @blackgirlscode @podaac @la-county-isd @cityoflosangeles 
 
 artemis @nasa-develop
