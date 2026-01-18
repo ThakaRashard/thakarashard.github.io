@@ -7,6 +7,8 @@ published: true
 
 {% include nav.html %}
 
+[1932 Los Angeles water district - `thirst`](https://youtu.be/u9HaotLKRzo?si=E_BMM0xC0vq2YGEr) @blackgirlscode @podaac @la-county-isd @cityoflosangeles 
+
 artemis @nasa-develop
 
 ## LUBRICATING MATERIALS USED IN THE USSR FOR THE LUBRICATING OF MOTORS AND FOR INDUSTRIAL PURPOSES
