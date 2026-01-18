@@ -24,14 +24,26 @@ Basic Weather Launch Criteria at the Pad for Liftoff
 Temperature
 **Do not initiate tanking** if the 24-hour average temperature at both 132.5 feet and 257.5 feet is less than 41.4 degrees Fahrenheit.
 
-Do not launch if the temperature at both 132.5 feet and 257.5 feet exceeds 94.5 degrees Fahrenheit for 30 consecutive minutes.
+**Do not launch** if the temperature at both 132.5 feet and 257.5 feet exceeds 94.5 degrees Fahrenheit for 30 consecutive minutes.
 
-Do not launch if the temperature at both 132.5 feet and 257.5 feet drops below a defined temperature constraint for 30 consecutive minutes. The temperature constraints range from 38 degrees Fahrenheit to 49 degrees Fahrenheit, depending upon the wind and relative humidity. Higher wind and relative humidity result in a colder temperature constraint.
+**Do not launch** if the temperature at both 132.5 feet and 257.5 feet drops below a defined temperature constraint for 30 consecutive minutes. The temperature constraints range from 38 degrees Fahrenheit to 49 degrees Fahrenheit, depending upon the wind and relative humidity. Higher wind and relative humidity result in a colder temperature constraint.
 
 Wind
-Do not launch if the peak liftoff winds exceed a range of 29 knots through 39 knots between 132.5 feet and 457.5 feet, respectively.
+**Do not launch** if the peak liftoff winds exceed a range of 29 knots through 39 knots between 132.5 feet and 457.5 feet, respectively.
 
-Do not launch through upper-level wind conditions that could lead to control problems for the launch vehicle.
+**Do not launch** through upper-level wind conditions that could lead to control problems for the launch vehicle.
+
+
+[WEST GOES18 - -5424x5424](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/DMW/20260172300_GOES18-ABI-FD-DMW-5424x5424.jpg)
+[WEST GOES18 - - 10848x10848](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/DMW/20260171500_GOES18-ABI-FD-DMW-10848x10848.jpg)
+[EaST GOES19 - -5424x5424](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/DMW/20260172300_GOES19-ABI-FD-DMW-5424x5424.jpg)
+[EaST GOES19 - - 10848x10848](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/DMW/20260171500_GOES19-ABI-FD-DMW-10848x10848.jpg)
+
+<div class="tupperware">
+<img alt="image" src="https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/DMW/20260111500_GOES18-ABI-FD-DMW-1808x1808.jpg" />
+<img alt="image" src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/DMW/20260111500_GOES19-ABI-FD-DMW-1808x1808.jpg" />
+</div>
+
 
 Precipitation
 Do not launch through precipitation.
@@ -39,18 +51,18 @@ Do not launch through precipitation.
 Lightning
 Do not initiate tanking of the core stage or interim cryogenic propulsion stage (ICPS) if the lightning forecast is greater than 20% within 5 nautical miles of the launch area during tanking.
 
-Do not launch for 30 minutes after lightning is observed within 10 nautical miles of the flight path, unless specified conditions related to cloud distance and surface electrical fields can be met.
+**Do not launch** for 30 minutes after lightning is observed within 10 nautical miles of the flight path, unless specified conditions related to cloud distance and surface electrical fields can be met.
 
-Do not launch if the flight path is within 10 nautical miles of the edge of a thunderstorm that is producing lightning until 30 minutes after the last lightning discharge is observed.
+**Do not launch** if the flight path is within 10 nautical miles of the edge of a thunderstorm that is producing lightning until 30 minutes after the last lightning discharge is observed.
 
-Do not launch if the flight path is within 10 nautical miles of an attached thunderstorm anvil cloud unless temperature, time since last lightning, and distance criteria can be met, and if within 3 nautical miles, maximum radar reflectivity criteria also are satisfied.
+**Do not launch** if the flight path is within 10 nautical miles of an attached thunderstorm anvil cloud unless temperature, time since last lightning, and distance criteria can be met, and if within 3 nautical miles, maximum radar reflectivity criteria also are satisfied.
 
-Do not launch if the flight path is within 10 nautical miles of a detached thunderstorm anvil cloud unless temperature, time since lightning and/or detachment, and distance criteria can be met, and if within 3 nautical miles, maximum radar reflectivity criteria also are satisfied.
+**Do not launch** if the flight path is within 10 nautical miles of a detached thunderstorm anvil cloud unless temperature, time since lightning and/or detachment, and distance criteria can be met, and if within 3 nautical miles, maximum radar reflectivity criteria also are satisfied.
 
 
 
 # Solar Activity
-Do not launch during severe or extreme solar activity resulting in increased density of solar energetic particles with the potential to damage electronic circuits and make radio communication with the launch vehicle difficult or impossible. [Space Weather Prediction Center @noaa @weather-gov @nasa-jpl](https://www.swpc.noaa.gov/communities/radio-communications)
+**Do not launch** during severe or extreme solar activity resulting in increased density of solar energetic particles with the potential to damage electronic circuits and make radio communication with the launch vehicle difficult or impossible. [Space Weather Prediction Center @noaa @weather-gov @nasa-jpl](https://www.swpc.noaa.gov/communities/radio-communications)
 
 
 [Space Weather Enthusiasts Dashboard](https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard)
@@ -117,17 +129,19 @@ from multiple complex regions on the solar disk.
  <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/1ce15f60-a452-4d7c-b671-c380324d147d" />
  
 Clouds
-Do not launch if the flight path is within 3 nautical miles of a thunderstorm debris cloud for 3 hours, unless temperature, surface electric field, and radar reflectivity criteria can be met.
+**Do not launch** if the flight path is within 3 nautical miles of a thunderstorm debris cloud for 3 hours, unless temperature, surface electric field, and radar reflectivity criteria can be met.
 
-Do not launch if the flight path is within 5 nautical miles of disturbed weather clouds that extend into freezing temperatures and contain moderate or greater precipitation.
+**Do not launch** if the flight path is within 5 nautical miles of disturbed weather clouds that extend into freezing temperatures and contain moderate or greater precipitation.
 
-Do not launch through a cloud layer that is within 5 nautical miles, greater than 4,500 feet thick, and extends into freezing temperatures, unless specific criteria related to radar reflectivity and cloud altitude can be met.
+**Do not launch** through a cloud layer that is within 5 nautical miles, greater than 4,500 feet thick, and extends into freezing temperatures, unless specific criteria related to radar reflectivity and cloud altitude can be met.
 
-Do not launch if the flight path is within 10 nautical miles of cumulus clouds with certain distance and height criteria. There are additional caveats that could be met for clouds not reaching -5 degrees Celsius.
+**Do not launch** if the flight path is within 10 nautical miles of cumulus clouds with certain distance and height criteria. There are additional caveats that could be met for clouds not reaching -5 degrees Celsius.
 
-Do not launch through cumulus clouds formed as the result of or directly attached to a smoke plume, unless more than 60 minutes passed since detachment from the smoke plume.
+**Do not launch** through cumulus clouds formed as the result of or directly attached to a smoke plume, unless more than 60 minutes passed since detachment from the smoke plume.
 
-Do not launch for 15 minutes if field mill instrument readings within 5 nautical miles of the launch pad equal or exceed +/- 1,500 volts per meter, or +/- 1,000 volts per meter, unless specific caveats related to clouds within 10 nautical miles of the flight path can be met.
+**Do not launch** for 15 minutes if field mill instrument readings within 5 nautical miles of the launch pad equal or exceed +/- 1,500 volts per meter, or +/- 1,000 volts per meter, unless specific caveats related to clouds within 10 nautical miles of the flight path can be met. 
+
+@StateOfCalifornia 
 
 
 ```
@@ -584,6 +598,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
