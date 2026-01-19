@@ -7,7 +7,7 @@ published: true
 
 {% include nav.html %}
 
-
+ @nasa-jpl @nasa-pds There was a [MiGA](https://www.google.com/amp/s/www.aljazeera.com/amp/news/2026/1/5/trump-poses-with-make-iran-great-again-hat-after-maduro-abduction) demonstration in front of city hall... I don't think they electrocuted me but there was a couple slumbering in intimacy in front of me and maybe bombed the patio just for privacy... photos of / from the protest 🪧 on @vsco [vsco.co/rashardsartu](vsco.co/rashardsartu) and @tumblr @newshour @datadesk [https://rashardmro.tumblr.com)](https://rashardmro.tumblr.com) MIGA STANDS FOR MAKE IRAN GREAT AGAIN @REPKARENBASS @CITYOFLOSANGELES
 @ISRO The river looks like there's mud today @la-county-isd @staTeofcalifornia Karen bass 
 
 [1932 Los Angeles water district - `thirst`](https://youtu.be/u9HaotLKRzo?si=E_BMM0xC0vq2YGEr) @blackgirlscode @podaac @la-county-isd @cityoflosangeles 
