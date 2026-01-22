@@ -7,6 +7,24 @@ published: true
 
 {% include nav.html %}
 
+
+@blackgirlscode facebook was really working @nasa-jpl i cleaned up a lot of dirty roumors that would put me out of the library system in this era @la-county-isd @cityoflosangeles 
+@redhatofficial [Red Hat interactive labs](https://www.redhat.com/en/interactive-labs) @blackgirlscode @UniversityofFlorida 
+
+```
+Rashard Kelly
+ Edit avatar
+
+Login: rashardkelly
+
+Account number: 12329728
+
+holetoanotheruniverse40@gmail.com
+```
+
+<img   alt="image" src="https://github.com/user-attachments/assets/b55de0c9-0627-4645-bb10-52960c94c952" />
+
+
 [Firms](https://firms.modaps.eosdis.nasa.gov/) [FirMS - Map](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@-114.497,34.761,14.107z) [KML SHAPES and Archives](https://firms.modaps.eosdis.nasa.gov/usfs/active_fire/) @blackgirlscode 
 
 [Part 1: Post-Fire Imagery and Smoke Monitoring - pdf] [[READ](https://earthdata.nasa.gov/s3fs-public/2025-11/AdvFIRMS_Part1_BB_MFC_DD_JO.pdf?VersionId=_b9T2QWdP0ahe_j7EV1gEVclTsYOuxTg)]
@@ -670,6 +688,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
