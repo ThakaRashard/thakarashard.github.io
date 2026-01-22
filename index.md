@@ -7,7 +7,7 @@ published: true
 
 {% include nav.html %}
 
-@blackgirlscode [wefunk](https://www.wefunkradio.com/radio/play) works for me rn... i think i saw trice, she might be with allied... I am so confused, at least if she work for allied now, she from freaknick and lost her sparkle @nasa-jpl @la-county-isd 
+@blackgirlscode [wefunk](https://www.wefunkradio.com/radio/play) works for me rn... i think i saw trice, she might be with allied... I am so confused, at least if she work for allied now, she from freaknick and lost her sparkle @nasa-jpl @la-county-isd //// wefunk likes [SAGERAO 297](https://www.youtube.com/watch?v=OxIIt_l9duI&list=PL7CFEC8E5C731E299&index=19) // [Nonstop Disco Powerpack - BeastieBoys](https://youtu.be/rVqBcO2ancE) :: reminds me of [HELLONASTY](https://www.reddit.com/r/90sHipHop/comments/1m9xo3c/beastie_boys_hello_nasty_full_album/) - [Beastie Boys](https://youtu.be/JkeE2O15RFs?si=gbbPyukYGYSa6mOR)
 
 ### The weather guidelines for NASA’s Artemis II flight
 test identify conditions to safely roll out to the pad and launch the agency’s Space Launch System and Orion spacecraft.
@@ -847,6 +847,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
