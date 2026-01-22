@@ -13,6 +13,48 @@ test identify conditions to safely roll out to the pad and launch the agency’s
 [Read](https://www.nasa.gov/artemis-ii-weather-criteria/) @stateofcalifornia @blackgirlscode [Watch - 
 Artemis II Arrives at the Launchpad](https://youtu.be/EZaKdgc0x5g?si=2C1U1-Xhk2npPbNP) @lmco
 
+```shell
+>EXACT< name search [SPACE sensitive]:
+ NAME = artimis;
+Continue [ <cr>=yes, n=no, ? ] : 
+*******************************************************************************
+JPL/DASTCOM            Small-body Index Search Results     2026-Jan-22 11:18:40
+ Comet AND asteroid index search:
+   NAME = artimis;
+ Matching small-bodies: 
+    No matches found.
+*******************************************************************************
+ Select ... [F]tp, [M]ail, [R]edisplay, ?, <cr>: artemis
+*******************************************************************************
+ Multiple major-bodies match string "ARTEMIS*"
+  ID#      Name                               Designation  IAU/aliases/other   
+  -------  ---------------------------------- -----------  ------------------- 
+     -192  THEMIS-B (spacecraft)              2007-004B    ARTEMIS-P1           
+     -193  THEMIS-C (spacecraft)              2007-004C    ARTEMIS-P2           
+    -1023  Artemis I (spacecraft)             2022-156A    Orion EM-1           
+ 
+   Number of matches =  3. Use ID# to make unique selection.
+*******************************************************************************
+ Select ... [F]tp, [M]ail, [R]edisplay, ?, <cr>: -1023
+*******************************************************************************
+ Revised: Dec 10, 2022        Artemis I / Spacecraft (Earth)              -1023
+                              https://www.nasa.gov/artemis-1
+ BACKGROUND:
+  NASA's 26-day unmanned Artemis I mission was a test of integrated systems to:
+   - launch Orion atop the SLS rocket 
+   - operate the spacecraft in a deep space environment
+   - orbit the Moon in a distant retrograde orbit before returning to Earth
+   - test Orion's heat shield at 30,000 km/hr (2760 deg. C), and 
+   - recover the crew module after reentry, descent, and splashdown
+ MAJOR EVENTS:
+  Launched November 16 @ 06:47:44 UTC from pad 39B at the Kennedy Space Center. 
+  Relative timings below may or may not be be shifted slightly due to launch 
+  being delayed 43 minutes.
+  launch+00h 18m 09s - Orion deploys solar arrays in Earth orbit
+        +00h 52m 56s - Perigee raise maneuver (22 second burn)
+        +01h 29m 27s - Trans-lunar injection burn (18m burn)
+        +01h 57m 36s - Orion/ICPS separation
+```
 
 @TheSpaceDevs @nasa-pds @emit-sds . . . 
 [Artemis I Weather Criteria](https://www3.nasa.gov/sites/default/files/atoms/files/artemis_i_weather_criteria_fact_sheet_0.pdf)
@@ -769,6 +811,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
