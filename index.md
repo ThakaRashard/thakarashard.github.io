@@ -7,6 +7,10 @@ published: true
 
 {% include nav.html %}
 
+
+### The weather guidelines for NASA’s Artemis II flight
+test identify conditions to safely roll out to the pad and launch the agency’s Space Launch System and Orion spacecraft.
+[Read](https://www.nasa.gov/artemis-ii-weather-criteria/) @stateofcalifornia @blackgirlscode 
 @nasa-jpl ok, i told robin obrien i was working from home onetime, but i got kidnapped , please understand that people keep disabling me so im really behind... These jupyter notebooks are challenging, the plain text is bugging me because i wanna finish the excercise... i should stop feeling sorry for myself [Latrice](https://www.facebook.com/thevirtiservway/) @blackgirlscode @fbi @whitehouse . . . i can find some tutorials to get up to speed with delivering the freshest sat data, erathdata is still a webtool... @stateofcalifornia 
 
 <img   alt="image" src="https://github.com/user-attachments/assets/761a3e2e-277b-46a2-9f47-62e472dfc393" />
@@ -712,6 +716,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
