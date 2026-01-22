@@ -7,6 +7,12 @@ published: true
 
 {% include nav.html %}
 
+@la-county-isd sulfur dioxide levels @nasa-jpl 
+
+<img alt="GIOVANNI-output_FpkRO8h" src="https://github.com/user-attachments/assets/d35296db-a622-45b4-8d89-5eaea38ec395" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8f2556e7-3dce-4add-af3f-07da6148427d" />
+
 Time Averaged Map of HCHO column amount daily 0.1 deg. [OMI OMHCHOd v003] molecules/cm^2 [OMI/Aura Formaldehyde (HCHO)](https://cmr.earthdata.nasa.gov/search/concepts/C1239966779-GES_DISC.html)
 
 ![HCHO ](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Formaldehyde-3D-vdW.png/960px-Formaldehyde-3D-vdW.png)
@@ -696,6 +702,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
