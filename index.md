@@ -7,6 +7,14 @@ published: true
 
 {% include nav.html %}
 
+Time Averaged Map of HCHO column amount daily 0.1 deg. [OMI OMHCHOd v003] molecules/cm^2 [OMI/Aura Formaldehyde (HCHO)](https://cmr.earthdata.nasa.gov/search/concepts/C1239966779-GES_DISC.html)
+
+![HCHO ](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Formaldehyde-3D-vdW.png/960px-Formaldehyde-3D-vdW.png)
+<img   alt="GIOVANNI-outputtksyykT8" src="https://github.com/user-attachments/assets/c8bb3be3-2c7c-4ce7-984d-5016085b4253" />
+
+
+![HCHO ](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Formaldehyde-3D-balls-A.png/960px-Formaldehyde-3D-balls-A.png)
+By Ben Mills - <span class="int-own-work" lang="en">Own work</span>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=4431548">Link</a>
 
 @blackgirlscode facebook was really working @nasa-jpl i cleaned up a lot of dirty roumors that would put me out of the library system in this era @la-county-isd @cityoflosangeles 
 @redhatofficial [Red Hat interactive labs](https://www.redhat.com/en/interactive-labs) @blackgirlscode @UniversityofFlorida 
@@ -688,6 +696,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
