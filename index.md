@@ -33,6 +33,24 @@ https://www.nasa.gov/images/
 
 <img  alt="image" src="https://github.com/user-attachments/assets/8e1e5999-afc0-4c7e-ab13-f95914e18a17" />
 
+```
+Loading...
+
+https://www.nasa.gov/artemis-1/ |
+21:23:53 July 23, 2024
+
+Got an HTTP 302 response at crawl time
+
+Redirecting to...
+
+https://www.nasa.gov/mission/artemis-i/
+```
+`https://web.archive.org/web/20240723212353/https://www.nasa.gov/mission/artemis-i/`
+[https://web.archive.org/web/20240723212353/https://www.nasa.gov/mission/artemis-i/](https://web.archive.org/web/20240723212353/https://www.nasa.gov/mission/artemis-i/) @nasa @whitehouse @dhs-gov 
+<img alt="image" src="https://github.com/user-attachments/assets/e42599db-8ba8-4353-9502-0029544243ed" />
+
+
+
 @nasa-jpl ok, i told robin obrien i was working from home onetime, but i got kidnapped , please understand that people keep disabling me so im really behind... These jupyter notebooks are challenging, the plain text is bugging me because i wanna finish the excercise... i should stop feeling sorry for myself [Latrice](https://www.facebook.com/thevirtiservway/) @blackgirlscode @fbi @whitehouse . . . i can find some tutorials to get up to speed with delivering the freshest sat data, erathdata is still a webtool... @stateofcalifornia 
 
 <img   alt="image" src="https://github.com/user-attachments/assets/761a3e2e-277b-46a2-9f47-62e472dfc393" />
@@ -738,6 +756,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
