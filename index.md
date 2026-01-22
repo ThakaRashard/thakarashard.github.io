@@ -13,7 +13,9 @@ test identify conditions to safely roll out to the pad and launch the agency’s
 [Read](https://www.nasa.gov/artemis-ii-weather-criteria/) @stateofcalifornia @blackgirlscode 
 
 
-@TheSpaceDevs @nasa-pds @emit-sds . . . @cityoflosangeles @la-county-isd you guys should know about these things, then theres places we can team to keep los angeles safe Mrs Solis 
+@TheSpaceDevs @nasa-pds @emit-sds . . . 
+[Artemis I Weather Criteria](https://www3.nasa.gov/sites/default/files/atoms/files/artemis_i_weather_criteria_fact_sheet_0.pdf)
+@cityoflosangeles @la-county-isd you guys should know about these things, then theres places we can team to keep los angeles safe Mrs Solis @bloomberg @foxnews
 `https://web.archive.org/web/20220430125134/https://www.nasa.gov/artemis-1` [Artemis1](https://web.archive.org/web/20220430125134/https://www.nasa.gov/artemis-1) The Link Points to `nasa.gov/images/`
 
 ```
@@ -736,6 +738,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
