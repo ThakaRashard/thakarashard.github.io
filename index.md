@@ -7,6 +7,7 @@ published: true
 
 {% include nav.html %}
 
+@blackgirlscode [wefunk](https://www.wefunkradio.com/radio/play) works for me rn... i think i saw trice, she might be with allied... I am so confused, at least if she work for allied now, she from freaknick and lost her sparkle @nasa-jpl @la-county-isd 
 
 ### The weather guidelines for NASA’s Artemis II flight
 test identify conditions to safely roll out to the pad and launch the agency’s Space Launch System and Orion spacecraft.
@@ -846,6 +847,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
