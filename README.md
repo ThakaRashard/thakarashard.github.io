@@ -10,6 +10,9 @@
 @blackgirlscode hi oakland chapter 
 <img  alt="image" src="https://github.com/user-attachments/assets/e7820ab0-fa23-421b-8290-13e29f961576" />
 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/085a6eb7-53b7-4ab3-a7b5-54d9f783ae83" />
+
 @nasa Jennifer Brennan and Doug Newman @nasa-jpl
 Jennifer! 
 
