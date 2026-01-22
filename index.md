@@ -11,7 +11,42 @@ published: true
 ### The weather guidelines for NASA’s Artemis II flight
 test identify conditions to safely roll out to the pad and launch the agency’s Space Launch System and Orion spacecraft.
 [Read](https://www.nasa.gov/artemis-ii-weather-criteria/) @stateofcalifornia @blackgirlscode [Watch - 
-Artemis II Arrives at the Launchpad](https://youtu.be/EZaKdgc0x5g?si=2C1U1-Xhk2npPbNP) @lmco
+Artemis II Arrives at the Launchpad](https://youtu.be/EZaKdgc0x5g?si=2C1U1-Xhk2npPbNP) @lmco `2023-10-03 -> 2026-01-20 nasa-gov.go-vip.net` [Read https://dnshistory.org/dns-records/www.nasa.gov](https://dnshistory.org/dns-records/www.nasa.gov)
+
+```
+Registrar
+get.gov
+WHOIS Server
+whois.nic.gov
+```
+
+[https://lookup.icann.org/en/lookup](https://lookup.icann.org/en/lookup) @podaac @nasa-jpl @emit-sds @staeofcalifornia @blackgirlscode say @icann! [LAtrice](https://www.facebook.com/thevirtiservway/)
+
+```
+Name: nasa.gov
+Registry Domain ID: DF12B2D9A-GOV
+Domain Status:
+serverTransferProhibited
+
+Nameservers:
+a1-32.akam.net
+
+a12-64.akam.net
+
+a14-67.akam.net
+
+a5-66.akam.net
+
+a8-66.akam.net
+
+a9-64.akam.net
+
+Dates
+Registry Expiration: 2026-07-31 14:55:32 UTC
+Updated: 2025-09-07 18:35:13 UTC
+Created: 1997-10-02 01:29:26 UTC
+```
+
 
 ```shell
 >EXACT< name search [SPACE sensitive]:
@@ -811,6 +846,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
