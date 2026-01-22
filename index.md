@@ -7,6 +7,16 @@ published: true
 
 {% include nav.html %}
 
+@nasa-jpl ok, i told robin obrien i was working from home onetime, but i got kidnapped , please understand that people keep disabling me so im really behind... These jupyter notebooks are challenging, the plain text is bugging me because i wanna finish the excercise... i should stop feeling sorry for myself [Latrice](https://www.facebook.com/thevirtiservway/) @blackgirlscode @fbi @whitehouse . . . i can find some tutorials to get up to speed with delivering the freshest sat data, erathdata is still a webtool... @stateofcalifornia 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/761a3e2e-277b-46a2-9f47-62e472dfc393" />
+
+
+![ca.gov](https://ww2.arb.ca.gov/themes/gesso/cagov/images/Ca-Gov-Logo-Gold.svg)
+
+### What is sulfur dioxide (SO2)?
+Sulfur dioxide (SO2) is comprised of one atom of sulfur and two atoms of oxygen, and is a gas at ambient temperatures. It has a pungent, irritating odor. SO2 is a member of a family of chemicals comprised of sulfur and oxygen that are collectively known as sulfur oxides (SOX). - [ReadMore](https://ww2.arb.ca.gov/resources/sulfur-dioxide-and-health#:~:text=The%20level%20of%20SO2,in%20most%20of%20the%20country.) 
+
 @la-county-isd sulfur dioxide levels @nasa-jpl 
 
 <img alt="GIOVANNI-output_FpkRO8h" src="https://github.com/user-attachments/assets/d35296db-a622-45b4-8d89-5eaea38ec395" />
@@ -702,6 +712,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
