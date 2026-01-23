@@ -7,6 +7,12 @@ published: true
 
 {% include nav.html %}
 
+[rashardgds](https://rashardgds.github.io/rashardmro/) was like 65 -100 commits behind on the pages repo, this mro repo is a template clone so its not attached to the main fork and never updates, I dont know a clean way to update a new head , i really dont know what i did, blogging is so realtime @blackgirlscode
+<img  alt="image" src="https://github.com/user-attachments/assets/e442bb57-aff9-4c08-a858-13183de69af6" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/73d72c73-7528-4d06-9408-b81c83f07dec" />
+
+
 @blackgirlscode [wefunk](https://www.wefunkradio.com/radio/play) works for me rn... i think i saw trice, she might be with allied... I am so confused, at least if she work for allied now, she from freaknick and lost her sparkle @nasa-jpl @la-county-isd //// wefunk likes [SAGERAO 297](https://www.youtube.com/watch?v=OxIIt_l9duI&list=PL7CFEC8E5C731E299&index=19) - `date cuenta` [link](https://www.wefunkradio.com/song/879_af) // [Nonstop Disco Powerpack - BeastieBoys](https://youtu.be/rVqBcO2ancE) :: reminds me of [HELLONASTY](https://www.reddit.com/r/90sHipHop/comments/1m9xo3c/beastie_boys_hello_nasty_full_album/) - [Beastie Boys](https://youtu.be/JkeE2O15RFs?si=gbbPyukYGYSa6mOR) // liked [ekkah & dâm-funk](https://www.wefunkradio.com/song/879_ai) ::: [Listen2 - WHATSUP](https://youtu.be/10qegRw6aJ0?si=_y9DegiUY-eTO9_H) @blackgirlscode [NobadEnergy](https://youtu.be/47m8-xT0gBE?si=5Pn2BKuJnl2bbEno) [sparkles](https://www.facebook.com/thevirtiservway/)
 
 ### The weather guidelines for NASA’s Artemis II flight
@@ -847,6 +853,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
