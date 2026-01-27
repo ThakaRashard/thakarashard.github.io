@@ -1,6 +1,167 @@
 # News
+
+
+### Compton Creek Empty
+
+[video](https://photos.app.goo.gl/JjEoJx2kE1AMuMEs6)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8f7f4074-a215-443f-ad67-cb3f92a8efb3" />
+<img  alt="image" src="https://github.com/user-attachments/assets/390bcd65-43cd-4547-b7ab-e58354c2ea3d" />
+
+Worldview Opera Data Set, Los Angeles Land Disturbances [Dec202025](https://worldview.earthdata.nasa.gov/?v=-118.86053276977968,33.85069318585635,-117.98037344144863,34.287563935803995&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(opacity=0.67),VIIRS_NOAA21_Thermal_Anomalies_375m_Day,VIIRS_NOAA21_Thermal_Anomalies_375m_All,VIIRS_NOAA20_Thermal_Anomalies_375m_Night,VIIRS_NOAA20_Thermal_Anomalies_375m_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_All,MODIS_Aqua_Thermal_Anomalies_Day,MODIS_Aqua_Thermal_Anomalies_All,MODIS_Combined_Thermal_Anomalies_All,OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=0),HLS_L30_Nadir_BRDF_Adjusted_Reflectance(hidden),HLS_S30_Nadir_BRDF_Adjusted_Reflectance,Land_Water_Map&lg=true&tr=land_disturbance&s=-118.2433,34.0522&t=2025-12-20-T05%3A00%3A00Z) 
+[https://worldview.earthdata.nasa.gov/?v=-118.86053276977968,33.85069318585635,-117.98037344144863,34.287563935803995&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(opacity=0.67),VIIRS_NOAA21_Thermal_Anomalies_375m_Day,VIIRS_NOAA21_Thermal_Anomalies_375m_All,VIIRS_NOAA20_Thermal_Anomalies_375m_Night,VIIRS_NOAA20_Thermal_Anomalies_375m_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_All,MODIS_Aqua_Thermal_Anomalies_Day,MODIS_Aqua_Thermal_Anomalies_All,MODIS_Combined_Thermal_Anomalies_All,OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=0),HLS_L30_Nadir_BRDF_Adjusted_Reflectance(hidden),HLS_S30_Nadir_BRDF_Adjusted_Reflectance,Land_Water_Map&lg=true&tr=land_disturbance&s=-118.2433,34.0522&t=2025-12-20-T05%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=-118.86053276977968,33.85069318585635,-117.98037344144863,34.287563935803995&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(opacity=0.67),VIIRS_NOAA21_Thermal_Anomalies_375m_Day,VIIRS_NOAA21_Thermal_Anomalies_375m_All,VIIRS_NOAA20_Thermal_Anomalies_375m_Night,VIIRS_NOAA20_Thermal_Anomalies_375m_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_All,MODIS_Aqua_Thermal_Anomalies_Day,MODIS_Aqua_Thermal_Anomalies_All,MODIS_Combined_Thermal_Anomalies_All,OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=0),HLS_L30_Nadir_BRDF_Adjusted_Reflectance(hidden),HLS_S30_Nadir_BRDF_Adjusted_Reflectance,Land_Water_Map&lg=true&tr=land_disturbance&s=-118.2433,34.0522&t=2025-12-20-T05%3A00%3A00Z) 
+@LACountyDPH @CityOfLosAngeles @DataDesk @NAsa-jpl @la-county-isd Holly Mitchell / Karen Bass
+<img   alt="image" src="https://github.com/user-attachments/assets/a6cd1425-af31-4b92-80a1-96fc5dd3d88b" />
+
+
+Re: @NASAJPL LosAngeles> "Santa Fe High ScHool LAnd Disturbance*"
+I dont know who to tell.... i just saw it on the map , I emailed people about MAyfair and bumped into a sending limit, i been being followed so i cc a lot of people because i know someone that cares about me will get it via relay, im exiled for reading an book by Mr Franz a Jehovhas Witness Apostate called [Crisis OF Conscience](https://friendsofraymondfranz.com/wp-content/uploads/2020/04/CC2004-Eng.pdf) and my 1st spouse work for playboy, the girl she set me up with got kidnapped and converted vixen, and the new girl like a flighty possum at the fbi and i need to make sure im visible so she dont get a bad story, that pretty will turn ugly quick! @la-county-isd @lacounty-isab Karen Bass / Holly Mitchell, i only talk to you becasue you black and i need help... @blackgirlscode hi 
+-rashard @nasajpl
+[Rio San Gabriel](https://worldview.earthdata.nasa.gov/?v=-118.11601845568582,33.93471907467184,-118.10784476666082,33.93877611927643&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m(opacity=0.67),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=0),HLS_L30_Nadir_BRDF_Adjusted_Reflectance,HLS_S30_Nadir_BRDF_Adjusted_Reflectance(hidden),Land_Water_Map(hidden)&lg=true&s=-119.6983,34.4209&t=2025-12-28-T05%3A00%3A00Z) : [HOMEPAGE](https://web.dusd.net/riosangabriel/)
+
+[DownyUnifiedAnnualReport](https://web.dusd.net/wp-content/uploads/2022/11/Annual-Report2021-22.pdf)
+ [Los Angeles County Departments](https://lacounty.gov/government/departments-commissions-and-agencies/los-angeles-county-departments/)
+@nasa-jpl @usgs Land disturbance [Santafe highschool](https://www.cde.ca.gov/schooldirectory/details?cdscode=19651281937903) [Worldviewlink](https://worldview.earthdata.nasa.gov/?v=-118.0999999897618,33.9309993854133,-118.0807522942565,33.95012653167744&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m(opacity=0.67),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=0),HLS_L30_Nadir_BRDF_Adjusted_Reflectance,HLS_S30_Nadir_BRDF_Adjusted_Reflectance(hidden),Land_Water_Map(hidden)&lg=true&s=-119.6983,34.4209&t=2025-12-28-T05%3A00%3A00Z)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/edf94ab9-6040-4023-840b-c288e60647f5" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0904b70b-a937-4089-bf09-2eaa0e3291f9" />
+
+
+@CityOfLosAngeles @nasa-JPL Kathey BerGer Hilda Solis Karen Bass Holly Mitchell @StateOfCalifornia 
+#Eaton Canyon Land Disturbance [Link](https://worldview.earthdata.nasa.gov/?v=-118.20436944101876,34.13065807907277,-118.00969403326864,34.2401629959322&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m(opacity=0.67),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=0),HLS_L30_Nadir_BRDF_Adjusted_Reflectance,HLS_S30_Nadir_BRDF_Adjusted_Reflectance(hidden),Land_Water_Map(hidden)&lg=true&s=-119.6983,34.4209&t=2025-12-28-T05%3A00%3A00Z) 
+links [palisadesFirefootprint](https://rashardmro.tumblr.com/post/804135232008765440/mc-hotlinks-nasa-jpl-usgs-waterdashboard-usgs)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fd0aee8c-969e-456e-9dc3-ff462ec82b17" />
+
+@blackgirlscode @cityoflosangeles
+<img  alt="image" src="https://github.com/user-attachments/assets/362c363d-bd86-4551-931e-9783e693e3c2" />
+
+### Rushing river
+ [NBC News 8hrs of coverage of rushing river - watch](https://www.youtube.com/watch?v=e6Dbq7pN4wc) [Thermal](https://firms.modaps.eosdis.nasa.gov/map/?utm_source=homescreen#d:24hrs;@-106.0,25.4,4.1z)
+
+The rain let up around 2am downtown. Riding into longbeach there was a thick low fyling cloud that gave us a foggy ride in. The ComptonCreek is [now muddy](https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000000_oORivercheKs_rashard_NASAJPL_virtiserV_hi_latrice_VID_20251226_101930_625.mp4) and the Los Angeles River is about [two feet lower](https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000000_oORivercheKsWaterReport_rashard_NASAJPL_virtiserV_hi_latricE_waterLevelsdown2feet_VID_20251227_090736_106.mp4) and the water is flowing slower . . . @SWOT-community hi I have to keep up with the river because @LACMTA sometimes has water on the tracks and M_R_O assigned me to the [NasaFireDept](https://www-robotics.jpl.nasa.gov/how-we-do-it/facilities/marsyard-iii/), and gave me a [NasaEarthdataLogin](https://www.earthdata.nasa.gov/data/catalog) and guidance to explore [FireSensingTech](https://firms.modaps.eosdis.nasa.gov/active_fire/) and this year i made great contributions to The Local Newspapers with forensic data for [housing the homeless](https://www.lahsa.org/) in safe habitats and [diagnosing brush fire](https://youtu.be/ROlKx7PG6sY?si=1PmxOPhKyG7nL31b)
+files: [ComtonCreek 12/27](https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000000_oORivercheKs_rashard_NASAJPL_virtiserV_hi_latrice_VID_20251226_101930_625.mp4) ;  [LosAngelesRiver 12/27](https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000000_oORivercheKsWaterReport_rashard_NASAJPL_virtiserV_hi_latricE_waterLevelsdown2feet_VID_20251227_090736_106.mp4)  -rashard @nasa-jpl @weather-gov @cityoflosangeles @la-county-isd @blackgirlscode i sent [normani](https://www.eonline.com/news/1425545/jordan-chiles-normanis-dancing-with-the-stars-finale-dance-explained) a letter [on @tumblr](https://www.tumblr.com/santamonicashaadi/804112033340637184/wefunk-radio-stream?source=share) ... @howard-university-web-services I hope im not bugging you, she is a girl, latrice that is and everything will stop the bugabooing and everything. some girl from her pretty girl tribe got kidnapped in atlanta an they playing some sort of evil board game to get her back and some ppl identity clear for some people that no one can find 
+... I recently forked @meta [facebookresearch/EgoBlur](https://github.com/ThakaRashard/EgoBlur_Rashard), I have to look at the deeper software to figure out how ppl thinking on Facebook, any platoform that is, but this really caught my attention 
+```
+ThisRepositoryContains a command-line interface(CLI) that can detect and blur out faces and license plates(PII) from images and videos. The CLI takes an image or video file as input, runs an anonymization algorithm on it, and writes the blurred output to a specified path. @nasa-jpl @blackGirlsCode im scared of this one so im forking it! @NASA-PDS
+```
+
+anyway looking at @usgs [WaterDashBoard](https://dashboard.waterdata.usgs.gov/api/gwis/2.1.1/service/site?agencyCode=USGS&siteNumber=11101250&open=14375)
+The dam output dropped, i have to keep moving, i hope to track this storm across the missisippi , whats a cloud made up of, its a [long term thing](https://github.com/ThakaRashard/rashardmro/blob/master/docs/1_adult_EntertainmentZoning_LOS_ANGELES.pdf )... i just dont want to be slammed with due dates man 
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/38f17c86-231b-4267-8aad-2dcfeebd0386" />
+
+ [Thermal Anomalies - Firms](https://firms.modaps.eosdis.nasa.gov/map/?utm_source=homescreen#d:24hrs;@-106.0,25.4,4.1z) : [ThermalAnomolies](https://worldview.earthdata.nasa.gov/?v=-153.87634485096595,-64.46867973075939,199.72687596271328,94.85944526924061&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,VIIRS_SNPP_Thermal_Anomalies_375m_Day,VIIRS_SNPP_Thermal_Anomalies_375m_All,VIIRS_NOAA21_Thermal_Anomalies_375m_Night,VIIRS_NOAA21_Thermal_Anomalies_375m_Day,VIIRS_NOAA21_Thermal_Anomalies_375m_All,VIIRS_NOAA20_Thermal_Anomalies_375m_Night,VIIRS_NOAA20_Thermal_Anomalies_375m_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_All,MODIS_Terra_Thermal_Anomalies_All,MODIS_Terra_Thermal_Anomalies_Day,MODIS_Terra_Thermal_Anomalies_Night,MODIS_Combined_Thermal_Anomalies_Night,MODIS_Combined_Thermal_Anomalies_Day,MODIS_Combined_Thermal_Anomalies_All,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2025-12-27-T08%3A44%3A18Z)
+ 
+ <img  alt="image" src="https://github.com/user-attachments/assets/d77b33b7-c14b-4c69-89a3-376be46d07f0" />
+
+@cbs-news-data the naming convention for the river footage i captured in the last 18hrs or so is https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000000_oORivercheKsWaterReport_rashard_NASAJPL_virtiserV_hi_latricE_waterLevelsdown2feet* 
+
+Websites To Explore 
+[Water and Power Associates](https://waterandpower.org/index.html) 
+Informing the Public about Critical Water and Energy Issues facing Los Angeles and California
+About The Website
+Your gateway to L.A.'s water and power history and current issues. Water and Power Associates' website is a trusted, independent resource for anyone interested in the history and current issues of water and energy in Southern California. It offers:
+
+◆ Objective, non-partisan information on water and power
+
+◆ A vast digital archive of photographs and historical documentation
+
+◆ Educational tools for researchers, students, and civic planners
+
+The website serves as both an advocacy and preservation platform, ensuring that Southern California's infrastructure story is remembered—and that future policy is shaped with insight. @podaac @nasa-jpl [https://waterandpower.org/index.html](https://waterandpower.org/index.html) 
+
+Los Angeles Aqueduct
+Built in 1913, the Los Angeles Aqueduct provides critical water to millions of people.
+[Link](https://www.ladwp.com/who-we-are/water-system/los-angeles-aqueduct/facts-history) : [Link](https://www.spl.usace.army.mil/Missions/Asset-Management/Los-Angeles-River/)
+[https://www.ladwp.com/who-we-are/water-system/los-angeles-aqueduct](https://www.ladwp.com/who-we-are/water-system/los-angeles-aqueduct)
+
+[Water_for_L.A._Brochure_English](https://www.ladwp.com/sites/default/files/documents/Water_for_L.A._Brochure_English.pdf)
+
+L.A. Aqueduct Conditions Reports
+
+[Real Time Data](https://www.ladwp.com/who-we-are/water-system/los-angeles-aqueduct/la-aqueduct-conditions-reports/real-time-data)
+
+[Last Five Days](https://wsoweb.ladwp.com/Aqueduct/realtime/norealtime.htm)
+
+clicking on a station will display a chart of the last five days.
+
+[HISTORY OF THE LOS ANGELES RIVER](https://ladpw.org/wmd/watershed/LA/History.cfm)
+
+
+
+@newshour
+[Application User Workshop 2017 Report](https://swot.jpl.nasa.gov/internal_resources/318/) 
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d8b1e1e5-561e-4b61-9c02-64185b366d58" />
+
+- bonus 1940s LOS ANGELES & HOLLYWOOD CALIFORNIA
+- HOME MOVIE   CHINATOWN  OLVERA STREET  XD95595
+- [LinK](https://archive.org/details/XD95595-Los-Angeles-Hollywood-Dam-Signal-Hill-Home-Movie_mos_vwr.mov)
+- 
+<img alt="image" src="https://github.com/user-attachments/assets/77ac5d58-96eb-4e35-bddd-6103849beda3" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fd57d625-fd4c-4b2e-88dc-df115842b589" />
+
+@stateofCalifornia @cityoflosangeles karen bass / holly mitchell i made a simple water report with an overview of the dam discharge water report! 
+[@nasa-jpl](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-12-23-HR_NASAJPL.md) @weather-gov @noaa-gov -rashard @nasa-jpl @weather-gov @cityoflosangeles @la-county-isd   [CLicKHere To Watch VideoFile](https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000000_oORivercheKsWaterReport_rashard_NASAJPL_virtiserV_hi_latricE_VID_20251226_155402_176.mp4) / Play on [Archive.org](https://archive.org/details/commitmentmaintenance/0000000000_oORivercheKsWaterReport_rashard_NASAJPL_virtiserV_hi_latricE_VID_20251226_155402_176.mp4)
+
+[map]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.00949%2C33.6045%2C-116.94088%2C34.43657%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-118.00948607240103%2C33.60450029697667%2C-116.94087642863525%2C34.43656670045026%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C13%2C17%2C19%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )  ::: [CountyView]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.208%2C33.04263%2C-116.2139%2C34.5989%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-118.2079989714281%2C33.042627959524886%2C-116.21390286601236%2C34.5988990647461%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C13%2C17%2C19%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D ) : [StreetHeatMap](https://dn720700.ca.archive.org/0/items/92357558-1577420919086226-6893021317184880640-n/rashards_la_county_ticket_ECOSTRESS_CROP_00164_streetheat_la.png) 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/2812a21b-07db-4744-9641-08a8f1cee800" />
+
+San Gabriel River Mouth  [[1](https://vsco.co/rashardsartu/media/694d8a792b18972307f84bbb)] [[2](https://vsco.co/rashardsartu/media/694d8a9bbbe91b9bc35bc5ca)]
+<img  alt="image" src="https://github.com/user-attachments/assets/ede85b5f-7181-425b-90b5-f97bb2a9d87b" />
+
+[Cops in Los Angeles County, CA 1992](https://youtu.be/zDkDoQ95gOw) : [The Real LAPD - Episode 11- Super CopAP006302](https://youtu.be/flelgPzmtLE?si=TnwkebO-Ye8Gz_IM)  : [Los Angeles in the 1940s. "Vintage Los Angeles" Hollywood](https://youtu.be/4vNwVD6Xxxg) : [SOUTHERN CALIFORNIA HOLIDAY 1940s TRAVELOGUE](https://youtu.be/H2lr1V_G3vQ) SANTA FE RAILROAD 44214
+
+![image](https://github.com/user-attachments/assets/7d32b262-9632-4059-a573-dc7da73e7aba)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0742331b-d1de-4e66-8aca-f0471c0c241a" />
+
+[Map of](https://worldview.earthdata.nasa.gov/?v=-118.79612105728168,33.664984162767766,-117.29593014201049,34.40961017435811&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m(hidden),GRUMP_Settlements,Nuclear_Power_Plant_Locations,GRanD_Dams,GRanD_Reservoirs,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2023-10-22-T06%3A19%3A29Z) resivoirs and settlements and dams, its not as complete as @usgs [WaterDashboard]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.53877%2C33.69921%2C-117.46793%2C34.14027%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-118.53877132915142%2C33.69921037476071%2C-117.46793076754896%2C34.14027108990786%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C13%2C17%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D ) @la-county-isd 
+<img  alt="image" src="https://github.com/user-attachments/assets/ff93609c-129f-43c4-a4ae-1a100502ed0b" />
+
+
+ Compton Creek [MAP @usgs](https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.21079%2C33.84444%2C-118.20565%2C33.84869%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-118.21079313755037%2C33.84444433180912%2C-118.20565402507783%2C33.848685797680616%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C13%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D) @nasa @nasa-jpl @googleearth [Map](https://earth.google.com/web/@33.84737458,-118.2088503,11.22811489a,689.98276283d,35y,0h,0t,0r/data=CgRCAggBOgMKATBCAggASg0I____________ARAA)
+ 
+<img  alt="image" src="https://github.com/user-attachments/assets/1f323cbc-3de8-442a-9074-70bdbdd97d93" />
+
+ <img alt="image" src="https://github.com/user-attachments/assets/0862b4ed-1488-4406-8a8d-81bba4ac763f" />
+
+ ![CompTonCreek](https://dn720700.ca.archive.org/0/items/92357558-1577420919086226-6893021317184880640-n/IMG_20251226_102103_543.jpg)
+
+
+ <img  alt="image" src="https://github.com/user-attachments/assets/fe00b195-f0f2-4d8e-ba75-9465d334471d" />
+
+ <img   alt="image" src="https://github.com/user-attachments/assets/daade690-e3fa-49f5-815b-fedaa7ef0505" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/ab86848a-b62d-4278-bc34-96609eb095cd" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/816b1c43-39b2-430e-88df-e96cc9491aa1" />
+
+Sanbernadino
+fsac 1a34758 https://hdl.loc.gov/loc.pnp/fsac.1a34758
+![Sanbernadino](https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34700/1a34758v.jpg)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d37dfb92-84cc-43b4-a733-72ec78f7135e" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/bad9a66b-a420-4b2c-87a0-9ea12c564350" />
+
+647am I rode through the Santa Fe dam on the train @usgs large reservoirs were full but not all of them , The water rate monitor looks accurate [look at the data](https://waterdata.usgs.gov/monitoring-location/USGS-11085000/#dataTypeId=continuous-00065-0&period=P7D&showFieldMeasurements=true) - the [🗺️ map 🗾]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=state-ca&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-118.26669871742645%2C33.89234294269259%2C-117.82541648950564%2C34.591809305057346%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C10%2C17%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D)
+
+Earlier ~430 I checked the river crossover near Union Station The water was lower than it was when I visited earlier, I could see the concrete but it was still feeling fast and I would have called a shallow if not for the middle channel [See photo](https://vs.co/5p29m9a8) more @blackgirlscode Virtiserv [earthdataRashard](vsco.co/earthdatarashard) ~[thakasartu](vsco.co/rashardsartu), ~530am as I crossed the bridge little Chinatown and highland Park over the river it was high and flowing strongly from the mountains -rashard @nasa-jpl @weather-gov @cityoflosangeles
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
+?@.&
+
 Updated Font on Dev to [Comfortaa](https://fonts.google.com/specimen/Comfortaa) [RikoThaka:HoleToanotherUniverse](https://ricothaka.github.io/)
-![HTAU](https://pbs.twimg.com/media/Gpagr59bEAM7l_l?format=jpg&name=large)
+
 [Comfortaa looking for opinions : r/typography : reddit](https://www.reddit.com/r/typography/comments/kpls87/comfortaa_looking_for_opinions/?rdt=57381)
 ![COMFORTAA](https://www.dafont.com/img/illustration/c/o/comfortaa.png)
 [Pope’s Mourners See His Death as Crossroads for Catholic Church](https://www.wsj.com/world/europe/popes-mourners-see-his-death-as-crossroads-for-catholic-church-ea483a15) [Pope Francis, the Misunderstood Pontiff](https://www.wsj.com/opinion/the-misunderstood-pontiff-pope-francis-death-legacy-79ce7689) He was hailed as a progressive reformer and also attacked as a revolutionary. [Pope Francis : r/wikipedia:Reddit](https://www.reddit.com/r/wikipedia/comments/1k48d0z/pope_francis/) [Talk:Pope Francis - wikipedia_dOt_cOm](https://en.wikipedia.org/wiki/Talk:Pope_Francis) [Most popes are buried beneath the Vatican—but Francis is breaking tradition @natgeosociety](https://www.nationalgeographic.com/history/article/pope-francis-funeral-vatican-catacombs-crypts) @vatican-news @nasa-jpl [vatican-news/who-is-the-new-pope](https://github.com/vatican-news/who-is-the-new-pope) [Pope Francis’ Death Triggers Succession Process @wsj](https://www.wsj.com/world/pope-francis-dead-9155495e) [PopeFrancis Yandex Search](https://yandex.com/search/?text=pope+francis&lr=200&search_source=yacom_desktop_common)
