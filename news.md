@@ -222,6 +222,8 @@ LA mayor celebrates moving 8,866 homeless into permanent free housing in 2024 [R
 
 <img   alt="image" src="https://github.com/user-attachments/assets/761a3e2e-277b-46a2-9f47-62e472dfc393" />
 
+<img  alt="image" src="https://github.com/user-attachments/assets/70db539c-8566-42e2-ba9c-b850e8320a26" />
+
 {% include news.md %}
 {% include linkroll.md %}
 {% include nasajpl.md %}
