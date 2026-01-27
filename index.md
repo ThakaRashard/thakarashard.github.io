@@ -7,7 +7,7 @@ published: true
 
 {% include nav.html %}
 
-@nasa-jpl @jaxa @la-county-isd 
+[TheBronx:: Wasteland](https://youtu.be/H15INi4udRE?si=XU7Ryu_jc5Kb0MoO) @nasa-jpl @jaxa @la-county-isd 
 [United Nations - WATCH LiVE](https://www.youtube.com/live/vYRfQo6JMxc?si=63HPBq-7FIEpkTsk) @blackgirlscode
 
 [rashardgds](https://rashardgds.github.io/rashardmro/) was like 65 -100 commits behind on the pages repo, this mro repo is a template clone so its not attached to the main fork and never updates, I dont know a clean way to update a new head , i really dont know what i did, blogging is so realtime @blackgirlscode
