@@ -14,8 +14,9 @@ published: true
 @nasa-jpl i can get shut down because some of them were on sale in hollywood please protect my link, they asked me to so its like a law enforcement thing becasue they were doxxed and people got fired. I got fired, which slowed my return from atlanta but several of the girls at Dance411 lost thier jobs @la-county-isd [Holly_J_Mitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) [[1](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/)] [[2](https://en.wikipedia.org/wiki/Talk:Holly_Mitchell)] they are good with compputers and got sabotaged a lot on the way out west @CityOfLosAngeles its a template i developed when @pintrest was under attack @deptofdefense 
 
 Remember alot of the grls are in burlesque to this day so if you talk to a social company answers and results can vary but i was clean with them @whitehouse [MrTrump](https://www.whitehouse.gov/administration/donald-j-trump/). By The Way, I have two videos I want you to see about Quality OF life in LosAngeles and the priority of Art, Graffiti and Going HAm
-[HTAU_MRTRUMP1OF2SOL4711-4765](https://archive.org/download/commitmentmaintenance/000000000000_laRiverCanaL_HTAU_MRTRUMP1OF2SOL4711-4765_Jon_Ossoff_karenbass_NAGiN_COX_rashardsupdate_VirtiservLatriceVID_20260126_100756_144VID_20260125_002200_772.mp4) 	26-Jan-2026 23:36	323.1M
-[HTAU_MRTRUMP2OF2SOL4711](https://archive.org/download/commitmentmaintenance/000000000000_laRiverCanaL_HTAU_MRTRUMP2OF2SOL4711-4765_Jon_Ossoff_karenbass_NAGiN_COX_rashardsupdate_VirtiservLatriceVID_20260126_100756_144VID_20260125_002817_522.mp4)26-Jan-2026 23:37	140.8M
+
+- [HTAU_MRTRUMP1OF2SOL4711-4765](https://archive.org/download/commitmentmaintenance/000000000000_laRiverCanaL_HTAU_MRTRUMP1OF2SOL4711-4765_Jon_Ossoff_karenbass_NAGiN_COX_rashardsupdate_VirtiservLatriceVID_20260126_100756_144VID_20260125_002200_772.mp4) 	26-Jan-2026 23:36	323.1M
+- [HTAU_MRTRUMP2OF2SOL4711](https://archive.org/download/commitmentmaintenance/000000000000_laRiverCanaL_HTAU_MRTRUMP2OF2SOL4711-4765_Jon_Ossoff_karenbass_NAGiN_COX_rashardsupdate_VirtiservLatriceVID_20260126_100756_144VID_20260125_002817_522.mp4)26-Jan-2026 23:37	140.8M
 
 <img  alt="image" src="https://github.com/user-attachments/assets/74240373-e8b5-4a8b-bbd2-fc54d363f4a8" />
 
@@ -869,6 +870,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
