@@ -1,6 +1,12 @@
 # News
 
 
+Regular City Council - 1/27/26
+
+[Link](https://youtu.be/yV55wc0enB8)
+Palisades fire update @Cityoflosangeles @la-county-isd @emit-sds @podaac @nasa-jpl @nasa @blackgirlscode 
+<img  alt="image" src="https://github.com/user-attachments/assets/e79c94b6-0a68-4991-b7cf-d4496ff55824" />
+
 ### Compton Creek Empty
 
 [video](https://photos.app.goo.gl/JjEoJx2kE1AMuMEs6)
