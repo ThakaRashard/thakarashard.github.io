@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/7d32b262-9632-4059-a573-dc7da73e7aba)
 
 {% include nav.html %}
 
@@ -95,6 +94,8 @@ There was a [MiGA](https://www.google.com/amp/s/www.aljazeera.com/amp/news/2026/
 @ISRO The river looks like there's mud today @la-county-isd @staTeofcalifornia Karen bass 
 
 [1932 Los Angeles water district - `thirst`](https://youtu.be/u9HaotLKRzo?si=E_BMM0xC0vq2YGEr) @blackgirlscode @podaac @la-county-isd @cityoflosangeles 
+
+![image](https://github.com/user-attachments/assets/7d32b262-9632-4059-a573-dc7da73e7aba)
 
 
 ## Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
