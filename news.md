@@ -221,6 +221,7 @@ LA mayor celebrates moving 8,866 homeless into permanent free housing in 2024 [R
 @nasa-jpl ok, i told robin obrien i was working from home onetime, but i got kidnapped , please understand that people keep disabling me so im really behind... These jupyter notebooks are challenging, the plain text is bugging me because i wanna finish the excercise... i should stop feeling sorry for myself [Latrice](https://www.facebook.com/thevirtiservway/) @blackgirlscode @fbi @whitehouse . . . i can find some tutorials to get up to speed with delivering the freshest sat data, erathdata is still a webtool... @stateofcalifornia 
 
 <img   alt="image" src="https://github.com/user-attachments/assets/761a3e2e-277b-46a2-9f47-62e472dfc393" />
+<img  alt="image" src="https://github.com/user-attachments/assets/afb7d462-e220-4915-a646-deacd817b082" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/70db539c-8566-42e2-ba9c-b850e8320a26" />
 
