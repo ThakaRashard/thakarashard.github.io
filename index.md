@@ -8,8 +8,14 @@ published: true
 {% include nav.html %}
 
 @nasa-jpl im working on some online learning, ill be back to arset . . . i need to knock some of these out . . . Im learning CommandLineGit simultaneously @git @blackgirlscode rostered @la-county-isd [HollyJMitCHELL](https://nul.org/news/sen-holly-j-mitchell-why-im-leading-charge-against-natural-hair-discrimination-america) @officialredhat [LearningLAb](https://www.redhat.com/en/services/training/learning-subscription?sc_cid=RHCTN0240000419312&gclsrc=aw.ds&gad_source=1&gad_campaignid=20731743748&gbraid=0AAAAADsbVMSAMpiWnJRhREbYNMw9GiC_8&gclid=Cj0KCQiAhOfLBhCCARIsAJPiopOM7U0RZbiuq9_2mVaNCJnmxj96OLeu4aXajJ-iHLFP_ofUpG9vHmYaAkz6EALw_wcB) @podaac @nasa @stateofcalifornia @nasa-pds
+
+<div class=tupperware">
+
+ <img  alt="image" src="https://github.com/user-attachments/assets/ea962b48-c7fa-4a28-b853-d39034eea6fa" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/d6547456-191b-4bd2-8f1a-2eb3e1effad0" />
 
+</div>
 
 GM @blackgirlscode [LatriceFitzPatrick](https://www.facebook.com/thevirtiservway/), btw your results changed and i dont see you in your business suit in my [@google](https://www.google.com/search?q=latrice+fitzpatrick+virtiserv&rlz=1C1GCEJ_enUS1199US1199&oq=latrice+fit&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIGCAEQRRg5MgYIAhAjGCcyBggDEEUYOzIGCAQQRRg7MgYIBRBFGEAyBggGEEUYPDIGCAcQRRg90gEIMjQyOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8) results. Its less distracting, but i cant say i dont miss seeing your glory my queen, dismiss me please, you bout to hurt me, i still have not shaved as you requested and i need some confirmation ok! @mdn is a good resource for you guys @howard-university-web-services, if normani is still on that radio share thing tell her im listening to [weFunk](https://www.wefunkradio.com/radio/play)
 [HowardWebStandards](https://ouc.howard.edu/our-services/web-innovation-strategy/web-best-practices-guidelines) [MoZiLLADev](https://developer.mozilla.org/en-US/) and also [FireFox](https://www.firefox.com/en-US/browsers/desktop/linux/) [[1](https://support.mozilla.org/en-US/kb/install-firefox-linux) is our standard browser @nasa-jpl, we build it using [SunCompilers](https://docs.oracle.com/cd/E19205-01/820-3999/) [android](https://www.firefox.com/en-US/browsers/mobile/android/) : [Nightly](https://play.google.com/store/apps/details?id=org.mozilla.fenix&hl=en_US) [beta](https://www.firefox.com/en-US/channel/android/) ... @la-county-isd @CityOfLosAngeles @StateOfCalifornia just a little insight into our infrastructure @podaac @nasa-jpl /// @nasa-develop @Nasa-giss [`LATRiCE!`](https://bniamerica.com/en-US/memberdetails?encryptedMemberId=cAnVY1kMmNXzBZUYVJ2Q3g%3D%3D&cmsv3=true&name=LaTrice+Fitzpatrick) please follow [The Small Business Administration](https://www.sba.gov/) on [Github](https://github.com/USSBA) @USSBA, That department was discussed in a @Nasa TownHall meeting, just because im @Nasa-Openscapes [EarthData](https://www.earthdata.nasa.gov/about/program-leadership/organization-chart) dont mean i claim them people quick, i never talked to [Mori](https://moriassociates.com/) directly again @usnavy i might be in the navy and not know it, i got a pdf from [spaceForce](https://github.com/USSF-ORBIT) @USSF-ORBIT @nbcnews
@@ -895,6 +901,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
