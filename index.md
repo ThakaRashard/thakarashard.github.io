@@ -7,6 +7,10 @@ published: true
 
 {% include nav.html %}
 
+
+GM @blackgirlscode [LatriceFitzPatrick](https://www.facebook.com/thevirtiservway/), btw your results changed and i dont see you in your business suit in my @google results. Its less distracting, but i cant say i dont miss seeing your glory my queen, dismiss me please, you bout to hurt me, i still have not shaved as you requested and i need some confirmation ok! @mdn is a good resource for you guys @howard-university-web-services, if normani is still on that radio share thing tell her im listening to [weFunk](https://www.wefunkradio.com/radio/play)
+[HowardWebStandards](https://ouc.howard.edu/our-services/web-innovation-strategy/web-best-practices-guidelines) [MoZiLLADev](https://developer.mozilla.org/en-US/) and also [FireFox](https://www.firefox.com/en-US/browsers/desktop/linux/) [[1](https://support.mozilla.org/en-US/kb/install-firefox-linux) is our standard browser @nasa-jpl, we build it using [SunCompilers](https://docs.oracle.com/cd/E19205-01/820-3999/) [android](https://www.firefox.com/en-US/browsers/mobile/android/) : [Nightly](https://play.google.com/store/apps/details?id=org.mozilla.fenix&hl=en_US) [beta](https://www.firefox.com/en-US/channel/android/) ... @la-county-isd @CityOfLosAngeles @StateOfCalifornia just a little insight into our infrastructure @podaac @nasa-jpl /// @nasa-develop @Nasa-giss ![firefoxNightly](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Firefox_Nightly_logo%2C_2017.png/250px-Firefox_Nightly_logo%2C_2017.png)
+
 [TheBronx:: Wasteland](https://youtu.be/H15INi4udRE?si=XU7Ryu_jc5Kb0MoO) @nasa-jpl @jaxa @la-county-isd 
 [United Nations - WATCH LiVE](https://www.youtube.com/live/vYRfQo6JMxc?si=63HPBq-7FIEpkTsk) @blackgirlscode
 
@@ -870,6 +874,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
