@@ -7,9 +7,12 @@ published: true
 
 {% include nav.html %}
 
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/58ClQr29vxsXM4IlpgvSWO?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 @nasa-jpl im working on some online learning, ill be back to arset . . . i need to knock some of these out . . . Im learning CommandLineGit simultaneously @git @blackgirlscode rostered @la-county-isd [HollyJMitCHELL](https://nul.org/news/sen-holly-j-mitchell-why-im-leading-charge-against-natural-hair-discrimination-america) @officialredhat [LearningLAb](https://www.redhat.com/en/services/training/learning-subscription?sc_cid=RHCTN0240000419312&gclsrc=aw.ds&gad_source=1&gad_campaignid=20731743748&gbraid=0AAAAADsbVMSAMpiWnJRhREbYNMw9GiC_8&gclid=Cj0KCQiAhOfLBhCCARIsAJPiopOM7U0RZbiuq9_2mVaNCJnmxj96OLeu4aXajJ-iHLFP_ofUpG9vHmYaAkz6EALw_wcB) @podaac @nasa @stateofcalifornia @nasa-pds
 
-<div class=tupperware">
+<div class="tupperware">
 
  <img  alt="image" src="https://github.com/user-attachments/assets/ea962b48-c7fa-4a28-b853-d39034eea6fa" />
 
@@ -901,6 +904,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
