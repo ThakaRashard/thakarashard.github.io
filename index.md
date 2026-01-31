@@ -9,11 +9,11 @@ published: true
 
 
 
-![https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/148000/148350/erie_tmo_2021132_lrg.jpg](https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/148000/148350/erie_tmo_2021132_lrg.jpg) 
-
 
 ## [Lake Erie Astir](https://science.nasa.gov/earth/earth-observatory/lake-erie-astir-148350/) 
 : [imageFile](https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/148000/148350/erie_oli_2021138_lrg.jpg)
+
+![https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/148000/148350/erie_tmo_2021132_lrg.jpg](https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/148000/148350/erie_tmo_2021132_lrg.jpg) 
 
 [Link](https://science.nasa.gov/earth/earth-observatory/lake-erie-astir-148350/) :
 <img  alt="image" src="https://github.com/user-attachments/assets/1183dec1-dc11-4e29-9e9f-313780c3bdc5" />
@@ -1031,6 +1031,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
