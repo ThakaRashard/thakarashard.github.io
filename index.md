@@ -10,6 +10,24 @@ published: true
 
 # @isro x @asfadmin
 @blackgirlscode @nasa-jpl @nasa-openscapes
+I studied Interferograms a little bit
+[rashardnasalosangelesJPL.github.io](https://rashardnasalosangelesjpl.github.io/) /_posts
+/2026-01-31-[OhiO-justnow.md](https://rashardnasalosangelesjpl.github.io/2026/01/31/OhiO-justnow.html)
+in·ter·fer·o·gram
+/ˌin(t)ərˈfirəˌɡram/
+_a pattern formed by wave interference, especially one represented in a photograph or diagram.___
+@usgs 
+Interferometric Synthetic Aperture Radar (InSAR) is an effective way to measure changes in land surface altitude. InSAR makes high-density measurements over large areas by using radar signals from Earth-orbiting satellites to measure changes in land-surface altitude at high degrees of measurement resolution and spatial detail (Galloway and others, 2000).
+
+Synthetic Aperture Radar (SAR) imagery is produced by reflecting radar signals off a target area and measuring the two-way travel time back to the satellite. The SAR interferometry technique uses two SAR images of the same area acquired at different times and "interferes" (differences) them, resulting in maps called interferograms that show ground-surface displacement (range change) between the two time periods.
+
+Sources/Usage
+Public Domain @nasa / @usgs [readmore](https://www.usgs.gov/media/images/interferogram)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/6f82f262-3073-4d8a-97db-511968865507" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/f4f4d553-976c-4210-9cfb-423922bfec39" />
+
 NASA-ISRO Radar Mission Peers Through Clouds to See Mississippi River Delta
 [https://www.jpl.nasa.gov/news/nasa-isro-radar-mission-peers-through-clouds-to-see-mississippi-river-delta/](https://www.jpl.nasa.gov/news/nasa-isro-radar-mission-peers-through-clouds-to-see-mississippi-river-delta/)
 <img  alt="image" src="https://github.com/user-attachments/assets/c5dfb820-d0dd-4696-b9ba-d69236a786d8" />
@@ -1042,6 +1060,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
