@@ -9,6 +9,10 @@ published: true
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+![✓](https://www.google.com/logos/doodles/2026/the-art-of-hip-hop-beat-making-6753651837111032.3-mdrk.png) 
+
+
+@google if I need a phone 🤳 📱 number to watch @youtube we have a big pre launch outage @nasa-jpl @nasa Glenn `trice` ❤️‍🩹✌️🥱🆗😶‍🌫️👌🙂‍↔️🙂‍↕️🧑‍🦼🚶🏃
 the following have my @nasa-openscapes / @nasa-jpl earthdata notes like notes for cities and environmental concerns locally @stateofcalifornia my @google account holetoanotheruniverse40@gmail.com is currently locked. idk who has access and I don't want to lose my submissions @blackgirlscode @cityoflosangeles @la-county-isd @nasa-pds
 [https://archive.org/details/fav-thakaserika_selassie_kelly](https://archive.org/details/fav-thakaserika_selassie_kelly) // [https://archive.org/details/@thakaserika_selassie_kelly](https://archive.org/details/@thakaserika_selassie_kelly)
 
