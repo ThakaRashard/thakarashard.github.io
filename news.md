@@ -16,6 +16,16 @@ Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS-BlackGirlsCodeVID  @
 
 [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+# Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
+
+the following have my @nasa-openscapes / @nasa-jpl earthdata notes like notes for cities and environmental concerns locally @stateofcalifornia my @google account holetoanotheruniverse40@gmail.com is currently locked. idk who has access and I don't want to lose my submissions @blackgirlscode @cityoflosangeles @la-county-isd @nasa-pds
+[https://archive.org/details/fav-thakaserika_selassie_kelly](https://archive.org/details/fav-thakaserika_selassie_kelly) // [https://archive.org/details/@thakaserika_selassie_kelly](https://archive.org/details/@thakaserika_selassie_kelly)
+
+@whitehouse I got locked out of my Google account and post playboy destitution I have no way to get back in my @nasa accounts rn @la-county-isd karenBass holly Mitchell 
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+[_https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04793/opgs/edr/ncam/NRB_823000360EDR_M1200574NCAM00579M_.JPG_](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04793/opgs/edr/ncam/NRB_823000360EDR_M1200574NCAM00579M_.JPG)
+
 <img   alt="image" src="https://github.com/user-attachments/assets/798fd579-6809-49e7-97da-18478717c485" />
 
 WATCH [Mars Helicopter finding the Opposite of the HeatShield!](https://vimeo.com/1158008518?fl=pl&fe=sh) && [ROVERsFromLOSANGELES](https://thakarashard.github.io/rashardmro/2025/12/23/JPL-RoverWorLD.html) 
