@@ -11,7 +11,8 @@ published: true
 
 
 # today
-
+[dsn now](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+<img  alt="image" src="https://github.com/user-attachments/assets/cc25cd9e-c4f6-40fd-8bc1-a009b0b7bb2a" />
 
 @googleWorkspace
 i tried to tie my @protonmail account to a new google account and got stopped at phone number again @blackgirlscode KashDoll how u doin Normani ? @nasa-jpl @la-county-isd soe county emploees may be having issues with communication @cityOfLosAngeles [KarenBass](https://www.congress.gov/member/karen-bass/B001270) [[1](https://mayor.lacity.gov/about-mayor-karen-bass)] @emit-sds @nasa-pds @cisagov [_Supervisor Holly Mitchell_](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) has a lot of aerospace in her district, [_Lindsey Horavath_](https://lindseyhorvath.lacounty.gov/get-in-touch/) as well @nasa-openscapes @github if the law need enforcement those are some names re:[`doxxing`](https://www.dhs.gov/publication/resources-individuals-threat-doxing) ... `wiki` [link](https://en.wikipedia.org/wiki/Doxing) is the act of publicly providing personally identifiable information about an individual or organization, usually via the Internet and without their consent.[1][2][3] Historically, the term has been used to refer to both the aggregation of this information from public databases and social media websites (like Facebook), and the publication of previously private information obtained through criminal or otherwise fraudulent means (such as hacking and social engineering).[citation needed]
@@ -1138,6 +1139,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
