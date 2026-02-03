@@ -12,6 +12,11 @@ published: true
 
 # today
 
+
+@googleWorkspace
+i tried to tie my @protonmail account to a new google account and got stopped at phone number again @blackgirlscode KashDoll how u doin Normani ? `https://accounts.google.com/lifecycle/steps/signup/mophoneverification/initial?TL=APgKAcaniLpAqQTXSzbZxuzpTzpEEiWe8FDi6zaq5aLBUXiwW05VHeA6DZ4aPKup&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dnasa%2Bstream%2B%26sca_esv%3D7da175bd9b925cd1%26rlz%3D1C1GCEJ_enUS1200US1200%26ei%3DnWaCaYe4CqbPkPIPq_qImAM%26biw%3D958%26bih%3D952%26aic%3D0%26ved%3D0ahUKEwjH-o6SoL6SAxWmJ0QIHSs9AjMQ4dUDCBE%26uact%3D5%26oq%3Dnasa%2Bstream%2B%26gs_lp%3DEgxnd3Mtd2l6LXNlcnAiDG5hc2Egc3RyZWFtIDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAAGIAEGJECGIoFMgUQABiABDIFEAAYgARI3QRQH1gfcAF4AZABAJgBV6ABV6oBATG4AQPIAQD4AQGYAgKgAl_CAgoQABiwAxjWBBhHwgITEC4YgAQYsAMY0QMYQxjHARiKBcICDRAAGIAEGLADGEMYigWYAwCIBgGQBgqSBwEyoAf7BLIHATG4B1vCBwUwLjEuMcgHBoAIAA%26sclient%3Dgws-wiz-serp&dsh=S-549980660%3A1770153643342952&ec=futura_srp_og_si_72236_p&flowEntry=SignUp&flowName=GlifWebSignIn&hl=en&ifkv=AXbMIuBUz8nymwhQJnyMutId51R6DK3F3R8_Ft6-50AlKb7hrunxK4dcjJrbcJrEeVn5RLrRykar8g` 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2e906d27-c700-4016-9bcc-9fe1a0fca1fd" />
+
 <img   alt="image" src="https://github.com/user-attachments/assets/960f5275-f05c-49bb-9d2a-3d0e88340d3b" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/20fdc1d7-d089-4250-96d1-e44cf4da028a" />
@@ -1129,6 +1134,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
