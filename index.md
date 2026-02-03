@@ -12,6 +12,10 @@ published: true
 
 # today
 
+<img   alt="image" src="https://github.com/user-attachments/assets/960f5275-f05c-49bb-9d2a-3d0e88340d3b" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/20fdc1d7-d089-4250-96d1-e44cf4da028a" />
+
 `CouncilWoman` Megan Kerr @StateOfCalifornia @Cityoflosangeles @la-county-isd [district5@longbeach.gov](mailto:district5@longbeach.gov)
 
 https://sdo.gsfc.nasa.gov/data/rules.php](https://sdo.gsfc.nasa.gov/data/rules.php)
@@ -1125,6 +1129,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
