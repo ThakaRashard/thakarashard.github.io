@@ -9,7 +9,12 @@ published: true
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
-@cityoflosangeles ~> try [https://somafm.com/spacestation/](https://somafm.com/spacestation/) @la-county-isd [VirtiservBaeLAtrice](https://www.facebook.com/thevirtiservway/) here is a note i mentioned google and protonmail on, if its anything like [web.com](https://web.archive.org/web/20150310020232/http://www.web.com/) at somepoint the account will be rescued, i would appreciate if you guys let keishabottoms know im refreshing... its the start of the year anyway @nasa-jpl @stateofcalifornia [RepKarenBass](mailto:rap.commissioners@lacity.org ) [Hollymitchell](mailto:HollyJMitchell@bos.lacounty.gov)
+
+# today
+@la-county-isd _HollyJMitchelL_ _HildaSolis_ [Longbeachschools](https://www.lbschools.net/staff) is on a .net and performing poorly on @LACMTA Car 1112b right now.. images are filtered @nasa-jpl @podaac. 
+
+
+@cityoflosangeles ~> try  [https://somafm.com/spacestation/](https://somafm.com/spacestation/) @la-county-isd [VirtiservBaeLAtrice](https://www.facebook.com/thevirtiservway/) here is a note i mentioned google and protonmail on, if its anything like [web.com](https://web.archive.org/web/20150310020232/http://www.web.com/) at somepoint the account will be rescued, i would appreciate if you guys let keishabottoms know im refreshing... its the start of the year anyway @nasa-jpl @stateofcalifornia [RepKarenBass](mailto:rap.commissioners@lacity.org ) [Hollymitchell](mailto:HollyJMitchell@bos.lacounty.gov)
 
 <img alt="image" src="https://github.com/user-attachments/assets/b35f8710-035f-4da6-9d7b-1e1c32f846f1" />
 
