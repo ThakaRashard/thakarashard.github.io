@@ -9,6 +9,22 @@ published: true
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+
+@google @nasa-jpl @nasa @nasa-openscapes la-county-isd @blackgirlscode, my google account is disable , but the dialogs are not giving me that feedback, i dug it out of email @emit-sds @stateofcalifornia @cityoflosangeles @usgs
+
+```
+Your Google Account has been disabled
+
+holetoanotheruniverse40@gmail.com
+
+
+The Google Account holetoanotheruniverse40@gmail.com is now disabled. It looks like it was being used in a way that violated Google's policies.
+
+We understand your account is important to you. So if you think this was a mistake, sign in to the disabled account and submit a request to restore it. You'll need to do this soon, because disabled accounts are eventually deleted, along with your emails, contacts, photos, and other data stored with Google.  Learn more about Google policies.
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b638eec5-f9ef-4aa2-bbcf-358766eacf48" />
+
 ![✓](https://www.google.com/logos/doodles/2026/the-art-of-hip-hop-beat-making-6753651837111032.3-mdrk.png) 
 
 
@@ -1072,6 +1088,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
