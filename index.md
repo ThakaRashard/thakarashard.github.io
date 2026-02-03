@@ -11,6 +11,19 @@ published: true
 
 
 # today
+
+
+<pre>
+~ $ date
+Tue Feb  3 09:17:27 PST 2026
+~ $ cal
+    February 2026
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7
+ 8  9 10 11 12 13 14
+15 16 17 18 19 20 21
+22 23 24 25 26 27 28
+</pre>
 @la-county-isd _HollyJMitchelL_ _HildaSolis_ [Longbeachschools](https://www.lbschools.net/staff) is on a .net and performing poorly on @LACMTA Car 1112b right now.. images are filtered @nasa-jpl @podaac. 
 
 
