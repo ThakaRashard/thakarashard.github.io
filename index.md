@@ -12,6 +12,14 @@ published: true
 
 # today
 
+`CouncilWoman` Megan Kerr @StateOfCalifornia @Cityoflosangeles @la-county-isd [district5@longbeach.gov](mailto:district5@longbeach.gov)
+
+https://sdo.gsfc.nasa.gov/data/rules.php](https://sdo.gsfc.nasa.gov/data/rules.php)
+
+https://sdo.gsfc.nasa.gov/assets/img/dailymov/
+
+https://sdo.gsfc.nasa.gov/
+
 
 <pre>
 ~ $ date
@@ -24,6 +32,9 @@ Su Mo Tu We Th Fr Sa
 15 16 17 18 19 20 21
 22 23 24 25 26 27 28
 </pre>
+
+![https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_0193.jpg](https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_0193.jpg)
+
 @la-county-isd _HollyJMitchelL_ _HildaSolis_ [Longbeachschools](https://www.lbschools.net/staff) is on a .net and performing poorly on @LACMTA Car 1112b right now.. images are filtered @nasa-jpl @podaac. 
 
 
