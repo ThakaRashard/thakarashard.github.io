@@ -6,6 +6,13 @@
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+[Channel Islands National Park ](https://www.nps.gov/chis/planyourvisit/index.htm)
+@SWOT-community @la-county-isd @cityoflosangeles @stateofcalifornia 
+@newshour @blackgirlscode @nationalparkservice @nasa-jpl [HollyMitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) [LindseyHoravath](https://lindseyhorvath.lacounty.gov/) [KarenBass](https://www.congress.gov/member/karen-bass/B001270) [HildaSolis](https://www.hildasolis.com/)
+
+[DirectDownLoad](https://www.nps.gov/nps-audiovideo/legacy/chis/FFFC1B18-F686-F8E0-CAAF5A93BAB98E12/chis-Treasure-New24_1280x720.mp4)
+
+<iframe title="Video Embed" src="https://www.nps.gov/media/video/embed.htm?id=FFFC1B18-F686-F8E0-CAAF5A93BAB98E12" width="480" height="306" frameborder="0" scrolling="auto" allowfullscreen></iframe>
 
 ### California_Linux: 
 Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS-BlackGirlsCodeVID  @ISRO @CALTECH @BLACKGIRLSCODE @nasa-jpl RajVuchatu @isro [archive](https://archive.org/details/@thakaserika_selassie_kelly)
