@@ -11,16 +11,7 @@ published: true
  MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
 
-<div class="box">
 
-  {% for post in site.posts %}
-     
-    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
-  
-     
-  {% endfor %}
-   
- </div> 
 
 # today
 @blackgirlscode @howard-university-web-services @nasa-jpl @la-county-isd 
@@ -36,6 +27,18 @@ This film is part of the Periscope Film LLC archive, one of the largest historic
 
 [hubble](https://youtu.be/8sZE852jkpg?si=6FqktchJ024UN3Wq)
 
+
+<div class="box">
+
+  {% for post in site.posts %}
+     
+    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+  
+     
+  {% endfor %}
+   
+ </div> 
+ 
 @blackgirlscode @nasa-pds [planetarydata.jpl.nasa.gov/img/data/vg1_vg2-s-iss-2-edr-v2.0/vg_0038/extras/browse/saturn/c4417xxx/c4417014.jpg](https://planetarydata.jpl.nasa.gov/img/data/vg1_vg2-s-iss-2-edr-v2.0/vg_0038/extras/browse/saturn/c4417xxx/c4417014.jpg) : [https://pds-rings.seti.org/viewmaster/previews/VGISS_8xxx/VGISS_8210/DATA/C12079XX/C1207903_full.jpg](https://pds-rings.seti.org/viewmaster/previews/VGISS_8xxx/VGISS_8210/DATA/C12079XX/C1207903_full.jpg)
 
 <div class="tupperware">
@@ -1174,6 +1177,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
