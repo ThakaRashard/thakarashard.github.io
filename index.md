@@ -7,6 +7,20 @@ published: true
 
 {% include nav.html %}
 
+
+
+<div class="box">
+
+  {% for post in site.posts %}
+     {% if post.categories contains 'FP' %}  
+    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+     {% endif %}
+     
+  {% endfor %}
+   
+ </div> 
+
+ 
 # Rashard Kelly 
  MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
@@ -1177,6 +1191,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
