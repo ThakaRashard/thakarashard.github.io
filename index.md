@@ -38,6 +38,58 @@ hi @blackgirlscode, i hope all of you are doing ok. Since i got blocked from fac
 <img  alt="image" src="https://github.com/user-attachments/assets/ae596dc9-fe95-47dd-99b7-71bc601c2c9c" />
 
 
+# Mars Reconnaissance Orbiter 
+>Jim Taylor, Dennis K. Lee, and Shervin Shambayati 
+## 6.1 Mission Overview [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette" />](https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png) 
+The Mars Reconnaissance Orbiter (MRO) [1, 2] has a suite of instruments
+making observations at Mars, and it provides data-relay services for Mars
+landers and rovers. MRO was launched on August 12, 2005. The orbiter
+successfully went into orbit around Mars on March 10, 2006 and began
+reducing its orbit altitude and circularizing the orbit in preparation for the
+science mission. The orbit changing was accomplished through a process called aerobraking, in preparation for the “science mission” starting in November
+2006, followed by the “relay mission” starting in November 2008. MRO
+participated in the Mars Science Laboratory touchdown and surface mission
+that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nasa.gov/monograph/series13/DeepCommo_Chapter6--141029.pdf) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ActiveMission - DoD](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
+
+
+
+## About the United States Space Force
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_of_the_United_States_Space_Force.png/188px-Logo_of_the_United_States_Space_Force.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette United States Space Force" />](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_of_the_United_States_Space_Force.png/188px-Logo_of_the_United_States_Space_Force.png) [The U.S. Space Force](https://www.spaceforce.mil/About-Us/) was established on Dec. 20, 2019, creating the first new branch of the armed services since 1947. The establishment of the USSF resulted from widespread recognition that space is a national security imperative. When combined with the growing threat posed by strategic competitors in space, it became clear that there was a need for a military service focused solely on pursuing superiority in the space domain. [US SPACE Force 101 - PDF](https://www.spaceforce.mil/Portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf)
+
+<video controls preload="none" 
+  src="https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110409447/DOD_110409447-1024x576-2000k.mp4"
+  poster="https://media.defense.gov/2024/Jul/17/2003504898/2000/2000/0/240716-D-AF999-2001.PNG">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110409447/DOD_110409447-1024x576-2000k.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+![![SPACE FORCE 101](https://www.spaceforce.mil/portals/2/Documents/SF101/ussf_101.png)](https://www.spaceforce.mil/portals/2/Documents/SF101/ussf_101.png)
+
+
+## Groundwater Declines in the U.S. Southwest;
+## Los Angeles Plaza 1869
+![Los Angeles Plaza](https://upload.wikimedia.org/wikipedia/commons/b/bc/LosAngeles-Plaza-1869.jpg)
+![Groundwater Declines in the U.S. Southwest](https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152970/groundwater_grace_2023_lrg.jpg)
+
+## [Thick Terrain #3 animation - Wakana Y.K.](https://codepen.io/wakana-k/pen/ZYEBggM?editors=1100)
+![Thick Terrain #3 animation - Wakana Y.K.](https://pbs.twimg.com/media/Gk5_F51aQAADi9O?format=jpg&name=large) [RelatedTweeT @blackgirlscode](https://x.com/BubbleGumPop626/status/1895592718719729873)
+
+# Vortex [NasaWorlDViEw - California Coast](https://worldview.earthdata.nasa.gov/?v=-120.40125637695687,33.45647924203562,-118.97907818693304,34.85643589784032&l=Reference_Labels_15m(hidden),Reference_Features_15m,Coastlines_15m,HLS_S30_Nadir_BRDF_Adjusted_Reflectance,HLS_L30_Nadir_BRDF_Adjusted_Reflectance,HLS_NDWI_Sentinel(hidden,bandCombo=%7B%22assets%22%3A%5B%22B08%22;%22B03%22%5D;%22expression%22%3A%22%3CB03-B08%3E%2F%3CB03%2BB08%3E%22;%22rescale%22%3A%22-1;1%22;%22colormap_name%22%3A%22gnbu%22%7D),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2024-12-20-T16%3A00%3A00Z)
+
+![Vortex](https://pbs.twimg.com/media/Gk2CVKoXoAA6V9F?format=jpg&name=4096x4096)
+![window](https://pbs.twimg.com/media/Gk2AaJ7XQAErHx3?format=jpg&name=large) @nasa-jpl @blackgirlscode 
+[RelatedTweet](https://x.com/RicoThaka/status/1895314867592274306)
+
+[JPL Fire Victim interview](https://youtu.be/HrJl3sBOUo4?si=RxPGyj7hfKLXQepA)
+
+@blackgirlscode @normani [ThursdayDump vlogscreen-20250227-090209](https://archive.org/details/screen-20250227-090209) theres LA_RiVER Footage for today @Nasa-JPl @usgs 
+
+[National Water Dashboard](https://dashboard.waterdata.usgs.gov/app/nwd/en/) [Related Tweet](https://x.com/RicoThaka/status/1893818593155899603)
+![water data dashboard](https://pbs.twimg.com/media/GkgxSekaEAATA7B?format=jpg&name=medium) 
+[Hollywood Resivior-kcal news climate data](https://youtu.be/vHrRy0elIj0?si=BmrQfvaqqTtnG0Bw) @nasa
+
 
 https://www.wkbn.com/news/local-news/local-experts-talk-best-ways-to-spend-tax-money/)
 ## ARIA Sentinel-1 Geocoded Unwrapped Interferograms
@@ -407,6 +459,7 @@ Remember alot of the grls are in burlesque to this day so if you talk to a socia
 [1,457,591 BOARDING PASSES CLAIMED. Did you get yours? GasBuddyLatricE `VirtiservBaeTrice`](https://www3.nasa.gov/send-your-name-with-artemis/) @nasa-pds gm! [LaunchDay!]()
 
 [Akire plz try to talk peacefully to Latrice](https://www.youtube.com/live/nrVnsO_rdew?si=ks0vHtKGqqvTeoBh) @blackgirlscode either way she was up in Erika shit, because Erika don't do paperwork @nasa-jpl 
+
 
 
 
