@@ -52,6 +52,34 @@ Agreements (SLAs) with mission customers
 
 <img alt="image" src="https://github.com/user-attachments/assets/6919dcd9-58b8-49c5-a63f-8ecb458b5b5c" />
 
+[ROVERsFromLOSANGELES](https://thakarashard.github.io/rashardmro/2025/12/23/JPL-RoverWorLD.html)
+
+
+_This branch is 4 commits ahead of and 106 commits behind ThakaRashard/rashardmro:master._
+[https://github.com/krashardiman-ctrl/rashardmro/compare/master...ThakaRashard%3Arashardmro%3Amaster](https://github.com/krashardiman-ctrl/rashardmro/compare/master...ThakaRashard%3Arashardmro%3Amaster)
+
+
+@whitehouse @la-county-isd 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/919b98ad-f7d5-413b-b5d8-34401c58801a" />
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/798fd579-6809-49e7-97da-18478717c485" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/e96550dd-6454-4786-90a2-2facba8e2fc0" />
+<img alt="image" src="https://github.com/user-attachments/assets/ec807452-801a-42f1-8949-98a0b872614a" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/876168b0-7aad-4489-82a6-7ca4c132b008" />
+
+
+
+
+
+![Mars](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/TRA/ORB_000800_000899/TRA_000878_1410/TRA_000878_1410_COLOR.browse.jpg)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9975a70b-359a-4606-b8a3-a5fd2b3fb17e" />
+
+
 
 coursework @nasa [flexSizing tupperware ricothaka](https://codepen.io/ricoThaka/pen/vEYELoB)
 
@@ -503,6 +531,7 @@ Remember alot of the grls are in burlesque to this day so if you talk to a socia
 [1,457,591 BOARDING PASSES CLAIMED. Did you get yours? GasBuddyLatricE `VirtiservBaeTrice`](https://www3.nasa.gov/send-your-name-with-artemis/) @nasa-pds gm! [LaunchDay!]()
 
 [Akire plz try to talk peacefully to Latrice](https://www.youtube.com/live/nrVnsO_rdew?si=ks0vHtKGqqvTeoBh) @blackgirlscode either way she was up in Erika shit, because Erika don't do paperwork @nasa-jpl 
+
 
 
 
