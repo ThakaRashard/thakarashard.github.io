@@ -52,6 +52,24 @@ participated in the Mars Science Laboratory touchdown and surface mission
 that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nasa.gov/monograph/series13/DeepCommo_Chapter6--141029.pdf) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ActiveMission - DoD](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
 
 
+[This document is the AMMOS Catalog, Version 5.1 for the Multimission Ground Systemand Services (MGSS) Program, Interplanetary Network Directorate (IND) Office](https://ammos.nasa.gov/pdf/AMMOS_Catalog-V5_2_Public_Release.pdf) The capabilities described in this AMMOS Catalog are intended to serve as guidance
+and as the ‘gold source’ capability descriptions when developing Service Level
+Agreements (SLAs) with mission customers
+[Rover ControL an Planning Software ](https://human-factors.arc.nasa.gov/publications/COCPIT_Mars_Perseverance_Rover.pdf) [AMMOS offers an Suite of tools for Real-time Monitoring and Control of a Spacecraft](https://ammos.nasa.gov/pdf/Brochure-Monitor-Control-Solution.pdf)
+part of the - Ground Data System (GDS) tool suite 
+
+[Ground & Flight Data Systems Group](https://www.nasa.gov/intelligent-systems-division/collaborative-and-assistant-systems/ground-and-flight-data-systems-group/)  creates systems to facilitate transmission and processing of data between spacecraft, rovers, satellites, ground control, and distributed mission teams. Data ranges from communications, telemetry, and Integrated Systems Health Management (ISHM) data, to planetary, astrophysical, medical, and biological science research data and analytics. Ground processing of data is accomplished by science pipeline data systems, which transform raw, uncorrected, uncalibrated data into usable products for the science community. GFDS designs systems to satisfy carefully defined and documented user requirements involving the secure handling of sensitive and irreplaceable mission data. The group supports space and planetary exploration missions, as well as Earth and space sciences, small satellite, and aeronautics missions and projects. [The Mars 2020 Ground Data System Architecture](https://ntrs.nasa.gov/citations/20230007026)
+[The Mars Observer Camera Ground Data System](https://earthobservatory.nasa.gov/images/event/153817/los-angeles-fires-2025) [https://www.msss.com/mars/observer/camera/papers/gds_papers/aiaa.html](https://www.msss.com/mars/observer/camera/papers/gds_papers/aiaa.html)
+[Eaton Fire Leaves California Landscape Charred](https://earthobservatory.nasa.gov/images/153821/eaton-fire-leaves-california-landscape-charred?utm_source=TWITTER&utm_medium=NASAEarth&utm_campaign=NASASocial&linkId=715793698)
+# [El Niño](https://www.youtube.com/watch?v=WPA-KpldDVc) Southern Oscillation
+![ELNINO](https://mynasadata.larc.nasa.gov/sites/default/files/2019-02/12601-El-Nino-3D-print.jpg)
+
+
+# [KD Diary](https://soundcloud.com/kashdoll/sets/stacked-5) - [KashDoLL](https://archive.org/details/Kash_Doll_-_The_Vault-2018)
+@blackgirlscode idk if Normani is Kashdoll or They sisters but they / it has been my friend above all an i want her to get an audience that is really into hearing a story like a magazine you pick up. That will protect her from predators. Its a pattern for you all
+<iframe width="560" height="315" src="https://www.youtube.com/embed/25VCq8iHTVo?si=wgvL6NeJh8AnGalu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Summer of '67 - how Detroit changed forever in 5 days](https://www.youtube.com/watch?v=kn1gcdgiLac)
 
 ## About the United States Space Force
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_of_the_United_States_Space_Force.png/188px-Logo_of_the_United_States_Space_Force.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette United States Space Force" />](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_of_the_United_States_Space_Force.png/188px-Logo_of_the_United_States_Space_Force.png) [The U.S. Space Force](https://www.spaceforce.mil/About-Us/) was established on Dec. 20, 2019, creating the first new branch of the armed services since 1947. The establishment of the USSF resulted from widespread recognition that space is a national security imperative. When combined with the growing threat posed by strategic competitors in space, it became clear that there was a need for a military service focused solely on pursuing superiority in the space domain. [US SPACE Force 101 - PDF](https://www.spaceforce.mil/Portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf)
@@ -459,6 +477,7 @@ Remember alot of the grls are in burlesque to this day so if you talk to a socia
 [1,457,591 BOARDING PASSES CLAIMED. Did you get yours? GasBuddyLatricE `VirtiservBaeTrice`](https://www3.nasa.gov/send-your-name-with-artemis/) @nasa-pds gm! [LaunchDay!]()
 
 [Akire plz try to talk peacefully to Latrice](https://www.youtube.com/live/nrVnsO_rdew?si=ks0vHtKGqqvTeoBh) @blackgirlscode either way she was up in Erika shit, because Erika don't do paperwork @nasa-jpl 
+
 
 
 
