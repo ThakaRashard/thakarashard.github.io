@@ -24,6 +24,19 @@ published: true
 # Rashard Kelly 
  MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+[Rover ControL an Planning Software ](https://human-factors.arc.nasa.gov/publications/COCPIT_Mars_Perseverance_Rover.pdf) [AMMOS offers an Suite of tools for Real-time Monitoring and Control of a Spacecraft](https://ammos.nasa.gov/pdf/Brochure-Monitor-Control-Solution.pdf)
+part of the - Ground Data System (GDS) tool suite 
+@la-county-isd @doug-newman-nasa @nsidc @nasa [Jared](mailto:jared@shift4.com) I picked the username _` _Rashard_G_D_S_`_ after reading this document [https://www.nasa.gov/intelligent-systems-division/collaborative-and-assistant-systems/ground-and-flight-data-systems-group/](https://www.nasa.gov/intelligent-systems-division/collaborative-and-assistant-systems/ground-and-flight-data-systems-group/) Because Im still getting an understanding of how to tell people i ned resources from what deep space network is because of , [the film industry](https://www.youtube.com/watch?v=QSEDb0zsi3w) [[1](https://www.gov.ca.gov/2025/10/21/governor-newsom-announces-tax-credit-awards-for-new-job-creating-films-shooting-in-california-and-generating-1-4-billion-for-the-states-economy/)[[2](https://x.com/CAgovernor/status/1919596799633117360) 
+
+@StateOfCalifornia 
+
+[Ground & Flight Data Systems Group](https://www.nasa.gov/intelligent-systems-division/collaborative-and-assistant-systems/ground-and-flight-data-systems-group/)  creates systems to facilitate transmission and processing of data between spacecraft, rovers, satellites, ground control, and distributed mission teams. Data ranges from communications, telemetry, and Integrated Systems Health Management (ISHM) data, to planetary, astrophysical, medical, and biological science research data and analytics. Ground processing of data is accomplished by science pipeline data systems, which transform raw, uncorrected, uncalibrated data into usable products for the science community. GFDS designs systems to satisfy carefully defined and documented user requirements involving the secure handling of sensitive and irreplaceable mission data. The group supports space and planetary exploration missions, as well as Earth and space sciences, small satellite, and aeronautics missions and projects. [The Mars 2020 Ground Data System Architecture](https://ntrs.nasa.gov/citations/20230007026)
+[The Mars Observer Camera Ground Data System](https://earthobservatory.nasa.gov/images/event/153817/los-angeles-fires-2025) [https://www.msss.com/mars/observer/camera/papers/gds_papers/aiaa.html](https://www.msss.com/mars/observer/camera/papers/gds_papers/aiaa.html)
+[Eaton Fire Leaves California Landscape Charred](https://earthobservatory.nasa.gov/images/153821/eaton-fire-leaves-california-landscape-charred?utm_source=TWITTER&utm_medium=NASAEarth&utm_campaign=NASASocial&linkId=715793698)
+
+[This document is the AMMOS Catalog, Version 5.1 for the Multimission Ground Systemand Services (MGSS) Program, Interplanetary Network Directorate (IND) Office](https://ammos.nasa.gov/pdf/AMMOS_Catalog-V5_2_Public_Release.pdf) The capabilities described in this AMMOS Catalog are intended to serve as guidance
+and as the ‘gold source’ capability descriptions when developing Service Level
+Agreements (SLAs) with mission customers
 
 coursework @nasa [flexSizing tupperware ricothaka](https://codepen.io/ricoThaka/pen/vEYELoB)
 
@@ -40,7 +53,9 @@ hi @blackgirlscode, i hope all of you are doing ok. Since i got blocked from fac
 
 # Mars Reconnaissance Orbiter 
 >Jim Taylor, Dennis K. Lee, and Shervin Shambayati 
-## 6.1 Mission Overview [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette" />](https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png) 
+## 6.1 Mission Overview
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette" />](https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png) 
+
 The Mars Reconnaissance Orbiter (MRO) [1, 2] has a suite of instruments
 making observations at Mars, and it provides data-relay services for Mars
 landers and rovers. MRO was launched on August 12, 2005. The orbiter
@@ -52,15 +67,8 @@ participated in the Mars Science Laboratory touchdown and surface mission
 that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nasa.gov/monograph/series13/DeepCommo_Chapter6--141029.pdf) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ActiveMission - DoD](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
 
 
-[This document is the AMMOS Catalog, Version 5.1 for the Multimission Ground Systemand Services (MGSS) Program, Interplanetary Network Directorate (IND) Office](https://ammos.nasa.gov/pdf/AMMOS_Catalog-V5_2_Public_Release.pdf) The capabilities described in this AMMOS Catalog are intended to serve as guidance
-and as the ‘gold source’ capability descriptions when developing Service Level
-Agreements (SLAs) with mission customers
-[Rover ControL an Planning Software ](https://human-factors.arc.nasa.gov/publications/COCPIT_Mars_Perseverance_Rover.pdf) [AMMOS offers an Suite of tools for Real-time Monitoring and Control of a Spacecraft](https://ammos.nasa.gov/pdf/Brochure-Monitor-Control-Solution.pdf)
-part of the - Ground Data System (GDS) tool suite 
 
-[Ground & Flight Data Systems Group](https://www.nasa.gov/intelligent-systems-division/collaborative-and-assistant-systems/ground-and-flight-data-systems-group/)  creates systems to facilitate transmission and processing of data between spacecraft, rovers, satellites, ground control, and distributed mission teams. Data ranges from communications, telemetry, and Integrated Systems Health Management (ISHM) data, to planetary, astrophysical, medical, and biological science research data and analytics. Ground processing of data is accomplished by science pipeline data systems, which transform raw, uncorrected, uncalibrated data into usable products for the science community. GFDS designs systems to satisfy carefully defined and documented user requirements involving the secure handling of sensitive and irreplaceable mission data. The group supports space and planetary exploration missions, as well as Earth and space sciences, small satellite, and aeronautics missions and projects. [The Mars 2020 Ground Data System Architecture](https://ntrs.nasa.gov/citations/20230007026)
-[The Mars Observer Camera Ground Data System](https://earthobservatory.nasa.gov/images/event/153817/los-angeles-fires-2025) [https://www.msss.com/mars/observer/camera/papers/gds_papers/aiaa.html](https://www.msss.com/mars/observer/camera/papers/gds_papers/aiaa.html)
-[Eaton Fire Leaves California Landscape Charred](https://earthobservatory.nasa.gov/images/153821/eaton-fire-leaves-california-landscape-charred?utm_source=TWITTER&utm_medium=NASAEarth&utm_campaign=NASASocial&linkId=715793698)
+
 # [El Niño](https://www.youtube.com/watch?v=WPA-KpldDVc) Southern Oscillation
 ![ELNINO](https://mynasadata.larc.nasa.gov/sites/default/files/2019-02/12601-El-Nino-3D-print.jpg)
 
@@ -477,6 +485,7 @@ Remember alot of the grls are in burlesque to this day so if you talk to a socia
 [1,457,591 BOARDING PASSES CLAIMED. Did you get yours? GasBuddyLatricE `VirtiservBaeTrice`](https://www3.nasa.gov/send-your-name-with-artemis/) @nasa-pds gm! [LaunchDay!]()
 
 [Akire plz try to talk peacefully to Latrice](https://www.youtube.com/live/nrVnsO_rdew?si=ks0vHtKGqqvTeoBh) @blackgirlscode either way she was up in Erika shit, because Erika don't do paperwork @nasa-jpl 
+
 
 
 
