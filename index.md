@@ -24,6 +24,16 @@ published: true
 # Rashard Kelly 
  MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+
+hi @blackgirlscode, i hope all of you are doing ok. Since i got blocked from facebook my access to [kim](https://www.linkedin.com/in/kimberlybryant) has significantly dropped, [Normani](https://youtu.be/2-4uA8CPg6o?si=wVVaTFfKLoHgibo4) tied up with the people from her world, but says hi oon the street . .  [Brandy](https://www.youtube.com/watch?v=qSIOp_K5GMw)... idk i thnk theres 2 girls that play normani, but I think the normani that was in your pics that asked me to kee you in my loop @nasa-jpl / @podaac is brandy, ... that song [tantrums](https://youtu.be/2-4uA8CPg6o?si=wVVaTFfKLoHgibo4), idk she may have been mad at me and some of my responsibility shifted... I hope you know of her at least... I think She famous in music... But [LatriceFitzpatrick](https://www.wkbn.com/news/local-news/local-experts-talk-best-ways-to-spend-tax-money/), and I forgot,... We were at [O4wSkatePArk](https://www.reddit.com/r/mfdoom/comments/zcnzzu/graffiti_mural_at_historic_old_fourth_ward_skate/) in the grafitti area and she sat with me like 4hrs while i painted and i tink she might be a cop, but either way i went on public dates with her. She lookes enough like brandy to impersonate her, there are suddle bust size differences and brandy has a bigger butt, however, with complexion changers I know i got played but they were doing different things taht crossed paths. Im so detached fro Coral I want you to know i was thinking of you bc i want you to know im not into porn and not stalking any of you and at this poit i know kim work @whitehouse so [@nasa-jpl](https://www.jpl.nasa.gov/virtual-tour/) is her garage and we have a moon launch in about 3 weeks. Whatever the case someone stole my medicinal weed i scored. Im a legal pateint here if someone parent is afraid @la-county-isd Karen Bass is in congress and will be talking to me soon either way so put [Kim](https://obamawhitehouse.archives.gov/champions/tech-inclusion/kimberly-bryant) anyy concerns about me, because i need to talk to her anyway, brandy,normani and latrice help keep me online. [KashDoll](https://www.youtube.com/watch?v=VxXRkTkZL5w) account saved our mission in someways because i was able to get files i retrived from a department of defense satellite to the lab, so the deals i made with them, they still holding to. But I dont know what [men are in their life](https://www.youtube.com/watch?v=FiGAkDE7s7o), i get dumped alot, but im safe im not a danger in that way _[Review of PC 647(i) & PC 647(j) California's Peeping Tom Laws_](https://www.egattorneys.com/peeping-tom-laws-in-california)
+
+@blackgirlscode I saw [Latrice](https://www.facebook.com/tremaine.wills/posts/join-the-conversation-with-la-trice-monique-of-virtiserv-llc-happening-live-in-g/10217558335701413/) with facetatoos, soo, im her rebound nigga like that, i dont want it too look like im trying to date another girl,,, the roster is already embarrasssing [consensually](https://www.merriam-webster.com/dictionary/consensual) @blackgirlscode so i may be single right now, but its the single thats not and i dont want to lead anyone on @blackgirlscode @CityOfLosAngeles @nasa-pds @Nasa-jpl @doug-newman-nasa `dance411` [hi](https://www.youtube.com/c/Dance411) @nasa thats where i was on saturday morning [HollyMitchll](https://www.youtube.com/watch?v=KxN8BOcjxeI) / [KarenBass](https://youtu.be/qI08k8K3K7w?si=AmJCpRtkzjReXdvZ) and lost my way after a few girls started trying to date outside the studio @mailchimp @webb [info@keishaforgovernor.com](mailto:info@keishaforgovernor.com)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ae596dc9-fe95-47dd-99b7-71bc601c2c9c" />
+
+
+
+https://www.wkbn.com/news/local-news/local-experts-talk-best-ways-to-spend-tax-money/)
 ## ARIA Sentinel-1 Geocoded Unwrapped Interferograms
 [Link](https://www.earthdata.nasa.gov/data/catalog/asf-aria-s1-gunw-1)
 @webb @intuit can you send this commit to [keisha bottoms](info@keishaforgovernor.com) @asfadmin ?
@@ -789,6 +799,7 @@ Clouds
 [1,457,591 BOARDING PASSES CLAIMED. Did you get yours? GasBuddyLatricE `VirtiservBaeTrice`](https://www3.nasa.gov/send-your-name-with-artemis/) @nasa-pds gm! [LaunchDay!]()
 
 [Akire plz try to talk peacefully to Latrice](https://www.youtube.com/live/nrVnsO_rdew?si=ks0vHtKGqqvTeoBh) @blackgirlscode either way she was up in Erika shit, because Erika don't do paperwork @nasa-jpl 
+
 
 
 
