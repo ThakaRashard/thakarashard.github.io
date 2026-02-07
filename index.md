@@ -28,14 +28,14 @@ published: true
 ## _RashardGDS@GMAiL.com_
 @cityoflosangeles @webb @mailchimp @nasa-jpl @nasa-pds @la-county-isd 
 @bLACKGIRLSCODE
-https://rashardgds.github.io/
-[Rover ControL an Planning Software ](https://human-factors.arc.nasa.gov/publications/COCPIT_Mars_Perseverance_Rover.pdf) [AMMOS offers an Suite of tools for Real-time Monitoring and Control of a Spacecraft](https://ammos.nasa.gov/pdf/Brochure-Monitor-Control-Solution.pdf) part of the - Ground Data System (GDS) tool suite 
+[https://rashardgds.github.io/](https://rashardgds.github.io/) :: [https://github.com/rashardgds](https://github.com/rashardgds)
+
 @la-county-isd @doug-newman-nasa @nsidc @nasa [Jared](mailto:jared@shift4.com) I picked the username _` _Rashard_G_D_S_`_ after reading this document [https://www.nasa.gov/intelligent-systems-division/collaborative-and-assistant-systems/ground-and-flight-data-systems-group/](https://www.nasa.gov/intelligent-systems-division/collaborative-and-assistant-systems/ground-and-flight-data-systems-group/) Because Im still getting an understanding of how to tell people i nEed resources from what [deep space network](https://eyes.nasa.gov/apps/dsn-now/) is because of , [the film industry](https://www.youtube.com/watch?v=QSEDb0zsi3w) [[1](https://www.gov.ca.gov/2025/10/21/governor-newsom-announces-tax-credit-awards-for-new-job-creating-films-shooting-in-california-and-generating-1-4-billion-for-the-states-economy/)[[2](https://x.com/CAgovernor/status/1919596799633117360) [[3](https://youtu.be/vbInwfrzXC0?si=c-yPxiFNgFQTHY0A)]
 Star Trek: Deep Space Nine [TRAILER](https://youtu.be/2-xCyIuovLo?si=qfYnQN_3W7ekebcT) @NASA-PDS 
 @StateOfCalifornia 
 
 [Deep Space Network Explainer Video: How Do We Know Where Faraway Spacecraft Are?](https://www.nasa.gov/stem-content/deep-space-network-explainer-video-how-do-we-know-where-faraway-spacecraft-are/) `books` [Uplink-Downlink A History of the `Deep Space Network` 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf) :: [Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf) [Read You Loud and Clear! - _dEEPsPACEnETWORK @NASA-JPL_](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf) The Story of NASA's Spaceflight Tracking and Data Network 
-[Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) :: [How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf)
+[Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) :: [How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf) [Rover ControL an Planning Software ](https://human-factors.arc.nasa.gov/publications/COCPIT_Mars_Perseverance_Rover.pdf) [AMMOS offers an Suite of tools for Real-time Monitoring and Control of a Spacecraft](https://ammos.nasa.gov/pdf/Brochure-Monitor-Control-Solution.pdf) part of the - Ground Data System (GDS) tool suite 
 
 
 <img width="330" height="86" alt="image" src="https://github.com/user-attachments/assets/7b792390-1ed3-406e-b4df-d49b40b71141" />
@@ -48,6 +48,7 @@ Star Trek: Deep Space Nine [TRAILER](https://youtu.be/2-xCyIuovLo?si=qfYnQN_3W7e
 and as the ‘gold source’ capability descriptions when developing Service Level
 Agreements (SLAs) with mission customers
 
+<img  alt="image" src="https://github.com/user-attachments/assets/56d3cd2a-3e2b-4b0b-b5fb-5f7bd22282fd" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/293b2dae-f62c-4c31-a45a-8d287fd7a01a" />
 
@@ -501,6 +502,7 @@ Remember alot of the grls are in burlesque to this day so if you talk to a socia
 [1,457,591 BOARDING PASSES CLAIMED. Did you get yours? GasBuddyLatricE `VirtiservBaeTrice`](https://www3.nasa.gov/send-your-name-with-artemis/) @nasa-pds gm! [LaunchDay!]()
 
 [Akire plz try to talk peacefully to Latrice](https://www.youtube.com/live/nrVnsO_rdew?si=ks0vHtKGqqvTeoBh) @blackgirlscode either way she was up in Erika shit, because Erika don't do paperwork @nasa-jpl 
+
 
 
 
