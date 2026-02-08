@@ -2,6 +2,387 @@
 ![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
 ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
 
+
+# [Rashard Kelly](https://rashard-ecostress-jpl-iss.github.io/)
+## NasaJpl MRO JUNO iSS [[1](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master)] [[2](https://kellyrashardiman.github.io/)]
+# Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+
+
+{% include nav.html %}
+This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
+
+  {% for post in site.posts %}
+    
+<article class="paginator">
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
+
+  {% endfor %}
+
+
+
+# Rashard Kelly NasaJpl MRO JUNO iSS
+
+<img alt="image" src="https://github.com/user-attachments/assets/4ac8a87f-4e4c-4c26-a168-f6a021d961aa" />
+
+<img  alt="image @blackgirlscode " src="https://github.com/user-attachments/assets/7e8f5285-5edb-432a-8c0d-bd8da9f8f945" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/09d55b1e-5c7a-47ea-963e-c506fcb6eb36" />
+
+<img    alt="image" src="https://github.com/user-attachments/assets/54ba4768-1c60-4eda-94d3-3bb796dcd795" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a5424fbf-b981-4a78-9819-8c5d78402dfc" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/40320ffc-521f-427c-ae06-fc5fab7ab4d3" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/73252199-ff61-4c3e-9a4e-efc21f4bad1b" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/a9325e1f-b298-4688-8227-69d6eff075d4" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6eb1ab4d-b469-435e-8f9e-ed17ac2c44a3" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ff607eb4-2f94-46a6-98cc-68166fa0c453" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ea91e936-9b21-4e92-84f2-a825dccf9ff0" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/6efe872c-d8d4-451c-9051-7666fc087b9f" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f2830884-c031-4780-bbb2-cbc59afd4e9f" />
+
+< img src="https://daac.ornl.gov/AVIRIS/guides/AV3_L2A_RFL_Fig1.jpg" />
+<style>
+svg  {width: 100%; height: auto;}
+</style>
+
+[marsblogv2](https://rashardgds.github.io/2025/04/22/Marsblogv2.html)
+[Current](https://www.youtube.com/watch?v=XvDZLjaCJuw) [Synopsis](https://youtu.be/PiZHNw1MtzI?t=156)
+<img   alt="image" src="https://github.com/user-attachments/assets/2ea98101-0fdd-4316-a7bb-3d8da524f3fc" />
+
+[![Twitter Follow](https://img.shields.io/badge/Social-ricoThaka__-blue?style=social&logo=X)](https://twitter.com/ricothaka)
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
+[Use Lynx to download a page, image, or program from the web to your account from the Unix command prompt](https://servicenow.iu.edu/kb?id=kb_article_view&sysparm_article=KB0022667)
+![NASAJPL](https://space.jpl.nasa.gov/msl/headers/msl.gif)
+[la](https://rashardnasalosangelesjpl.github.io/rashardlearned/la/frontpage/sub/2025/10/16/civic.html)
+![Thumbnail of Rashard](https://pbs.twimg.com/media/GYBdj5Eb0AI5dIy?format=jpg&name=large)
+
+### Definition lists can be used with HTML syntax.
+
+<dl>
+<dt>Name</dt>
+<dd>Rashard(Thaka) Iman Kelly</dd>
+<dt>Born</dt>
+<dd>1980</dd>
+<dt>Birthplace</dt>
+<dd>North America</dd>
+<dt>Color</dt>
+<dd>BruisedOrange</dd>
+</dl>
+
+
+
+![Perservere](https://science.nasa.gov/wp-content/uploads/2024/03/1065.gif)
+![PioNeer10](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pioneer_10_-_Pioneer_11_-_mission_patch_-_Pioneer_patch.png) 
+
+[Pioneer 10](https://en.wikipedia.org/wiki/Pioneer_10) (originally designated Pioneer F) is a NASA space probe launched in 1972 that completed the first mission to the planet Jupiter.[6]
+
+/PDS/CATALOG/
+
+PDS_VERSION_ID         = PDS3
+LABEL_REVISION_NOTE    = "2006-07-24, R. Sharrow, initial;
+                          2006-12-15, S. Slavney, reformatted & revised;
+                          2007-07-30, S. Slavney, Aerobraking subphases"
+RECORD_TYPE            = STREAM
+
+OBJECT                 = MISSION
+  [MISSION_NAME         = "MARS RECONNAISSANCE ORBITER"](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)
+
+  OBJECT               = MISSION_INFORMATION
+    MISSION_START_DATE = 2005-08-12
+    MISSION_STOP_DATE  = UNK
+    MISSION_ALIAS_NAME = "MRO"
+    MISSION_DESC       = "
+    
+  Mission Overview
+  ================
+
+    The Mars Reconnaissance Orbiter spacecraft was launched from Cape
+    Canaveral Air Force Station on 12 August 2005 aboard a Lockheed-Martin
+    Atlas V-401 launch vehicle. After a five-month cruise and a two-month
+    approach to Mars, MRO entered Mars' orbit on 10 March 2006 and began
+    aerobraking.  The primary science phase began on 8 November, 2006. The
+    primary science phase is planned to last one Mars year (approximately two
+    Earth years), after which an extended mission may be scheduled. 
+    
+    Note: This description has been written early in the Primary Science
+    Phase of the MRO mission. It will be revised at least once by the
+    end of the mission. 
+    
+  Mission Phases
+  ==============
+  
+    The Mars Reconnaissance Orbiter Mission is divided in time into six
+    phases: Launch, Cruise, Approach and Orbit Insertion, Aerobraking, 
+    Primary Science, and Relay.
+
+    LAUNCH
+    ------
+      Launch extended from the start of the countdown to the initial 
+      acquisition, by the DSN, of the orbiter in a safe and stable 
+      configuration.
+      
+      The baseline launch vehicle for the MRO mission was the Lockheed-Martin
+      Atlas V 401.  This launch vehicle was selected by NASA-KSC (Kennedy
+      Space Flight Center) via a competitive procurement under the NASA 
+      Launch Services (NLS) contract.  The Atlas V 401 was a two-stage 
+      launch vehicle consisting of the Atlas Common Core Booster and a 
+      single engine Centaur upper stage.  The Centaur upper stage could 
+      perform multiple restarts of its main engine.  For precise pointing and 
+      control during coast and powered flight, the Centaur used a flight 
+      control system that was 3-axis stabilized. The Atlas large payload 
+      fairing was used to protect MRO during the Atlas boost phase.  This 
+      fairing had a diameter of 4.2m and a length of 12.2m.
+      
+      The launch and injection of MRO occured during the Mars opportunity
+      of August 2005. The Atlas booster, in combination with the Centaur 
+      upper stage, delivered the MRO spacecraft into a targeted parking 
+      orbit. After a short coast, a restart of the Centaur upper stage 
+      injected MRO onto an interplanetary transfer trajectory.  
+      
+      Mission Phase Start Time : 2005-08-12 
+      Mission Phase Stop Time  : 2005-08-12
+
+    CRUISE
+    ------
+      Duration: About five months. The cruise phase extended from DSN
+      initial acquisition, in a safe and stable configuration, until two
+      months prior to the Mars Orbit Insertion (MOI) maneuver. Primary
+      activities during cruise included spacecraft and payload checkout and
+      calibration.  These activities, along with daily monitoring of orbiter
+      subsystems, were performed in order to fully characterize the
+      performance of the spacecraft and its payload prior to arrival at
+      Mars.  In addition, standard navigation activities were performed
+      during this flight phase, the first being the largest TCM performed
+      fifteen days after launch.
+
+      Mission Phase Start Time : 2005-08-12
+      Mission Phase Stop Time  : 2006-01-10
+
+    APPROACH AND ORBIT INSERTION
+    ----------------------------
+      This phase extended from two months prior to Mars Orbit Insertion
+      (MOI), through MOI, and until the orbiter was checked out and ready to
+      begin aerobraking. The orbiter was inserted into a nearly polar orbit
+      with a period of 35 hours.
+      
+      During the last sixty days of the interplanetary transit, spacecraft
+      and ground activities were focused on the events necessary for a
+      successful arrival and safe capture at Mars. Navigation techniques
+      included the use of delta-DOR measurements in the orbit determination.
+      This technique yielded a precise determination of the inbound
+      trajectory with a series of final TCMs used to control the flight path
+      of the spacecraft up to the MOI maneuver.
+      
+      Also during the approach phase, MRO performed the Optical Navigation
+      experiment.  This involved pointing the optical navigation camera
+      (ONC) at the moons of Mars - Phobos and Deimos, and tracking their
+      motion. By comparing the observed position of the moons to their
+      predicted positions, relative to the background stars, the ground was
+      able to accurately determine the position of the orbiter.
+      
+      Upon arrival at Mars on March 10, 2006, the spacecraft performed its
+      MOI maneuver using its six main engines.  MOI inserted the spacecraft
+      into an initial, highly elliptical capture orbit.  The delta-V
+      required to accomplish this critical maneuver was 1015 m/s and took
+      about 26 minutes to complete. For most of the burn, the orbiter was
+      visible from the DSN stations.  The signal was occulted as the orbiter
+      went behind Mars, and appeared again a short time later. The reference
+      MRO capture orbit had a period of 35 hours and a periapsis altitude of
+      300km.  The orientation of the ascending node was 8:30 PM LMST.  The
+      capture orbit was been selected such that aerobraking would be
+      completed prior to the start of solar conjunction (September 23,
+      2006).
+
+      Mission Phase Start Time : 2006-01-10
+      Mission Phase Stop Time  : 2006-03-10
+
+
+    AEROBRAKING
+    -----------
+      The Aerobraking Phase of the mission consisted of three sub-phases, 
+      Aerobraking Operations, Transition to PSO Operations, and Solar 
+      Conjunction. 
+      
+      Aerobraking Operations Sub-Phase 
+      --------------------------------
+      
+      One week after MOI, aerobraking operations commenced.  During this
+      time period, the orbiter used aerobraking techniques to supplement its
+      onboard propulsive capability and to reduce its orbit period to that
+      necessary for the primary science orbit (PSO).  Aerobraking Operations
+      consisted of a walk-in phase, a main phase, and a walkout phase, and  
+      was followed by a transition to the PSO.  During the walk-in phase, the
+      spacecraft established initial contact with the atmosphere as the 
+      periapsis altitude of the orbit was slowly lowered.  The walk-in phase 
+      continued until the dynamic pressures and heating rate values required 
+      for main phase, or steady state aerobraking, were established.  During 
+      the main phase of aerobraking operations, large scale orbit period 
+      reduction occurred as the orbiter was guided to dynamic pressure 
+      limits. Main phase aerobraking continued until the orbit lifetime of 
+      the orbiter reached 2 days.  (Orbit lifetime is defined as the time it 
+      takes the apoapsis altitude of the orbit to decay to an altitude of 
+      300km.)  When the orbit lifetime of the orbiter reached 2 days, the 
+      walkout phase of aerobraking operations began.  During the walkout 
+      phase, the periapsis altitude of the orbit was slowly increased as the 
+      2 day orbit lifetime of the orbiter was maintained.  Once the orbit of 
+      the orbiter reached an apoapsis altitude of 450km, the orbiter 
+      terminated aerobraking by propulsively raising the periapsis of its 
+      orbit out of the atmosphere.
+      
+      Because the PSO had nodal orientation requirements, the aerobraking
+      phase of the MRO mission had to proceed in a timely manner and be
+      completed near the time the desired nodal geometry was achieved. After
+      approximately 4.5 months of aerobraking, the dynamic pressure control
+      limits were reset such that the orbiter will fly to the desired 3:00
+      pm LMST nodal target. 
+      
+      Transition to PSO Operations Sub-Phase
+      --------------------------------------
+      
+      Once the orbit apoapsis altitude was reduced to 450 km, the orbiter
+      terminated aerobraking by raising periapsis to a safe altitude and
+      begin a transition to the Primary Science Phase.  The periapsis of 
+      the transition orbit rotated around Mars from over the equatorial 
+      latitudes to the North Pole.  When periapsis reached the North Pole, 
+      apoapsis was reduced propulsively to 255 km and orbit rotation stopped 
+      - the orbit was frozen with periapsis over the South Pole and apoapsis 
+      over the North Pole.  The SHARAD antenna and the CRISM cover were 
+      deployed, the instruments were checked out and remaining calibrations 
+      were performed.  The payloads collected data in their normal operating 
+      modes to ensure that the end-to-end data collection and processing 
+      systems worked as planned.  
+      
+      Solar Conjuction Sub-Phase
+      --------------------------
+      
+      Orbiter activities in preparation for science were then temporarily 
+      suspended during a four week period surrounding solar conjunction.
+
+
+      Mission Phase Start Time : 2006-03-17
+      Mission Phase Stop Time  : 2006-11-07
+
+      Aerobraking Operations Sub-Phase Start Time: 2006-03-17
+      Aerobraking Operations Sub-Phase Stop Time: 2006-09-15
+      
+      Transition to PSO Operations Sub-Phase Start Time: 2006-09-15
+      Transition to PSO Operations Sub-Phase Stop Time: 2006-10-09
+      
+      Solar Conjunction Sub-Phase Start Time: 2006-10-09
+      Solar Conjunction Sub-Phase Stop Time: 2006-11-07
+      
+
+    PRIMARY SCIENCE
+    ---------------
+      The 255 x 320 km Primary Science Orbit (PSO) is a near-polar orbit
+      with periapsis frozen over the South Pole.  It is sun-synchronous with
+      an ascending node orientation that provides a Local Mean Solar Time
+      (LMST) of 3:00 p.m. at the equator.  Because of the eccentricity of
+      the Mars orbit around the Sun, true solar time varies by nearly 45
+      minutes over the course of one Mars year.
+      
+      The Primary Science Phase of the mission began after solar conjunction
+      and after turn-on and checkout of the science instruments in the
+      Primary Science Orbit.  The phase started on 8 November 2006, will
+      extend for one Mars year, and will conclude prior the next solar
+      conjunction near the end of 2008.
+      
+      The science investigations are functionally divided into daily global
+      mapping and profiling, regional survey, and globally distributed
+      targeting investigations.  The global mapping instruments are the MCS
+      and the MARCI.  The targeted investigations are HiRISE, CRISM, and
+      CTX. The survey investigations are CRISM and CTX (in survey modes),
+      and SHARAD.  The global mapping instruments require nadir pointing,
+      low data rate, and continuous or near-continuous operations.  The
+      global mapping investigations are expected to use less than 5% of the
+      expected downlink data volume.  The targeted and survey instruments
+      are high data rate instruments and will require precise targeting in
+      along-track timing and/or cross-track pointing for short periods of
+      time over selected portions of the surface.  It is expected that more
+      than 95% of the available downlink data volume will be used for
+      targeted and survey investigations. All instruments can take data
+      simultaneously.
+      
+      Toward the end of the primary science phase, other Mars missions
+      launched in the 2007 opportunity will begin to arrive. Phoenix, the
+      first of the Mars Program's Scout missions has been selected to launch
+      in the 2007 Mars opportunity. Phoenix, a lander mission that will
+      collect and analyze subsurface ice and soil material, will arrive in
+      late May 2008. Phoenix will need MRO to characterize its prime landing
+      site choices early in the Primary Science Phase. MRO will provide
+      relay support for Entry, Descent, and Landing (EDL) activities and for
+      telecommunications late in the PSP after Phoenix arrives at Mars.
+      Phoenix and MRO will also coordinate some observations to maximize
+      science return to the Mars Exploration Program. Another mission, the
+      Mars Science Laboratory (MSL) is currently proposed for launch in
+      2009, with arrival in 2010, during the MRO Relay Phase.
+      
+      MSL will need MRO to provide and characterize candidate landing sites
+      using observations taken during the MRO PSP. (Final certification of
+      the prime MSL landing sites may require limited observations by the
+      science payload in 2009 during the Relay phase. However, this has not
+      been committed to by MRO) MRO will also provide EDL support and relay
+      telecommunications for MSL. During the primary science phase, periodic
+      instrument calibrations will be performed to verify the measurement
+      characteristics, stability and health of the instruments. At the
+      conclusion of the Primary Science Phase, these calibrations will be
+      repeated, so that the final instrument characteristics are known.
+      
+      NASA may approve, as resources and on-orbit capability permit,
+      continuation of science observations beyond the Primary Science Phase
+      until end of the Relay Phase (also End of Mission).  The orbiter will
+      remain in the Primary Science Orbit during the Relay Phase.
+
+      Mission Phase Start Time : 2006-11-08
+      Mission Phase Stop Time  : 2008-11-09
+
+
+    RELAY
+    -----
+      MRO will provide critical relay support to missions launched as part
+      of the Mars Exploration Program after MRO.  For spacecraft launched in
+      the 2007 opportunity, this relay support will occur before the end of
+      the MRO Primary Science Phase.   Following completion of the Primary
+      Science Phase, MRO will continue to provide critical relay support for
+      Mars missions until its end of mission.
+      
+      While all of the missions that MRO will support have not yet been
+      selected, Phoenix, the first of the Mars Program's Scout missions has
+      been selected to launch in the 2007 Mars opportunity.  Phoenix, a
+      lander mission that will collect and analyze soil samples, will arrive
+      in late May 2008.  It will need science imaging support for site
+      characterization and selection and relay support for its Entry,
+      Descent and Landing activities and for its science data return. 
+      Another mission, the Mars Science Laboratory (MSL) is proposed for the
+      2009 Mars opportunity.  MSL will also need science imaging support for
+      site characterization and selection and relay support for EDL and
+      science data return.  The MRO Mission Plan describes the generic
+      support activities for any mission as well as current early planning
+      in support of Phoenix and MSL.  Activities regarding site
+      characterization and selection will be described as part of the
+      Primary Science Phase, and activities regarding relay support will be
+      described as part of the Relay Phase.
+      
+      The orbiter has been designed to carry enough propellant to remain
+      operational for 5 years beyond the end-of-mission (EOM) on December
+      31, 2010 to support future MEP missions.  As this is beyond the EOM,
+      no activities have been planned for this time period.  To ensure that
+      the orbiter remains in a viable orbit duri
+
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 
