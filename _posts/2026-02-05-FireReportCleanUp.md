@@ -1,10 +1,73 @@
 ---
-layout: post
+layout: default
 mermaid: true
 published: true
-title: FireDataCleanup
+title: LosAngelesFireData
+categories: FP
 image: KL_Sun_UltraSparc.jpg
 ---
+
+
+### Imagery for the January 2025 Southern California Wildfires
+July 25, 2025 [Link](https://appliedsciences.nasa.gov/our-impact/news/imagery-january-2025-southern-california-wildfires?fbclid=IwY2xjawMUmeBleHRuA2FlbQIxMABicmlkETBTNG5VdjVRVTM5OFYxTDllAR57RhnPcQOExdmpiZQUGIKm2xo71nnMQLrTeLyuhl4CexrFXZXSZ4eJIHp-0g_aem_suduglAdayCjYckgQwYLzg)
+<img alt="image" src="https://github.com/user-attachments/assets/06093647-77d7-4e98-becb-f3038b7eda31" />
+
+<img alt="image" src="https://appliedsciences.nasa.gov/sites/default/files/inline-images/Planet_LAFires_Altadena.png" />
+[planetLabs](https://www.planet.com/industries/nasa/) , [@NASA ViSiBLE_EARTH Query](https://visibleearth.nasa.gov/source/1673/planet-labs)
+# About One-third of Malibu Burned In The Palisades Fire. Where Does It Go From Here?
+@nasa-jpl [Latimes @datadesk](https://github.com/datadesk) made a doc @nasa 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0zsMg7gkC6Y?si=rU9ah5V22lcxwE6W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Overview Maps of 2025 Los Angeles Fires](https://svs.gsfc.nasa.gov/5568/)
+
+![Overview](https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005568/Overview_HD.png)
+
+On January 7th, 2025, a series of wildfires started in the Southern California area, heavily affecting Los Angeles communities. The fires spread rapidly due to an abnormally dry year coupled with extreme winds raging at up to 100 miles per hour. Two of the fires, Eaton and Palisades, affected densely populated neighborhoods, spreading rapidly from structure to structure and combining to cause severe damage to over 16,000 homes and businesses. [Released Friday, July 11, 2025](https://svs.gsfc.nasa.gov/5568/)
+
+
+
+
+<img alt="To submit flight requests for the NASA Airborne Visible Infrared Imaging Spectrometer (AVIRIS), visit the website below. https://aviris.jpl.nasa.gov/status/flight_req.html " src="https://aviris.jpl.nasa.gov/images/aviris_text2.png" />
+
+# cartography
+
+
+[https://www.jpl.nasa.gov/missions/airborne-visible-infrared-imaging-spectrometer-aviris/](https://www.jpl.nasa.gov/missions/airborne-visible-infrared-imaging-spectrometer-aviris/)
+AVIRIS is the first full spectral range imaging spectrometer and dedicated to Earth Remote Measurements . . 
+[AVIRIS Flight Request Information - CLiCKHERE](https://aviris.jpl.nasa.gov/status/flight_req.html)
+
+
+### _ARIA Sentinel-1 Geocoded Unwrapped Interferograms_
+@cityoflosangeles @nasa-jpl @CityOfLosangeles @LA-County-iSd 
+a few animated ones are in this archive [LinK](https://archive.org/details/nsn-overview-noaccess_NASAJPL_rashardsJob)
+
+[WEB_P](https://ia601409.us.archive.org/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/ezgif.com-gif-to-webp-converter.webp) // [MP4](https://ia601409.us.archive.org/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/ARIA_Sentinel-1_Los_Angeles_County_ASF_RASHARDNASAJPL_ViRTiSERV_iNEEDuRHELP_KARENBASS_or_HOLLYMiTCHELL_BLACKGiRLSCODE_NORMANi_ezgif.com-gif-to-mp4-converter%20%281%29.mp4) // [GiF](https://ia601409.us.archive.org/view_archive.php?archive=/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/ARIA_S~1.ZIP&file=ARIA_Sentinel-1_Los_Angeles_County_ASF_RASHARDNASAJPL_ViRTiSERV_iNEEDuRHELP_KARENBASS_or_HOLLYMiTCHELL_BLACKGiRLSCODE_NORMANi_ezgif.com-animated-gif-maker2.gif)
+
+
+
+_4 L.A._ **[DataSet](https://www.earthdata.nasa.gov/data/catalog/asf-aria-s1-gunw-1):** https://www.earthdata.nasa.gov/data/catalog/asf-aria-s1-gunw-1
+[ARIA_Sentinel-1_Los_Angeles_County_ASF_RASHARDNASAJPL_ViRTiSERV_iNEEDuRHELP_KARENBASS_or_HOLLYMiTCHELL_BLACKGiRLSCODE_NORMANi
+
+
+
+<div class="tupperware">
+ 
+<img  alt="https://d1bctmng8vmwga.cloudfront.net/s3-b339e3a40716b5999fea2aad1aee9f03/asf-cumulus-prod-aria-browse.s3.us-west-2.amazonaws.com/ARIA_S1_GUNW/S1-GUNW-D-R-071-tops-20250918_20250831-135250-00119W_00034N-PP-412b-v3_0_1/S1-GUNW-D-R-071-tops-20250918_20250831-135250-00119W_00034N-PP-412b-v3_0_1.png?A-userid=None&Expires=1770252965&Signature=qwJDudLLc7vPLWh4SJFmdTH4Y2fOdokd-N~e~-hClGVPswQlYkqgo3gN6vwquUYGSLQz7-jzWDmVwzthTy9riPA6D3MAgRPpHqFthPchXXGLAhqNY43Em6t54pBwqWMTt2HHHPdgfdVws4p-yex10DLH2CBhkMIUj8oDe7NjTrCrcJCGHY4tgxGAiXOXiBfh4P8La-lppofPum4SCg30C1fwbEIyL8jYHPFuZA3CeFAh60N7ooA0H-8hUXPgrtLB5Cac~TizPt5dqh4pVe5Vbx1avdml~kqlPamv0sCgHbqNeREzzfw5EWuqHwGdulnieFNB8UVDMkFuIP91xL~cdQ__&Key-Pair-Id=K1WN40TUQCFI8W" src="https://github.com/user-attachments/assets/ad2d8b6d-e4b0-414c-92ef-34b2e9a711f3" />
+
+<img  alt="https://d1bctmng8vmwga.cloudfront.net/s3-b339e3a40716b5999fea2aad1aee9f03/asf-cumulus-prod-aria-browse.s3.us-west-2.amazonaws.com/ARIA_S1_GUNW/S1-GUNW-D-R-071-tops-20250918_20250310-135250-00119W_00034N-PP-f3d0-v3_0_1/S1-GUNW-D-R-071-tops-20250918_20250310-135250-00119W_00034N-PP-f3d0-v3_0_1.png?A-userid=None&Expires=1770252986&Signature=oG-I2gCLfyBwm0JRwGOhHLuhDgWpmrgA1rouoM8TKAGCssebnqRJWzzb56eSbJ6M3SNrM1XGgn7dquLi-n-AURpoWbztRD0hvcZEZHiYngqtLoQ3aE13OxIVoI0R6hRWYAYmZ~Y9~1LdK2Pfj0CbsknH7O-KOYFzJYGG8EboPhCe4y217j2TLEff-D7Ke2dvtZPQAYf-FCJpzj0XDmL~IP4z14jPu6niaRYHGTyOqw3qrRv6pNBYe3xavKA6i9NZ-j5QF41Vnsy8helYBu5kw3Wp-bL0z8IYJbJMonJLztd4GuBw4vd~xNDRdCqGrvjjLiUeOqcba0SZawYaVSWVJQ__&Key-Pair-Id=K1WN40TUQCFI8W" src="https://github.com/user-attachments/assets/56167b44-1247-46a0-9374-522a32659f50" />
+
+</div>
+
+_**Interferometry** is a technique which uses the interference of superimposed waves to extract information_
+[Wiki](https://en.wikipedia.org/wiki/Interferometry) @nasa-jpl [https://gracefo.jpl.nasa.gov/laser-ranging-interferometer/](https://gracefo.jpl.nasa.gov/laser-ranging-interferometer/) [https://www.jpl.nasa.gov/missions/keck-interferometer/](https://www.jpl.nasa.gov/missions/keck-interferometer/) 28 September 2004 Telescopes for optical/IR interferometry: the NASA/JPL outriggers [Read](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5489/1/Telescopes-for-opticalIR-interferometry-the-NASAJPL-outriggers/10.1117/12.549547.short)
+
+@cityoflosangeles @nasa-jpl @CityOfLosangeles @LA-County-iSd 
+S1C_IW_GRDH_1SDV_20260122T135139_20260122T135204_006017_00C107_727D @asfadmin [VERTEX](https://search.asf.alaska.edu/#/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ad198a34-6a8d-4bc7-86e3-23e7d20c3dd4" />
+
+
+@la-county-isd [My @Vsco](https://vsco.co/rashardsartu/gallery) // for work @nasa [My @Vsco](https://vsco.co/earthdatarashard/gallery) @whitehouse @caltech @newshour @npr
 
 ### hotlinks
 [USGS WaTERDASHBOARD @usgs](https://dashboard.waterdata.usgs.gov/app/nwd/en/)
