@@ -10,6 +10,12 @@
 
 <img alt="image" src="https://github.com/user-attachments/assets/4ac8a87f-4e4c-4c26-a168-f6a021d961aa" />
 
+
+## LIVE: Rev. Jesse Jackson visitation 
+@nasa-jpl @la-county-isd @blackgirlscode im going to run weather plots for chicago . . . @nasa-openscapes 
+
+<img alt="image" src="https://github.com/user-attachments/assets/89bbd132-5eb1-4965-885f-f7d2632ad665" />
+
 <img  alt="image @blackgirlscode " src="https://github.com/user-attachments/assets/7e8f5285-5edb-432a-8c0d-bd8da9f8f945" />
 
 
