@@ -13,6 +13,7 @@
 
 ## LIVE: Rev. Jesse Jackson visitation 
 @nasa-jpl @la-county-isd @blackgirlscode im going to run weather plots for chicago . . . @nasa-openscapes 
+[https://www.youtube.com/live/EzGsDikp8ug?si=quIMno0TYWPO7aoE](https://www.youtube.com/live/EzGsDikp8ug?si=quIMno0TYWPO7aoE) [https://www.youtube.com/live/HZzL09PWZEk?si=2BYCOHztjJi5DcPM](https://www.youtube.com/live/HZzL09PWZEk?si=2BYCOHztjJi5DcPM) [https://rashardmro.tumblr.com/post/809635871062114304/httpswwwyoutubecomliveezgsdikp8ugsi-jaojogl](https://rashardmro.tumblr.com/post/809635871062114304/httpswwwyoutubecomliveezgsdikp8ugsi-jaojogl)
 
 <img alt="image" src="https://github.com/user-attachments/assets/89bbd132-5eb1-4965-885f-f7d2632ad665" />
 
