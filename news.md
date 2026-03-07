@@ -6,6 +6,20 @@
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+### California_Linux: 
+Maintaining Commitment NasaJpl_3arthdata 
+MRO/JUNO:ECOSTRESS-BlackGirlsCodeVID 
+@ISRO @CALTECH @BLACKGIRLSCODE @nasa-jpl RajVuchatu @isro [archive](https://archive.org/details/@thakaserika_selassie_kelly)
+`You hae to jump to *ViID* the ones that start with `VID` @foratlanta @newshour
+
+[Japan Spacecraft Departing Station Soon on NASA+](https://www.nasa.gov/blogs/spacestation/2026/03/06/japan-spacecraft-departing-station-soon-on-nasa/) 
+[Chris Williams](https://www.nasa.gov/humans-in-space/astronauts/nasa-astronaut-christopher-l-williams/) @nasa-giss @nasa-develop @nasa-jpl @la-county-isd  will monitored the spacecraft’s systems during its departure. `Thisone is done from my perspective, there is no landing! @blackgirlscode` 
+
+The HTV-X1 spacecraft will remain in orbit for more than three months acting as a scientific platform for JAXA’s experiments. Following the command for deorbit, the spacecraft will dispose of several thousand pounds of trash during re-entry into Earth’s atmosphere, where it will burn up harmlessly. 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/cecd2320-408b-4ed1-bc9b-157a946d3ba8" />
+
+
 [Channel Islands National Park ](https://www.nps.gov/chis/planyourvisit/index.htm)
 @SWOT-community @la-county-isd @cityoflosangeles @stateofcalifornia 
 @newshour @blackgirlscode @nationalparkservice @nasa-jpl [HollyMitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) [LindseyHoravath](https://lindseyhorvath.lacounty.gov/) [KarenBass](https://www.congress.gov/member/karen-bass/B001270) [HildaSolis](https://www.hildasolis.com/)
@@ -14,8 +28,6 @@
 
 <iframe title="Video Embed" src="https://www.nps.gov/media/video/embed.htm?id=FFFC1B18-F686-F8E0-CAAF5A93BAB98E12" width="480" height="306" frameborder="0" scrolling="auto" allowfullscreen></iframe>
 
-### California_Linux: 
-Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS-BlackGirlsCodeVID  @ISRO @CALTECH @BLACKGIRLSCODE @nasa-jpl RajVuchatu @isro [archive](https://archive.org/details/@thakaserika_selassie_kelly)
 
 <iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
