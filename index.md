@@ -1295,3 +1295,138 @@ Name: Rashard I Kelly Username: rashardkelly Email Address: holetoanotherunivers
 <img alt="image" src="https://github.com/user-attachments/assets/ec807452-801a-42f1-8949-98a0b872614a" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/876168b0-7aad-4489-82a6-7ca4c132b008" />
+
+# VideoGame Polygons
+[Tekken 2 Ver.B (US, TES3/VER.D)](https://www.retrogames.cc/arcade-games/tekken-2-ver-b-us-tes3-ver-d.html)
+[Tekken Tag Tournament (World, TEG2/VER.C1, set 1)](https://www.retrogames.cc/arcade-games/tekken-tag-tournament-world-teg2-ver-c1-set-1.html) [HappyPiDay @BandaiNamcoResearchInc]() from @[nasa-jpl](https://earthsky.org/human-world/pi-day-nasa-pi-day-challenge/) @blackgirlscode [jpl.nasa.gov/edu/resources/teachable-moment/take-math-to-mars-and-beyond-with-nasas-pi-day-challenge/](https://www.jpl.nasa.gov/edu/resources/teachable-moment/take-math-to-mars-and-beyond-with-nasas-pi-day-challenge/) @sega [https://archive.org/details/VIRTFIG2](https://archive.org/details/VIRTFIG2) @nintendo 
+![https://www.google.com/logos/doodles/2026/pi-day-2026-6753651837111068.2-2xa.gif @blackgirlscode @la-county-isd @LACountyDPH](https://www.google.com/logos/doodles/2026/pi-day-2026-6753651837111068.2-2xa.gif)
+![https://d2pn8kiwq2w21t.cloudfront.net/images/piday2021_infographic_0YkCfV2.width-1280.png](https://d2pn8kiwq2w21t.cloudfront.net/images/piday2021_infographic_0YkCfV2.width-1280.png)
+
+# Online, But what else
+
+
+I worked hard to have any chance to get online when internet consoles were new.  But really did not comprehend what to do... @StateOFCalifornia @La-County-ISD theres spart people locked out purely from displacement, how do we help them ? 
+[@cityoflosangeles](https://rashardmro.tumblr.com/post/810482637078757376/nasa-firms) Ok Ted Ross, while i want to stay under the coddling care of my matriarchy, i know you know at somepoint emulation willbe discussed @defcon and i will prepare a healthy presentation, I did it for jehovah man @nasa @deptofdefense @la-county-isd i do it for america now @blackgirlscode [https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-84.3,41.4,4.0z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-84.3,41.4,4.0z)
+
+<img  alt="https://64.media.tumblr.com/964e3b25d4770c67b9274b023a28ea98/fa68421115e3e47c-6a/s1280x1920/8e246c86886bcc08d7fa4f587b5e4ba6a3670436.png @la-county-isd https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-84.3,41.4,4.0z @HollyJMitchell @cityoflosangeles @paul.wingate" src="https://github.com/user-attachments/assets/0be7b4d3-5e89-4aea-9640-8143cd835393" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/4ac5b4c7-9cb0-434a-9bbc-52ed0e5a768e" />
+
+
+<img alt="#karen bass from Rashard[M_R_O/JPL/NASA]"  alt="image" src="https://github.com/user-attachments/assets/02e3a82a-aebd-4250-8efd-0640579fc2f0" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/1a625089-48fc-4bd1-8112-12876d3d6b0a" />
+<img  alt="image" src="https://github.com/user-attachments/assets/bfa2dd3e-387a-47e6-9ec6-ae04dde713d0" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/3d73b385-efda-4259-895a-28964f8111a2" />
+<img  alt="image" src="https://github.com/user-attachments/assets/9de6935d-a61f-476d-b97d-6a5c9400a3bb" />
+<img  alt="https://64.media.tumblr.com/060bbbd2d440d05a0c723a69bf8804d4/fa68421115e3e47c-e1/s1280x1920/16880f8fb27c048609f55fb3a8e3fe5710409c4a.png" src="https://github.com/user-attachments/assets/a46b68d9-9a16-4b69-99e4-dfa247ee70d9" />
+
+
+# LossLEss Gaming ?
+I tried RoadRash (Japan) 3do  ... the menu system was much cleaner with the chd vs .iso but the game lagged... the USA version is playable this one was not ani think it's the file packaging's VTOC aka [`Volume Table of Contents` ](https://en.wikipedia.org/wiki/Volume_Table_of_Contents).. As i look over @RetroPie ' [doc](https://retropie.org.uk/docs/CHD-files/) on the file format, i see its losslessly compressed as well, I guess this is like [Flac](https://xiph.org/flac/) for music.. [What is a VTOC?](https://www.ibm.com/docs/en/zos-basic-skills?topic=more-what-is-vtoc) @IBM The VTOC index enhances the performance of VTOC access. [ReadMore @Blackgirlscode](https://www.ibm.com/docs/en/zos/2.5.0?topic=contents-vtoc-index), Daytona USA was a chd on [DreamCast](https://rashardmro.tumblr.com/post/810570216043085824) it actually played well, but it stillfelt like a shitty gamegear experiance that was well crafted to make a genesis person happy. I hope i dont sound too critical @RockstarGames @electronicarts [Is a chd file better than a iso file? `u/shinestarshine1 ? on r/Retroarch` @reddit](https://www.reddit.com/r/RetroArch/comments/y302ia/is_a_chd_file_better_than_a_iso_file/?rdt=59613)
+
+ITs pretty comprehensive @nasa-jpl like can we make a persevere emulator, I know we can but im not there right now however the file format looks utility makes me think its like managing zip  files @ip7z/[7zip](https://github.com/ip7z/7zip) . . . @la-county-isd @CityOFlosAngeles @Cisa there are constitution priciplas that should guide wifi use and a violation should just send a person marching to the police department. THe Content censorship in Los Angeles is atrocious.Coming fromGeorgia I thought the prevailing culture would be `Pro-Sharing` since you need to know what happened before to watch anything current [@disney](https://archive.org/download/disney_202105)! I dont wanna watch you new live action shit at all!... Toomuch Backlog man next thing you know the girl wants another guy because he wsaw the whole series @dhs-gov @whitehouse @foratlanta 
+
+[chdman – CHD (Compressed Hunks of Data) File Manager](https://docs.mamedev.org/tools/chdman.html)
+chdman can be used to create, convert, check the integrity of and extract data from media images in CHD (Compressed Hunks of Data) format.
+
+![https://www.ibm.com/docs/en/zosbasics/com.ibm.zos.zconcepts/zOSB023.gif](https://www.ibm.com/docs/en/zosbasics/com.ibm.zos.zconcepts/zOSB023.gif)
+
+### .CHD File Extension
+A CHD file contains game data compressed using lossless Compressed Hunks of Data (CHD) compression - [Fileinfo.com](https://fileinfo.com/extension/chd)
+
+[https://retropie.org.uk/docs/CHD-files/](https://retropie.org.uk/docs/CHD-files/)
+`CHD is a lossless compression format originally developed for MAME, for the hard-drive contents of certain arcade machines. It has since been used in several other emulators as a means of storing CD-ROM game data. For CD-based games, it compresses the contents of a disc image (.cue + .bin files) to a single .chd file.` 
+
+thats all it is 
+its just designed for arcade games @nasa-pds @nasa-giss @blackgirlscode @nasa @la-county-isd
+[link - xiph.org/flac/](https://xiph.org/flac/) [https://github.com/xiph/flac](https://github.com/xiph/flac)
+```
+FLAC stands for Free Lossless Audio Codec, an audio format similar to MP3, but lossless, meaning that audio is compressed in FLAC without any loss in quality. This is similar to how Zip works, except with FLAC you will get much better compression because it is designed specifically for audio, and you can play back compressed FLAC files in your favorite player (or your car or home stereo, see supported devices) just like you would an MP3 file.
+```
+
+<img  alt="src=https://64.media.tumblr.com/7a7e97e7e7f794428d56d32dfcb64edf/f7f44045e3cd4b34-dc/s1280x1920/4efe298c6d830ed12508d07ea9faffebe860e80a.png Image from Rashard[M_R_O/JPL/NASA]" src="https://github.com/user-attachments/assets/0beffa27-e90f-47e7-b778-64f4fe6a6b07" />
+<img src="https://s.pacn.ws/1/p/PA.73932.001.jpg?v=j5gnac&amp;width=480"/>
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/da8cff37-ac71-4c41-a533-21cb73040743" />
+<img  alt="image" src="https://github.com/user-attachments/assets/aec98af1-4aef-4032-83ef-f4b2b466df42" />
+<img alt="image" src="https://github.com/user-attachments/assets/4184402b-930d-4ff4-ba54-7de3a1465ded" />
+
+**Starblade** is a 1991 rail shooter video game developed and published by Namco for arcades. [wiki](https://en.wikipedia.org/wiki/Starblade) :: [ArcadeReview](https://solvalou.com/arcade/reviews/208/327)
+PSX with textures added
+<img   alt="image" src="https://github.com/user-attachments/assets/18c98782-eed4-4d02-bcfa-8465215dde03" />
+<img   alt="image" src="https://github.com/user-attachments/assets/b598f9e6-f65b-4def-9c8d-14bc29321364" />
+
+
+# PPSSPP 1.20.2
+_A PSP emulator_ @newshour @blackgirlscode 
+PPSSPP can run your PSP games on your PC or Android phone in full HD resolution or even higher. It can also upscale textures to make them sharper, and you can enable post-processing shaders to adjust color and brightness the way you like, and other effects. [homepage](https://www.ppsspp.org/) / [blog](https://www.ppsspp.org/blog/)
+
+### PSP CrazyTaxi
+Was Actually Fun 
+[PlayStore](https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=en_US&pli=1)
+[@la-county-isd @Apple](https://apps.apple.com/us/app/ppsspp-psp-emulator/id6496972903) there has to be a healthier way to share these things because im scared of my phone getting stolen again. Alot of the games got bootlegged. There was some breakdown socially at the arcade and people who were regular got all the popular fighting games from Capcom and Atari aka MidWay on the underground and Somepeople Gamble and some do not! I was given a stash in Arizona as well! To keep me healthiy @nasa-jpl but i realize the gambling community has invested a lot @konami @nintendo @sega @rockstargames but i dont like the practice and I work in infrastructure code, so im facinated by the puzzles and how you guys solve problems as game developers as well @StateOfCalifornia @riotgames
+
+<img src="https://64.media.tumblr.com/c656f68bf50771eb3c92884c0493d69f/9d239f3821f9431c-0e/s1280x1920/2a66f13829a70b0fd6d0676aad0abba045fe2feb.png"/> 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/13c2ae53-1fb2-4ccb-a8b3-92a6430e9837" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c37ebb6e-d439-4f93-b594-698eb29dc22c" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/3991f913-7def-4a47-889b-b6478b72e4b9" />
+
+
+OverDrivin Was unplayable, It was a CHD format demo, the phone choked
+
+<img src="https://64.media.tumblr.com/02a6d9bccc1bc1fbcaa42f4b2ede5477/f7f44045e3cd4b34-00/s1280x1920/7532bf813719f2312c93c6d819a79bcf31ea6b5c.png"/>
+<img src="https://64.media.tumblr.com/909ad2a144ae3dfee059a5ac4aa2d5a4/f7f44045e3cd4b34-da/s1280x1920/d1e696f32dbeaaff7d4b3017f23dee809527145f.png"/>
+
+**2k1** had the same bugs that 2k and virtua tennis have. Its an impressive title, i cant beilve i slept. but i can @blackgirlscode because of how separatist people are, im grounded in @electronicarts basketball and got banned because of a couple of you when we were younger @CityOfLosANGeles Karen Bass The Mayor, I got put out a long timeago when people thought my Field Service Partners were pretty 
+@
+<img src="https://64.media.tumblr.com/3ab0e7c0509a33837a1fc050dfbb2439/c96fef2516c993b8-55/s1280x1920/c947a2026920deb65023fa29678be45ec728dcb3.png"/> 
+ <img  alt="image" src="https://github.com/user-attachments/assets/845eda4f-ea4d-496b-8363-1d79fbf9b342" />
+
+# LoGz
+
+[Latrice](https://www.facebook.com/thevirtiservway/)
+abt ur work ethik `no dice` i swear i was not talking about you @blackgirlscode 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a428b4a9-8163-4489-8398-4a9c943a4ef5" />
+
+
+![@howard-university-web-services @nasa-jpl](https://ia601401.us.archive.org/1/items/rashardmro-master/Celica_Latrice.gif) 
+<img alt="image" src="https://github.com/user-attachments/assets/9244f771-64c7-490c-8385-2a8c96a449fa" />
+
+@blackgirlscode rihanna case on ! @nasa-jpl I have logs from my gaming @libretro [https://lacity.gov/tv](https://lacity.gov/tv)
+<img   alt="image" src="https://github.com/user-attachments/assets/b0b2328f-264e-445b-b50a-3584cda42512" />
+
+[GaurdianHeroes](https://dn711308.ca.archive.org/0/items/rashardmro-master/retroarch__2026_03_04__14_41_58.log)
+```fortran
+RetroArch 1.22.2 (Git 440b49f)
+=== Build =======================================
+Capabilities: ASIMD 
+[INFO] Version: 1.22.2
+[INFO] Git: 440b49f
+[INFO] Built: Mar  2 2026
+[INFO] =================================================
+[Input] Found input driver: "android".
+[Core] Loading dynamic libretro core from: "/data/user/0/com.retroarch.aarch64/cores/mednafen_saturn_libretro_android.so".
+[Override] Redirecting save file to "/storage/emulated/0/RetroArch/saves/Beetle Saturn/Guardian Heroes (USA).srm".
+[Override] Redirecting save state to "/storage/emulated/0/RetroArch/states/Beetle Saturn/Guardian Heroes (USA).state".
+[Environ] GET_CORE_OPTIONS_VERSION.
+[Environ] GET_LANGUAGE: "0".
+[Environ] SET_CORE_OPTIONS_V2_INTL.
+[Environ] GET_VFS_INTERFACE. Core requested version >= V2, providing V3.
+[Environ] GET_LED_INTERFACE.
+[Environ] SET_CONTROLLER_INFO.
+```
+
+<img  alt="Image from Rashard[M_R_O/JPL/NASA] image" src="https://github.com/user-attachments/assets/129377c7-cbd6-45d1-bc12-f15376418b09" />
+<img alt="image" src="https://github.com/user-attachments/assets/3deaaf5f-4b9a-407b-823b-8c6942642de5" />
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/17068d88-176b-4892-98df-5bb01d190b7b" />
+
+@Swordfish90 /Lemuroid @flyinghead /flycast  What a frontend ! @blackgirlscode  [https://gam.onl/sega-saturn/#segaSaturn---207](https://gam.onl/sega-saturn/#segaSaturn---207)
