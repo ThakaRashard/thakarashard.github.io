@@ -27,6 +27,92 @@ published: true
 
 
 
+timelapse [https://vimeo.com/1173101668](https://vimeo.com/1173101668) @blackgirlscode @la-county-isd 
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1173101668?h=253c009524" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+
+![https://cdn.northropgrumman.com/-/jssmedia/Project/Northrop-Grumman/ngc/space/nasa-commercial-resupply-missions/NG-15-Patch_FINAL-01.jpg?mw=768&rev=6b477f5d462b47b48ae6807af883d837](https://cdn.northropgrumman.com/-/jssmedia/Project/Northrop-Grumman/ngc/space/nasa-commercial-resupply-missions/NG-15-Patch_FINAL-01.jpg?mw=768&rev=6b477f5d462b47b48ae6807af883d837) @nasa-jpl hi @northropgrumman @blackgirlscode @nasa-openscapes @la-county-isd
+
+
+_Atlanta Woman Who Went Missing On Superbowl Sunday Has Been Found Safe_
+<img  alt="image" src="https://github.com/user-attachments/assets/4fdcc485-2c0a-44d0-9cf3-59429034cd35" />
+
+[https://www.facebook.com/essence/videos/5058f1af/235756631241497/](https://www.facebook.com/essence/videos/5058f1af/235756631241497/)
+[Mulatto Celebrates Black Music Month: Black Sounds Beautiful](https://www.youtube.com/watch?v=pV6k857luJU)
+[status](https://www.youtube.com/watch?v=LEkxm9pDCN4) @blackgirlscode 
+[Mulatto Reflects On 2020 Success And 'Queen of Da Souf' Debut:VIBE](https://www.youtube.com/watch?v=hbT5fs8Y5TI)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/cc49d0f7-086d-4b43-9288-c0b6fdb5a719" />
+
+[ESSENCE X BIG LATTO facebook.com/essence/videos/essence-x-big-latto/381115009623949/](https://www.facebook.com/essence/videos/essence-x-big-latto/381115009623949/) @meta make sure @doug-newman-nasa got clean access to all accounts related to my destitution law obeyer 
+[https://www.essence.com/tags/erika-kelly/](https://www.essence.com/tags/erika-kelly/) @nasa-jpl @whitehouse  
+@la-county-isd  @nasa-jpl [Link PDF - County Fire Contacts](https://dpw.lacounty.gov/ldd/lib/fp/Landscape/Fire%20Prevention%20Contact%20List.pdf) now my eyes are burning @stateofcalifornia 
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/90d5a741-9ea7-48b3-b030-71c390e6f6c5" />
+
+NASA's Artemis II Flight Readiness News Conference (March 12, 2026) - [watch](https://www.youtube.com/live/SpMMAdqMGWA)
+@blackgirlscode [README with RecentPics](https://github.com/ThakaRashard/rashardmro/blob/master/README.md) @cityofsandiego @cbs-news-data @la-county-isd @LACountyDPH @voyager-tech-inc [https://www.longbeach.gov/iteam/](https://www.longbeach.gov/iteam/) 
+
+![https://www.longbeach.gov/globalassets/iteam/development-assets/it_logo_color.png](https://www.longbeach.gov/globalassets/iteam/development-assets/it_logo_color.png)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d1b558db-61ec-4214-81de-c0e5a049a140" />
+
+@foratlanta @newshour @doug-newman-nasa
+
+```
+Doug I met normani here, i want to go to artemis and erika is at this place too and abandoned me and stole my foodstamp card and i dont know who at the lab involved in the georgia sex scence but hollywood banned me fron the library on mission critical lauch days and made bullshit movies with mars concepts they stole from my workblog ra5hard.github.io https://www.facebook.com/normanikordei/
+```
+[https://www.dance411.com/#goto-anchor-1680733406148](https://www.dance411.com/#goto-anchor-1680733406148)
+<img  alt="image" src="https://github.com/user-attachments/assets/959c1865-b3db-4572-a9dd-1c9dc6686ecc" />
+
+
+
+[nasa.gov/people/jared-isaacman/](https://www.nasa.gov/people/jared-isaacman/) // [war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a34af1d3-2109-40c6-8502-9c909475c3ed" />
+
+@la-county-isd @nasa-jpl i shouted that Jeezy need to talk to pete, i missed the lauch of persevere and i traced a lot of shit back to him i said it on the playform @LACMTA @whitehouse @CityOfLosAngeles its not fair [erika is playing](https://www.essence.com/tags/erika-kelly/) violin on @npr @newshour [Watch](https://www.youtube.com/watch?v=c9vtuEH-vfk) 
+[https://www3.nasa.gov/send-your-name-with-artemis/](https://www3.nasa.gov/send-your-name-with-artemis/) // [Rapper Jeezy celebrates 20 years of 'Thug Motivation 101' with a 101-piece backing orchestra](https://www.npr.org/2025/12/14/nx-s1-5547203/rapper-jeezy-celebrates-20-years-of-thug-motivation-101-with-a-101-piece-backing-orchestra) @blackgirlscode 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/118e544c-78d4-45af-8948-71cdadfb9b1f" />
+
+@doug-newman-nasa @foratlanta is dwayne cripass gooden still free? @nasa-jpl @blackgirlscode @la-county-isd
+Hey [KarenBassTheMAyor!](https://www.congress.gov/member/karen-bass/B001270) I was working remote jobs living with erika in East Atlnata! And I dont knwo what playboy did to me! But all these companies that fired me saying i was `having tooo much fun` are dark on @github like [Atlanticus](https://www.atlanticus.com/) and [iOnic](https://cloud.google.com/find-a-partner/partner/ionic-security) .. @nasa-jpl investigate them for sex trafficking @fbicyber
+
+
+
+
+
+@la-county-isd I just felt something sprinkling on me @nasa-jpl [Link PDF - County Fire Contacts](https://dpw.lacounty.gov/ldd/lib/fp/Landscape/Fire%20Prevention%20Contact%20List.pdf) now my eyes are burning @stateofcalifornia 
+
+## Dental HEalth Status
+_Today_ @nasa-jpl @blackgirlscode @la-county-isd 
+@CityOfLosAngeles @nasa-pds @nasa-giss @nasa @whitehouse @dhs-gov
+<img   alt="image" src="https://github.com/user-attachments/assets/5c8acab3-bbec-4b42-903c-2bf78bae0f22" />
+<img  alt="image" src="https://github.com/user-attachments/assets/f6bea4b9-0c56-44c8-804d-5d730f5d7dca" />
+
+_On Friday, January 16th, 2026 at 2:37 PM, rashardsdata@proton.me <rashardsdata@proton.me> wrote_:
+
+> Re: Ossoff#MayorBass/BOARDOFSUPERVISORS HILDA JANICE HOLLY #DentalEmergency #LosAngelesCounty #ManessahWarner #danielleMushonga #erikakelly #karenbass #keishalancebottoms - #DestitutionPunishment - RashardKelly
+> #LEFT TODAY [onTUMBLR]
+> [https://ia600307.us.archive.org/10/items/commitmentmaintenance/00000000000_HTAU_DENTALEMERGENCY_SOL4711-4765_Jon_Ossoff_karenbass_NAGiN_COX_rashardsupdate_VirtiservLatrice.mp4](https://ia600307.us.archive.org/10/items/commitmentmaintenance/00000000000_HTAU_DENTALEMERGENCY_SOL4711-4765_Jon_Ossoff_karenbass_NAGiN_COX_rashardsupdate_VirtiservLatrice.mp4)
+> RiGHT [onTUMBLR]
+> [https://archive.org/download/vid-20250914-182140/00000000000_PreMatureToothRot_GavinNewsom_KarenBass_Latrice_virtiserv_prostitutionLaw_is_treasonus_and_marking_me_for_disablement_VID_20260108_133903_082.mp4](https://archive.org/download/vid-20250914-182140/00000000000_PreMatureToothRot_GavinNewsom_KarenBass_Latrice_virtiserv_prostitutionLaw_is_treasonus_and_marking_me_for_disablement_VID_20260108_133903_082.mp4)
+> #DentalEmergency #LosAngelesCounty #ManessahWarner #danielleMushonga #erikakelly #karenbass #keishalancebottoms - #DestitutionPunishment
+> On Thu, Jan 8, 2026, 1:55 PM Rashard Iman Kelly <holetoanotheruniverse40@gmail.com> wrote:
+
+> Mayor Bass, Supervisor Mitchell, it's Rashard. Someone poisoned my tooth.. I need protection from the prostitution mob and clean food 🥑 🥝 
+> [https://archive.org/download/vid-20250914-182140/00000000000_PreMatureToothRot_GavinNewsom_KarenBass_Latrice_virtiserv_prostitutionLaw_is_treasonus_and_marking_me_for_disablement_VID_20260108_133903_082.mp4](https://archive.org/download/vid-20250914-182140/00000000000_PreMatureToothRot_GavinNewsom_KarenBass_Latrice_virtiserv_prostitutionLaw_is_treasonus_and_marking_me_for_disablement_VID_20260108_133903_082.mp4)
+> 
+> [https://www.tumblr.com/rashardmro/805210829855260672/rashard-iman-kelly-prematuretoothrot](https://www.tumblr.com/rashardmro/805210829855260672/rashard-iman-kelly-prematuretoothrot) ?source=share
+> 
+> [https://archive.org/details/vid-20250914-182140](https://www.tumblr.com/rashardmro/805210829855260672/rashard-iman-kelly-prematuretoothrot)
+>
+> 
+ <img  alt="image" src="https://github.com/user-attachments/assets/9ad92f75-e343-4729-8885-b92726f30155" />
+ 
+ <iframe src="https://archive.org/embed/rashardmro-master" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ### California_Linux: 
 Maintaining Commitment NasaJpl_3arthdata 
 MRO/JUNO:ECOSTRESS-BlackGirlsCodeVID 
