@@ -458,6 +458,16 @@ LA mayor celebrates moving 8,866 homeless into permanent free housing in 2024 [R
 {% include aboutme.md %}
 
 
+[WATCH @nasa-jpl @blackgirlscode hi normanin](https://youtu.be/SpMMAdqMGWA) [https://thakarashard.github.io/rashardmro/artemis2](https://thakarashard.github.io/rashardmro/artemis2) 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/250fc5ad-e956-410a-862f-d48d4528b555" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/0f9206ed-535b-4f4a-bddf-ecc9bbcefe8b" />
+
+
+[https://nasahunch.com/](https://nasahunch.com/) : Presented by [Mission Delta 9 - Orbital Warfare](https://www.ussf-cfc.spaceforce.mil/About-Us/Fact-Sheets/Display/Article/3878188/mission-delta-9-orbital-warfare) @voyager-tech-inc  @USnavy @USSF-ORBIT @nasa @nasa-giss @la-county-isd ms holly, im working in space command right now can you tell security forces or someone i dont know @foratlanta @LACMTA @CiTYOFLOSANGELES [KARENBASS](https://www.congress.gov/member/karen-bass/B001270) @longbeachinnovationteam @cnn @datadesk @cbs-news-data i have some landing area maps of @opensandiego @cityofsandiego on this page [https://holetoanotheruniverse40.github.io/artemis2#splashdown-weather](https://holetoanotheruniverse40.github.io/artemis2#splashdown-weather)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/cec51e78-91ec-4e76-a1f5-bb5a7c24bc17" />
 
 [Japan Spacecraft Departing Station Soon on NASA+](https://www.nasa.gov/blogs/spacestation/2026/03/06/japan-spacecraft-departing-station-soon-on-nasa/) 
 [Chris Williams](https://www.nasa.gov/humans-in-space/astronauts/nasa-astronaut-christopher-l-williams/) @nasa-giss @nasa-develop @nasa-jpl @la-county-isd  will monitored the spacecraft’s systems during its departure. `Thisone is done from my perspective, there is no landing! @blackgirlscode` 
@@ -1523,3 +1533,7 @@ Capabilities: ASIMD
 <img   alt="image" src="https://github.com/user-attachments/assets/17068d88-176b-4892-98df-5bb01d190b7b" />
 
 @Swordfish90 /Lemuroid @flyinghead /flycast  What a frontend ! @blackgirlscode  [https://gam.onl/sega-saturn/#segaSaturn---207](https://gam.onl/sega-saturn/#segaSaturn---207)
+
+
+
+
