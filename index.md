@@ -24,6 +24,39 @@ published: true
 
 {% include nav.html %}
 
+### Running a quick NMAP scan to inventory my network
+@la-county-isd @cityoflosangeles iI modde these commands to start a report
+
+```
+Nmap scan report for 10.193.0.5
+Host is up (0.038s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT      STATE SERVICE
+23/tcp    open  telnet
+80/tcp    open  http
+16113/tcp open  unknown
+
+Nmap scan report for 10.193.0.7
+Host is up (0.014s latency).
+Not shown: 994 closed tcp ports (conn-refused)
+PORT      STATE SERVICE
+22/tcp    open  ssh
+23/tcp    open  telnet
+80/tcp    open  http
+443/tcp   open  https
+8443/tcp  open  https-alt
+16113/tcp open  unknown
+
+Nmap done: 256 IP addresses (5 hosts up) scanned in 13.80 seconds
+~ $
+```
+
+hi @blackgirlscode
+
+March 31, 2020
+Valentin Bajrami8-minute
+ [read @officialredhat](https://www.redhat.com/en/blog/quick-nmap-inventory)
+
 <img   alt="image" src="https://github.com/user-attachments/assets/5c784ab4-2928-4bb2-8dad-b90cb6f221bd" />
  
 ![https://catchacat.org/wp-content/uploads/CAT-logo-large-White-transparent-200x116.png](https://catchacat.org/wp-content/uploads/CAT-logo-large-White-transparent-200x116.png)
