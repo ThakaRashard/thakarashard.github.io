@@ -10,7 +10,12 @@ published: true
 
 ## Rashard Kelly 
  MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
- 
+
+@nasa-jpl @CityOfLosAngeles @LAcountyDPH
+[CHECkiN - CLiCKHErE - RANdom notes](https://rashardiman.github.io/compiling/) 
+
+ <img  alt="image" src="https://github.com/user-attachments/assets/c3c670f2-a307-43b5-90bb-5ad49e895fa4" />
+
 <div class="box">
 
   {% for post in site.posts %}
