@@ -11,6 +11,9 @@ published: true
 ## Rashard Kelly 
  MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+
+
+@doug-newman-nasa @cityoflosangels [@CityofSantaMonica https://eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 [redhat.com/rhdc/managed-files/Summit-convince-your-boss-2026.pdf @la-county-isd @lacountyDPH much love to dance411 brandy and normani i said she a freak in an online communication and she got embarrassed, her pimp or some shit is torituring the shit out of me @nasa-jpl they cleared all my formdata because i appened @Blackgirlscode @Howard-university-web-services latrice fitzpatrick to the @officialredhat document to go to the summit MARS RUNS ON RHEL!!!!!!!!!!!!!!!!!!!!!!!!](https://www.redhat.com/rhdc/managed-files/Summit-convince-your-boss-2026.pdf)
 <img  alt="@la-county-isd @lacountyDPH much love to dance411 brandy and normani i said she a freak in an online communication and she got embarrassed, her pimp or some shit is torituring the shit out of me @nasa-jpl they cleared all my formdata because i appened @Blackgirlscode @Howard-university-web-services latrice fitzpatrick to the @officialredhat document to go to the summit MARS RUNS ON RHEL!!!!!!!!!!!!!!!!!!!!!!!!" src="https://github.com/user-attachments/assets/dcbe65cc-00c0-4df8-9464-86ccc683c3e1" />
 
