@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "ShaadiThakaRashardiMAn"
-date:   2026-01-16 12:51:06 -0800
+date:   2026-03-28 12:51:06 -0800
 published: true
 ---
 
@@ -10,6 +10,27 @@ published: true
 
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
+
+## Dental HEalth Status
+_Today_ @nasa-jpl @blackgirlscode @la-county-isd 
+@CityOfLosAngeles @nasa-pds @nasa-giss @nasa @whitehouse @dhs-gov
+<img   alt="image" src="https://github.com/user-attachments/assets/5c8acab3-bbec-4b42-903c-2bf78bae0f22" />
+<img  alt="image" src="https://github.com/user-attachments/assets/f6bea4b9-0c56-44c8-804d-5d730f5d7dca" />
+
+_On Friday, January 16th, 2026 at 2:37 PM, rashardsdata@proton.me <rashardsdata@proton.me> wrote_:
+
+> Re: Ossoff#MayorBass/BOARDOFSUPERVISORS HILDA JANICE HOLLY #DentalEmergency #LosAngelesCounty #ManessahWarner #danielleMushonga #erikakelly #karenbass #keishalancebottoms - #DestitutionPunishment - RashardKelly
+> #LEFT TODAY [onTUMBLR]
+> [https://ia600307.us.archive.org/10/items/commitmentmaintenance/00000000000_HTAU_DENTALEMERGENCY_SOL4711-4765_Jon_Ossoff_karenbass_NAGiN_COX_rashardsupdate_VirtiservLatrice.mp4](https://ia600307.us.archive.org/10/items/commitmentmaintenance/00000000000_HTAU_DENTALEMERGENCY_SOL4711-4765_Jon_Ossoff_karenbass_NAGiN_COX_rashardsupdate_VirtiservLatrice.mp4)
+> RiGHT [onTUMBLR]
+> [https://archive.org/download/vid-20250914-182140/00000000000_PreMatureToothRot_GavinNewsom_KarenBass_Latrice_virtiserv_prostitutionLaw_is_treasonus_and_marking_me_for_disablement_VID_20260108_133903_082.mp4](https://archive.org/download/vid-20250914-182140/00000000000_PreMatureToothRot_GavinNewsom_KarenBass_Latrice_virtiserv_prostitutionLaw_is_treasonus_and_marking_me_for_disablement_VID_20260108_133903_082.mp4)
+> #DentalEmergency #LosAngelesCounty #ManessahWarner #danielleMushonga #erikakelly #karenbass #keishalancebottoms - #DestitutionPunishment
+> On Thu, Jan 8, 2026, 1:55 PM Rashard Iman Kelly <holetoanotheruniverse40@gmail.com> wrote:
+
+> Mayor Bass, Supervisor Mitchell, it's Rashard. Someone poisoned my tooth.. I need protection from the prostitution mob and clean food 🥑 🥝 
+> [https://archive.org/download/vid-20250914-182140/00000000000_PreMatureToothRot_GavinNewsom_KarenBass_Latrice_virtiserv_prostitutionLaw_is_treasonus_and_marking_me_for_disablement_VID_20260108_133903_082.mp4](https://archive.org/download/vid-20250914-182140/00000000000_PreMatureToothRot_GavinNewsom_KarenBass_Latrice_virtiserv_prostitutionLaw_is_treasonus_and_marking_me_for_disablement_VID_20260108_133903_082.mp4)
+> 
+> [https://www.tumblr.com/rashardmro/805210829855260672/rashard-iman-kelly-prematuretoothrot](https://www.tumblr.com/rashardmro/805210829855260672/rashard-iman-kelly-prematuretoothrot) ?
 
 ![https://www.redhat.com/rhdc/managed-files/RHSummit-WhyAttend-Desktop-1x.png](https://www.redhat.com/rhdc/managed-files/RHSummit-WhyAttend-Desktop-1x.png)
 
