@@ -11,13 +11,14 @@ published: true
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
-
+![https://www.redhat.com/rhdc/managed-files/RHSummit-WhyAttend-Desktop-1x.png](https://www.redhat.com/rhdc/managed-files/RHSummit-WhyAttend-Desktop-1x.png)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/1bbe2435-7b26-4f54-91eb-6ece56084218" />
 
 [redhatofficial.github.io/ @redhatofficial + @longbeachinnovationteam ](https://redhatofficial.github.io/)
 [@doug-newman-nasa @cityoflosangeles @StateOfCalifornia @newshour @nbcnews @foxnews](https://www.tumblr.com/rashardmro/812360759335108608/hollyjmitchellkarenbasskeishabottoms-can-i?source=share) [@CityofSantaMonica eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 [redhat.com/rhdc/managed-files/Summit-convince-your-boss-2026.pdf @la-county-isd @lacountyDPH much love to dance411 brandy and normani i said she a freak in an online communication and she got embarrassed, her pimp or some shit is torituring the shit out of me @nasa-jpl they cleared all my formdata because i appened @Blackgirlscode @Howard-university-web-services latrice fitzpatrick to the @officialredhat document to go to the summit MARS RUNS ON RHEL!!!!!!!!!!!!!!!!!!!!!!!!](https://www.redhat.com/rhdc/managed-files/Summit-convince-your-boss-2026.pdf)
+
 <img  alt="@la-county-isd @lacountyDPH much love to dance411 brandy and normani i said she a freak in an online communication and she got embarrassed, her pimp or some shit is torituring the shit out of me @nasa-jpl they cleared all my formdata because i appened @Blackgirlscode @Howard-university-web-services latrice fitzpatrick to the @officialredhat document to go to the summit MARS RUNS ON RHEL!!!!!!!!!!!! @blackgirlscode @ucla wassup with the ankel monitor and yall homie mars movies?!!!!!!!!!!!!" src="https://github.com/user-attachments/assets/dcbe65cc-00c0-4df8-9464-86ccc683c3e1" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/020259cf-06a9-40c3-a655-52161f9d71e1" />
