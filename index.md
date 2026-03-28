@@ -95,7 +95,7 @@ Nmap done: 256 IP addresses (5 hosts up) scanned in 13.80 seconds
 hi @blackgirlscode
 
 March 31, 2020
-Valentin Bajrami8-minute
+Valentin Bajrami8-minute @redhatofficial
  [read @officialredhat](https://www.redhat.com/en/blog/quick-nmap-inventory)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/5c784ab4-2928-4bb2-8dad-b90cb6f221bd" />
