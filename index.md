@@ -11,6 +11,23 @@ published: true
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+
+
+
+![https://www.google.com/logos/doodles/2026/artemis-ii-spaceflight-around-the-moon-6753651837111248.3-2xa.gif](https://www.google.com/logos/doodles/2026/artemis-ii-spaceflight-around-the-moon-6753651837111248.3-2xa.gif)
+
+[doodles.google/doodle/nasas-artemis-ii-mission-around-the-moon/](https://doodles.google/doodle/nasas-artemis-ii-mission-around-the-moon/)
+
+Apr 01, 2026
+
+NASA's Artemis II Mission Around the Moon
+This Doodle celebrates the launch of Artemis II, the NASA mission that will send astronauts around the Moon and back for the first time in over 50 years.
+https://doodles.google/doodle/nasas-artemis-ii-mission-around-the-moon/
+Apr 01, 2026
+
+NASA's Artemis II Mission Around the Moon
+This Doodle celebrates the launch of Artemis II, the NASA mission that will send astronauts around the Moon and back for the first time in over 50 years.
+
 ## Dental HEalth Status
 _Today_ @nasa-jpl @blackgirlscode @la-county-isd 
 @CityOfLosAngeles @nasa-pds @nasa-giss @nasa @whitehouse @dhs-gov
