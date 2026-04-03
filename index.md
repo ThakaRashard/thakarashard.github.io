@@ -11,8 +11,14 @@ published: true
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+
+## Differences with @Shopify / [liquid @nasa-jpl @la-county-isd](https://shopify.dev/docs/api/liquid)
+raed [liquidjs.com/tutorials/differences.html](https://liquidjs.com/tutorials/differences.html)
+`Liquid language is originally implemented in Ruby and used by Shopify and Jekyll (and thus GitHub Pages)`
+
 @la-county-isd i am storing old pages in this [@jekyll](https://jekyllrb.com/docs/posts/) 4 loop @blackgirlscode @nasa-pds @nasa-giss @salesforce @nasa-jpl @chicago @cityofsantamonica
 it pulls all the post with the [category](https://emmatheeng.github.io/projects/blog_setup/blog-categories.html) `FP` as a small archive with a [wordcloud](https://nanx.me/blog/post/research-word-cloud/) style presentation @foxnews @washingtonpost @newshour @howard-university-web-services @foratlanta @disney
+[https://liquidjs.com/tutorials/intro-to-liquid.html](https://liquidjs.com/tutorials/intro-to-liquid.html)
 
 {% raw %}
 
