@@ -11,6 +11,8 @@ published: true
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+
+
 NASA’s Applied Remote Sensing Training (ARSET)
 Program presents this certificate of completion to
 for completing the intermediate training:
@@ -21,6 +23,7 @@ Monitoring Water Quality in Lakes and Coastal Regions Using STREAM
 
 <img alt="image" src="https://github.com/user-attachments/assets/e75406bd-c7fd-46ed-94e6-10bc64e46c0b" />
 
+[@nasa .gov/blogs/missions/2026/03/30/weather-for-nasas-artemis-ii-mission-launch-80-favorable/](https://www.nasa.gov/blogs/missions/2026/03/30/weather-for-nasas-artemis-ii-mission-launch-80-favorable/)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/a12ea928-dd06-4a65-8c6e-7bff0bb9d494" />
 <img  alt="image" src="https://github.com/user-attachments/assets/279e2459-ca5e-4690-b55d-65e0f015bb06" />
@@ -53,6 +56,7 @@ it pulls all the post with the [category](https://emmatheeng.github.io/projects/
 <div class="box">
 
   {% for post in site.posts %}
+  
      {% if post.categories contains 'FP' %}  
     <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
      {% endif %}
