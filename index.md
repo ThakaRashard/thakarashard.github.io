@@ -12,7 +12,14 @@ published: true
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
 
+[NOAA's Space Weather Mission: Protecting Artemis II Astronauts and Society](https://www.nesdis.noaa.gov/news/noaas-space-weather-mission-protecting-artemis-ii-astronauts-and-society)
+Artemis II is planned as a 10-day crewed mission around the moon that marks humanity’s return to lunar orbit. NOAA's space weather monitoring will help protect the astronauts from solar radiation. [ReadMore](https://www.nesdis.noaa.gov/news/noaas-space-weather-mission-protecting-artemis-ii-astronauts-and-society)
 
+![https://www.nesdis.noaa.gov/s3/styles/webp/s3/2026-03/ArtemisII-astronauts_small.jpg.webp?itok=7oHAEnSc](https://www.nesdis.noaa.gov/s3/styles/webp/s3/2026-03/ArtemisII-astronauts_small.jpg.webp?itok=7oHAEnSc) 
+
+@nbcnews 
+@cbs-news-data + @la-county-isd @blackgirlscode @nasa-jpl 
+ 
 NASA’s Applied Remote Sensing Training (ARSET)
 Program presents this certificate of completion to
 for completing the intermediate training:
