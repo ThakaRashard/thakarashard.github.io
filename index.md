@@ -16,7 +16,7 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 raed [liquidjs.com/tutorials/differences.html](https://liquidjs.com/tutorials/differences.html)
 `Liquid language is originally implemented in Ruby and used by Shopify and Jekyll (and thus GitHub Pages)`
 
-@la-county-isd i am storing old pages in this [@jekyll](https://jekyllrb.com/docs/posts/) 4 loop @blackgirlscode @nasa-pds @nasa-giss @salesforce @nasa-jpl @chicago @cityofsantamonica
+@la-county-isd i am storing old pages in this [@jekyll](https://jekyllrb.com/docs/posts/) 4 [loop](https://shopify.github.io/liquid/tags/iteration/) @blackgirlscode @nasa-pds @nasa-giss @salesforce @nasa-jpl @chicago @cityofsantamonica
 it pulls all the post with the [category](https://emmatheeng.github.io/projects/blog_setup/blog-categories.html) `FP` as a small archive with a [wordcloud](https://nanx.me/blog/post/research-word-cloud/) style presentation @foxnews @washingtonpost @newshour @howard-university-web-services @foratlanta @disney
 [https://liquidjs.com/tutorials/intro-to-liquid.html](https://liquidjs.com/tutorials/intro-to-liquid.html)
 
