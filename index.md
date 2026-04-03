@@ -15,7 +15,9 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 ![https://csrc.nist.gov/CSRC/media/images/svg/nist-logo.svg](https://csrc.nist.gov/CSRC/media/images/svg/nist-logo.svg)
 Computer Security Resource Center [man-in-the-middle attack (MitM)](https://csrc.nist.gov/glossary/term/man_in_the_middle_attack)
-@la-county-isd @blackgirlscode @nasa-jpl [email @usnistgov](https://mail.google.com/mail/u/0/#sent/KtbxLrjNdDszjzkLQVlTHsXPGjbDBFJJNB) @Whitehouse @dhs-gov `https://mail.google.com/mail/u/0/#sent/KtbxLrjNdDszjzkLQVlTHsXPGjbDBFJJNB`
+@la-county-isd @blackgirlscode @nasa-jpl [email @usnistgov](https://mail.google.com/mail/u/0/#sent/KtbxLrjNdDszjzkLQVlTHsXPGjbDBFJJNB) @vsco @voyager-tech-inc @googleworkspace  @Whitehouse @dhs-gov 
+
+`https://mail.google.com/mail/u/0/#sent/KtbxLrjNdDszjzkLQVlTHsXPGjbDBFJJNB`
 
 <pre>
 @HollyJMitchell@bos.lacounty.gov @dsnnow@jpl.nasa.gov i submitted this to @The White House via the contact form https://www.whitehouse.gov/contact/ @Shristi Rijal on behalf of Cloudflare's DPO i got the normal message back upon submission but y you a middle man . . . @normani@fifthharmonyofficial.com tell Latrice That Happened https://trello.com/b/CN1UytXe/housekeeping , they stole ppl twitter accounts @jplnewsroom@jpl.nasa.gov @jsc-hunch-mail.nasa@nasahunch.info @ksc-newsroom@mail.nasa.gov @Gordon, Seth W (JPL-5145)[JPL Employee] @Gallagher, Dori (JPL-5143)[JPL Employee] 
