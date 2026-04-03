@@ -17,6 +17,9 @@ Artemis II is planned as a 10-day crewed mission around the moon that marks huma
 
 ![https://www.nesdis.noaa.gov/s3/styles/webp/s3/2026-03/ArtemisII-astronauts_small.jpg.webp?itok=7oHAEnSc](https://www.nesdis.noaa.gov/s3/styles/webp/s3/2026-03/ArtemisII-astronauts_small.jpg.webp?itok=7oHAEnSc) 
 
+
+![https://www.nesdis.noaa.gov/s3/styles/webp/s3/2026-03/Magnetotail.png.webp?itok=dWigzJYX](https://www.nesdis.noaa.gov/s3/styles/webp/s3/2026-03/Magnetotail.png.webp?itok=dWigzJYX)
+
 @nbcnews 
 @cbs-news-data + @la-county-isd @blackgirlscode @nasa-jpl 
  
