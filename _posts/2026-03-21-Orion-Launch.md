@@ -4,6 +4,7 @@ title:  "Orion/Artemis @nasa @r-spaceX @raytheonbbn"
 published: true
 date:   2026-04-01 08:19:06 -0800
 tags: nsn ecostress crew11 iss
+catagories: FP
 image: Orion_dimensions_pillars.png
 permalink: /artemis2
 ---
