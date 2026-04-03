@@ -15,7 +15,12 @@ NASA’s Applied Remote Sensing Training (ARSET)
 Program presents this certificate of completion to
 for completing the intermediate training:
 Monitoring Water Quality in Lakes and Coastal Regions Using STREAM
-<img  alt="image" src="https://github.com/user-attachments/assets/4ef6de2c-3b6d-4805-a5fd-e1d90b02b118" />
+<img alt="image" src="https://github.com/user-attachments/assets/4ac8a87f-4e4c-4c26-a168-f6a021d961aa" />
+
+@blackgirlscode [file for coral erika normani and latrice sartu kashdoll @nasa-jpl @nasa-pds _`FireyCoalz`_](https://github.com/ThakaRashard/thakarashard.github.io/blob/master/docs/a03dd638-f433-4765-bb5c-8b7ef733e74b.pdf)
+
+<img alt="image" src="https://github.com/user-attachments/assets/e75406bd-c7fd-46ed-94e6-10bc64e46c0b" />
+
 
 <img  alt="image" src="https://github.com/user-attachments/assets/a12ea928-dd06-4a65-8c6e-7bff0bb9d494" />
 <img  alt="image" src="https://github.com/user-attachments/assets/279e2459-ca5e-4690-b55d-65e0f015bb06" />
