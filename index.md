@@ -14,7 +14,11 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 Artemis II Astronauts Make First Public Remarks Since Returning to Earth
 NASA held a ceremony at Johnson Space Center in Houston to welcome home the crew of Artemis II after its 10-day mission around the moon. The astronauts gave their first public remarks since splashing down off the coast of San Diego, California. NASA officials, lawmakers, and others also spoke to congratulate the crew and encourage further space exploration [@nasa-jpl https://www.c-span.org/program/news-conference/artemis-ii-astronauts-make-first-public-remarks-since-returning-to-earth/677288](https://www.c-span.org/program/news-conference/artemis-ii-astronauts-make-first-public-remarks-since-returning-to-earth/677288)
 
+
+- `object` marker for backend viewing, video is often invisible from that view on @github
 <object data="https://cdn.jwplayer.com/players/x3LmXfKz-xS4RtpB7.html"></object> 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fb5c6b99-24f2-4488-8d5a-77bfe073008f" />
 
 
 [rashardmro.tumblr.com/post/813725011347128320](https://rashardmro.tumblr.com/post/813725011347128320)
@@ -28,8 +32,6 @@ NASA held a ceremony at Johnson Space Center in Houston to welcome home the crew
 
 <img alt="image" src="https://github.com/user-attachments/assets/0bbd9e5c-b70f-4836-9bad-4a133be00422" />
 
-
-![Uploading tumblr_1958a5411569622f3feee283b19a77ea_841d9fb6_1280.png…]()
 
 [@la-county-isd @nasa-jpl @nasa-pds @cityoflosangeles --- Rashardlanasa.tumblr.com/](https://rashardlanasa.tumblr.com/)
 <img  alt="image" src="https://github.com/user-attachments/assets/58d33f49-2662-405a-bda7-ca22ceb74da4" />
