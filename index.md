@@ -72,6 +72,11 @@ NASA’s Artemis II Crew Comes Home (Official Broadcast)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨📰 <a href="https://twitter.com/hashtag/USNAVY?src=hash&amp;ref_src=twsrc%5Etfw">#USNAVY</a> UPDATE: USS John P. Murtha to support NASA&#39;s Artemis II mission<br><br>SAN DIEGO – Amphibious transport dock ship USS John P. Murtha (LPD 26) is slated to serve as the recovery ship for the Orion spacecraft and its crew upon their return from the historic Artemis II… <a href="https://t.co/eMUDr04rhP">pic.twitter.com/eMUDr04rhP</a></p>&mdash; U.S. Navy (@USNavy) <a href="https://twitter.com/USNavy/status/2041909011591713227?ref_src=twsrc%5Etfw">April 8, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+[rashardmro.tumblr.com/post/812731437693435904/live-coverage-artemis-ii-moon-mission-launch?is_related_post=1](https://rashardmro.tumblr.com/post/812731437693435904/live-coverage-artemis-ii-moon-mission-launch?is_related_post=1)
+![tumblr_3c1002edbf1f64b6e01e7c6922b6aa01_0ca3f440_1280](https://github.com/user-attachments/assets/46c4e349-5c43-43f5-aaef-0c055de094c5)
+
+
 Artemis 2 LIVE: Astronauts begin stowing their gear for return Wednesday, April 9, 2026 [read](https://www.space.com/news/live/artemis-2-nasa-moon-mission-updates-april-9-2026) @blackgirlscode @la-county-isd @emit-sds @nasa-jpl
 
 [nasa.gov/missions/artemis-ii/arow/](https://www.nasa.gov/missions/artemis-ii/arow/)
