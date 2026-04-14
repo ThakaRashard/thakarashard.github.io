@@ -21,7 +21,7 @@ NASA held a ceremony at Johnson Space Center in Houston to welcome home the crew
 <img  alt="image" src="https://github.com/user-attachments/assets/fb5c6b99-24f2-4488-8d5a-77bfe073008f" />
 
 
-[rashardmro.tumblr.com/post/813725011347128320](https://rashardmro.tumblr.com/post/813725011347128320)
+[rashardmro.tumblr.com/post/813725011347128320](https://rashardmro.tumblr.com/post/813725011347128320) //// [ARTEMiS NEWS CONFERENCE](https://rashardmro.tumblr.com/post/813366066535366656/nasas-artemis-ii-daily-news-conference-april-8?is_related_post=1) aka [Nasa STANDUP _`Devops`_STYLE...  one of many conferences,its where we get instructions... I get why i started getting so badly sabotaged by flight day 7. i started missing live meetings half way through day 8. I would not be ass annoyed at [The sign](https://www.youtube.com/watch?v=m08TxIsFTRI) if i was not being burned, sprayed, zapped and threatened 30ft away @nasa-jpl @whitehouse @amazon-science
 
 [@airbus @lmco_d34434e90460ce86eab35fa9e44a00d7_73f02760_1280](https://github.com/user-attachments/assets/339d8e7f-a487-4d70-867e-a625c7edf7a1)
 
