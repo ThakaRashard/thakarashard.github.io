@@ -11,16 +11,30 @@ published: true
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+Artemis II Astronauts Make First Public Remarks Since Returning to Earth
+NASA held a ceremony at Johnson Space Center in Houston to welcome home the crew of Artemis II after its 10-day mission around the moon. The astronauts gave their first public remarks since splashing down off the coast of San Diego, California. NASA officials, lawmakers, and others also spoke to congratulate the crew and encourage further space exploration [@nasa-jpl https://www.c-span.org/program/news-conference/artemis-ii-astronauts-make-first-public-remarks-since-returning-to-earth/677288](https://www.c-span.org/program/news-conference/artemis-ii-astronauts-make-first-public-remarks-since-returning-to-earth/677288)
 
+<object data="https://cdn.jwplayer.com/players/x3LmXfKz-xS4RtpB7.html"></object> 
+
+![tumblr_d34434e90460ce86eab35fa9e44a00d7_73f02760_1280](https://github.com/user-attachments/assets/339d8e7f-a487-4d70-867e-a625c7edf7a1)
 
 
 [@la-county-isd @nasa-jpl @nasa-pds @cityoflosangeles --- Rashardlanasa.tumblr.com/](https://rashardlanasa.tumblr.com/)
 <img  alt="image" src="https://github.com/user-attachments/assets/58d33f49-2662-405a-bda7-ca22ceb74da4" />
-![tumblr_d752805f8c18d2b36df74ad635a2ef5b_a73670ce_1280](https://github.com/user-attachments/assets/ebfa3546-cc27-4bb8-bd1d-e708f0bba170)
+
 
 <img  alt="image" src="https://github.com/user-attachments/assets/0777a5cc-a66c-41e1-968c-c4e955f0df76" />
+[ClassicRock - Work Playlist influec touched on](https://rashardmro.tumblr.com/post/813783801419415552/working-man) @blackgirlscode 
+
+<div class="tupperware" mardown="1">
+ 
+![tumblr_d752805f8c18d2b36df74ad635a2ef5b_a73670ce_1280](https://github.com/user-attachments/assets/ebfa3546-cc27-4bb8-bd1d-e708f0bba170)
+
+<img alt="tumblr_eb1cdf4c2d12b838e0ca24c0675ad44b_336c3e10_1280" src="https://github.com/user-attachments/assets/5dee963e-1c40-4053-aaa7-377395d0e919" />
+
 ![tumblr_c4d154d934ed2b8de1000cc4adcc0cf1_f9b5652e_1280](https://github.com/user-attachments/assets/650d5d6b-4921-4623-a6ea-1fe7c2cf7304)
 
+</div>
 # Preparing for splashdown
 @usNavy @nasa-jpl @la-county-isd @cityofsandeigo
 [https://www.nasa.gov/blogs/missions/2026/04/09/artemis-ii-flight-day-9-crew-prepares-to-come-home/](https://www.nasa.gov/blogs/missions/2026/04/09/artemis-ii-flight-day-9-crew-prepares-to-come-home/)
