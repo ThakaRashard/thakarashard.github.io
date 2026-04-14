@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "ShaadiThakaRashardiMAn"
-date:   2026-03-28 12:51:06 -0800
+date:   2026-04-13 12:51:06 -0800
 published: true
 ---
 
@@ -11,7 +11,7 @@ published: true
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
-Artemis II Astronauts Make First Public Remarks Since Returning to Earth
+Artemis II [Astronauts](https://rashardmro.tumblr.com/post/812731741445963776/nasas-artemis-ii-live-views-from-orion?is_related_post=1) Make First Public Remarks Since Returning to Earth
 NASA held a ceremony at Johnson Space Center in Houston to welcome home the crew of Artemis II after its 10-day mission around the moon. The astronauts gave their first public remarks since splashing down off the coast of San Diego, California. NASA officials, lawmakers, and others also spoke to congratulate the crew and encourage further space exploration [@nasa-jpl https://www.c-span.org/program/news-conference/artemis-ii-astronauts-make-first-public-remarks-since-returning-to-earth/677288](https://www.c-span.org/program/news-conference/artemis-ii-astronauts-make-first-public-remarks-since-returning-to-earth/677288)
 
 
