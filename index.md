@@ -12,7 +12,7 @@ published: true
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
 
-virtiserv latrice @blackgiscode
+virtiserv latrice @blackgirlscode @nasa-pds
  [https://www.cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html](https://www.cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html)
 
 Artemis II [Astronauts](https://rashardmro.tumblr.com/post/812731741445963776/nasas-artemis-ii-live-views-from-orion?is_related_post=1) Make First Public Remarks Since Returning to Earth
