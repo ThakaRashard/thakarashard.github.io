@@ -11,6 +11,27 @@ published: true
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+
+
+@nasa-pds @whitehouse ... more later @deptofwar @lmco @blueorigin
+
+```html
+
+~$ curl virtiserv.com
+<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href="/lander"}</script></head></html>
+
+~$ curl whitehouse.gov
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+~ $
+```
+
+
 [https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@-117.1,32.6,6.7z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@-117.1,32.6,6.7z)
 
 [https://firms.modaps.eosdis.nasa.gov/map/#m:experimental;d:2026-04-15..2026-04-16,72hrs;l:fires_goes_Him9,fires_goes_Met10,fires_goes_Met12,fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,fires_viirs_snpp,eis_fire_lf_perimeter_nrt,cement_plants,gas_flares=2023,gi_steel_plants,mineral_resources,nonferrous_metal,petro_chemical,sta_detections,sta_mask,steel_plants,country-outline,hlss30-custom,viirs_m11,earth;@-117.1,32.6,6.7z](https://firms.modaps.eosdis.nasa.gov/map/#m:experimental;d:2026-04-15..2026-04-16,72hrs;l:fires_goes_Him9,fires_goes_Met10,fires_goes_Met12,fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,fires_viirs_snpp,eis_fire_lf_perimeter_nrt,cement_plants,gas_flares=2023,gi_steel_plants,mineral_resources,nonferrous_metal,petro_chemical,sta_detections,sta_mask,steel_plants,country-outline,hlss30-custom,viirs_m11,earth;@-117.1,32.6,6.7z)
