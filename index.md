@@ -11,6 +11,10 @@ published: true
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+[https://www.tumblr.com/rashardmro](https://www.tumblr.com/rashardmro)
+[https://rashardmro.tumblr.com/post/814295608839012352/the-nasa-psyche-mission-first-journey-to-an @foratlanta @newshour @la-county-isd HOLLY_J_MiTCHELL KARENBASS @CityOfLosAngeles](https://rashardmro.tumblr.com/post/814295608839012352/the-nasa-psyche-mission-first-journey-to-an)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8200fb2e-c84b-44a9-b41b-ed5a1e1cc80f" />
 
 
 @nasa-pds @whitehouse ... more later @deptofwar @lmco @blueorigin
