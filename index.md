@@ -14,6 +14,20 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 
 @nasa-pds @whitehouse ... more later @deptofwar @lmco @blueorigin
+@amtrack @salesforce @nasa-pds
+Subject: Terminal Text media@amtrak.com from you union station wifi AmtrakBoard@amtrak.com
+
+```shell
+$ curl @whitehouse .gov  
+301 Moved Permanently
+```
+
+nginx ~ $ nslookup -type=mx amtrack.com Server: 8.8.8.8 Address: 8.8.8.8#53 Non-authoritative answer: *** Can't find amtrack.com: No answer Authoritative answers can be found from: amtrack.com origin = ns47.domaincontrol.com mail addr = dns.jomax.net serial = 2025120906 refresh = 28800 retry = 7200 expire = 604800 minimum = 600 ~ $ nslookup -type=ns amtrack.com Server: 8.8.8.8 Address: 8.8.8.8#53 Non-authoritative answer: amtrack.com nameserver = ns48.domaincontrol.com. amtrack.com nameserver = ns47.domaincontrol.com. Authoritative answers can be found from: ~ $ nslookup -type=ns whitehouse.gov Server: 8.8.8.8 Address: 8.8.8.8#53 Non-authoritative answer: whitehouse.gov nameserver = ernest.ns.cloudflare.com. whitehouse.gov nameserver = wally.ns.cloudflare.com. Authoritative answers can be found from: ~ $ 5
+
+Get Outlook for Android
+<img  alt="image https://media.amtrak.com/2024/12/a-statement-by-amtrak-ceo-stephen-j-gardner-on-senate-confirmation-of-members-of-the-amtrak-board-of-directors/" src="https://github.com/user-attachments/assets/ff62b96c-16b8-4915-8c8b-098784a49966" />
+
+
 
 ```html
 
