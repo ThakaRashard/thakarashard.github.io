@@ -12,6 +12,11 @@ published: true
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
 
+@waymo-research @la-county-isd @tesla
+~ $ cat waymo.txt
+APR19
+550p waymo at 5th and spri g was inching past the crosswalk as police pursuit was intersecting... even if the car is safe its distracting for deivers and pedestria s
+
 @LACMTA @NASA-JPL I am victim to wifi jamming between Florence & compton .. on a cloud mobile c8. @blackgirlscode remember watts has those old radio towers,  anyway I'm in metrorail1169a @la-county-isd I get kicked off and cannot rejoin the net till I get past cj
 [https://www.tumblr.com/rashardmro](https://www.tumblr.com/rashardmro)
 [https://rashardmro.tumblr.com/post/814295608839012352/the-nasa-psyche-mission-first-journey-to-an @foratlanta @newshour @la-county-isd HOLLY_J_MiTCHELL KARENBASS @CityOfLosAngeles](https://rashardmro.tumblr.com/post/814295608839012352/the-nasa-psyche-mission-first-journey-to-an)
