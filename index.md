@@ -11,6 +11,16 @@ published: true
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+<img alt="2026-04-22-00_00_2026-04-22-23_59_Sentinel-2_L2A_Moisture_index" src="https://github.com/user-attachments/assets/d0a85fad-ecd5-4b0e-acb0-bb27d8603175" />
+
+
+<img alt="2026-04-22-00_00_2026-04-22-23_59_Sentinel-2_L2A_Highlight_Optimized_Natural_Color_" src="https://github.com/user-attachments/assets/81f7d4d6-e100-4ab8-b57f-ca1945333dce" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/9da0e9d7-e4df-40c4-9771-169d09dc3a4e" />
+
+@la-county-isd @longbeachinnovation Rex Richardson [MoitureIndex](https://browser.dataspace.copernicus.eu/?zoom=13&lat=33.77294&lng=-118.21469&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX18xYo8vxmBxdylFnOGzC%2BgAN%2BxnI%2FR%2BpqwP23Z6xugOjImOiUgD4heEnFmJlBWJaLReb%2FQpTyFuBOv6BDiozErZnoLUpKRUCIbIIc4YRZlHVmt%2Fij%2BvEUo6&datasetId=S2_L2A_CDAS&fromTime=2026-04-22T00%3A00%3A00.000Z&toTime=2026-04-22T23%3A59%3A59.999Z&layerId=5-MOISTURE-INDEX1&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/df0aad28-2d7b-4110-84fa-2f3aae8ed946" />
 
 @waymo-research @la-county-isd @tesla
 ~ $ cat waymo.txt
