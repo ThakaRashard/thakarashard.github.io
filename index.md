@@ -13,9 +13,8 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
-<img style="float:right" width="250" alt="image-2 @la-county-isd @nasa-jpl " src="https://github.com/user-attachments/assets/9803b209-8a03-4c66-9f5d-69d8fd357a1b" />
-
-_The Living Bible_
+<img width="250" alt="image-2 @la-county-isd @nasa-jpl " src="https://github.com/user-attachments/assets/9803b209-8a03-4c66-9f5d-69d8fd357a1b" style="float:right" 
+ /> _The Living Bible_
 **13** Obey the government, for God is the one who has put it there. There is no government anywhere that God has not placed in power. 2 So those who refuse to obey the laws of the land are refusing to obey God  , and punishment will follow. 3 For the policeman does not frighten people who are doing right; but those doing evil will always fear him. So if you don’t want to be afraid, keep the laws and you will get along well. 4 The policeman is sent by God to help you. But if you are doing something wrong, of course you should be afraid, for he will have you punished. He is sent by God for that very purpose. 5 Obey the laws, then, for two reasons: first, to keep from being punished, and second, just because you know you should.
 
 6 Pay your taxes too, for these same two reasons. For government workers need to be paid so that they can keep on doing God’s work, serving you. 7 Pay everyone whatever he ought to have: pay your taxes and import duties gladly, obey those over you, and give honor and respect to all those to whom it is due.
