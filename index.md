@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "ShaadiThakaRashardiMAn"
-date:   2026-05-09 12:51:06 -0800
+date:   2026-06-01 15:30:06 -0800
 published: true
 ---
 
@@ -13,9 +13,14 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uaotkHlHJwo?si=xQRkP0-9Agj42A2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/Rashardkellyshandpoisoned" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+```html
+_la92_ _@natgeosociety_
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uaotkHlHJwo?si=xQRkP0-9Agj42A2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
 Over twenty-five years after the verdict in the Rodney King trial sparked several days of protests and violence in Los Angeles, LA92 immerses viewers in that tumultuous period through stunning and rarely-seen footage. Produced by Oscar winner Simon Chinn and Emmy winner Jonathan Chinn and directed by Oscar winners Dan Lindsay and TJ Martin, the film brings a fresh perspective to a pivotal moment and adds perspective to what we are seeing in the world today. https://on.natgeo.com/3cliwfe
+
 
 <img   alt="image" src="https://github.com/user-attachments/assets/d8ad8e11-8d3e-4d55-8da2-f29d8f02d543" />
 
