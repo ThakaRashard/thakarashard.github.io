@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "ShaadiThakaRashardiMAn"
-date:   2026-06-01 15:30:06 -0800
+date:   2026-06-09 15:30:06 -0800
 published: true
 ---
 
@@ -12,6 +12,12 @@ published: true
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+
+[https://vsco.co/rashardsartu/gallery](https://vsco.co/rashardsartu/gallery)
+[https://vsco.co/earthdatarashard/gallery](https://vsco.co/earthdatarashard/gallery)
+
+[<video controls width="100%" height="auto" src="https://ia601704.us.archive.org/31/items/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/000VSCOOVERViewRecording2026-06-09161554.mp4" />](https://ia601704.us.archive.org/31/items/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/000VSCOOVERViewRecording2026-06-09161554.mp4)
 
 <img width="250" alt="image-2 @la-county-isd @nasa-jpl " src="https://github.com/user-attachments/assets/9803b209-8a03-4c66-9f5d-69d8fd357a1b" style="float:right" 
  /> _The Living Bible_
