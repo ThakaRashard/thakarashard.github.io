@@ -14,6 +14,9 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 
+@nasa-openscapes its brutal at billie jean in long beach, the itching!!!!!!!! @longbeachinnovationteam @la-county-isd @nasa-pds @blackgirlscode [@ForAtlanta ra5hard.github.io/checking_in](https://ra5hard.github.io/checking_in)
+<img  alt="image" src="https://github.com/user-attachments/assets/7183a46a-806e-4d7e-ab42-a2f5c14ec47c" />
+
 
 ![@nasa-jpl @nasa-pds @doug-newman-nasa @nasa-openscapes @USSF-ORBiT](https://github.com/user-attachments/assets/aaa58505-ea24-4ce3-bbcc-97088fe4eaeb)
 [https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012516_1330_ESP_012239_1330/ESP_012516_1330_ESP_012239_1330_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012516_1330_ESP_012239_1330/ESP_012516_1330_ESP_012239_1330_RED.browse.png)
