@@ -28,8 +28,26 @@ _(Sec. 1.1 added Nov. 8, 2022, by Prop. 1. Res.Ch. 97, 2022. Effective December 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7tl6DN51nwg?si=2gJKoCiGW-BAHuhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+`_clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2023-24_Constitution_Final_wCover.pdf#page=167_`
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9ae1ac86-71f5-4fe1-b140-54478d86b82e" />
+
 [clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2023-24_Constitution_Final_wCover.pdf](https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2023-24_Constitution_Final_wCover.pdf)
 <img alt="image" src="https://github.com/user-attachments/assets/6bfe2d63-b12f-4d9f-b6cc-16dffde18293" />
+
+# Create a URL to open a PDF file at a specific page
+[ @cityoflosangeles plz share @stateofcalifornia @nasa-jpl helpx.adobe.com/acrobat/kb/link-html-pdf-page-acrobat](https://helpx.adobe.com/acrobat/kb/link-html-pdf-page-acrobat.html)
+
+To target an HTML link to a specific page in a PDF file, add **`#page=[page number]`** to the end of the link URL.
+
+For example, this HTML tag opens page 4 of a PDF file named myfile.pdf:
+
+```html
+<A HREF="http://www.example.com/myfile.pdf#page=4">
+```
+
+<img  alt="Open a PDF file to a specific page" src="https://github.com/user-attachments/assets/377db953-a778-498b-bac6-c457e6b3b262" />
 
 
 @nasa-openscapes its brutal at billie jean in long beach, the itching!!!!!!!! @longbeachinnovationteam @la-county-isd @nasa-pds @blackgirlscode [@ForAtlanta ra5hard.github.io/checking_in](https://ra5hard.github.io/checking_in)
