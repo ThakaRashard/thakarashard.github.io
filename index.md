@@ -26,6 +26,8 @@ _(Sec. 1.1 added Nov. 8, 2022, by Prop. 1. Res.Ch. 97, 2022. Effective December 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7tl6DN51nwg?si=2gJKoCiGW-BAHuhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<img alt="image" src="https://github.com/user-attachments/assets/6bfe2d63-b12f-4d9f-b6cc-16dffde18293" />
+
 
 @nasa-openscapes its brutal at billie jean in long beach, the itching!!!!!!!! @longbeachinnovationteam @la-county-isd @nasa-pds @blackgirlscode [@ForAtlanta ra5hard.github.io/checking_in](https://ra5hard.github.io/checking_in)
 <img  alt="image" src="https://github.com/user-attachments/assets/7183a46a-806e-4d7e-ab42-a2f5c14ec47c" />
