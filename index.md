@@ -13,6 +13,8 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+<img  alt="@nbcnews @cbs-news-data @nfl clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2023-24_Constitution_Final_wCover.pdf @blackgirlscode @nasa-pds @nasa-jpl @whitehouse" src="https://github.com/user-attachments/assets/9414c4fc-4049-4be4-a424-b0afdab9c7f7" />
+
 @nbcnews @cbs-news-data there needs to be public education on choosing sex partners, new emplyees need to read our constitution about [reproductive freedom](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%201.1.&article=I) to ensure they are not stopping girls from choosing a partner [2019 - pdf @stateofcalifornia](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf) /// [Proposition 3, titled Constitutional Right to Marry](https://en.wikipedia.org/wiki/2024_California_Proposition_3)
 
 * California Constitution - CONS
