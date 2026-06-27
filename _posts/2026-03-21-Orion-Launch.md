@@ -27,7 +27,7 @@ permalink: /artemis2
 # Artemis2
 [Orion Spacecraft]
 Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion_dimensions) @esa @datadesk @nytimes @newshour @foxnews 
-
+[ @nasa-jpl @nasa @nasa-pds @fbicyber @blackgirlscode podcasts.apple.com/us/podcast/bron-nelson-dimitris-menemenlis-talk-about-modeling/id1137247670?i=1000394063305](https://podcasts.apple.com/us/podcast/bron-nelson-dimitris-menemenlis-talk-about-modeling/id1137247670?i=1000394063305)
 ![ORiON](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Orion_logo.png/330px-Orion_logo.png)
 
 
